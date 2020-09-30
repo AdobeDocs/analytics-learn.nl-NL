@@ -5,9 +5,9 @@ breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 6a62298bc79ab3c94cea17863fabdb2e7840b46b
+source-git-commit: 91fa52941263dcac4a30a54ae0916df7233712c9
 workflow-type: tm+mt
-source-wordcount: '1834'
+source-wordcount: '1846'
 ht-degree: 9%
 
 ---
@@ -71,7 +71,7 @@ ht-degree: 9%
       + [Trainingstutorialsjabloon in Analysis Workspace](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Kopiëren en invoegen in Analysis Workspace](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [Een inhoudsopgave maken](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
-      + [AN met rechtermuisknop voor efficiëntie van werkruimte](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
+      + [Klikken met rechtermuisknop voor efficiëntie van werkruimte](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [Aangepaste kleurenpaletten gebruiken in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
       + [Sneltoetsen](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
       + [Menubalk](analysis-workspace/navigating-workspace-projects/menu-bar.md)
@@ -94,6 +94,7 @@ ht-degree: 9%
       + [Automatisch vrije-vormtabellen maken in Analysis Workspace](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [Werken met Dimension in een tabel voor vrije vorm](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [Werken met metriek in een tabel voor vrije vorm](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [Deelnemings-statistieken gebruiken in Analysis Workspace](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
       + [Rij- en kolominstellingen in vrije-vormtabellen](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [De Builder voor tabel met vrije vorm gebruiken](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [Statische rijen opnieuw ordenen in Analysis Workspace](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
@@ -145,6 +146,7 @@ ht-degree: 9%
       + [Dimension en statistieken toevoegen aan uw project in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Inleiding tot conversiegebeurtenissen](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [Werken met metriek in een tabel voor vrije vorm](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [Deelnemings-statistieken gebruiken in Analysis Workspace](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
    + Dimensies {#dimensions}
       + [Dimension en statistieken toevoegen aan uw project in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Inleiding aan de Variabelen van het Verkeer (Keuringen)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
