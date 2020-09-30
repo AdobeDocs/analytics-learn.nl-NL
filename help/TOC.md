@@ -5,9 +5,9 @@ breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 00a376d434a08665de00b2dccec02fc86e63b36e
+source-git-commit: 6a62298bc79ab3c94cea17863fabdb2e7840b46b
 workflow-type: tm+mt
-source-wordcount: '1835'
+source-wordcount: '1834'
 ht-degree: 9%
 
 ---
@@ -209,7 +209,7 @@ ht-degree: 9%
    + Manage Report Suites {#manage-report-suites}
       + [Instellingen voor postcode en postcode configureren](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Variabelen configureren in de Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
-   + Data Governance en GDPR {data-governance-and-gdpr}
+   + Data Governance en GDPR {#data-governance-and-gdpr}
       + [Data Governance en GDPR in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
       + [De juiste personen op uw Analyseteam krijgen](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
    + Traffic-beheer {#traffic-management}
