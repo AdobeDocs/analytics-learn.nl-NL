@@ -3,15 +3,16 @@ title: Statische rijen opnieuw ordenen in Analysis Workspace
 description: U kunt statische rijen handmatig opnieuw rangschikken in de Freeform Table Builder. Dit staat u toe om lijst statische rijen in de nauwkeurige orde te rangschikken u hen - bijvoorbeeld, Bezoekingen, toen Orden, toen Tarief van de Omzetting nodig hebt.
 feature: freeform tables
 topics: null
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 31319.jpg
 kt: 4218
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
