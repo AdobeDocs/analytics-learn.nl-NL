@@ -1,13 +1,13 @@
 ---
 user-guide-title: Adobe Analytics-tutorials
-user-guide-description: A collection of videos and tutorials for Adobe Analytics.
-breadcrumb-title: Analytics Tutorials
+user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
+breadcrumb-title: Analytische Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
 source-git-commit: 91fa52941263dcac4a30a54ae0916df7233712c9
 workflow-type: tm+mt
-source-wordcount: '1846'
+source-wordcount: '1857'
 ht-degree: 9%
 
 ---
@@ -251,8 +251,8 @@ ht-degree: 9%
    + Valideren en problemen oplossen {#validating-and-troubleshooting}
       + [Implementaties controleren met de Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
       + [Nabewerkte Hits met de Experience Cloud Debugger weergeven](implementation/validating-and-troubleshooting/view-post-processed-hits-with-the-experience-cloud-debugger.md)
-   + SPA-pagina&#39;s {#spa-pages}
-      + [Het gebruiken van beste praktijken wanneer het volgen van SPA](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
+   + SPA pagina&#39;s {#spa-pages}
+      + [Beste werkwijzen gebruiken bij het bijhouden van SPA](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + Onderdelen {#components}
    + Segmentatie {#segmentation}
       + [Overzicht van Segment Builder](components/segmentation/segment-builder-overview.md)
