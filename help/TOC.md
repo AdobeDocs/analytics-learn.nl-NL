@@ -5,9 +5,9 @@ breadcrumb-title: Analytische Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 30868ad30134f1233c643dc7ed23ef060a94e61b
+source-git-commit: a6d96878798f2ec2302bcd207aa419fb084d19b1
 workflow-type: tm+mt
-source-wordcount: '1869'
+source-wordcount: '1872'
 ht-degree: 9%
 
 ---
@@ -236,7 +236,8 @@ ht-degree: 9%
       + [Globale variabelen configureren in de extensie Analytics starten](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Cookie-instellingen configureren in de extensie Analytics starten](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [Aangepaste code gebruiken tijdens het configureren van de extensie Analytics starten](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
-      + [Een gegevenslaag gebruiken om paginanaam en andere variabelen via Experience Platform Launch in te stellen](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
+      + [Een gegevenslaag gebruiken om paginanaam en andere variabelen in te stellen via Starten](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
+      + [Plug-ins voor implementatie toevoegen in Starten](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
       + [do-plug-ins gebruiken in de Adobe Analytics-extensie](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
       + [Het vormen Gemakkelijke het Volgen van de Verbinding van de Download](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
       + [Het vormen Gemakkelijke Verbinding van de Uitgang het Volgen](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
