@@ -196,7 +196,7 @@ ht-degree: 9%
       + [Churn-analyse met kleurentabellen](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
       + [Cohortanalyse met elke Dimension](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
       + [Latentieanalyse met cohorttabellen](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
-      + [Rolretentie berekenen in kleurentabellen](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
+      + [Rolretentie berekenen in cohortabellen](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
    + Spraakanalyse {#voice-analytics}
       + [Hoe te om Uw Gegevens van de HulpApp van de Stem te beheren en te volgen](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
       + [Begrijp Verschillen over stem-Toegelaten Apparaten Apparaten](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
