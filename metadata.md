@@ -1,6 +1,7 @@
 ---
 cloud: experience-cloud
 product: analytics
+feature-set: Analytics
 solution-title: Analytics
 solution-hub-url: https://helpx.adobe.com/nl/support/analytics.html
 getting-started-title: Aan de slag
@@ -12,10 +13,10 @@ git-repo: https://git.corp.adobe.com/AdobeDocs/analytics-learn.nl-NL
 index: true
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: aed6a75ef04eceb1b17b2d68be0b638e779103cc
+source-git-commit: 1c6ab73895e63c3238ce35f92ebb22d4aa0c7f2e
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 4%
+source-wordcount: '148'
+ht-degree: 5%
 
 ---
 
