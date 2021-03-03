@@ -1,25 +1,27 @@
 ---
 title: Rapporteren met Advertising Cloud Marketing Channel
 description: De Advertising Cloud-weergave en doorklikgegevens werken met Adobe Analytics Marketing Channels
-feature: integration with ad cloud
+feature: Advertising Cloud-integratie
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35115.jpg
 kt: 5472
+topic: Integraties
+role: Zakelijke praktiserer
+level: Intermediair
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 0%
+source-wordcount: '47'
+ht-degree: 2%
 
 ---
 
 
 # Rapporteren met Advertising Cloud Marketing Channel
 
-Hoe Advertising Cloud mening-door en klik-door ingangsgegevens met Adobe Analytics werkt [!UICONTROL Marketing Channels].
+Hoe Advertising Cloud mening-door en klik-door ingangsgegevens met Adobe Analytics [!UICONTROL Marketing Channels] werkt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35115/?quality=12&learn=on)
