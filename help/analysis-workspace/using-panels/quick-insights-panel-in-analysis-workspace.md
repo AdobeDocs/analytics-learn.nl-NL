@@ -1,19 +1,20 @@
 ---
 title: Deelvenster Quick Insights in Analysis Workspace
 description: Quick Insights biedt richtlijnen voor niet-analisten en nieuwe gebruikers van Analysis Workspace hoe ze zakelijke vragen snel en eenvoudig kunnen beantwoorden.
-feature: panels
+feature: Deelvensters
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37248.jpg
 kt: 5838
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 85%
+source-wordcount: '72'
+ht-degree: 81%
 
 ---
 
@@ -24,4 +25,4 @@ ht-degree: 85%
 
 >[!VIDEO](https://video.tv.adobe.com/v/37248/?quality=12&learn=on)
 
-Raadpleeg de [documentatie](https://docs.adobe.com/content/help/nl-NL/analytics/analyze/analysis-workspace/panels/quickinsight.html)voor meer informatie.
+Zie de [documentatie](https://docs.adobe.com/content/help/nl-NL/analytics/analyze/analysis-workspace/panels/quickinsight.html) voor meer informatie.
