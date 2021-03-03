@@ -1,24 +1,25 @@
 ---
 title: Datumbereik en -kalender gebruiken in Analysis Workspace
 description: U kunt aangepaste datumbereiken gebruiken als voorinstellingen in de kalender in uw Analysis Workspace-projecten. U kunt ze ook naar de kalender slepen om ze snel als datumbereiken toe te passen in uw projecten. In deze video ziet u hoe u beide dingen doet in Analysis Workspace in Adobe Analytics.
-feature: calendar
+feature: Kalender
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2013
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
 
-# Werken [!UICONTROL Date Ranges] en [!UICONTROL Calendar] in Analysis Workspace {#using-date-ranges-calendar-in-analysis-workspace}
+# [!UICONTROL Date Ranges] &amp; [!UICONTROL Calendar] gebruiken in Analysis Workspace {#using-date-ranges-calendar-in-analysis-workspace}
 
-U kunt aangepaste bestanden gebruiken [!UICONTROL date ranges] als voorinstellingen in de [!UICONTROL calendar] Analysis Workspace-projecten. U kunt ze ook naar de computer slepen [!UICONTROL calendar] om ze snel toe te passen zoals [!UICONTROL date ranges] in uw projecten. In deze video ziet u hoe u beide dingen doet in Analysis Workspace in Adobe Analytics.
+U kunt aangepaste [!UICONTROL date ranges] gebruiken als voorinstellingen in de [!UICONTROL calendar] in uw Analysis Workspace-projecten. U kunt hen ook slepen en neerzetten op [!UICONTROL calendar] om hen als [!UICONTROL date ranges] in uw projecten snel toe te passen. In deze video ziet u hoe u beide dingen doet in Analysis Workspace in Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23973/?quality=12)
