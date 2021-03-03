@@ -1,24 +1,25 @@
 ---
 title: Berekende cijfers - geen cijfers voor implementatie
 description: Leer hoe u nieuwe metriek maakt in Adobe Analytics zonder uw implementatie te wijzigen.
-feature: calculated metrics
+feature: Berekende standaarden
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2320
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 0%
+source-wordcount: '36'
+ht-degree: 5%
 
 ---
 
 
-# [!UICONTROL Calculated Metrics]: Metriek zonder implementatie {#calculated-metrics-implementation-less-metrics}
+# [!UICONTROL Calculated Metrics]: Metriek zonder implementatie  {#calculated-metrics-implementation-less-metrics}
 
-Leer hoe u nieuwe toepassingen maakt [!UICONTROL metrics] in Adobe Analytics zonder uw implementatie te wijzigen.
+Leer hoe u nieuwe [!UICONTROL metrics] maakt in Adobe Analytics zonder uw implementatie te wijzigen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25407/?quality=12)
