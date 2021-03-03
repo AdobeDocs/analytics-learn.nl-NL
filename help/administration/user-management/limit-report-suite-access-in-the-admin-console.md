@@ -1,25 +1,27 @@
 ---
 title: Toegang tot rapportsuite beperken in Admin Console
 description: Adobe Analytics-gebruikers hebben alleen toegang tot de juiste gegevens nodig. Leer hoe u de Admin Console gebruikt om ervoor te zorgen dat gebruikers alleen toegang hebben tot de rapportsuite(s) die nodig zijn voor hun rol. Voer de volgende snelle stappen uit in de Adobe Admin Console om een rapportsuite-specifiek productprofiel in uw organisatie te maken.
-feature: user management
+feature: Gebruikersbeheer
 topics: null
-audience: administrator
 activity: setup
 doc-type: technical video
 team: Evangelism
 thumbnail: 37714.jpg
 kt: 5870
+topic: Beheer
+role: Beheerder
+level: Begin
 translation-type: tm+mt
-source-git-commit: 49295d23423a638a469cbe0f71fa0d7005b8a80a
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '123'
 ht-degree: 26%
 
 ---
 
 
-# Limit Report Suite Access in the [!UICONTROL Admin Console]
+# Toegang tot rapportsuite beperken in [!UICONTROL Admin Console]
 
-Adobe Analytics-gebruikers hebben alleen toegang tot de juiste gegevens nodig. Leer hoe u [!UICONTROL Admin Console] gebruikt om ervoor te zorgen dat gebruikers alleen toegang hebben tot de rapportsuite(s) die nodig zijn voor hun rol. Voer de volgende snelle stappen uit in de [Adobe Admin Console](https://adminconsole.adobe.com/) om een rapportsuite-specifiek productprofiel in uw organisatie te maken.
+Adobe Analytics-gebruikers hebben alleen toegang tot de juiste gegevens nodig. Leer hoe u [!UICONTROL Admin Console] gebruikt om ervoor te zorgen dat gebruikers alleen toegang hebben tot de rapportsuite(s) die nodig zijn voor hun rol. Volg deze snelle stappen in [Adobe Admin Console](https://adminconsole.adobe.com/) om een rapportreeks-specifiek productprofiel in uw organisatie tot stand te brengen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37714/?quality=12&learn=on)
