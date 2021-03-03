@@ -1,27 +1,28 @@
 ---
 title: Visualisatie van stromen in Analysis Workspace
 description: Deze video bespreekt de stroomvisualisatie in Analysis Workspace. U kunt stroom gebruiken om gebruikersbeweging te tonen en te onderzoeken, om uw klantenreis beter te begrijpen.
-feature: visualizations
+feature: Visualisaties
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24045.jpg
 kt: 2279
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 0%
+source-wordcount: '79'
+ht-degree: 1%
 
 ---
 
 
-# [!DNL Flow Visualization] in Analysis Workspace {#flow-visualization-in-analysis-workspace}
+# [!DNL Flow Visualization] in Analysis Workspace  {#flow-visualization-in-analysis-workspace}
 
-Deze video bespreekt je in Analysis Workspace [!DNL Flow visualization] . U kunt gebruiken [!DNL Flow] om gebruikersbeweging te tonen en te onderzoeken, om uw beter te begrijpen [!DNL customer journey].
+Deze video bespreekt u [!DNL Flow visualization] in Analysis Workspace. U kunt [!DNL Flow] gebruiken om gebruikersbeweging te tonen en te onderzoeken, om uw [!DNL customer journey] beter te begrijpen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24045/?quality=12)
 
-Raadpleeg de [documentatie](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/flow.html)voor meer informatie over deze functie.
+Voor meer informatie over deze eigenschap, bezoek [documentatie](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/flow.html).
