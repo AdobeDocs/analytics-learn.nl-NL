@@ -2,17 +2,19 @@
 title: Verbeterde Experience Cloud Audience Publishing
 landing-page-description: Leer publicatiepubliek (segmenten) en maak deze sneller dan ooit beschikbaar.
 description: Er zijn verbeteringen aangebracht in Experience Cloud Audience Publishing. U kunt nu soorten publiek (segmenten) publiceren en deze zes keer sneller beschikbaar maken, waardoor de huidige latentietijd van 48 uur tot ongeveer 8 uur wordt verkort, en mogelijk sneller, afhankelijk van het verkeer en de segmentgrootte.
-feature: integratie met de cloud
+feature: Experience Cloud-integratie
 topics: null
-audience: analyst
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 4819
+topic: Integraties
+role: Zakelijke praktiserer
+level: Intermediair
 translation-type: tm+mt
-source-git-commit: a02deecd0f95160c634703130f92a79870c41a9d
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '169'
 ht-degree: 28%
 
 ---
