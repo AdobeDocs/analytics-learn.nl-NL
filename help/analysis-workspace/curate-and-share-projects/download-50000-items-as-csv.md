@@ -1,19 +1,20 @@
 ---
 title: 50.000 items downloaden als CSV
 description: Met de optie Items downloaden als CSV kunt u maximaal 50.000 items downloaden voor een dimensie in een vrije-vormtabel, met toegepaste segmenten en filters. Terwijl de interface tot 400 items vóór paginering blijft weergeven, kunt u met deze optie buiten Analysis Workspace meer gegevensrijen openen.
-feature: curate and share
+feature: Curven en delen
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40385.jpg
 kt: 6278
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 5d8c660a4974936f9f3ec1132430d42b1d261965
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 8%
+source-wordcount: '129'
+ht-degree: 7%
 
 ---
 
