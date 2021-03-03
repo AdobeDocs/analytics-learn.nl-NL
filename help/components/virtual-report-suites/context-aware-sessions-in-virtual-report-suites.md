@@ -1,17 +1,18 @@
 ---
 title: Contextbewuste sessies in virtuele rapportsuite
 description: Het is nu mogelijk de definitie van een bezoek in Adobe Analytics op niet-destructieve wijze te wijzigen met behulp van een virtuele rapportsuite. Wij tonen u hoe te om dat te doen en de verschillende beschikbare opties.
-feature: vrs
+feature: VRS
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1775
+role: Zakelijke praktiserer
+level: Intermediair
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -27,4 +28,4 @@ Secties in deze video:
 
 2:45 - VRS gebruiken in Analysis Workspace
 
-Raadpleeg [de documentatie](https://marketing.adobe.com/resources/help/en_US/reference/vrs-mobile-visit-processing.html)voor meer informatie over deze functie.
+Voor meer informatie over deze eigenschap, bezoek [de documentatie](https://marketing.adobe.com/resources/help/en_US/reference/vrs-mobile-visit-processing.html).
