@@ -1,25 +1,26 @@
 ---
 title: Een nieuw bezoek starten voor elke gebeurtenis in virtuele rapportsets
 description: In deze video wordt getoond hoe u gebeurtenissen kunt gebruiken om het begin van een nieuw bezoek in Adobe Analytics te starten met behulp van de instellingen voor het bezoek van de Virtual Report Suite.
-feature: vrs
+feature: VRS
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1663
+role: Zakelijke praktiserer
+level: Intermediair
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
 
-# Een nieuw bezoek starten bij een willekeurige gebeurtenis in [!UICONTROL Virtual Report Suites] {#start-a-new-visit-on-any-event-in-virtual-report-suites}
+# Nieuw bezoek bij elke gebeurtenis starten in [!UICONTROL Virtual Report Suites] {#start-a-new-visit-on-any-event-in-virtual-report-suites}
 
-In deze video wordt getoond hoe u gebeurtenissen kunt gebruiken om het begin van een nieuw bezoek in Adobe Analytics te starten met de instellingen van een [!UICONTROL Virtual Report Suite]bezoek.
+In deze video wordt getoond hoe u gebeurtenissen kunt gebruiken om het begin van een nieuw bezoek in Adobe Analytics te starten met behulp van de instellingen voor het bezoek van [!UICONTROL Virtual Report Suite].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12)
 
