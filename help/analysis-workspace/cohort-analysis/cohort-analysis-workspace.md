@@ -1,26 +1,27 @@
 ---
 title: Cohortanalyse in Analysis Workspace
 description: Een cohortanalystabel maken in Analysis Workspace.
-feature: visualizations
+feature: Visualisaties
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2135
+role: Zakelijke praktiserer
+level: Intermediair
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 0%
+source-wordcount: '52'
+ht-degree: 1%
 
 ---
 
 
-# [!UICONTROL Cohort] Analyse in Analysis Workspace {#cohort-analysis-in-analysis-workspace}
+# [!UICONTROL Cohort] Analyse in Analysis Workspace  {#cohort-analysis-in-analysis-workspace}
 
-Een [!UICONTROL cohort] analystabel maken in Analysis Workspace.
+Hoe te om een [!UICONTROL cohort] analystabel in Analysis Workspace te bouwen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23990/?quality=12)
 
-Raadpleeg de [documentatie](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/cohort_analysis.html)voor meer informatie over deze functie.
+Raadpleeg de [documentatie](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/cohort_analysis.html) voor meer informatie over deze functie.
