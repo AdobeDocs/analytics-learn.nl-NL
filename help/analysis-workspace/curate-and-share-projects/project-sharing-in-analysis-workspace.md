@@ -1,19 +1,20 @@
 ---
 title: Projecten delen in Analysis Workspace
 description: 'Het delen van projecten is een manier om gegevens en inzichten van Analysis Workspace naar gebruikers in uw organisatie te democratiseren. U kunt ontvangers nu in één van drie projectrollen plaatsen, afhankelijk van de projectervaring die u hun wilt geven: Bewerken, Dupliceren en Weergeven.'
-feature: curate and share
+feature: Curven en delen
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36207.jpg
 kt: 5555
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 026602e66ec7a08e81ef67b9bf00bd517afe7d31
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 94%
+source-wordcount: '116'
+ht-degree: 89%
 
 ---
 
@@ -24,4 +25,4 @@ Het delen van projecten is een manier om gegevens en inzichten van Analysis Work
 
 >[!VIDEO](https://video.tv.adobe.com/v/36207/?quality=12&learn=on)
 
-Raadpleeg de [documentatie voor meer informatie](https://docs.adobe.com/content/help/nl-NL/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
+Zie de [documentatie](https://docs.adobe.com/content/help/nl-NL/analytics/analyze/analysis-workspace/curate-share/share-projects.html) voor meer informatie
