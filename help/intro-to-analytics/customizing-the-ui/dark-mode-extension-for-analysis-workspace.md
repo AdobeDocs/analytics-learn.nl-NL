@@ -1,26 +1,27 @@
 ---
 title: Uitbreiding Donkere modus voor Analysis Workspace
 description: Schakel de Reader Chrome-uitbreiding Donker in om Analysis Workspace donker te maken.
-feature: workspace basics
+feature: Basisprincipes van werkruimte
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5034
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 50%
+source-wordcount: '51'
+ht-degree: 45%
 
 ---
 
 
 # Uitbreiding Donkere modus voor Analysis Workspace
 
-Enable the Dark Reader Chrome extension to turn [!UICONTROL Analysis Workspace] dark.
+Schakel de extensie Chrome donkere Reader in om [!UICONTROL Analysis Workspace] donker te maken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33774/?quality=12)
 
-**Opmerking:** Dit is een openbare uitbreiding van Chrome en is niet verbonden met de producten van Adobe.
+**Opmerking:** dit is een openbare Chrome-extensie die niet is gekoppeld aan Adobe-producten.
