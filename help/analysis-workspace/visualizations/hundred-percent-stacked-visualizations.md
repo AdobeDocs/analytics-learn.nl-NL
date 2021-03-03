@@ -1,17 +1,18 @@
 ---
 title: 100% gestapelde visualisaties in Analysis Workspace
 description: In deze video leert u hoe u gestapelde visualisaties instelt als percentages in plaats van alleen onbewerkte waarden.
-feature: visualizations
+feature: Visualisaties
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1670
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -23,4 +24,4 @@ In deze video leert u hoe u gestapelde visualisaties instelt als percentages in 
 
 >[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12)
 
-Gestapelde grafieken zijn handig om delen van een geheel in een trend weer te geven. De nieuwe 100% gestapelde viz-instelling helpt u snel te zien hoe elk onderdeel een bijdrage levert aan het geheel, in termen van een %-waarde in plaats van een onbewerkte waarde. Deze nieuwe instelling is beschikbaar via het [!UICONTROL Visualization] instellingenset in de rechterbovenhoek van [!UICONTROL Area Stacked], [!UICONTROL Bar Stacked] en [!UICONTROL Horizontal Bar Stacked] video&#39;s.
+Gestapelde grafieken zijn handig om delen van een geheel in een trend weer te geven. De nieuwe 100% gestapelde viz-instelling helpt u snel te zien hoe elk onderdeel een bijdrage levert aan het geheel, in termen van een %-waarde in plaats van een onbewerkte waarde. Deze nieuwe instelling is beschikbaar via het instellingenset [!UICONTROL Visualization] in de rechterbovenhoek van [!UICONTROL Area Stacked], [!UICONTROL Bar Stacked] en [!UICONTROL Horizontal Bar Stacked] vizs.
