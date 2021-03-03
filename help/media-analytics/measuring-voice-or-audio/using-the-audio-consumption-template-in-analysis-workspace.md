@@ -1,25 +1,26 @@
 ---
 title: De audioverbruikssjabloon in Analysis Workspace gebruiken
 description: In deze video wordt de sjabloon Audioverbruik in Analysis Workspace beschreven. Deze sjabloon is offline beschikbaar voor audioanalyse.
-feature: panels
+feature: Deelvensters
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1950
+role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Intermediair
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
 
-# De [!UICONTROL Audio Consumption] sjabloon in Analysis Workspace gebruiken {#using-the-audio-consumption-template-in-analysis-workspace}
+# De [!UICONTROL Audio Consumption]-sjabloon gebruiken in Analysis Workspace {#using-the-audio-consumption-template-in-analysis-workspace}
 
-In deze video wordt een overzicht gegeven van de [!UICONTROL Audio Consumption] sjabloon in Analysis Workspace, die offline beschikbaar is voor [!DNL Audio Analytics].
+In deze video wordt de [!UICONTROL Audio Consumption]-sjabloon in Analysis Workspace beschreven. Deze sjabloon is offline beschikbaar voor [!DNL Audio Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23901/?quality=12)
 
