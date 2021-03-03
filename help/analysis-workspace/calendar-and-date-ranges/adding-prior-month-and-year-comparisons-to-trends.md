@@ -1,18 +1,19 @@
 ---
 title: Vergelijkingen van voorafgaande maanden en jaar toevoegen aan trends
 description: Leer hoe u aangepaste datumbereiken toepast om maandelijkse en jaarlijkse trends te vergelijken voor elke meting in Analysis Workspace.
-feature: calendar
+feature: Kalender
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5031
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 4d423c9148e973e4ca0efd2385233da8c4467e79
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 28%
+source-wordcount: '60'
+ht-degree: 26%
 
 ---
 
