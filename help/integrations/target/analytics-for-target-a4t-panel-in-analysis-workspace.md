@@ -1,26 +1,28 @@
 ---
 title: Deelvenster Analytics for Target (A4T) in Analysis Workspace
 description: Met het deelvenster Analytics for Target (A4T) kunt u uw Adobe Target-activiteiten en -ervaringen in Analysis Workspace met lift en vertrouwen analyseren.
-feature: integration with experience cloud
+feature: Experience Cloud-integratie
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37247.jpg
 kt: 5837
+topic: Integraties
+role: Zakelijke praktiserer
+level: Intermediair
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 59%
+source-wordcount: '79'
+ht-degree: 55%
 
 ---
 
 
 # [!DNL Analytics for Target] (A4T) Panel in Analysis Workspace
 
-The [!DNL Analytics for Target] (A4T) panel lets you analyze your Adobe Target activities and experiences, with lift and confidence, in [!UICONTROL Analysis Workspace].
+Met het [!DNL Analytics for Target] (A4T)-deelvenster kunt u uw Adobe Target-activiteiten en -ervaringen in [!UICONTROL Analysis Workspace] met optillen en vertrouwen analyseren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
