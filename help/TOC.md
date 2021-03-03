@@ -5,9 +5,9 @@ breadcrumb-title: Analytische Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: a6d96878798f2ec2302bcd207aa419fb084d19b1
+source-git-commit: df326b0711ad05c3a0ae73480d66d1980901216f
 workflow-type: tm+mt
-source-wordcount: '1872'
+source-wordcount: '1871'
 ht-degree: 9%
 
 ---
@@ -309,7 +309,7 @@ ht-degree: 9%
       + [Metriek bewerken in verschillende verzoeken](exporting/report-builder/edit-metrics-across-requests.md)
       + [Report Builder gebruiken om de Adobe Analytics API te leren](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
 + Integraties {#integrations}
-   + Experience Cloud {experience-cloud}
+   + Experience Cloud {#experience-cloud}
       + [Verbeterde Experience Cloud Audience Publishing](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
    + Audience Manager {#audience-manager}
       + [Server Side Forwarding inschakelen in Experience Platform Launch](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
