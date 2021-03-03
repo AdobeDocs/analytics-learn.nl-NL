@@ -1,17 +1,18 @@
 ---
 title: Datums gebruiken in Analysis Workspace
 description: '"In deze video worden drie verschillende manieren uitgelegd om met datums te werken in de Freeform-analyse: de kalender, de elementen van het datumbereik en de elementen van de granulariteit. Niet getoond, enigszins beschamend: hoe te om data te gebruiken om lijngrafieken toe te laten. "'
-feature: calendar
+feature: Kalender
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2014
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -19,6 +20,6 @@ ht-degree: 0%
 
 # Datums gebruiken in Analysis Workspace {#using-dates-in-analysis-workspace}
 
-In deze video worden drie verschillende manieren uitgelegd om met datums te werken in [!DNL Freeform] Analyse: de kalender, de [!UICONTROL date range] elementen en de granularity elementen. Niet getoond, enigszins beschamend: hoe te om data te gebruiken om lijngrafieken toe te laten.
+In deze video worden drie verschillende manieren beschreven om met datums te werken in Analyse [!DNL Freeform]: de kalender, de [!UICONTROL date range] elementen, en de granularity elementen. Niet getoond, enigszins beschamend: hoe te om data te gebruiken om lijngrafieken toe te laten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24136/?quality=12)
