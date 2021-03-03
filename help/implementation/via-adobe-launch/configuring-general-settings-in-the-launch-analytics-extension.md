@@ -1,25 +1,26 @@
 ---
 title: Algemene instellingen configureren in de extensie Analytics starten
 description: Als u net begonnen bent met Lancering, door Adobe, en de uitbreiding van Adobe Analytics, kan deze video u met het algemene montagegedeelte van de configuratie, met inbegrip van het plaatsen van de volgende server helpen.
-feature: launch implementation
+feature: Implementatie starten
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2837
+role: '"Developer, Data Engineer"'
+level: Begin
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '132'
 ht-degree: 9%
 
 ---
 
 
-# Instellingen configureren [!UICONTROL General] in het dialoogvenster [!DNL Launch Analytics] [!UICONTROL Extension] {#configuring-general-settings-in-the-launch-analytics-extension}
+# [!UICONTROL General] Instellingen configureren in [!DNL Launch Analytics] [!UICONTROL Extension] {#configuring-general-settings-in-the-launch-analytics-extension}
 
-Als u net met Experience Platform Launch, en Adobe Analytics begint [!UICONTROL Extension], kan deze video u met het [!UICONTROL General] montagegedeelte van de configuratie helpen, met inbegrip van het plaatsen van de volgende server.
+Als u nog maar net aan de slag gaat met Experience Platform Launch en de Adobe Analytics [!UICONTROL Extension], kunt u met deze video het instellingengedeelte [!UICONTROL General] van de configuratie, inclusief het instellen van de trackingserver, gebruiken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=9)
 
