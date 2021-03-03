@@ -1,24 +1,25 @@
 ---
 title: Multidimensionale uitval in Analysis Workspace
 description: Met de val in Analysis Workspace kunt u dimensies en metriek combineren en afstemmen als aanraakpunten in trechters en workflows.
-feature: visualizations
+feature: Visualisaties
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24043.jpg
 kt: 2277
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 0%
+source-wordcount: '83'
+ht-degree: 1%
 
 ---
 
 
-# [!DNL Multidimensional Fallout] in Analysis Workspace {#multidimensional-fallout-in-analysis-workspace}
+# [!DNL Multidimensional Fallout] in Analysis Workspace  {#multidimensional-fallout-in-analysis-workspace}
 
 [!DNL Fallout] in Analysis Workspace kunt u dimensies en metriek combineren en afstemmen als aanraakpunten in trechters en workflows.
 
@@ -26,4 +27,4 @@ ht-degree: 0%
 
 Dit krachtige vermogen staat u meer flexibiliteit toe in het bepalen van de gebruikersstappen u wilt onderzoeken.
 
-Raadpleeg de [documentatie](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/configuring-interdimensional-fallout.html)voor meer informatie over deze functie.
+Voor meer informatie over deze eigenschap, bezoek [documentatie](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/configuring-interdimensional-fallout.html).
