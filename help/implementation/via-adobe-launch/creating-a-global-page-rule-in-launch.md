@@ -1,23 +1,24 @@
 ---
 title: Een algemene paginalijn maken in Launch
 description: Er zijn enkele gegevenspunten die u op elke pagina naar Adobe Analytics wilt verzenden. In deze video wordt getoond hoe u een algemene regel voor het laden van pagina instelt om deze gegevenspunten te verzenden.
-feature: launch implementation
+feature: Implementatie starten
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3588
+role: '"Developer, Data Engineer"'
+level: Begin
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
 
-# Een algemene pagina maken [!UICONTROL Rule] in [!DNL Launch]
+# Globale pagina [!UICONTROL Rule] maken in [!DNL Launch]
 
 Er zijn enkele gegevenspunten die u op elke pagina naar Adobe Analytics wilt verzenden. In deze video ziet u hoe u een algemene regel voor het laden van pagina instelt voor het verzenden van die gegevenspunten.
 
