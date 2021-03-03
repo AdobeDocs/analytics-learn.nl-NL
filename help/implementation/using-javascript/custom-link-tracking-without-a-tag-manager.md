@@ -1,17 +1,18 @@
 ---
 title: Aangepaste koppeling bijhouden zonder tagbeheer
 description: Voor veel acties op de pagina, zou het volgen niet als een paginamening moeten worden behandeld. In deze video leert u hoe u een koppelingsmarkering kunt coderen naar Analytics als u geen tagbeheer gebruikt (zoals Experience Platform Launch). Zie de code en leer een belangrijke tip.
-feature: appmeasurement implementation
+feature: Implementatie van toepassingen
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
+role: '"Developer, Data Engineer"'
+level: Intermediair
 translation-type: tm+mt
-source-git-commit: 8276828e9e759a1964ca5ea89bb1395e5e78b500
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 Voor veel acties op de pagina, zou het volgen niet als een paginamening moeten worden behandeld. In deze video leert u hoe u een koppelingsmarkering kunt coderen naar Analytics als u geen tagbeheer gebruikt (zoals Adobe [!DNL Experience Platform Launch]). Zie de code en leer een belangrijke tip.
 
-## Een s.tl()-baken verzenden {#sending-an-s-tl-beacon}
+## Een s.tl()-baken {#sending-an-s-tl-beacon} verzenden
 
 Er zijn twee functies die gegevens naar Adobe Analytics verzenden:
 
@@ -30,7 +31,7 @@ Er zijn twee functies die gegevens naar Adobe Analytics verzenden:
 
 >[!NOTE]
 >
->In deze video tonen we u hoe u een aangepaste aanraakactie codeert wanneer u GEEN tagbeheer gebruikt, zoals Adobe [!DNL Experience Platform Launch]. Wij adviseren dat u [!DNL Experience Platform Launch], onze beste-praktijkaanbeveling voor implementatie gebruikt. Als u echter code in een `s.tl()`document wilt opnemen, gaat u als volgt te werk:
+>In deze video tonen we u hoe u een aangepaste aanraakactie codeert wanneer u GEEN tagbeheer gebruikt, zoals Adobe [!DNL Experience Platform Launch]. Wij adviseren dat u [!DNL Experience Platform Launch], onze beste-praktijkaanbeveling voor implementatie gebruikt. Als u echter code wilt opnemen in een `s.tl()`, gaat u als volgt te werk.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12)
 
@@ -50,4 +51,4 @@ Hier volgt de voorbeeldcode die wordt gebruikt voor de aangepaste koppeling in d
 </a>
 ```
 
-Raadpleeg de [documentatie](https://marketing.adobe.com/resources/help/en_US/sc/implement/function_tl.html)voor meer informatie over aangepaste koppelingen.
+Raadpleeg de [documentatie](https://marketing.adobe.com/resources/help/en_US/sc/implement/function_tl.html) voor meer informatie over aangepaste koppelingen.
