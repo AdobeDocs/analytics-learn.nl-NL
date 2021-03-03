@@ -1,23 +1,24 @@
 ---
 title: Hoe analysegegevens worden verzameld
 description: Hoe komen gegevens van je pagina naar de rapporten in Adobe Analytics? In deze video ziet u hoe.
-feature: analytics basics
+feature: Basisbeginselen van analysemogelijkheden
 topics: null
-audience: analyst
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 3565
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
 
-# Hoe [!DNL Analytics] gegevens worden verzameld
+# Hoe [!DNL Analytics] Gegevens worden verzameld
 
 Hoe komen gegevens van je pagina naar de rapporten in Adobe Analytics? In deze video ziet u hoe.
 
