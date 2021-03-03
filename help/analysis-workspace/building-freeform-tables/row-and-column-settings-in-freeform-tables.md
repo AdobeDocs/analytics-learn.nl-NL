@@ -1,18 +1,19 @@
 ---
 title: Rij- en kolominstellingen in vrije-vormtabellen
 description: Leer meer over de instellingen in Freeform-tabellen in Analysis Workspace en hoe deze van invloed zijn op de gegevens die in deze tabellen worden ingevoerd.
-feature: freeform tables
+feature: Vrije-vormtabellen
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40382.jpg
 kt: 6225
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 5d8c660a4974936f9f3ec1132430d42b1d261965
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
