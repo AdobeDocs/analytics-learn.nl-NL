@@ -1,27 +1,28 @@
 ---
 title: Cohortanalyse met elke Dimension
 description: Met de optie Aangepaste cohort Dimension kunt u cohorten analyseren met andere dimensies dan de tijd. Vergelijk cohorts per marketingkanaal, campagnegebied, productpagina, enz. om beter te begrijpen hoe het behoud (of het trekken) door afmetingspunt verandert.
-feature: visualizations
+feature: Visualisaties
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25967.jpg
 kt: 2478
+role: Zakelijke praktiserer
+level: Intermediair
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 1%
 
 ---
 
 
-# [!UICONTROL Cohort] Analyse met behulp van [!UICONTROL Dimension] {#cohort-analysis-using-any-dimension}
+# [!UICONTROL Cohort] Analyse met behulp van  [!UICONTROL Dimension] {#cohort-analysis-using-any-dimension}
 
-Met de optie Aangepast [!UICONTROL Cohort] kunt u [!UICONTROL Dimension] andere [!UICONTROL cohorts] [!UICONTROL dimensions] dan tijdwaarden analyseren. Vergelijk dit [!UICONTROL cohorts] met Marketingkanaal, het campagnegebied, de productpagina, enzovoort. om beter te begrijpen hoe [!UICONTROL retention] (of [!UICONTROL churn]) verandert per [!UICONTROL dimension] item.
+Met de optie Aangepast [!UICONTROL Cohort] [!UICONTROL Dimension] kunt u [!UICONTROL cohorts] analyseren met [!UICONTROL dimensions] anders dan tijd. Vergelijk [!UICONTROL cohorts] met Marketingkanaal, campagnegebied, productpagina, enz. om beter te begrijpen hoe [!UICONTROL retention] (of [!UICONTROL churn]) door [!UICONTROL dimension] punt verandert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12)
 
-Raadpleeg de [documentatie](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/cohort_analysis.html)voor meer informatie.
+Raadpleeg de [documentatie](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/cohort_analysis.html) voor meer informatie.
