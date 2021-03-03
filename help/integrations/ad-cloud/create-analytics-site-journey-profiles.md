@@ -1,19 +1,21 @@
 ---
 title: Analytics-sitetrajectprofielen maken
 description: Met Adobe Analytics kunt u robuuste retargeting-pools maken voor Advertising Cloud-remarketing.
-feature: integration with ad cloud
+feature: Advertising Cloud-integratie
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35116.jpg
 kt: 5473
+topic: Integraties
+role: Zakelijke praktiserer
+level: Intermediair
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 62%
+source-wordcount: '47'
+ht-degree: 55%
 
 ---
 
