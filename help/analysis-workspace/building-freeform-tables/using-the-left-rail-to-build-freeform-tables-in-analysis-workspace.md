@@ -1,18 +1,19 @@
 ---
 title: Het gebruiken van het Linkerspoor om Vrije Lijsten van de Vorm in Analysis Workspace te bouwen
 description: Leer hoe u in Analysis Workspace met de linkerrail items items kunt zoeken, maken en toevoegen aan vrije-vormtabellen.
-feature: freeform tables
+feature: Vrije-vormtabellen
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40089.jpg
 kt: 6161
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
