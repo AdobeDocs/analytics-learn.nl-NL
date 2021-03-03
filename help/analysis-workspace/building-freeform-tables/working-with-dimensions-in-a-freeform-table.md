@@ -1,19 +1,20 @@
 ---
 title: Werken met Dimension in een tabel voor vrije vorm
 description: Leer alles over het werken met dimensies in vrije-vormlijsten, met inbegrip van het toevoegen van hen, het sorteren, het filtreren, het breken van hen door andere dimensies, enz.
-feature: dimensions
+feature: Dimensies
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40179.jpg
 kt: 6176
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 5d8c660a4974936f9f3ec1132430d42b1d261965
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 1%
 
 ---
 
