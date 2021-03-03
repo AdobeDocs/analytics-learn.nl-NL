@@ -1,23 +1,24 @@
 ---
 title: De juiste personen op uw Analyseteam krijgen
 description: Het is erg belangrijk om de juiste mensen in uw team op te nemen wanneer u Adobe Analytics implementeert en de activiteiten op uw site analyseert. Deze video geeft u een snelle onderbreking van de verschillende rollen u zult willen vullen.
-feature: analytics basics
+feature: Basisbeginselen van analysemogelijkheden
 topics: null
-audience: administrator
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 3563
+role: Beheerder
+level: Begin
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
 
-# De juiste mensen op uw [!DNL Analytics] team krijgen
+# De juiste mensen op uw [!DNL Analytics]-team krijgen
 
 Het is erg belangrijk om de juiste mensen in uw team op te nemen wanneer u Adobe Analytics implementeert en de activiteiten op uw site analyseert. Deze video geeft u een snelle onderbreking van de verschillende rollen u zult willen vullen.
 
