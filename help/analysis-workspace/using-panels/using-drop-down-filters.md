@@ -1,17 +1,18 @@
 ---
 title: Vervolgkeuzefilters gebruiken in Analysis Workspace
 description: In deze video leert u hoe u vervolgkeuzefilters in Analysis Workspace kunt gebruiken om de inhoud van een deelvenster dynamisch te wijzigen.
-feature: panels
+feature: Deelvensters
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1944
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -27,4 +28,4 @@ De dropzone van het deelvenster heeft nu vervolgkeuzemogelijkheden voor filteren
 
 Vervolgkeuzelijsten zijn een handige manier om projecten en deelvensters te consolideren. Bijvoorbeeld, als u verscheidene versies van een project hebt dat land-specifieke rapportering verstrekt, kunt u die projecten in één enkel project nu doen ineenstorten, en in een landdrop-down toevoegen die de gebruikers tussen kunnen schakelen.
 
-Raadpleeg de [documentatie](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/panels.html)voor meer informatie.
+Raadpleeg de [documentatie](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/panels.html) voor meer informatie.
