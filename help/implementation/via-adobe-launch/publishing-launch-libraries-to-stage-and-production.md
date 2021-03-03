@@ -1,17 +1,18 @@
 ---
 title: Bibliotheken voor starten publiceren naar werkgebied en productie
 description: Nadat u uw implementatie op uw ontwikkelingsserver hebt vergrendeld, wilt u deze naar een testomgeving verplaatsen, daar testen en vervolgens naar uw productieomgeving verplaatsen. In deze video wordt dat proces stap voor stap getoond.
-feature: launch implementation
+feature: Implementatie starten
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3595
+role: '"Developer, Data Engineer"'
+level: Begin
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
