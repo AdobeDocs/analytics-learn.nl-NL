@@ -1,18 +1,19 @@
 ---
 title: Klikken met rechtermuisknop voor efficiëntie van werkruimte
 description: Meer weten over al onze favoriete Analysis Workspace-rechtsklikken en hoe u ze kunt gebruiken. Van de Lijsten van de Vrije Vorm tot de Visualisaties van de Uitval, zal het met de rechtermuisknop aanklikken u efficiënter en bekwaam in Werkruimte maken.
-feature: workspace basics
+feature: Basisprincipes van werkruimte
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39377.jpg
 kt: 5939
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 9fbdd96c3a2bb2a6a26e10a7f2dfeddfa33ec572
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -20,6 +21,6 @@ ht-degree: 0%
 
 # Klikken met rechtermuisknop voor [!DNL Workspace] efficiëntie
 
-Meer weten over al onze favoriete Analysis Workspace-rechtsklikken en hoe u ze kunt gebruiken. Van [!UICONTROL Freeform Tables] tot [!UICONTROL Fallout Visualizations], zal het met de rechtermuisknop aanklikken u efficiënter en bekwaam maken in [!DNL Workspace].
+Meer weten over al onze favoriete Analysis Workspace-rechtsklikken en hoe u ze kunt gebruiken. Van [!UICONTROL Freeform Tables] tot [!UICONTROL Fallout Visualizations], zal het met de rechtermuisknop aanklikken u efficiënter en bekwaam in [!DNL Workspace] maken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/39377/?quality=12&learn=on)
