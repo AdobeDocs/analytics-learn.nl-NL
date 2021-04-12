@@ -5,9 +5,9 @@ breadcrumb-title: Analytische Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 38e0c9fdf0d5033c176d822de8a218f82bcd333c
+source-git-commit: b33c6d1d22758f1fb88dec9beed83fde823aba79
 workflow-type: tm+mt
-source-wordcount: '1885'
+source-wordcount: '1970'
 ht-degree: 8%
 
 ---
@@ -53,7 +53,6 @@ ht-degree: 8%
    + Analysis Workspace-basisbeginselen {#analysis-workspace-basics}
       + [Analysis Workspace Introduction](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace - Overzicht](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
-      + [Uw eerste project starten in Analysis Workspace](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Nieuwe Analysis Workspace-projecten maken](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [Aangepaste sjablonen maken en beheren in Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Standaardsjablonen in Analysis Workspace](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
@@ -72,7 +71,6 @@ ht-degree: 8%
       + [Kopiëren en invoegen in Analysis Workspace](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [Een inhoudsopgave maken](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [Klikken met rechtermuisknop voor efficiëntie van werkruimte](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
-      + [Aangepaste kleurenpaletten gebruiken in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
       + [Sneltoetsen](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
       + [Menubalk](analysis-workspace/navigating-workspace-projects/menu-bar.md)
       + [Projectbeheer](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
@@ -83,10 +81,9 @@ ht-degree: 8%
    + Deelvensters {#using-panels} gebruiken
       + [Tabellen, visualisaties en deelvensters gebruiken in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Deelvenster Quick Insights in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
-      + [Het deelvenster Attribution IQ gebruiken](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
+      + [Het deelvenster Attribution IQ gebruiken](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html)
       + [Deelvenster Mediagelijktijdige viewers in Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [Vervolgkeuzefilters gebruiken](analysis-workspace/using-panels/using-drop-down-filters.md)
-      + [Segmenten op deelvensterniveau](analysis-workspace/using-panels/panel-level-segments.md)
       + [Deelvensters gebruiken om uw Analysis Workspace-projecten te organiseren](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Verbeteringen voor segmentneerzetzone](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Meerdere rapportsuites in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
@@ -95,11 +92,10 @@ ht-degree: 8%
       + [Automatisch vrije-vormtabellen maken in Analysis Workspace](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [Werken met Dimension in een tabel voor vrije vorm](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [Werken met metriek in een tabel voor vrije vorm](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
-      + [Deelnemings-statistieken gebruiken in Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Rij- en kolominstellingen in vrije-vormtabellen](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [De Builder voor tabel met vrije vorm gebruiken](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [Statische rijen opnieuw ordenen in Analysis Workspace](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
-      + [Attribution IQ gebruiken in tabellen voor vrije vorm](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
+      + [Attribution IQ gebruiken in tabellen voor vrije vorm](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html)
       + [Het snelmenu in Analysis Workspace gebruiken](analysis-workspace/building-freeform-tables/using-the-right-click-menu.md)
       + [Vervolg Rechtsklik Menu in Analysis Workspace](analysis-workspace/building-freeform-tables/continued-right-click-menu-in-analysis-workspace.md)
       + [Crossverkoopanalyse in Analysis Workspace](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
@@ -109,7 +105,6 @@ ht-degree: 8%
    + Visualisaties {#visualizations}
       + [Gegevensvisualisatie in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [Visualisatietypen](analysis-workspace/visualizations/visualization-types.md)
-      + [Tabellen, visualisaties en deelvensters gebruiken in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Te visualiseren gegevens selecteren](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Gegevens ophalen in visualisaties](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Lijnvisualisatie in Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
@@ -138,23 +133,21 @@ ht-degree: 8%
       + [Segmenten toepassen op uw Analysis Workspace-project](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Segmenten gebruiken in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
       + [Ad hoc (tijdelijk) segmenten](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
-      + [Verschillende Attribution IQ-modellen gebruiken voor segmenten](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
-      + [Vervolgkeuzefilters gebruiken](analysis-workspace/using-panels/using-drop-down-filters.md)
+      + [Verschillende Attribution IQ-modellen gebruiken voor segmenten](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html)
       + [Segmenten op deelvensterniveau](analysis-workspace/using-panels/panel-level-segments.md)
-      + [Verbeteringen voor segmentneerzetzone](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Segmenten gebruiken als Dimension in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Segmenten gebruiken om gegevens in Analysis Workspace te beperken](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
    + Cijfers {#metrics}
       + [Basisstatistieken van bezoekers](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [Dimension en statistieken toevoegen aan uw project in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
+      + [Dimension en statistieken toevoegen aan uw project in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
       + [Inleiding tot conversiegebeurtenissen](analysis-workspace/metrics/introduction-to-conversion-events.md)
-      + [Werken met metriek in een tabel voor vrije vorm](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [Werken met metriek in een tabel voor vrije vorm](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html)
       + [Deelnemings-statistieken gebruiken in Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
    + Dimensies {#dimensions}
       + [Dimension en statistieken toevoegen aan uw project in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Inleiding aan de Variabelen van het Verkeer (Keuringen)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [Inleiding tot conversievariabelen (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
-      + [Werken met Dimension in een tabel voor vrije vorm](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
+      + [Werken met Dimension in een tabel voor vrije vorm](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html)
    + Kalender- en datumbereik {#calendar-and-date-ranges}
       + [Datums gebruiken in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [Datumbereiken en -vergelijkingen gebruiken in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
@@ -176,7 +169,7 @@ ht-degree: 8%
       + [Curation and Sharing in Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Directe koppeling naar een project](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
       + [50.000 items downloaden als CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-      + [Exporteren naar CSV vanuit Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
+      + [Exporteren naar CSV vanuit Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/from-the-ui/export-to-csv-from-analysis-workspace.html)
       + [Ingesloten componenten delen](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [Projecten plannen en downloaden](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Projecten delen in Analysis Workspace](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
@@ -266,16 +259,16 @@ ht-degree: 8%
       + [Segmentvergelijking in Analysis Workspace](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [Segmentcontainers](components/segmentation/segment-containers.md)
       + [Segmentbeheer en delen](components/segmentation/segment-management-and-sharing.md)
-      + [Segmenten gebruiken in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
-      + [Segmenten gebruiken als Dimension in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
-      + [Segmenten gebruiken om gegevens in Analysis Workspace te beperken](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
+      + [Segmenten gebruiken in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html)
+      + [Segmenten gebruiken als Dimension in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html)
+      + [Segmenten gebruiken om gegevens in Analysis Workspace te beperken](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html)
       + [Opvolgende segmentatie](components/segmentation/sequential-segmentation.md)
       + [Segmentering op onderscheiden Dimension Tellingen](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [Dimension Modellen in segmentatie](components/segmentation/dimension-models-in-segmentation.md)
       + [Gelijk aan om het even welke exploitant in segmentatie](components/segmentation/equals-any-of-operator-in-segmentation.md)
    + Berekende statistieken {#calculated-metrics}
       + [De functie Aantal bij benadering onderscheiden in berekende metriek](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
-      + [Attribution IQ in berekende cijfers](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
+      + [Attribution IQ in berekende cijfers](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
       + [Berekende waarden - Metrische Builder](components/calculated-metrics/calculated-metrics-metric-builder.md)
       + [Berekende waarden - functies](components/calculated-metrics/calculated-metrics-functions.md)
       + [Berekende cijfers - geen cijfers voor implementatie](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
@@ -345,14 +338,14 @@ ht-degree: 8%
    + [Adobe Analytics en Adobe Sensei - Democratie in de gegevenswetenschap voor ALL](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
 + Verticaal specifieke {#vertical-specific}
    + Hoge Tech {#high-tech}
-      + [Top 2019 Super Session - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+      + [Top 2019 Super Session - High Tech](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html)
    + Reizen en gastvrijheid {#travel-and-hospitality}
-      + [Topconferentie 2019 Super Session - Reizen en Ziekenhuizen](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
+      + [Topconferentie 2019 Super Session - Reizen en Ziekenhuizen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html)
    + Detailhandel {#retail}
       + [Introductie tot handelsvariabelen en -gebeurtenissen](vertical-specific/retail/intro-to-retail-variables-and-events.md)
       + [Basisvariabelen en -gebeurtenissen voor de detailhandel toevoegen aan opstartregel](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
       + [Een opstartregel toevoegen voor de koopgebeurtenis](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
-      + [Top 2019 Super Session - Retail](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
+      + [Top 2019 Super Session - Retail](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html)
 + Media-analyse {#media-analytics}
    + Spraak of audio meten {#measuring-voice-or-audio}
       + [De audioverbruikssjabloon in Analysis Workspace gebruiken](media-analytics/measuring-voice-or-audio/using-the-audio-consumption-template-in-analysis-workspace.md)
@@ -372,7 +365,7 @@ ht-degree: 8%
       + [Betrokkenheid en behoudsrente verhogen](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + API&#39;s {#apis}
    + [Analysis Workspace gebruiken om API 2.0-verzoeken te maken](apis/using-analysis-workspace-to-build-api-2-requests.md)
-   + [Report Builder gebruiken om de Adobe Analytics API te leren](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
+   + [Report Builder gebruiken om de Adobe Analytics API te leren](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html)
    + [Adobe Analytics 2.0 API-verzoeken maken met Postman](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Gebruiksscenario&#39;s voor analyse {#analysis-use-cases}
    + [ZIP-codeanalyse voor in de handel gebrachte producten instellen](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
