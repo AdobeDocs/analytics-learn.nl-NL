@@ -1,14 +1,14 @@
 ---
 title: Aan de slag met Adobe Mobile Analytics
 description: Leer hoe u aan de slag gaat met Adobe Analytics for mobile apps met behulp van sjablonen. Vooraf ontwikkelde standaardsjablonen helpen u inzicht te krijgen in de prestaties van gebruikers en toepassingen in Analysis Workspace. Leer ook hoe u uw project kunt aanpassen met onze gebruiksvriendelijke interface voor slepen en neerzetten.
-feature: Basisprincipes van werkruimte
+feature: Workspace Basics
 topics: mobile
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3051
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

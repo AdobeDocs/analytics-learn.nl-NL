@@ -1,14 +1,14 @@
 ---
 title: Bijdrage-analyse in Analysis Workspace
 description: Deze video doorloopt de Analyse van de Bijdrage en zijn capaciteit om machine het leren te gebruiken om de factoren snel en gemakkelijk te verklaren die tot een trend in uw gegevens hebben bijgedragen.
-feature: Gegevenswetenschap
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2337
-role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Begin
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

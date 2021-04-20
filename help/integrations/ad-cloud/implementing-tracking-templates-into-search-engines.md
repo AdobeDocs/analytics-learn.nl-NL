@@ -1,15 +1,15 @@
 ---
 title: Trackingsjablonen van Advertising Analytics in zoekmachines implementeren
 description: In deze video wordt uitgelegd hoe u de trackingsjablonen van Advertising Analytics implementeert in de ondersteunde zoekmachines. Het implementeren van de trackingsjabloon is de belangrijkste stap voor het verzamelen en doorgeven van uw gegevens aan Adobe Analytics.
-feature: Advertising Cloud-integratie
+feature: Advertising Cloud Integration
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 1651
-topic: Integraties
-role: Beheerder
-level: Intermediair
+topic: Integrations
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

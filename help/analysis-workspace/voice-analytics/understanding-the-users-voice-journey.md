@@ -1,14 +1,14 @@
 ---
 title: Werken met de Voice-reis van de gebruiker
 description: Leer hoe te om de klantenreis op stem te begrijpen app door stroomweg te bekijken en uit te vallen om te identificeren wat de gemeenschappelijkste acties zijn, de opeenvolging van die acties en wanneer en waar de gebruikers uit de reis vallen.
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2903
-role: Zakelijke praktiserer
-level: Intermediair
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

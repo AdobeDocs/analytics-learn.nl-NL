@@ -1,15 +1,15 @@
 ---
 title: Datumvergelijkingen in Analysis Workspace
 description: 'In deze video zullen we u laten zien hoe u twee vergelijkingsfuncties voor datums kunt gebruiken in vrije-vormtabellen: ''Tijdskolom toevoegen'' en ''Tijdsperioden vergelijken''.'
-feature: Kalender
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23985.jpg
 kt: 2011
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

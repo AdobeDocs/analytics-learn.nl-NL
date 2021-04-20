@@ -1,15 +1,15 @@
 ---
 title: Projectconverter gebruiken om projecten te verplaatsen van Ad Hoc Analysis naar de werkruimte Analytics
 description: De Ad Hoc Analysis Project Converter zet Ad Hoc Analysis-projecten (AHA) naadloos om in Analysis Workspace-projecten met een klik op een knop.
-feature: Experience Cloud-integratie
+feature: Experience Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1641
-topic: Integraties
-role: Zakelijke praktiserer
-level: Intermediair
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

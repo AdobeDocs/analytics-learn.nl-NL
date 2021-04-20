@@ -1,14 +1,14 @@
 ---
 title: Een geparseerde warmtekaart maken in Analysis Workspace
 description: Leer hoe u uw tijdparterende analyse naar het volgende niveau kunt brengen door een heatmap visualisatie van gedrag te creëren.
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2813
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

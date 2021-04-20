@@ -1,14 +1,14 @@
 ---
 title: AppMeasurement bijwerken als Experience Platform Launch niet wordt gebruikt
 description: In deze video ziet u hoe u de code appMeasurement kunt bijwerken wanneer u geen Experience Platform Launch gebruikt. Dit omvat waar u de code wilt ophalen en waar u deze wilt bijwerken.
-feature: Implementatie van toepassingen
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1848
-role: '"Developer, Data Engineer"'
-level: Intermediair
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

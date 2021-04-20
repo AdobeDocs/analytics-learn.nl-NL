@@ -1,14 +1,14 @@
 ---
 title: Trainingstutorialsjabloon in Analysis Workspace
 description: 'In de zelfstudie voor Analysis Workspace-training worden gebruikers door gemeenschappelijke terminologie geleid en worden stappen gezet voor het maken van hun eerste analyse in Workspace. '
-feature: Deelvensters
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5032
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

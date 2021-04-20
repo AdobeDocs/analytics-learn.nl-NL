@@ -1,14 +1,14 @@
 ---
 title: Dimension Modellen in segmentatie
 description: Dimension-modellen zijn via het vistuig beschikbaar voor elke segmentatiedimensie. Deze modellen zijn vooral nuttig voor opeenvolgende segmentatie, en staan u toe om voor voortgezette waarden van een afmeting (gebrek), instanties, of niet-herhalende instanties van een afmeting te segmenteren.
-feature: Segmentatie
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4846
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

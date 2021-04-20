@@ -3,15 +3,15 @@ title: Het opzetten van de Analyse van de Postcode van het Postcode van de Markt
 seo-title: Het opzetten van de Analyse van de Postcode van het Postcode van de Markt - een Geval van het Gebruik
 description: In dit geval zullen we het systeem zodanig configureren dat er postcodes worden ingevoerd, deze als in- of buiten de markt worden ingedeeld, en deze gegevens vervolgens in Analysis Workspace gebruiken, zodat we de doeltreffendheid van onze geo-gerichte marketingcampagnes kunnen zien.
 seo-description: In dit geval zullen we het systeem zodanig configureren dat er postcodes worden ingevoerd, deze als in- of buiten de markt worden ingedeeld, en deze gegevens vervolgens in Analysis Workspace gebruiken, zodat we de doeltreffendheid van onze geo-gerichte marketingcampagnes kunnen zien.
-feature: Gevallen gebruiken
+feature: Use Cases
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2846
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

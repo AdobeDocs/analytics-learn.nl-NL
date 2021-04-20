@@ -1,15 +1,15 @@
 ---
 title: 'Best practices gebruiken bij het bijhouden van toepassingen voor één pagina (SPA) in Adobe Analytics '
 description: In dit document worden verschillende aanbevolen procedures beschreven die u moet volgen en waarvan u weet dat u Adobe Analytics gebruikt om toepassingen voor één pagina (SPA) bij te houden. Dit document zal zich op het gebruiken van Experience Platform Launch concentreren, dat de geadviseerde implementatiemethode is.
-feature: Grondbeginselen van implementatie
+feature: Implementation Basics
 topics: spa
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1389
 topic: SPA
-role: '"Developer, Data Engineer"'
-level: Intermediair
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

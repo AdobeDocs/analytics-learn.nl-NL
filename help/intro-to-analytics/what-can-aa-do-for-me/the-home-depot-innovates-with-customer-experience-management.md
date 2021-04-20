@@ -1,14 +1,14 @@
 ---
 title: Gebruiksscenario voor klanten - Het thuisdepot vernieuwt met Customer Experience Management
 description: HomeDepot.com, een site van 7 miljard dollar eCommerce binnen een bedrijf van 100 miljard dollar, blijft voor de concurrentie door ervoor te zorgen dat de ervaring van de klant correct is. Leer hoe het Depot van het Huis Adobe oplossingen gebruikt om merkloyaliteit en klantentevredenheid met een gepersonaliseerde, aangepaste het winkelervaring tot stand te brengen.
-feature: Gevallen gebruiken
+feature: Use Cases
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4387
-role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Begin
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

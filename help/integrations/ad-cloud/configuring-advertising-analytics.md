@@ -1,15 +1,15 @@
 ---
 title: Advertising Analytics configureren in Adobe Analytics
 description: 'Deze video laat u op hoog niveau zien hoe u uw rapportsuite(s) kunt configureren om Advertising Analytics te gebruiken, hoe u een betaalaccount kunt instellen en gegevens voor Advertising Analytics kunt melden. '
-feature: Advertising Cloud-integratie
+feature: Advertising Cloud Integration
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 1642
-topic: Integraties
-role: Beheerder
-level: Intermediair
+topic: Integrations
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

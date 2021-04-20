@@ -1,14 +1,14 @@
 ---
 title: Het gebruiken van evenaart om het even welke exploitant in segmentatie
 description: Gelijk om het even welk van en is niet gelijk aan om het even welke segmentexploitanten toegevoegd aan de segmentbouwer. Gebruik deze operatoren om te filteren naar een lijst met specifieke items in plaats van meerdere OR-instructies te gebruiken of Bevat een van deze instructies. Het gebruiken van deze exploitanten in plaats van bevat om het even welk zal helpen vraagsnelheid eveneens verbeteren.
-feature: Segmentatie
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4844
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

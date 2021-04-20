@@ -1,14 +1,14 @@
 ---
 title: Adobe Labs (technologische voorvertoningen) met Adobe Analytics
 description: Met Adobe Labs (Technology Previews) kunt u nieuwe technologieën gebruiken, waardevolle inzichten ontdekken en de ontwikkeling en prioriteiten van Analytics in de toekomst beïnvloeden.
-feature: Basisbeginselen van analysemogelijkheden
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4818
 role: Architect
-level: Begin
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

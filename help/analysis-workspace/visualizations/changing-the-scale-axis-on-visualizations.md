@@ -1,14 +1,14 @@
 ---
 title: De schaal/as wijzigen bij visualisatie in Analysis Workspace
 description: In deze video ziet u hoe u de schaal (of aslimieten) van de Y-as op een lijngrafiek in de Analysis Workspace eenvoudig kunt wijzigen, zodat gegevens moeilijker te interpreteren zijn voor u en anderen.
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2133
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

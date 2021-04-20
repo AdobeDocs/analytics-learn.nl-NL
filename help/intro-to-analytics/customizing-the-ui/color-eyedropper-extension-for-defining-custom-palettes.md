@@ -1,14 +1,14 @@
 ---
 title: Kleurenpipetextensie voor het definiëren van aangepaste paletten
 description: Leer hoe u de extensie ColorPick EyeDropper Chrome gebruikt om eenvoudig de hexadecimale waarden te vinden die u nodig hebt voor een aangepast kleurenpalet in uw Workspace-projecten.
-feature: Basisprincipes van werkruimte
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5035
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

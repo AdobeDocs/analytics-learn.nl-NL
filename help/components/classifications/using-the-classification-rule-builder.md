@@ -1,14 +1,14 @@
 ---
 title: 'De Classification Rule Builder in Adobe Analytics gebruiken '
 description: 'Leer om de Bouwer van de Regel van de Classificatie te gebruiken om regel-gebaseerde classificaties in Adobe Analytics automatisch toe te passen. '
-feature: Classificaties
+feature: Classifications
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1936
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Werking van gebruikers begrijpen voor spraakassistenten
 description: Leer hoe u het gedrag van gebruikers begrijpt en inzichten verkrijgt door belangrijke metriek zoals hoogste intenties, parameters en gebruikersauthentificatie te bekijken.
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2904
-role: Zakelijke praktiserer
-level: Intermediair
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

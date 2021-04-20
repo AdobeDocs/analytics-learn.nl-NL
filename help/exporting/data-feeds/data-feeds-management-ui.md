@@ -1,14 +1,14 @@
 ---
 title: Gebruikersinterface gegevensfeeds-beheer
 description: Met de Adobe Analytics Data Feed kunt u onbewerkte klikstreamgegevens exporteren om te importeren en samen te voegen met andere gegevensbronnen in een EDW- of gegevenseer. U kunt uw eigen gegevensfeeds maken en beheren in Adobe Analytics. In deze video ziet u hoe.
-feature: Gegevensfeeds
+feature: Data Feeds
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2353
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

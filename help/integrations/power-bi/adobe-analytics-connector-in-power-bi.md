@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics Connector in Power BI
 description: In deze video doorlopen we de Adobe Analytics Connector door een aanvraag te maken en te laden, de indeling van de gegevens te wijzigen, een visualisatie te maken en naar de onlineservice te publiceren.
-feature: '"Integratie van derden"'
+feature: "Third-party Integration"
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1655
-role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Intermediair
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

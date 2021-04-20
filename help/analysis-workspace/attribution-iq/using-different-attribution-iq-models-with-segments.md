@@ -1,7 +1,7 @@
 ---
 title: Verschillende Attribution IQ modellen gebruiken met segmenten in Analysis Workspace
 description: In deze video leert u hoe u Attribution IQ-modellen kunt gebruiken in combinatie met Adobe Analytics-segmenten op uw site.
-feature: Attributie
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
@@ -9,8 +9,8 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 23743.jpg
 kt: 1707
-role: Zakelijke praktiserer
-level: Intermediair
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

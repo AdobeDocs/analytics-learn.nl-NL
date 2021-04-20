@@ -1,15 +1,15 @@
 ---
 title: Uitbreiding van de stroomvisualisatie in Analysis Workspace
 description: In deze video ziet u de verschillende klikopties die beschikbaar zijn in de stroomvisualisatie in Analysis Workspace. De opties omvatten het creëren van een segment van een weg, het doen ineenstorten kolommen, en meer.
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24044.jpg
 kt: 2280
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

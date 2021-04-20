@@ -1,14 +1,14 @@
 ---
 title: Klanttips voor het vervolgen van uw Adobe Analytics Learning-reis
 description: In dit artikel, ontmoet drie klanten van Adobe die uiteinden en trucs voor u betreffende hebben hoe te om de meeste waarde van Adobe Analytics te krijgen.
-feature: Basisprincipes van werkruimte
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 kt: 4111
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

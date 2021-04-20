@@ -1,15 +1,15 @@
 ---
 title: Snel berekende cijfers in Analysis Workspace
 description: Nu kunt u berekende metriek op de vlucht binnen Analysis Workspace bouwen.  Als u een snelle percentagewijziging of verdeling wilt uitvoeren met een paar metriek in uw vrije-vormlijst, selecteert u alleen de metriek in de koptekst, klikt u met de rechtermuisknop en kiest u de gewenste operator.  De nieuwe berekende metrisch zal op het recht verschijnen.
-feature: Berekende standaarden
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23126.jpg
 kt: 1666
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

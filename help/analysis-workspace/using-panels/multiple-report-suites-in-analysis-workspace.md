@@ -1,14 +1,14 @@
 ---
 title: Meerdere rapportsuites in Analysis Workspace
 description: De veelvoudige rapportreeksen kunnen in één enkel project van de Werkruimte worden geanalyseerd door reeksen op het paneelniveau te selecteren. Op deze manier kunt u een analyse van vensters naast elkaar uitvoeren voor verschillende datasets.
-feature: Deelvensters
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4820
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

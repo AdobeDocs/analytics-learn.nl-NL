@@ -1,14 +1,14 @@
 ---
 title: Segmentvergelijking in Analysis Workspace
 description: Het begrip van de ware verschillen tussen marketing segmenten is altijd een moeilijk en tijdrovend proces geweest. Segment IQ, onderdeel van Analysis Workspace in Adobe Analytics, vereenvoudigt deze analyse door twee Analytics-segmenten te onderzoeken voor al uw dimensies en maatstaven om automatisch de meest statistisch significante verschillen te ontdekken.
-feature: Segmentatie
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2103
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

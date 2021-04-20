@@ -1,14 +1,14 @@
 ---
 title: Het vormen Gemakkelijke Verbinding van de Uitgang het Volgen in Experience Platform Launch
 description: Als u slechts een paar keer klikt in de extensie Adobe Analytics in Experience Platform Launch, kunt u afsluitkoppelingen op uw site volgen (koppelingen die van uw site naar een andere site gaan). In deze video ziet u hoe u deze instelt.
-feature: Implementatie starten
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2273
-role: '"Developer, Data Engineer"'
-level: Begin
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Overzicht van Cohort Tables in Analysis Workspace
 description: Met de instelling Rolling Berekening in de tabellen Cohort kunt u de periode-overperiode van de cohorten analyseren, zodat u kunt zien hoe dezelfde gebruikers in de loop der tijd behouden blijven (of kurn).
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25965.jpg
 kt: 2477
-role: Zakelijke praktiserer
-level: Intermediair
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

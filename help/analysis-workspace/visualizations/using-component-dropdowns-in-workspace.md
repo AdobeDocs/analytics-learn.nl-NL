@@ -1,7 +1,7 @@
 ---
 title: Onderdeeldropdowns in Workspace gebruiken
 description: Met componentdropdowns kunt u kiezen uit een lijst met compatibele componenten om uw analyse te maken. U kunt nieuwe componenten ook direct van dropdown tot stand brengen als u niet vindt wat u nodig hebt. Deze ruimten blijven als dalingsstreken ook werken, mocht u een geavanceerder gebruiksgeval hebben.
-feature: Onderdelen
+feature: Components
 role: Business Practitioner
 level: Beginner
 doc-type: feature video

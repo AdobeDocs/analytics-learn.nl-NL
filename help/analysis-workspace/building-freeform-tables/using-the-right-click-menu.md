@@ -1,14 +1,14 @@
 ---
 title: Het snelmenu in Analysis Workspace gebruiken
 description: Leer hoe u met de rechtermuisknop in Analysis Workspace werkt om sneller en meer uit te splitsen.
-feature: Vrije-vormtabellen
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2029
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Segmentcontainers in Adobe Analytics
 description: Deze video laat zien hoe u met de drie verschillende containertypen voor segmenten werkt in de Segment Builder van Adobe Analytics.
-feature: Segmentatie
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2301
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

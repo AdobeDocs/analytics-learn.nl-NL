@@ -1,14 +1,14 @@
 ---
 title: Berekende cijfers - geen cijfers voor implementatie
 description: Leer hoe u nieuwe metriek maakt in Adobe Analytics zonder uw implementatie te wijzigen.
-feature: Berekende standaarden
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2320
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

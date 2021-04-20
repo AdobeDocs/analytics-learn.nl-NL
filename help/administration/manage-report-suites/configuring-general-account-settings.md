@@ -1,10 +1,10 @@
 ---
 title: Algemene accountinstellingen configureren
 description: Als u Adobe Analytics instelt, kan het configureren van de instellingen van invloed zijn op de manier waarop uw gegevens worden verzameld en opgeslagen. Deze video bespreekt enkele algemene instellingen. U kunt deze waarden ook wijzigen na de implementatie, omdat het nooit te laat is om de gegevens te corrigeren.
-feature: Instellingen van rapportsuite
-topic: Beheer
-role: Beheerder
-level: Begin
+feature: Report Suite Settings
+topic: Administration
+role: Administrator
+level: Beginner
 doc-type: feature video
 thumbnail: 332330.jpg
 kt: 7399

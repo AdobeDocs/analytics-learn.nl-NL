@@ -1,14 +1,14 @@
 ---
 title: Visualisatietypen in Analysis Workspace
 description: Analysis Workspace bevat vlakgrafieken, donutgrafieken, horizontale staafgrafieken en vele andere visualisaties die u helpen bij uw analyse.
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2132
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

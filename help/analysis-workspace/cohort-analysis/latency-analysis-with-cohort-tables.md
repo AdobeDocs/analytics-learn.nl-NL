@@ -1,15 +1,15 @@
 ---
 title: Latentieanalyse met cohorttabellen
 description: Met de instelling Latentietabel in Cohort Tables kunt u het gedrag van uw cohorts voor en na de insluitingsgebeurtenis analyseren (en niet alleen na standaardcohortafbeeldingen). Deze instelling is handig voor het analyseren van de impact van een nieuw product of een nieuwe campagne, bijvoorbeeld.
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25964.jpg
 kt: 2480
-role: Zakelijke praktiserer
-level: Intermediair
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

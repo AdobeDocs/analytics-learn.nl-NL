@@ -1,14 +1,14 @@
 ---
 title: Intra-linking in Analysis Workspace
 description: Met intra-linking kunnen analisten die projecten in Analysis Workspace bouwen, lezers van het project naar exacte deelvensters en visualisaties binnen het project leiden.
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1908
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

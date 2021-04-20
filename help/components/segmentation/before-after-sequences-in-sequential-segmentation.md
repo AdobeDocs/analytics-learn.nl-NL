@@ -1,14 +1,14 @@
 ---
 title: Voor/Na-reeksen in opeenvolgende segmentatie
 description: In deze video wordt uitgelegd hoe u in Adobe Analytics kunt segmenteren, zodat u alleen de gegevens van voor of na een bepaald gebruikerspad ophaalt.
-feature: Segmentatie
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2303
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

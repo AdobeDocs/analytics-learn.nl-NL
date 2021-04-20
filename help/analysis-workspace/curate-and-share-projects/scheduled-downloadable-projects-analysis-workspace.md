@@ -1,14 +1,14 @@
 ---
 title: Geplande en downloadbare projecten in Analysis Workspace
 description: Met Analysis Workspace kunt u projecten plannen en downloaden naar PDF's en CSV's. In deze video ziet u hoe u projecten kunt plannen voor levering in de toekomst aan uzelf of collega's en hoe u PDF's kunt downloaden van projecten waaraan u werkt.
-feature: Curven en delen
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2298
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

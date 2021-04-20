@@ -1,14 +1,14 @@
 ---
 title: Instellingen van tabelgegevensbron in Analysis Workspace
 description: 'De gegevensbroninstellingen zijn nu beschikbaar in vrije vorm- en cohorttabellen. Voorheen konden gegevensbronnen alleen worden beheerd vanuit de gekoppelde visualisaties. Nu kunt u bij de tabelinstellingen zien welke visualisaties eraan zijn gekoppeld en de brontabel zelf verbergen. '
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1772
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

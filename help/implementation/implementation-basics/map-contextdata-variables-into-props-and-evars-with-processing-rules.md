@@ -1,14 +1,14 @@
 ---
 title: De Variabelen van contextData van de kaart in Props en Gebeurtenissen met de Regels van de Verwerking
 description: Wanneer het gebruiken van contextData variabelen in uw implementatie van Adobe Analytics, om uw gegevens te hebben verschijnen in daadwerkelijke rapporten, moet u de contextData variabelen aan props/eVars in de interface van de Regels van de Verwerking in kaart brengen. In deze video ziet u hoe u dit kunt doen.
-feature: Grondbeginselen van implementatie
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1850
-role: Zakelijke praktiserer
-level: Intermediair
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

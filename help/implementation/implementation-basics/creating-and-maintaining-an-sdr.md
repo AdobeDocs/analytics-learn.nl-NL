@@ -1,14 +1,14 @@
 ---
 title: Een SDR maken en onderhouden.
 description: Het document van de Verwijzing van het Ontwerp van de Oplossing (SDR) is hoofdzakelijk de blauwdruk voor uw plaats. Deze video laat zien hoe u er een kunt maken, in combinatie met het document met zakelijke vereisten, zodat u altijd een bron van waarheid kunt hebben waar u op kunt terugkeren terwijl u Adobe Analytics implementeert en waar u in de toekomst naar terugverwijst.
-feature: Grondbeginselen van implementatie
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3581
-role: '"Developer, Data Engineer"'
-level: Begin
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

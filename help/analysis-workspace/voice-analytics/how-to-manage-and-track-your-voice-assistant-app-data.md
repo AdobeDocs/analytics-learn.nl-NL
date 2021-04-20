@@ -1,14 +1,14 @@
 ---
 title: Hoe te om Uw Gegevens van de HulpApp van de Stem te beheren en te volgen
 description: 'Leer hoe u een aangepast dashboard kunt maken om de prestaties van uw voice Assistant-app op een eenvoudige, flexibele, intuïtieve en visuele manier te beheren en bij te houden. '
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2902
-role: Zakelijke praktiserer
-level: Intermediair
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

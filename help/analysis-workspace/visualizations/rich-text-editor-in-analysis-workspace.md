@@ -1,14 +1,14 @@
 ---
 title: RTF-editor in Analysis Workspace
 description: 'Doorloop met enkele nieuwe functies waarmee analisten en marketers tekstvisualisaties (of beschrijvingen) in Analysis Workspace kunnen bewerken: vet, cursief, koppen, hyperlinks en nog veel meer.'
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1907
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,16 +1,16 @@
 ---
 title: Beheerders toevoegen aan Adobe Analytics
 description: Leer hoe u een gebruiker als beheerder toevoegt in de Adobe Admin Console.
-feature: Gebruikersbeheer
+feature: User Management
 topics: null
 activity: setup
 doc-type: feature video
 team: Evangelism
 thumbnail: 37648.jpg
 kt: 5520
-topic: Beheer
-role: Beheerder
-level: Begin
+topic: Administration
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

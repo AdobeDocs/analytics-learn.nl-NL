@@ -1,14 +1,14 @@
 ---
 title: Uw Analytics Tracking Server en Report Suites identificeren
 description: Wanneer vestiging Adobe Analytics, of wanneer het van verwijzingen voorzien in andere oplossingen van Experience Cloud, is het vaak nuttig of zelfs noodzakelijk om Analytics "het Volgen Server"te kennen die u gebruikt, of ook de "Reeks van het Rapport"die u gegevens naar verzendt. In deze video ziet u hoe u beide waarden kunt vinden, ongeacht of u Adobe Analytics al hebt geïmplementeerd.
-feature: Grondbeginselen van implementatie
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2358
-role: '"Developer, Data Engineer"'
-level: Begin
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

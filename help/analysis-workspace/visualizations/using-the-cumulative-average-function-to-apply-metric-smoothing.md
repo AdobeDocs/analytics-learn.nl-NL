@@ -1,15 +1,15 @@
 ---
 title: De functie Cumulatief gemiddelde gebruiken om metrisch vloeiend maken toe te passen
 description: Hoe langer de tijdsperiode dat metrisch wordt trended, hoe moeilijker het is om richtingtrends voor metrisch te vertellen. Om dit op te lossen, kan de Cumulatieve functie Gemiddeld in Berekende Metriek worden gebruikt om het gladmaken op metriek in Analysis Workspace toe te passen.
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 27068.jpg
 kt: 2854
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

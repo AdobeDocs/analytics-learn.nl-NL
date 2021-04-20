@@ -1,16 +1,16 @@
 ---
 title: Rapporten Advertising Cloud-site-item maken
 description: Een Advertising Cloud-sitemelding maken om de dag van de week, het tijdstip van de dag, de browser en de geografische invloed te controleren.
-feature: Advertising Cloud-integratie
+feature: Advertising Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35120.jpg
 kt: 5477
-topic: Integraties
-role: Zakelijke praktiserer
-level: Intermediair
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

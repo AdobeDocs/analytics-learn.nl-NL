@@ -1,14 +1,14 @@
 ---
 title: Sneltoetsen in Analysis Workspace
 description: 'In deze video worden de sneltoetsopties in Analysis Workspace besproken, zodat u kunt zien hoe u sneller en efficiënter kunt werken. '
-feature: Basisprincipes van werkruimte
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2031
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

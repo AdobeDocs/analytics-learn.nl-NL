@@ -1,15 +1,15 @@
 ---
 title: Segmenten vergelijken in Fallout in Analysis Workspace
 description: In deze video ziet u hoe u de belangrijkste workflows voor verschillende segmenten in Analysis Workspace kunt vergelijken.
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24046.jpg
 kt: 2278
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

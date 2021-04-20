@@ -1,15 +1,15 @@
 ---
 title: Gebruikslogbestanden bijhouden voor Analysis Workspace
 description: Onder Beheer - Logboeken - Gebruik & Toegang, kunt u beter het gebruik van Adobe Analytics door uw gebruikers begrijpen. Deze video richt zich specifiek op het meten van het gebruik van het project van de Werkruimte.
-feature: Gegevensconfiguratie en -verzameling
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4024
-topic: Beheer
-role: Beheerder
-level: Begin
+topic: Administration
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

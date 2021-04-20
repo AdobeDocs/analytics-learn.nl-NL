@@ -1,14 +1,14 @@
 ---
 title: Visualisatie Venn-diagram in Analysis Workspace
 description: U kunt overlappingen en doorsnede van segmenten in Analysis Workspace visueel weergeven met behulp van het Venn-diagram visualisatie. Het is eenvoudig om binnen enkele seconden verbluffende, inzichtelijke Venn-diagrammen te maken. In deze video ziet u hoe.
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2118
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

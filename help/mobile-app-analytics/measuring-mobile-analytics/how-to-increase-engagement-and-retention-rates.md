@@ -1,14 +1,14 @@
 ---
 title: Betrokkenheid en behoudsrente verhogen
 description: Identificeer betrokken publiek door zijn gedrag gebruikend Cohorts en weet de onderliggende oorzaken drijvende kleverigheid in uw mobiele apps. Gebruik algoritmen voor gegevenswetenschap in Segment-IQ om de verschillen en overeenkomsten tussen segmenten te kennen.
-feature: Basisprincipes van werkruimte
+feature: Workspace Basics
 topics: mobile
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3054
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

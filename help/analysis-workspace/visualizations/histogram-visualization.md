@@ -1,14 +1,14 @@
 ---
 title: Histogramvisualisatie in Analysis Workspace
 description: Met histogrammen kunt u de distributie visualiseren van metrische informatie over bezoekers, bezoeken en nu hits om segmenten met een hoge en lage waarde te zoeken.
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1909
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Verbeteringen voor de volledige visualisatie in Analysis Workspace
 description: In deze video ziet u updates van de Fallout Visualization, waar klanten om hebben gevraagd. Zo ziet u onder andere directe of uiteindelijke stappen, het wijzigen van de naam van aanraakpunten, het vergelijken van onbeperkte segmenten en het trending touchpoint conversion percentages in de loop van de tijd.
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24047.jpg
 kt: 2276
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

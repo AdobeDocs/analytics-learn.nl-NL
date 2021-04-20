@@ -1,14 +1,14 @@
 ---
 title: Het begrijpen van en het Creëren van de Reeksen van het Rapport
 description: Deze video helpt u te begrijpen welke rapportsuites zijn, en zal u tonen hoe te om hen in de interface te creëren, zodat u de mensen kunt volgen en optimaliseren die aan uw plaats komen.
-feature: Basisbeginselen van analysemogelijkheden
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3574
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

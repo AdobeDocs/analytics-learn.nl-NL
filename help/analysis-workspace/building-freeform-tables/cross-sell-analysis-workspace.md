@@ -1,15 +1,15 @@
 ---
 title: Crossverkoopanalyse in Analysis Workspace
 description: Het rapport Cross-Sell in Rapporten & Analytics geeft de relatie tussen producten in dezelfde producttekenreeks weer, zodat u kunt analyseren welke producten samen worden aangeschaft. In deze video laten we u zien hoe u het rapport Cross-Sell in Analysis Workspace kunt maken en het nog verder kunt uitbreiden naar elke multigetaxeerde dimensie of classificatie.
-feature: Vrije-vormtabellen
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25864.jpg
 kt: 2367
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

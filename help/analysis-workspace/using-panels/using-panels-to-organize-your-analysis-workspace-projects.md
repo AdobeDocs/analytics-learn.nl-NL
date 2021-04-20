@@ -1,14 +1,14 @@
 ---
 title: Deelvensters gebruiken om uw Analysis Workspace-projecten te organiseren
 description: Deelvensters zijn een verzameling visualisaties in Analysis Workspace. Lege deelvensters en vrije deelvensters zijn plaatsen om uw analyse te starten, terwijl bij Vergelijking van Attribution IQ en segmenten veel van de functies voor geavanceerdere analyses wordt gebruikt. Er is nu ook een knop van het plusteken (+) toegevoegd, zodat u ter plekke lege deelvensters kunt toevoegen.
-feature: Deelvensters
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1756
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

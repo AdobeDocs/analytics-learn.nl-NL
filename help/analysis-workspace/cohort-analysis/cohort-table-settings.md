@@ -1,15 +1,15 @@
 ---
 title: Tabelinstellingen coderen
 description: 'Er zijn verschillende instellingen voor de tabel Cohort waarmee u de weergave van het behoud of de kleur kunt aanpassen. Zie ze gemarkeerd in deze video. '
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29433.jpg
 kt: 3972
-role: Zakelijke praktiserer
-level: Intermediair
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

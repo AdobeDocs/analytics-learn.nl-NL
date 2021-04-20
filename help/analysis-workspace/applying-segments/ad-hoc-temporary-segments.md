@@ -1,15 +1,15 @@
 ---
 title: Ad hoc (tijdelijk) segmenten in Analysis Workspace
 description: Hebt u ooit een eenvoudig segment willen tot stand brengen om een specifieke vraag te beantwoorden, dan het segment verwerpen zodat vult het uw lijst van bewaarde segmenten niet? Nu kan het!
-feature: Segmentatie
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2010
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

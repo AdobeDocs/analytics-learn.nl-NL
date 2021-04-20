@@ -1,14 +1,14 @@
 ---
 title: Algemene instellingen configureren in de extensie Analytics starten
 description: Als u net begonnen bent met Lancering, door Adobe, en de uitbreiding van Adobe Analytics, kan deze video u met het algemene montagegedeelte van de configuratie, met inbegrip van het plaatsen van de volgende server helpen.
-feature: Implementatie starten
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2837
-role: '"Developer, Data Engineer"'
-level: Begin
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

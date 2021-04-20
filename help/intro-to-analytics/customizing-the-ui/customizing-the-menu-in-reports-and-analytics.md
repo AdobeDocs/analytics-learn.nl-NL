@@ -1,14 +1,14 @@
 ---
 title: Het menu aanpassen in Reports and Analytics
 description: In deze video wordt uitgelegd hoe u de menu's in Analytics voor uw bedrijf kunt aanpassen.
-feature: Basisbeginselen van analysemogelijkheden
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2365
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

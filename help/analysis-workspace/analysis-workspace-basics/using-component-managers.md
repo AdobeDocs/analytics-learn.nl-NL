@@ -3,15 +3,15 @@ title: Componentbeheer gebruiken in Adobe Analytics
 seo-title: Componentbeheer gebruiken in Adobe Analytics
 description: 'Deze video toont hoe te om het Alarm en Geplande de componentenmanagers van Projecten in Adobe Analytics, samen met sommige extra eigenschappen te gebruiken. Leer hoe u de waarschuwing of het geplande project waarnaar u zoekt, gemakkelijk kunt vinden en Waarschuwingen inschakelen/uitschakelen. '
 seo-description: 'Deze video toont hoe te om het Alarm en Geplande de componentenmanagers van Projecten in Adobe Analytics, samen met sommige extra eigenschappen te gebruiken. Leer hoe u de waarschuwing of het geplande project waarnaar u zoekt, gemakkelijk kunt vinden en Waarschuwingen inschakelen/uitschakelen. '
-feature: Basisprincipes van werkruimte
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2351
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

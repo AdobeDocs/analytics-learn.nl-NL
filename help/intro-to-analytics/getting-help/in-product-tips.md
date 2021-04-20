@@ -1,14 +1,14 @@
 ---
 title: Tips voor Analysis Workspace-producten
 description: Tips voor werkruimte bieden een snelle, rechtstreekse les in Analysis Workspace en bevatten koppelingen naar verwante video's, zodat u elke tip in actie kunt zien.
-feature: Basisprincipes van werkruimte
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1672
-role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Begin
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

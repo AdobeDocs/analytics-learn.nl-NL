@@ -1,14 +1,14 @@
 ---
 title: Datumbereik en -kalender gebruiken in Analysis Workspace
 description: U kunt aangepaste datumbereiken gebruiken als voorinstellingen in de kalender in uw Analysis Workspace-projecten. U kunt ze ook naar de kalender slepen om ze snel als datumbereiken toe te passen in uw projecten. In deze video ziet u hoe u beide dingen doet in Analysis Workspace in Adobe Analytics.
-feature: Kalender
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2013
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

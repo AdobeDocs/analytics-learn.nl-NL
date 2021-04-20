@@ -1,14 +1,14 @@
 ---
 title: De analysecyclus begrijpen
 description: In deze eenvoudige, maar toch belangrijke video leert u welke stappen u moet ondernemen om de gegevens van uw site te analyseren. Door wat tijd in te nemen om dit proces te begrijpen, kan het succes van uw Analytics-programma van het grootste belang zijn.
-feature: Basisbeginselen van analysemogelijkheden
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 3564
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

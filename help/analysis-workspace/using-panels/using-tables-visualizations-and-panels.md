@@ -1,14 +1,14 @@
 ---
 title: Tabellen, visualisaties en deelvensters gebruiken in Analysis Workspace
 description: In deze video leert u hoe u de bouwstenen van uw Analysis Workspace-project kunt gebruiken, namelijk deelvensters, tabellen en visualisaties. Deze elementen zijn het canvas waarop de gegevens zijn getekend.
-feature: Deelvensters
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4103
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

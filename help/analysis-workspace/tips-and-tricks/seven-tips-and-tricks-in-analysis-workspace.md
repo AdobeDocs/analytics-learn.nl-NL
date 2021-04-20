@@ -1,14 +1,14 @@
 ---
 title: 7 tips en trucs die het maken van aangepaste analytische projecten sneller en eenvoudiger maken
 description: Analysis Workspace is een krachtig hulpmiddel in Adobe Analytics dat u kan helpen om impactere analyseprojecten te maken. Het heeft een enorme eigenschapreeks die u toestaat om het even welk soort freeform analyse te doen, maar een eenvoudige gebruikerservaring die deze macht en schaal toegankelijk maakt.
-feature: Basisprincipes van werkruimte
+feature: Workspace Basics
 topics: topics
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3945
-role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Begin
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: do-plug-ins gebruiken in de Adobe Analytics-extensie
 description: Leer Experience Platform Launch te gebruiken om meer controle over uw Adobe Analytics-hits te hebben door de doPlugins-mogelijkheid te benutten.
-feature: Implementatie starten
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1994
-role: '"Developer, Data Engineer"'
-level: Begin
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

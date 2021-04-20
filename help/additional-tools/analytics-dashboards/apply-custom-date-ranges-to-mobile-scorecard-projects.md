@@ -1,10 +1,10 @@
 ---
 title: Aangepaste datumbereiken toepassen op mobiele scorebordprojecten
 description: In deze video ziet u hoe u de verschillende opties voor datumbereiken kunt beheren wanneer u uw analyseprojecten voor mobiele apparaten instelt. Zo kunt u bijvoorbeeld kiezen welke bereiken u niet wilt weergeven en kunt u uw eigen aangepaste datumbereiken maken.
-feature: Analysedashboards
+feature: Analytics Dashboards
 topic: Mobile
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 doc-type: feature video
 thumbnail: 332454.jpg
 kt: 7440

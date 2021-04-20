@@ -1,14 +1,14 @@
 ---
 title: Visualisatie kaart in Analysis Workspace
 description: In deze video ziet u hoe u de nieuwe Kaartweergave in Analysis Workspace kunt gebruiken. Met de Kaartweergave kunt u mobiele gegevens (lang/lang) of webgegevens (IP-adres) weergeven op basis van een dynamische kaart, zodat u een idee krijgt van het gebruik door klanten in de context van hun locatie.
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1771
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

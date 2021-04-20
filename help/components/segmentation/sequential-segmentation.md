@@ -1,14 +1,14 @@
 ---
 title: Opeenvolgende segmentering in Adobe Analytics
 description: In deze video wordt uitgelegd hoe u kunt segmenteren op sequenties van gedrag in Adobe Analytics en hoe u dat kunt gebruiken om marketingkanalen en fallouts te vergelijken.
-feature: Segmentatie
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2302
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

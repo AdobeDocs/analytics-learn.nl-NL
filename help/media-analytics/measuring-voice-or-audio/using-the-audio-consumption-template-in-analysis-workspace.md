@@ -1,14 +1,14 @@
 ---
 title: De audioverbruikssjabloon in Analysis Workspace gebruiken
 description: In deze video wordt de sjabloon Audioverbruik in Analysis Workspace beschreven. Deze sjabloon is offline beschikbaar voor audioanalyse.
-feature: Deelvensters
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1950
-role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Intermediair
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

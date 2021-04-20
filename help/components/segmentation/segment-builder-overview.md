@@ -1,14 +1,14 @@
 ---
 title: Overzicht van Segment Builder
 description: Een snel overzicht en een richting voor de segmentbuilder in Adobe Analytics.
-feature: Segmentatie
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2300
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

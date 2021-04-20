@@ -1,7 +1,7 @@
 ---
 title: Gegevens ophalen in visualisaties
 description: Wanneer u visualisaties toevoegt in Analysis Workspace, kunt u op verschillende manieren gegevens toevoegen, afhankelijk van het visualisatietype. In deze video worden deze methoden gedemonstreerd.
-feature: Visualisaties
+feature: Visualizations
 role: Business Practitioner
 level: Beginner
 doc-type: feature video

@@ -1,14 +1,14 @@
 ---
 title: Inleiding tot conversievariabelen (eVars)
 description: In deze video krijgt u een inleiding op conversievariabelen, ook wel "eVars" genoemd. Leer ook het verschil tussen verkeer en omzettingsvariabelen en hoe zij op omzettingsgebeurtenissen betrekking hebben.
-feature: Dimensies
+feature: Dimensions
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3577
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

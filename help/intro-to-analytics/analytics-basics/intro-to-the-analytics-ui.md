@@ -1,14 +1,14 @@
 ---
 title: Introductie tot de gebruikersinterface voor analyse
 description: Deze video plaatst u op de interface van Adobe Analytics, en toont u waar u de hulpmiddelen zult vinden u zult uitvoeren en aangezien u analyse uitvoert.
-feature: Basisbeginselen van analysemogelijkheden
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3567
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

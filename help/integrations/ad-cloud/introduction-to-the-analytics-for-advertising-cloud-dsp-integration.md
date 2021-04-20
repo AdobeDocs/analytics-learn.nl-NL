@@ -1,15 +1,15 @@
 ---
 title: Inleiding tot de Analytics for Advertising Cloud DSP Integration
 description: De analyse voor Advertising Cloud DSP-integratie is een native bidirectionele integratie tussen Adobe Analytics en Adobe Advertising Cloud. Met deze integratie kunnen klanten Viewthrough van Advertising Cloud en impressies vastleggen in Analytics. Analytics kan dan de Viewthrough met alle stroomafwaartse plaatsactiviteit (enkel als een Clickthrough) verbinden. Analytics kan dan metriek teruggeven aan Advertising Cloud voor gebruik in geavanceerde algoritmische biedmodellen. In deze video worden de voordelen van de integratie besproken, evenals enkele basisvoorbeelden van het gebruik van de nieuwe Dimension/metriek in Analysis Workspace.
-feature: Advertising Cloud-integratie
+feature: Advertising Cloud Integration
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 2913
-topic: Integraties
-role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Intermediair
+topic: Integrations
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

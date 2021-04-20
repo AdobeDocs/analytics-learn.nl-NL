@@ -3,16 +3,16 @@ title: Gebruik van serveroproepen in Adobe Analytics
 seo-title: Gebruik van serveroproepen in Adobe Analytics
 description: Het gebruik van de Vraag van de server rapporteert zal het voor u mogelijk maken om precies te volgen hoeveel van uw verplichting van de servervraag u op om het even welk ogenblik hebt gebruikt, en zal u ook proactief waarschuwen wanneer u uw totale verplichting nadert.
 seo-description: Het gebruik van de Vraag van de server rapporteert zal het voor u mogelijk maken om precies te volgen hoeveel van uw verplichting van de servervraag u op om het even welk ogenblik hebt gebruikt, en zal u ook proactief waarschuwen wanneer u uw totale verplichting nadert.
-feature: Gegevensconfiguratie en -verzameling
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1665
-topic: Beheer
-role: '"Beheerder, architect"'
-level: Begin
+topic: Administration
+role: "Administrator, Architect"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

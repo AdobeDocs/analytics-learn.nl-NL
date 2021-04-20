@@ -1,14 +1,14 @@
 ---
 title: Dichtheid weergeven in Analysis Workspace
 description: Met de instelling Dichtheid weergeven onder Project > Info en instellingen kunt u de verticale opvulling instellen die wordt toegepast op de linkerrails en tabellen (Vrije vorm en cohort). U kunt kiezen tussen Uitgebreid (standaard), Comfortabel of Compact.
-feature: Projecten
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2492
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

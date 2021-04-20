@@ -1,14 +1,14 @@
 ---
 title: De algemene regel voor het laden van pagina's valideren in Launch
 description: Wanneer u Adobe Analytics op uw site implementeert, wilt u kunnen valideren wat u onderweg doet. De Experience Cloud debugger aan de redding! Deze video laat zien hoe u de algemene regel voor het laden van pagina's valideert met het foutopsporingsprogramma.
-feature: Validatie
+feature: Validation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3589
-role: '"Developer, Data Engineer"'
-level: Begin
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

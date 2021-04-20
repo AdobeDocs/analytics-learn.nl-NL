@@ -1,14 +1,14 @@
 ---
 title: Topconferentie Adobe 2019 Super Session - Reizen en gastvrijheid
 description: Zie gekrulde clips van de reis & gastvrijheid "supersessie" op topconferentie 2019
-feature: Gevallen gebruiken
+feature: Use Cases
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4388
-role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Begin
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

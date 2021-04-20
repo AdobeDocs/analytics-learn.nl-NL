@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics en Adobe Sensei - Democratie in de gegevenswetenschap voor ALL
 description: Leer hoe Adobe Sensei machine leren en AI technologieën in Adobe Analytics bedrijfsgebruikers kunnen helpen bij het bijhouden van hun gegevens en er praktisch gebruik van maken, wanneer en waar het echt belangrijk is.
-feature: Gegevenswetenschap
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2339
-role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Begin
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

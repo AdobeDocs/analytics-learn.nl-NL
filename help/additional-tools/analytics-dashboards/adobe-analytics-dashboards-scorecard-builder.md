@@ -1,14 +1,14 @@
 ---
 title: Scorecard Builder voor Adobe Analytics-dashboards
 description: In deze video leert u hoe u 'Scorecards' maakt en deelt in Analysis Workspace en deze kunt weergeven op Adobe Analytics-dashboards (mobiele app).
-feature: Analysedashboards
+feature: Analytics Dashboards
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 5286
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

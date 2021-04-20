@@ -1,14 +1,14 @@
 ---
 title: Opstartregels maken voor succesgebeurtenissen
 description: In deze video ziet u hoe u Launch kunt gebruiken om conversiegebeurtenissen (AKA-succesgebeurtenissen) op uw site bij te houden. Dit wordt weergegeven als u een toepassingsproces bijhoudt op een voorbeeldsite.
-feature: Implementatie starten
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3591
-role: '"Developer, Data Engineer"'
-level: Begin
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

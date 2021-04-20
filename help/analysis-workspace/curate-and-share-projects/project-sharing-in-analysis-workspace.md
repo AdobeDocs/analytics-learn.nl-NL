@@ -1,15 +1,15 @@
 ---
 title: Projecten delen in Analysis Workspace
 description: 'Het delen van projecten is een manier om gegevens en inzichten van Analysis Workspace naar gebruikers in uw organisatie te democratiseren. U kunt ontvangers nu in één van drie projectrollen plaatsen, afhankelijk van de projectervaring die u hun wilt geven: Bewerken, Dupliceren en Weergeven.'
-feature: Curven en delen
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36207.jpg
 kt: 5555
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

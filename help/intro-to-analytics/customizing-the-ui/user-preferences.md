@@ -1,8 +1,8 @@
 ---
 title: Gebruikersvoorkeuren in Adobe Analytics
 description: Op de pagina Componenten - Gebruikersvoorkeuren kunt u instellingen voor Analysis Workspace en de bijbehorende componenten op gebruikersniveau beheren. U kunt bijvoorbeeld een standaardrapportsuite en een kleurenpalet kiezen. Gebruikersvoorkeuren worden toegepast op alle nieuwe projecten en nieuwe deelvensters.
-feature: Basisprincipes van werkruimte
-topic: Personalisatie
+feature: Workspace Basics
+topic: Personalization
 role: Business Practitioner, Administrator
 level: Beginner
 doc-type: feature video

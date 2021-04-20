@@ -1,14 +1,14 @@
 ---
 title: Curation and Sharing in Analysis Workspace
 description: Als u eenmaal een project hebt gemaakt in Analysis Workspace, kunt u het beheren (vereenvoudigen) en delen met andere teams en personen in uw organisaties, zodat ze het kunnen verkennen en zelf met gegevens kunnen werken. In deze video ziet u hoe u met curatie en delen werkt.
-feature: Curven en delen
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2294
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

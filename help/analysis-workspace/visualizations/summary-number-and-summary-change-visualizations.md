@@ -1,14 +1,14 @@
 ---
 title: Samenvattingsnummer en visualisaties van samenvattingswijzigingen in Analysis Workspace
 description: In deze video wordt getoond hoe u de visualisaties Samenvattingsnummer en Samenvattingswijziging in de werkruimte Analyst gebruikt.
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2136
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

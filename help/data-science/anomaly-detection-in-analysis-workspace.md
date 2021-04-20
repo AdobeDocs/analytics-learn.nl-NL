@@ -1,14 +1,14 @@
 ---
 title: Anomaly Detection in Analysis Workspace
 description: Analysis Workspace detecteert automatisch anomalieën in uw gegevens voor visualisatie- of datatabellen uit tijdreeksen. Vang de "onbekende onbekend"zonder enige extra inspanning van uw kant!
-feature: Gegevenswetenschap
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2336
-role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Begin
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
