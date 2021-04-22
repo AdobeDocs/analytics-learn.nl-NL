@@ -2,7 +2,7 @@
 title: Eerste Adobe Analytics-implementatie
 landing-page-description: Deze video begeleidt u door het proces om binnen een paar minuten aan de slag te gaan met Adobe Analytics-gegevens.
 description: Het is eenvoudiger dan ooit om Adobe Analytics te implementeren. Als u gloednieuw bent in onze oplossing, zal deze video u door het proces laten lopen om met gegevens over een paar minuten in gebruik te nemen.
-feature: Implementation Basics
+feature: Grondbeginselen van implementatie
 topics: null
 activity: implement
 doc-type: feature video
