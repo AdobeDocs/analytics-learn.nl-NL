@@ -2,13 +2,13 @@
 title: Hoe Adobe Analysis Workspace uw bedrijf kan veranderen
 landing-page-description: Met Analysis Workspace kunt u Ad hoc Analyse, Flexibele Analyse, CohortAnalyse, en Analyse van de Uitval doen.
 description: Analysis Workspace is een nieuwe en gebruiksvriendelijke interface in Adobe Analytics. In Analysis Workspace kunt u Ad hoc Analyse, Flexibele Analyse, CohortAnalyse, en Analyse van de Uitval doen. U kunt de analyse het werkmilieu met iedereen in uw bedrijf ook delen, en zijn belemmering en dalingsfunctie staat iedereen toe om de gegevens gemakkelijk te analyseren en inzicht snel te krijgen.
-feature: Workspace Basics
+feature: Basisprincipes van werkruimte
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4382
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
 level: Beginner
 exl-id: 6e23fcf4-b4e2-4370-8904-801a13acf651
 translation-type: tm+mt
