@@ -5,9 +5,9 @@ breadcrumb-title: Analytische Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: df4876d8cca8023036e75edfb1150aee5243b591
+source-git-commit: 299d9ff15d3c2a4847e6b4f122dd80035043b41a
 workflow-type: tm+mt
-source-wordcount: '1980'
+source-wordcount: '1986'
 ht-degree: 8%
 
 ---
@@ -208,6 +208,7 @@ ht-degree: 8%
       + [Toegang tot rapportsuite beperken in Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
    + Rapportuiteinden beheren {#manage-report-suites}
       + [Algemene accountinstellingen configureren](administration/manage-report-suites/configuring-general-account-settings.md)
+      + [Kalenderinstellingen aanpassen](administration/manage-report-suites/customize-calendar-settings.md)
       + [Instellingen voor postcode en postcode configureren](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Variabelen configureren in de Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + Data Governance en GDPR {#data-governance-and-gdpr}
@@ -371,3 +372,4 @@ ht-degree: 8%
    + [Adobe Analytics 2.0 API-verzoeken maken met Postman](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Gebruiksscenario&#39;s voor analyse {#analysis-use-cases}
    + [ZIP-codeanalyse voor in de handel gebrachte producten instellen](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
++ [Studieprogramma Analytics University](analytics-university/curriculum.md)
