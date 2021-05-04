@@ -5,9 +5,9 @@ breadcrumb-title: Analytische Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 299d9ff15d3c2a4847e6b4f122dd80035043b41a
+source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
 workflow-type: tm+mt
-source-wordcount: '1986'
+source-wordcount: '1998'
 ht-degree: 8%
 
 ---
@@ -209,6 +209,9 @@ ht-degree: 8%
    + Rapportuiteinden beheren {#manage-report-suites}
       + [Algemene accountinstellingen configureren](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Kalenderinstellingen aanpassen](administration/manage-report-suites/customize-calendar-settings.md)
+      + [Menu&#39;s aanpassen in rapporten en analyses](administration/manage-report-suites/customize-menus.md)
+      + [Zoekmethoden configureren](administration/manage-report-suites/configure-finding-methods.md)
+      + [Interne URL-filters instellen](administration/manage-report-suites/set-internal-url-filters.md)
       + [Instellingen voor postcode en postcode configureren](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Variabelen configureren in de Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + Data Governance en GDPR {#data-governance-and-gdpr}
