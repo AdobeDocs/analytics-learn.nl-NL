@@ -4,22 +4,21 @@ user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analyt
 breadcrumb-title: Analytische Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-translation-type: tm+mt
-source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
+source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
 workflow-type: tm+mt
-source-wordcount: '1998'
+source-wordcount: '2007'
 ht-degree: 8%
 
 ---
 
 
-# Tutorials voor analyse {#tutorials}
+# Analytische Tutorials {#tutorials}
 
 + [Overzicht](overview.md)
 + Inleiding tot Analytics {#intro-to-analytics}
    + Wat kan Adobe Analytics voor mij doen? {#what-can-aa-do-for-me}
       + [Hoe Adobe Analysis Workspace uw bedrijf kan veranderen](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
-      + [Het is meer dan data. Het is de Intelligentie van de Klant](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
+      + [Het is meer dan data. Het is Customer Intelligence](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
       + [Adobe Sensei en Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
       + [Gebruiksscenario voor klant - ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
       + [Gebruiksscenario voor klant - Acceptatiegroep](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
@@ -318,6 +317,7 @@ ht-degree: 8%
       + [Audience Analytics - AAM in Analytics integreren](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
    + Target {#target}
       + [Deelvenster Analytics for Target (A4T) in Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
+      + [Een automatisch doelactiviteit analyseren met het A4T-deelvenster](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
    + Ad Cloud {#ad-cloud}
       + [Advertising Analytics configureren](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [Trackingsjablonen implementeren in zoekmachines](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
