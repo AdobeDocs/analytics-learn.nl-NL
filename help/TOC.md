@@ -4,9 +4,9 @@ user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analyt
 breadcrumb-title: Analytische Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
+source-git-commit: 04c046c74c5287ebdd1b01bc9a5586475d14363a
 workflow-type: tm+mt
-source-wordcount: '2007'
+source-wordcount: '2017'
 ht-degree: 8%
 
 ---
@@ -374,5 +374,7 @@ ht-degree: 8%
    + [Report Builder gebruiken om de Adobe Analytics API te leren](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html)
    + [Adobe Analytics 2.0 API-verzoeken maken met Postman](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Gebruiksscenario&#39;s voor analyse {#analysis-use-cases}
+   + Interne site zoeken {#internal-site-search}
+      + [De zakelijke vereisten voor het zoeken op uw interne site definiëren](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
    + [ZIP-codeanalyse voor in de handel gebrachte producten instellen](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Studieprogramma Analytics University](analytics-university/curriculum.md)
