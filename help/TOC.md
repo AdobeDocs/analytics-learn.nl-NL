@@ -4,9 +4,9 @@ user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analyt
 breadcrumb-title: Analytische Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: cc377025e4d793a908fd6cddceb74441300f3449
+source-git-commit: 1824ce43c99a56d2dd4c116783e06f71c0d74a46
 workflow-type: tm+mt
-source-wordcount: '2042'
+source-wordcount: '2067'
 ht-degree: 8%
 
 ---
@@ -54,6 +54,7 @@ ht-degree: 8%
       + [Analysis Workspace Introduction](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace - Overzicht](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Nieuwe Analysis Workspace-projecten maken](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
+      + [Een werkruimteproject helemaal vanaf het begin maken](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Aangepaste sjablonen maken en beheren in Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Standaardsjablonen in Analysis Workspace](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
       + [Aangepaste sjablonen gebruiken om Analysis Workspace-gebruikers van Novice in te schakelen](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
@@ -88,6 +89,7 @@ ht-degree: 8%
       + [Verbeteringen voor segmentneerzetzone](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Meerdere rapportsuites in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
    + Vrije-vormtabellen maken {#building-freeform-tables}
+      + [Begrijp uw gegevens-Vrije Lijsten van de Vorm](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [Het gebruiken van het Linkerspoor om Vrije Lijsten van de Vorm in Analysis Workspace te bouwen](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [Automatisch vrije-vormtabellen maken in Analysis Workspace](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [Werken met Dimension in een tabel voor vrije vorm](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
@@ -105,6 +107,7 @@ ht-degree: 8%
    + Visualisaties {#visualizations}
       + [Gegevensvisualisatie in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [Visualisatietypen](analysis-workspace/visualizations/visualization-types.md)
+      + [Gebruiksgevallen voor visualisatie](analysis-workspace/visualizations/visualization-use-cases.md)
       + [Te visualiseren gegevens selecteren](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Gegevens ophalen in visualisaties](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Onderdeeldropdowns in Workspace gebruiken](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
@@ -157,6 +160,7 @@ ht-degree: 8%
       + [Datumvergelijkingen in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Vergelijkingen van voorafgaande maanden en jaar toevoegen aan trends](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
    + De reizen van de Klant {#analyzing-customer-journeys} analyseren
+      + [Gegevens begrijpen—Fallout &amp; Flow](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Reis-IQ - Apparaatanalyse](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
       + [Vallout Visualisatie](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Verbeteringen voor de volledige visualisatie](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
@@ -186,6 +190,7 @@ ht-degree: 8%
       + [Aangepaste terugblikvensters in Attribution IQ](analysis-workspace/attribution-iq/custom-lookback-windows-in-attribution-iq.md)
    + Cohortanalyse {#cohort-analysis}
       + [Cohortanalyse in Analysis Workspace](analysis-workspace/cohort-analysis/cohort-analysis-workspace.md)
+      + [Gegevens begrijpen—Codetabellen](analysis-workspace/cohort-analysis/understand-your-data-cohort-tables.md)
       + [Overzicht van Cohort Tables](analysis-workspace/cohort-analysis/overview-of-cohort-tables-in-analysis-workspace.md)
       + [Tabelinstellingen coderen](analysis-workspace/cohort-analysis/cohort-table-settings.md)
       + [Churn-analyse met kleurentabellen](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
@@ -259,6 +264,7 @@ ht-degree: 8%
 + Onderdelen {#components}
    + Segmentatie {#segmentation}
       + [Overzicht van Segment Builder](components/segmentation/segment-builder-overview.md)
+      + [Segmenten zoeken en maken](components/segmentation/finding-and-creating-segments.md)
       + [Voor/Na-reeksen in opeenvolgende segmentatie](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [Roldatumbereiken in segmenten](components/segmentation/rolling-date-ranges-in-segments.md)
       + [Segmentvergelijking in Analysis Workspace](components/segmentation/segment-comparison-in-analysis-workspace.md)
