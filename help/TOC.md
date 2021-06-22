@@ -4,9 +4,9 @@ user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analyt
 breadcrumb-title: Analytische Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 1824ce43c99a56d2dd4c116783e06f71c0d74a46
+source-git-commit: f28d92541b8750f8f65de64023e672f9e5a0f694
 workflow-type: tm+mt
-source-wordcount: '2067'
+source-wordcount: '2071'
 ht-degree: 8%
 
 ---
@@ -113,6 +113,7 @@ ht-degree: 8%
       + [Onderdeeldropdowns in Workspace gebruiken](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Lijnvisualisatie in Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Trendlines toevoegen aan Line Visualizations](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
+      + [Gebied en gebied gestapeld](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [Opsomminggrafiek visualisatie](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [Histogramvisualisatie](analysis-workspace/visualizations/histogram-visualization.md)
       + [Kaartvisualisatie](analysis-workspace/visualizations/map-visualization.md)
