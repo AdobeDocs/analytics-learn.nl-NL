@@ -1,17 +1,19 @@
 ---
-title: Studieprogramma Adobe Analytics University
+title: Adobe Analytics-studieprogramma
 description: Adobe is er trots op om deze basisinhoud van Analytics aan uw universiteit te presenteren. In het studieprogramma vindt u vier aparte modules die u kunnen introduceren bij de verzameling en rapportage van Adobe Analytics. Deze modules kunnen worden opgedeeld in digitale analyses of marketingcursussen. Deze inleidende handleiding zal professoren en studenten in staat stellen de kennis te verwerven die nodig is om deel te nemen aan de mondiale uitdaging van Adobe Analytics elke Herfst.
 hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
-source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
+source-git-commit: 43382a7de3dc0b0d65ccf8403ce200c2fd980518
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Adobe Analytics University
+# Adobe Analytics-studieprogramma
+
+>[!VIDEO](https://video.tv.adobe.com/v/334350/?quality=12&learn=on)
 
 ## Inhoud van analytische cursus
 
