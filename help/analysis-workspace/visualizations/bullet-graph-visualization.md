@@ -1,25 +1,24 @@
 ---
 title: Opsomminggrafiek in Analysis Workspace
 description: Opsommingsgrafieken zijn een handige manier om vooruitgang te tonen in de richting van (of meer dan) een doel in uw analyse. Ze bieden u een andere manier om het succes van uw organisatie te visualiseren.
-feature: Visualizations
-topics: null
+feature: Visualisaties
 activity: use
 doc-type: feature video
-team: Technical Marketing
 kt: 2116
 role: Business Practitioner
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 369904c2-5de9-495c-abd2-0c3900f6c49f
+source-git-commit: 5689424f4597c509ca5040f8b8f2b06a1fd60bfb
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '87'
 ht-degree: 1%
 
 ---
 
-
-# [!UICONTROL Bullet] Grafiek  [!UICONTROL Visualization] in Analysis Workspace  {#bullet-graph-visualization-in-analysis-workspace}
+# [!UICONTROL Bullet] Grafiek  [!UICONTROL Visualization] in Analysis Workspace {#bullet-graph-visualization-in-analysis-workspace}
 
 [!UICONTROL Bullet] grafieken zijn een handige manier om vooruitgang te tonen in de richting van (of meer dan) een doel in uw analyse. Ze bieden u een andere manier om het succes van uw organisatie te visualiseren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12)
+
+Voor meer informatie raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=en).
