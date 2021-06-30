@@ -4,9 +4,9 @@ user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analyt
 breadcrumb-title: Analytische Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 1896c5d47fcb0bdde0e6c854a78004cef32e9d90
+source-git-commit: 5689424f4597c509ca5040f8b8f2b06a1fd60bfb
 workflow-type: tm+mt
-source-wordcount: '2072'
+source-wordcount: '2066'
 ht-degree: 8%
 
 ---
@@ -111,15 +111,18 @@ ht-degree: 8%
       + [Te visualiseren gegevens selecteren](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Gegevens ophalen in visualisaties](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Onderdeeldropdowns in Workspace gebruiken](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [Lijnvisualisatie in Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
-      + [Trendlines toevoegen aan Line Visualizations](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Gebied en gebied gestapeld](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [Gestapelde visualisaties voor balken en balken](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [Opsomminggrafiek visualisatie](analysis-workspace/visualizations/bullet-graph-visualization.md)
-      + [De Donut-visualisatie gebruiken](analysis-workspace/visualizations/using-the-donut-visualization.md)
+      + [Donut Visualization](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Histogramvisualisatie](analysis-workspace/visualizations/histogram-visualization.md)
+      + [Lijnvisualisatie in Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [Trendlines toevoegen aan Line Visualizations](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Kaartvisualisatie](analysis-workspace/visualizations/map-visualization.md)
       + [Samenvattingsnummer en visualisaties van samenvattingswijzigingen](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
+      + [Visualisatie van tekst](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
+      + [Treemap en Scatterplot Visualizaties](analysis-workspace/visualizations/treemap-and-scatterplot-visualizations.md)
+      + [Venn Diagram Visualisatie](analysis-workspace/visualizations/venn-diagram-visualization.md)
       + [De functie Cumulatief gemiddelde gebruiken om metrisch vloeiend maken toe te passen](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [Flexibele indelingen](analysis-workspace/visualizations/flexible-layouts.md)
       + [De schaal/as wijzigen bij visualisatie](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
@@ -128,13 +131,10 @@ ht-degree: 8%
       + [Intra-linking in Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [Positief-negatief kaartthema](analysis-workspace/visualizations/positive-negative-map-theme.md)
       + [Visualisaties opnieuw rangschikken en vergroten/verkleinen](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
-      + [RTF-editor in Analysis Workspace](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [Reekslabel bewerken](analysis-workspace/visualizations/series-label-editing.md)
       + [100% gestapelde visualisaties](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [Instellingen van tabelgegevensbron](analysis-workspace/visualizations/table-data-source-settings.md)
       + [Een Time-Parting Heatmap maken](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
-      + [Treemap en Scatterplot Visualizaties](analysis-workspace/visualizations/treemap-and-scatterplot-visualizations.md)
-      + [Venn Diagram Visualisatie](analysis-workspace/visualizations/venn-diagram-visualization.md)
       + [Instellingen voor visualisatiegegevens](analysis-workspace/visualizations/visualization-data-source-settings.md)
    + Segmenten {#applying-segments} toepassen
       + [Segmenten toepassen op uw Analysis Workspace-project](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
