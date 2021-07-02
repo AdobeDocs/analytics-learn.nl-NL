@@ -4,9 +4,9 @@ user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analyt
 breadcrumb-title: Analytische Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 5689424f4597c509ca5040f8b8f2b06a1fd60bfb
+source-git-commit: e2f27788da1c1355f55984c1435dd00d29f2fbd5
 workflow-type: tm+mt
-source-wordcount: '2066'
+source-wordcount: '2065'
 ht-degree: 8%
 
 ---
@@ -111,17 +111,18 @@ ht-degree: 8%
       + [Te visualiseren gegevens selecteren](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Gegevens ophalen in visualisaties](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Onderdeeldropdowns in Workspace gebruiken](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [Gebied en gebied gestapeld](analysis-workspace/visualizations/area-and-area-stacked.md)
+      + [Gebied en gebied gestapelde visualisaties](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [Gestapelde visualisaties voor balken en balken](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [Opsomminggrafiek visualisatie](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [Donut Visualization](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Histogramvisualisatie](analysis-workspace/visualizations/histogram-visualization.md)
-      + [Lijnvisualisatie in Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
-      + [Trendlines toevoegen aan Line Visualizations](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
+      + [Lijnvisualisatie](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [Trend Lines toevoegen aan Line Visualizations](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Kaartvisualisatie](analysis-workspace/visualizations/map-visualization.md)
       + [Samenvattingsnummer en visualisaties van samenvattingswijzigingen](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
       + [Visualisatie van tekst](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
-      + [Treemap en Scatterplot Visualizaties](analysis-workspace/visualizations/treemap-and-scatterplot-visualizations.md)
+      + [Visualisatie van verstrooiingspunten](analysis-workspace/visualizations/scatterplot-visualization.md)
+      + [Treemap Visualization](analysis-workspace/visualizations/treemap-visualization.md)
       + [Venn Diagram Visualisatie](analysis-workspace/visualizations/venn-diagram-visualization.md)
       + [De functie Cumulatief gemiddelde gebruiken om metrisch vloeiend maken toe te passen](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [Flexibele indelingen](analysis-workspace/visualizations/flexible-layouts.md)
