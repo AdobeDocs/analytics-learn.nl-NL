@@ -1,23 +1,22 @@
 ---
 title: Churn-analyse met kleurentabellen
 description: 'Cohort Tables biedt twee analysetypen: Retentie en Churn. Terwijl het Behouden toont hoeveel gebruikers in tijd worden behouden, zal de optie van de Koord tonen hoeveel gebruikers werden verloren (1 - Behoud).'
-feature: Visualizations
+feature: Visualisaties
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25966.jpg
 kt: 2479
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 4abb937f-24be-4a91-bcab-489a093e96b6
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '79'
 ht-degree: 1%
 
 ---
-
 
 # [!UICONTROL Churn] Analyse met  [!UICONTROL Cohort Tables] {#churn-analysis-with-cohort-tables}
 
