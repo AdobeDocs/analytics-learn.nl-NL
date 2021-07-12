@@ -1,23 +1,22 @@
 ---
 title: 'Best practices gebruiken bij het bijhouden van toepassingen voor één pagina (SPA) in Adobe Analytics '
 description: In dit document worden verschillende aanbevolen procedures beschreven die u moet volgen en waarvan u weet dat u Adobe Analytics gebruikt om toepassingen voor één pagina (SPA) bij te houden. Dit document zal zich op het gebruiken van Experience Platform Launch concentreren, dat de geadviseerde implementatiemethode is.
-feature: Implementation Basics
+feature: Grondbeginselen van implementatie
 topics: spa
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1389
 topic: SPA
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 8fe63dd1-9629-437f-ae07-fe1c5a05fa42
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '1646'
+source-wordcount: '1642'
 ht-degree: 0%
 
 ---
-
 
 # Best practices gebruiken bij het bijhouden van toepassingen voor één pagina (SPA) in Adobe Analytics {#using-best-practices-when-tracking-spa-in-adobe-analytics}
 
@@ -34,7 +33,7 @@ EERSTE OPMERKINGEN:
 
 **NOTA:** Zoals vermeld, is dit een vereenvoudigd diagram van hoe SPA pagina&#39;s in een implementatie van Adobe Analytics gebruikend worden behandeld  [!DNL Experience Platform Launch]. In de volgende secties van deze pagina zullen we de stappen en eventuele problemen bespreken die u zorgvuldig moet overwegen of aanpakken.
 
-## De gegevenslaag {#setting-the-data-layer} instellen
+## De gegevenslaag instellen {#setting-the-data-layer}
 
 Wanneer nieuwe inhoud op een SPA pagina wordt geladen, of wanneer een actie op een SPA pagina plaatsvindt, één van de eerste dingen u zou moeten doen is de gegevenslaag bijwerken. Dit moet gebeuren VOORDAT de aangepaste gebeurtenis wordt geactiveerd en regels worden geactiveerd in [!DNL Experience Platform Launch], zodat [!DNL Experience Platform Launch] de nieuwe waarden kan ophalen uit de gegevenslaag en deze naar Adobe Analytics kan duwen.
 
@@ -105,7 +104,7 @@ De volgende video laat zien waar/hoe `s.t()` of `s.tl()` in Launch by Adobe moet
 
 >[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12)
 
-## Variabelen {#clearing-variables} wissen
+## Variabelen wissen {#clearing-variables}
 
 Wanneer u uw site met Adobe Analytics bijhoudt, wilt u natuurlijk alleen de juiste gegevens op het juiste moment naar [!DNL Analytics] sturen. In een SPA milieu, kan een waarde die in een [!DNL Analytics] variabele wordt gevolgd voortbestaan en opnieuw worden verzonden naar [!DNL Analytics], potentieel wanneer wij het niet meer willen. Daarom is er een functie in [!DNL Analytics] [!DNL Launch] uitbreiding om de variabelen te ontruimen, zodat u een nieuwe leisteen hebt wanneer u het volgende beeldverzoek in werking stelt en gegevens naar [!DNL Analytics] verzendt.
 
@@ -119,7 +118,7 @@ In de volgende video ziet u waar/hoe u de variabelen in [!DNL Launch] wist.
 
 ## Aanvullende overwegingen {#additional-considerations}
 
-### Aangepaste codevensters in [!DNL Experience Platform Launch] {#custom-code-windows-in-launch}
+### De Vensters van de Code van de douane in [!DNL Experience Platform Launch] {#custom-code-windows-in-launch}
 
 In de [!DNL Launch] [!DNL Analytics] uitbreiding, zijn er twee plaatsen waar u douanecode kunt opnemen: De sectie [!UICONTROL library management] en de extra sectie &quot;[!UICONTROL Configure Tracker Using Custom Code]&quot;.
 
@@ -127,7 +126,7 @@ In de [!DNL Launch] [!DNL Analytics] uitbreiding, zijn er twee plaatsen waar u d
 
 Het is belangrijk om te weten dat één van beide plaatsen werkelijk slechts de code in hen zal in werking stellen eens, wanneer de aanvankelijke paginading op uw SPA pagina gebeurt. Als de code moet worden uitgevoerd op een wijziging van de weergave of op een actie op uw site, moet u een extra handeling toevoegen aan de betreffende **[!UICONTROL rule]** (bijvoorbeeld in het item &quot;page load: event-view-end&quot; [!UICONTROL rule]), zodat de code elke keer wordt uitgevoerd dat [!UICONTROL rule] loopt. Wanneer u die handeling maakt in de [!UICONTROL rule], stelt u *Extension = Core* en *Action Type = Custom Code* in.
 
-### &quot;Hybride&quot; SPA/Reguliere sites {#hybrid-spa-regular-sites}
+### &quot;Hybride&quot; SPA/gewone sites {#hybrid-spa-regular-sites}
 
 Sommige sites bestaan uit een combinatie van &quot;gewone&quot; pagina&#39;s en SPA pagina&#39;s. In dit geval, zult u een strategie moeten gebruiken die voor beide paginatypen werkt. Wanneer u uw aangepaste gebeurtenissen op de site configureert en de regels in [!DNL Experience Platform Launch] activeert, moet u ervoor zorgen dat er geen dubbele treffers vanuit de pagina naar [!DNL Analytics] gaan, gebaseerd op wijzigingen in de hash, enz. (als dat is hoe u ervoor hebt gekozen om de [!DNL Experience Platform Launch] regel teweeg te brengen). In dit geval moet u een van de paginaweergaven onderdrukken, zodat u geen onjuiste gegevens krijgt in Adobe Analytics.
 
