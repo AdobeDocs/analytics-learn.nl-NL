@@ -1,22 +1,21 @@
 ---
 title: Bibliotheekbeheer configureren voor analyse
 description: Als u enkel met Experience Platform Launch uitbreiding voor Adobe Analytics begint, kan deze video u met het bibliotheekbeheersgedeelte van de configuratie helpen, met inbegrip van het selecteren van rapportreeksen waarin u gegevens wilt verzenden.
-feature: Launch Implementation
+feature: Implementatie starten
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2836
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: be28db8a-0de6-4f9f-ae2e-2337e86740a1
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '124'
 ht-degree: 9%
 
 ---
-
 
 # [!UICONTROL Library Management] configureren voor [!DNL Analytics] {#configuring-library-management-in-the-launch-analytics-extension}
 
