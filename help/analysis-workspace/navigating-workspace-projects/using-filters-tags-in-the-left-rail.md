@@ -1,23 +1,22 @@
 ---
 title: Filters (tags) gebruiken in het linkerspoor
 description: Filters (of -tags) zijn een snelle en eenvoudige manier om de linkerrail in Analysis Workspace te filteren en de gewenste onderdelen te zoeken. Gebruik tags die buiten de box vallen en door Adobe worden aangeboden, of voeg uw eigen aangepaste tags toe om gerelateerde componenten te ordenen.
-feature: Workspace Basics
+feature: Basisprincipes van werkruimte
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32959.jpg
 kt: 4845
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ae892414-fcd0-4900-8302-542d4f9bfca8
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '107'
 ht-degree: 8%
 
 ---
-
 
 # Filters (tags) gebruiken in het linkerspoor
 
