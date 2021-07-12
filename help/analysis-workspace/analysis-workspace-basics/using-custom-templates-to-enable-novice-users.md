@@ -3,25 +3,24 @@ title: Aangepaste sjablonen gebruiken om beginnende Analysis Workspace-gebruiker
 seo-title: Aangepaste sjablonen gebruiken om beginnende Analysis Workspace-gebruikers in te schakelen
 description: In deze video ziet u hoe u aangepaste sjablonen kunt samenvoegen met functies voor kopiëren en plakken/invoegen, zodat beginnende gebruikers in uw organisatie beter van dienst zijn.
 seo-description: In deze video ziet u hoe u aangepaste sjablonen kunt samenvoegen met functies voor kopiëren en plakken/invoegen, zodat beginnende gebruikers in uw organisatie beter van dienst zijn.
-feature: Projects
+feature: Projecten
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1694
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 9766aff9-1025-43a1-bdf3-3559d48060a1
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-
-# Aangepaste sjablonen gebruiken om beginnende Analysis Workspace-gebruikers {#using-custom-templates-to-enable-novice-analysis-workspace-users} in te schakelen
+# Aangepaste sjablonen gebruiken om beginnende Analysis Workspace-gebruikers in te schakelen {#using-custom-templates-to-enable-novice-analysis-workspace-users}
 
 In deze video ziet u hoe u aangepaste sjablonen kunt samenvoegen met functies voor kopiëren en plakken/invoegen, zodat beginnende gebruikers in uw organisatie beter van dienst zijn.
 
