@@ -1,22 +1,21 @@
 ---
 title: Een opstartregel toevoegen voor de koopgebeurtenis
 description: In deze video ziet u hoe u de extensie van de productreeks in Launch kunt gebruiken om aankopen op uw site te volgen. Dit resulteert in de metrische gegevens Opbrengsten, Bestellingen en Eenheden in uw analyse.
-feature: Launch Implementation
+feature: Implementatie starten
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3593
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d5f29523-5726-4c49-8ce6-a21c0a7a6c73
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
-
 
 # Een [!DNL Launch] [!UICONTROL Rule] toevoegen voor de gebeurtenis [!DNL Purchase]
 
