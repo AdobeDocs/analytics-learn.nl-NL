@@ -1,24 +1,23 @@
 ---
 title: Verbeteringen voor segmentneerzetzones in Analysis Workspace
 description: De dropzones van segmenten zijn verbeterd, zodat u overal in een project iets kunt neerzetten.
-feature: Panels
+feature: Deelvensters
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2008
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d07ba0a5-735b-43f2-ad67-31520ac897bd
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '96'
 ht-degree: 1%
 
 ---
 
-
-# [!UICONTROL Segment] Verbeteringen in de neerzetzone in Analysis Workspace  {#segment-drop-zone-improvements-in-analysis-workspace}
+# [!UICONTROL Segment] Verbeteringen in de neerzetzone in Analysis Workspace {#segment-drop-zone-improvements-in-analysis-workspace}
 
 [!UICONTROL Segment] dropzones zijn verbeterd, zodat u overal in een project iets kunt neerzetten.
 
