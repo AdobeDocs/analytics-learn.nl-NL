@@ -1,24 +1,23 @@
 ---
 title: Visualisatie kaart in Analysis Workspace
 description: In deze video ziet u hoe u de nieuwe Kaartweergave in Analysis Workspace kunt gebruiken. Met de Kaartweergave kunt u mobiele gegevens (lang/lang) of webgegevens (IP-adres) weergeven op basis van een dynamische kaart, zodat u een idee krijgt van het gebruik door klanten in de context van hun locatie.
-feature: Visualizations
+feature: Visualisaties
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1771
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
-
-# [!UICONTROL Map] [!UICONTROL Visualization] in Analysis Workspace  {#map-visualization-in-analysis-workspace}
+# [!UICONTROL Map] [!UICONTROL Visualization] in Analysis Workspace {#map-visualization-in-analysis-workspace}
 
 In deze video ziet u hoe u [!UICONTROL Map] [!UICONTROL visualization] in Analysis Workspace gebruikt. Met de [!UICONTROL Map]-video kunt u ofwel [!UICONTROL mobile lat/long] ofwel webgegevens (IP-adres) bekijken tegen een dynamische [!UICONTROL map], zodat u een idee krijgt van het gebruik door de klant in de context van hun locatie.
 
