@@ -7,18 +7,17 @@ activity: use
 doc-type: technical video
 team: Technical Marketing
 kt: 2387
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Experienced
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 0b0e73f8-921d-40ad-b93d-98a1cbc020c8
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
-
-# [!DNL Postman] gebruiken om Adobe Analytics 2.0 API-verzoeken te maken {#using-postman-to-make-adobe-analytics-api-requests}
+# Adobe Analytics 2.0 API-verzoeken maken met [!DNL Postman] {#using-postman-to-make-adobe-analytics-api-requests}
 
 In deze video wordt uitgelegd hoe u [!DNL Postman], een API-client, kunt instellen om Adobe Analytics 2.0 API-aanvragen te verzenden. Het omvat het opzetten van een integratie van de Adobe I/O (NOTA: moet u een systeembeheerder in Experience Cloud zijn om dit op te zetten), waar te om uw globale bedrijfsidentiteitskaart te vinden, en meer.
 
