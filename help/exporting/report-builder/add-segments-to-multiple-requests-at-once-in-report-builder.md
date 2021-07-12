@@ -7,18 +7,17 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2344
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: db5b7623-d863-4ecd-9902-8b20f6aea257
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '89'
 ht-degree: 2%
 
 ---
 
-
-# Voeg Adobe Analytics-segmenten toe aan meerdere aanvragen tegelijk in [!UICONTROL Report Builder] {#add-adobe-analytics-segments-to-multiple-requests-at-once-in-report-builder}
+# Adobe Analytics-segmenten aan meerdere aanvragen tegelijk toevoegen in [!UICONTROL Report Builder] {#add-adobe-analytics-segments-to-multiple-requests-at-once-in-report-builder}
 
 In deze video ziet u hoe u [!UICONTROL Report Builder] kunt gebruiken om segmenten toe te voegen aan al uw verzoeken tegelijk, zodat u tijd en gedoe bespaart.
 
