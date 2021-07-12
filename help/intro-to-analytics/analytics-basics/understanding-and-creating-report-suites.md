@@ -1,22 +1,21 @@
 ---
 title: Het begrijpen van en het Creëren van de Reeksen van het Rapport
 description: Deze video helpt u te begrijpen welke rapportsuites zijn, en zal u tonen hoe te om hen in de interface te creëren, zodat u de mensen kunt volgen en optimaliseren die aan uw plaats komen.
-feature: Analytics Basics
+feature: Basisbeginselen van analysemogelijkheden
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3574
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 7c7fc1f3-63b3-42cd-a9b8-bd300d8d1921
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
-
 
 # [!UICONTROL Report Suites] begrijpen en maken
 
