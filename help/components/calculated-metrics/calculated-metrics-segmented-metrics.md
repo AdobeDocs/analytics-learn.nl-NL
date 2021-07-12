@@ -1,24 +1,23 @@
 ---
 title: Berekende cijfers - Gesegmenteerde cijfers
 description: Meer informatie over het maken van gesegmenteerde metriek in Adobe Analytics
-feature: Calculated Metrics
+feature: Berekende standaarden
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2319
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: c02b968d-aa0e-4a93-acd4-d8797533b182
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '29'
-ht-degree: 6%
+source-wordcount: '26'
+ht-degree: 7%
 
 ---
 
-
-# [!UICONTROL Calculated metrics]: Gesegmenteerde cijfers  {#calculated-metrics-segmented-metrics}
+# [!UICONTROL Calculated metrics]: Gesegmenteerde cijfers {#calculated-metrics-segmented-metrics}
 
 Meer informatie over het maken van gesegmenteerde metriek in Adobe Analytics
 
