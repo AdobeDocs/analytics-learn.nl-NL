@@ -1,23 +1,22 @@
 ---
 title: Trendlines toevoegen aan Line Visualizations
 description: Onder de Montages van de Visualisatie, kunt u verkiezen om een regressie of bewegende gemiddelde trendlijn aan uw lijnreeks toe te voegen die kan helpen om een helderder patroon in de gegevens af te beelden. De opties omvatten Lineair, Logaritmisch, Exponential, Macht, Quadratic, en het Verplaatsen Gemiddelden.
-feature: Visualizations
+feature: Visualisaties
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330176.jpg
 kt: 6833
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: cef228e1-945f-44e2-80cd-d22842fd05a4
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
-
 
 # Trendlines toevoegen aan Line Visualizations
 
