@@ -1,22 +1,21 @@
 ---
 title: Aangepaste sjablonen maken en beheren in Analysis Workspace
 description: In deze video leert u hoe u aangepaste sjablonen kunt maken in Analysis Workspace, zodat u en uw team kunnen beginnen met een specifieke set rapporten.
-feature: Projects
+feature: Projecten
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1695
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # Aangepaste sjablonen maken en beheren in Analysis Workspace {#create-and-manage-custom-templates-in-analysis-workspace}
 
