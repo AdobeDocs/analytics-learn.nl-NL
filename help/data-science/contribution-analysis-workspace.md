@@ -1,24 +1,23 @@
 ---
 title: Bijdrage-analyse in Analysis Workspace
 description: Deze video doorloopt de Analyse van de Bijdrage en zijn capaciteit om machine het leren te gebruiken om de factoren snel en gemakkelijk te verklaren die tot een trend in uw gegevens hebben bijgedragen.
-feature: Data Science
+feature: Gegevenswetenschap
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2337
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: fd939c04-f28c-4b84-9768-2e9644945afb
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
-
-# [!UICONTROL Contribution Analysis] in Analysis Workspace  {#contribution-analysis-in-analysis-workspace}
+# [!UICONTROL Contribution Analysis] in Analysis Workspace {#contribution-analysis-in-analysis-workspace}
 
 Deze video doorloopt [!UICONTROL Contribution Analysis] en zijn capaciteit om machine het leren te gebruiken om de factoren snel en gemakkelijk te verklaren die tot een trend in uw gegevens hebben bijgedragen.
 
