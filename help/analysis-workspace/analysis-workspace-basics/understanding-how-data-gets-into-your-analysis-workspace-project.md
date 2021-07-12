@@ -1,22 +1,21 @@
 ---
 title: Begrijpen hoe gegevens in uw Analysis Workspace-project worden opgehaald
 description: In deze video ziet u hoe u de gegevensstroom van uw pagina naar de tabellen en visualisaties in Analysis Workspace kunt bekijken met de Adobe Experience Cloud Debugger-extensie in Chrome.
-feature: Workspace Basics
+feature: Basisprincipes van werkruimte
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4109
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: eb6eada2-74b1-423c-a80d-2bcc2148e167
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
-
 
 # Begrijpen hoe gegevens in uw Analysis Workspace-project worden opgehaald
 
