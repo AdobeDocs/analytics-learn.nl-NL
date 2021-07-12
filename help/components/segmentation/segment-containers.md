@@ -1,24 +1,23 @@
 ---
 title: Segmentcontainers in Adobe Analytics
 description: Deze video laat zien hoe u met de drie verschillende containertypen voor segmenten werkt in de Segment Builder van Adobe Analytics.
-feature: Segmentation
+feature: Segmentatie
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2301
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 742e263e-2ac0-4d6e-b321-90691189d914
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '67'
 ht-degree: 1%
 
 ---
 
-
-# [!UICONTROL Segment] [!UICONTROL containers] in Adobe Analytics  {#segment-containers-in-adobe-analytics}
+# [!UICONTROL Segment] [!UICONTROL containers] in Adobe Analytics {#segment-containers-in-adobe-analytics}
 
 Deze video laat zien hoe u met de drie verschillende [!UICONTROL segment] [!UICONTROL container]-typen in de [!UICONTROL Segment Builder] van Adobe Analytics kunt werken.
 
