@@ -1,7 +1,7 @@
 ---
 title: Het deelvenster Attribution IQ in Analysis Workspace gebruiken
 description: In deze video ziet u het deelvenster Attribution IQ. Dit is een fantastische beginplaats voor het maken van een Analysis Workspace-project voor toewijzing.
-feature: Attribution
+feature: Attributie
 topics: null
 activity: use
 doc-type: feature video
@@ -9,18 +9,17 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 23139.jpg
 kt: 1667
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 2c265c0b-5d5e-435f-9fdd-086f7faa0bd9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9,2c265c0b-5d5e-435f-9fdd-086f7faa0bd9
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '115'
 ht-degree: 2%
 
 ---
 
-
-# De [!DNL Attribution IQ] [!UICONTROL Panel] gebruiken in Analysis Workspace {#using-the-attribution-iq-panel-in-analysis-workspace}
+# De [!DNL Attribution IQ] [!UICONTROL Panel] in Analysis Workspace gebruiken {#using-the-attribution-iq-panel-in-analysis-workspace}
 
 In deze video ziet u de [!DNL Attribution IQ] [!UICONTROL Panel], een geweldige startpunt bij het maken van uw Analysis Workspace-project voor attributie.
 
