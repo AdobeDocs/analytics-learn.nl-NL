@@ -1,28 +1,27 @@
 ---
 title: Aangepaste koppeling bijhouden zonder tagbeheer
 description: Voor veel acties op de pagina, zou het volgen niet als een paginamening moeten worden behandeld. In deze video leert u hoe u een koppelingsmarkering kunt coderen naar Analytics als u geen tagbeheer gebruikt (zoals Experience Platform Launch). Zie de code en leer een belangrijke tip.
-feature: Appmeasurement Implementation
+feature: Implementatie van toepassingen
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
-
 
 # Aangepaste koppeling bijhouden zonder tagbeheer {#custom-link-tracking-without-a-tag-manager}
 
 Voor veel acties op de pagina, zou het volgen niet als een paginamening moeten worden behandeld. In deze video leert u hoe u een koppelingsmarkering kunt coderen naar Analytics als u geen tagbeheer gebruikt (zoals Adobe [!DNL Experience Platform Launch]). Zie de code en leer een belangrijke tip.
 
-## Een s.tl()-baken {#sending-an-s-tl-beacon} verzenden
+## Een s.tl()-baken verzenden {#sending-an-s-tl-beacon}
 
 Er zijn twee functies die gegevens naar Adobe Analytics verzenden:
 
