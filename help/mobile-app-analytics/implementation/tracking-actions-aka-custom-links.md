@@ -8,18 +8,17 @@ doc-type: technical video
 team: Technical Marketing
 kt: 2563
 topic: Mobile
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Experienced
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
-
-# Handelingen bijhouden (aangepaste AKA-koppelingen) in een mobiele toepassing met de SDK van het Experience Platform {#tracking-actions-aka-custom-links-in-a-mobile-app-with-the-experience-platform-sdk}
+# Handelingen bijhouden (aangepaste AKA-koppelingen) in een mobiele app met de SDK van het Experience Platform {#tracking-actions-aka-custom-links-in-a-mobile-app-with-the-experience-platform-sdk}
 
 Acties zijn gebeurtenissen die in uw mobiele app voorkomen. In deze video leert u hoe u de API trackAction kunt gebruiken om een handeling bij te houden en te meten.
 
