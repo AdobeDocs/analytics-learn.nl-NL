@@ -1,23 +1,22 @@
 ---
 title: Cohortanalyse met elke Dimension
 description: Met de optie Aangepaste cohort Dimension kunt u cohorten analyseren met andere dimensies dan de tijd. Vergelijk cohorts per marketingkanaal, campagnegebied, productpagina, enz. om beter te begrijpen hoe het behoud (of het trekken) door afmetingspunt verandert.
-feature: Visualizations
+feature: Visualisaties
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25967.jpg
 kt: 2478
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 0bb472c0-83e6-44cb-8fca-658355ae3e50
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '90'
 ht-degree: 1%
 
 ---
-
 
 # [!UICONTROL Cohort] Analyse met behulp van  [!UICONTROL Dimension] {#cohort-analysis-using-any-dimension}
 
