@@ -1,24 +1,23 @@
 ---
 title: Cohortanalyse in Analysis Workspace
 description: Een cohortanalystabel maken in Analysis Workspace.
-feature: Visualizations
+feature: Visualisaties
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2135
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: eec26e68-eed9-47b5-8ebf-26a1f6c28d40
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 1%
+source-wordcount: '49'
+ht-degree: 2%
 
 ---
 
-
-# [!UICONTROL Cohort] Analyse in Analysis Workspace  {#cohort-analysis-in-analysis-workspace}
+# [!UICONTROL Cohort] Analyse in Analysis Workspace {#cohort-analysis-in-analysis-workspace}
 
 Hoe te om een [!UICONTROL cohort] analystabel in Analysis Workspace te bouwen.
 
