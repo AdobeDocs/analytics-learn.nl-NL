@@ -1,22 +1,21 @@
 ---
 title: Implementaties controleren met de Adobe Experience Cloud Debugger
 description: Foutopsporing van Experience Cloud is een hulpmiddel dat gebruikers toestaat om Experience Cloud te inspecteren en te zuiveren Markeringen. In deze video wordt uitgelegd hoe u de Experience Cloud Debugger kunt gebruiken om analytische implementaties te inspecteren.
-feature: Validation
+feature: Validatie
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1942
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: c13a5973-3c7a-4980-95c5-447b50b962c7
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
-
 
 # Implementaties inspecteren met de [!DNL Adobe Experience Cloud Debugger] {#inspecting-implementations-with-the-adobe-experience-cloud-debugger}
 
