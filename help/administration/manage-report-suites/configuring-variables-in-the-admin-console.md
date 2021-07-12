@@ -3,23 +3,22 @@ title: Variabelen configureren in de Admin Console
 seo-title: Variabelen configureren in de Admin Console in Adobe Analytics
 description: Nadat u de variabelen en de gebeurtenissen bepaalt die u in uw implementatie van Analytics gaat gebruiken, zult u binnen moeten gaan en hen in de Admin Console vormen, zodat de rapporten/afmetingen/metriek allen de juiste namen en het gedrag hebben. In deze video ziet u waar en hoe u dat moet doen.
 seo-description: Nadat u de variabelen en de gebeurtenissen bepaalt die u in uw implementatie van Analytics gaat gebruiken, zult u binnen moeten gaan en hen in de Admin Console vormen, zodat de rapporten/afmetingen/metriek allen de juiste namen en het gedrag hebben. In deze video ziet u waar en hoe u dat moet doen. Adobe Analytics
-feature: Report Suite Settings
+feature: Instellingen van rapportsuite
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 3582
-topic: Administration
-role: "Administrator, Architect"
+topic: Beheer
+role: Admin, Architect
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 6bbca02c-e788-431b-bcdc-57cda794a76e
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '184'
 ht-degree: 1%
 
 ---
-
 
 # Variabelen configureren in de [!DNL Admin Console]
 
