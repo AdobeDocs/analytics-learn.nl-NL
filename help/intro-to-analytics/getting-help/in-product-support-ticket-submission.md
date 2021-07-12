@@ -1,24 +1,23 @@
 ---
 title: Toelevering voor Ticket voor ondersteuning van producten
 description: U kunt nu rechtstreeks in de gebruikersinterface een ondersteuningsticket voor de klantenservice verzenden waarmee het proces wordt gestroomlijnd in de richting van een oplossing.
-feature: Analytics Basics
+feature: Basisbeginselen van analysemogelijkheden
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1664
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: af75cd36-75ff-4892-b8ec-dd5704dabfe3
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---
 
-
-# Verzending van Ticket voor ondersteuning van producten {#in-product-support-ticket-submission}
+# Toelevering voor Ticket voor ondersteuning van producten {#in-product-support-ticket-submission}
 
 U kunt nu een [!DNL Customer Care] steunkaartje direct in UI voorleggen, die het proces in de richting van resolutie stroomlijnt.
 
