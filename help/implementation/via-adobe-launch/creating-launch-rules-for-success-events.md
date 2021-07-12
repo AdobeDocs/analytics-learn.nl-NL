@@ -1,22 +1,21 @@
 ---
 title: Opstartregels maken voor succesgebeurtenissen
 description: In deze video ziet u hoe u Launch kunt gebruiken om conversiegebeurtenissen (AKA-succesgebeurtenissen) op uw site bij te houden. Dit wordt weergegeven als u een toepassingsproces bijhoudt op een voorbeeldsite.
-feature: Launch Implementation
+feature: Implementatie starten
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3591
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ae600143-87cc-435d-bba2-0bce929070ac
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
-
 
 # [!DNL Launch] [!UICONTROL Rules] maken voor succesgebeurtenissen
 
