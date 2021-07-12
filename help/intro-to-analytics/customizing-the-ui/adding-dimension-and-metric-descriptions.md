@@ -1,22 +1,21 @@
 ---
 title: Dimension- en metrische beschrijvingen toevoegen in Adobe Analytics
 description: In deze video wordt uitgelegd hoe u context kunt toevoegen aan uw rapporten, maatstaven en dimensies in Adobe Analytics.
-feature: Workspace Basics
+feature: Basisprincipes van werkruimte
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2352
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ffc9c54c-1afc-47f0-b057-e57f05139d88
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
-
 
 # [!UICONTROL Dimension]- en [!UICONTROL Metric]-beschrijvingen toevoegen in Adobe Analytics {#adding-dimension-and-metric-descriptions-in-adobe-analytics}
 
