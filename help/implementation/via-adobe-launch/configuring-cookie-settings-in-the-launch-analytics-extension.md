@@ -1,24 +1,23 @@
 ---
 title: Cookie-instellingen configureren in de extensie Analytics starten
 description: Als u nog maar net aan de slag gaat met Launch, by Adobe en de Adobe Analytics-extensie, kunt u met deze video zien of en hoe u de cookie-instellingen kunt instellen in de extensie Analytics.
-feature: Launch Implementation
+feature: Implementatie starten
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2856
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 72013b6e-672e-4e8a-b6a2-27b35d5be5d5
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
-
-# Cookie-instellingen configureren in [!DNL Launch] [!DNL Analytics]-extensie {#configuring-cookie-settings-in-the-launch-analytics-extension}
+# Cookie-instellingen configureren in de extensie [!DNL Launch] [!DNL Analytics] {#configuring-cookie-settings-in-the-launch-analytics-extension}
 
 Als u nog maar net aan de slag gaat met Experience Platform Launch en de Adobe Analytics-extensie, kunt u met deze video zien of en hoe u de cookie-instellingen instelt in de extensie [!DNL Analytics].
 
