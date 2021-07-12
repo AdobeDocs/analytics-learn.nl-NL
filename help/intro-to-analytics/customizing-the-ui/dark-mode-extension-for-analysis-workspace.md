@@ -1,22 +1,21 @@
 ---
 title: Uitbreiding Donkere modus voor Analysis Workspace
 description: Schakel de Reader Chrome-uitbreiding Donker in om Analysis Workspace donker te maken.
-feature: Workspace Basics
+feature: Basisprincipes van werkruimte
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5034
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ae36e538-7ed7-4ca1-a321-a952ee405a9c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 45%
+source-wordcount: '48'
+ht-degree: 47%
 
 ---
-
 
 # Uitbreiding Donkere modus voor Analysis Workspace
 
