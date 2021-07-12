@@ -1,23 +1,22 @@
 ---
 title: Klikken met rechtermuisknop voor efficiëntie van werkruimte
 description: Meer weten over al onze favoriete Analysis Workspace-rechtsklikken en hoe u ze kunt gebruiken. Van de Lijsten van de Vrije Vorm tot de Visualisaties van de Uitval, zal het met de rechtermuisknop aanklikken u efficiënter en bekwaam in Werkruimte maken.
-feature: Workspace Basics
+feature: Basisprincipes van werkruimte
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39377.jpg
 kt: 5939
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 4f0ce6d2-4ce4-4aa7-907d-efcaab958674
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
-
 
 # Klikken met rechtermuisknop voor [!DNL Workspace] efficiëntie
 
