@@ -1,22 +1,21 @@
 ---
 title: Roldatumbereiken in segmenten
 description: 'Adobe Analytics stelt je in staat vragen te beantwoorden als: Wat was mijn 60-daagse voortschrijdende gemiddelde voor de Inkomsten? of - Hoeveel bezoekers hebben de afgelopen week inhoud in mijn app meer dan vijf keer bekeken? door de roldatumbereiken in segmenten op te nemen. In deze video ziet u hoe u dit kunt doen.'
-feature: Segmentation
+feature: Segmentatie
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2304
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d90b0284-caef-4271-9f2a-d3cb1fd57e2b
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
-
 
 # [!UICONTROL Date Ranges] rollen in [!UICONTROL Segments] {#rolling-date-ranges-in-segments}
 
