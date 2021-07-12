@@ -7,16 +7,15 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1774
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 87568f06-1369-46d6-80bd-762a67e4bdcc
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
-
 
 # Component Curation in [!UICONTROL Virtual Report Suites] {#component-curation-in-virtual-report-suites}
 
