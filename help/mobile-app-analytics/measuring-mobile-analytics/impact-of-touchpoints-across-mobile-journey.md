@@ -1,25 +1,24 @@
 ---
 title: Impact van aanraakpunten op mobiele reis
 description: Leer hoe gebruikers van mobiele apps worden beïnvloed door aanraakpunten en weet via welke kanalen de naald voor uw mobiele app wordt verplaatst met behulp van Attribution IQ. Weet welke kanalen samenwerken om succesgebeurtenissen in uw mobiele app te stimuleren.
-feature: Workspace Basics
+feature: Basisprincipes van werkruimte
 topics: mobile
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 3052
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 6ed070ff-cd13-45be-968f-067f0436eab8
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
-
-# Impact van aanraakpunten op mobiele reizen {#impact-of-touchpoints-across-mobile-journey}
+# Impact van aanraakpunten op mobiele reis {#impact-of-touchpoints-across-mobile-journey}
 
 Leer hoe gebruikers van mobiele apps worden beïnvloed door aanraakpunten en weet via [!DNL Attribution IQ] welke kanalen de naald voor uw mobiele app verplaatsen. Weet welke kanalen samenwerken om succesgebeurtenissen in uw mobiele app te stimuleren.
 
