@@ -1,24 +1,23 @@
 ---
 title: Adobe Analytics-computers leren en AI gebruiken voor de momenten die er toe doen
 description: De intelligentie van de klant is nooit veelbelovender geweest. Maar het samenbrengen van gegevens die nuttig kunnen zijn voor zakelijke gebruikers in de hele organisatie — en het afvangen van de belangrijke trends in de tijd om op hen te reageren — is niet iets dat zelfs een geavanceerd team van gegevenswetenschap alleen kan verwerken. Als u de gegevens gebruikt die u al verzamelt, lijken deze Adobe Sensei AI- en computerleermogelijkheden in Adobe Analytics op elkaar.
-feature: Data Science
+feature: Gegevenswetenschap
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2340
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 8b59b6d3-3754-464d-ac87-7b57ce442676
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
-
-# Adobe Analytics-computerlessen en AI gebruiken voor de momenten die {#using-adobe-analytics-machine-learning-and-ai-for-the-moments-that-matter} van belang zijn
+# Adobe Analytics-computers leren en AI gebruiken voor de momenten die er toe doen {#using-adobe-analytics-machine-learning-and-ai-for-the-moments-that-matter}
 
 De intelligentie van de klant is nooit veelbelovender geweest. Maar het samenbrengen van gegevens die nuttig kunnen zijn voor zakelijke gebruikers in de hele organisatie — en het afvangen van de belangrijke trends in de tijd om op hen te reageren — is niet iets dat zelfs een geavanceerd team van gegevenswetenschap alleen kan verwerken. Als u de gegevens gebruikt die u al verzamelt, lijken deze Adobe Sensei AI- en computerleermogelijkheden in Adobe Analytics op elkaar.
 
