@@ -1,22 +1,21 @@
 ---
 title: Aangepaste kleurenpaletten gebruiken in Analysis Workspace
 description: U kunt het kleurenpalet wijzigen dat in Analysis Workspace wordt gebruikt, zodat het beter wordt uitgelijnd op uw merk of dat van uw klanten.
-feature: Workspace Basics
+feature: Basisprincipes van werkruimte
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1943
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 03cb00ce-42c1-481b-8dc2-bf90d8a98acc
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
-
 
 # Aangepast [!UICONTROL Color Palettes] gebruiken in Analysis Workspace {#using-custom-color-palettes-in-analysis-workspace}
 
