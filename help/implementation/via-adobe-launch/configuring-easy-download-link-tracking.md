@@ -1,22 +1,21 @@
 ---
 title: Het vormen van Gemakkelijke Controle van de Verbinding van de Download in Experience Platform Launch
 description: Als u slechts een paar keer klikt in de extensie Adobe Analytics in Experience Platform Launch, kunt u de downloadkoppelingen op uw site volgen (koppelingen waarmee niet-browserbestanden op uw computer worden gedownload). In deze video ziet u hoe u deze instelt.
-feature: Launch Implementation
+feature: Implementatie starten
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1844
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 28822d90-6bbb-43dc-bf98-892e21e71a1d
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
-
 
 # Eenvoudig downloaden [!UICONTROL Link Tracking] configureren in [!DNL Experience Platform Launch] {#configuring-easy-download-link-tracking-in-adobe-launch}
 
