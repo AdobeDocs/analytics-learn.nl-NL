@@ -8,18 +8,17 @@ doc-type: technical video
 team: Technical Marketing
 kt: 2562
 topic: Mobile
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Experienced
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: e58f7e86-dc61-44eb-a44e-fe5e984d8248
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-
-# Volgstatus (AKA-pagina&#39;s of -schermen) in een mobiele toepassing met de SDK van het Experience Platform {#tracking-state-aka-pages-or-screens-in-a-mobile-app-with-the-experience-platform-sdk}
+# Volgstatus (AKA-pagina&#39;s of -schermen) in een mobiele app met de SDK van het Experience Platform {#tracking-state-aka-pages-or-screens-in-a-mobile-app-with-the-experience-platform-sdk}
 
 Frames vertegenwoordigen schermen of weergaven in uw app. Elke keer dat een nieuwe staat in uw toepassing wordt weergegeven, bijvoorbeeld wanneer een gebruiker van de startpagina naar de nieuwsfeed navigeert, kan `trackState` worden aangeroepen om de Staatsnaam (paginanaam in [!DNL Analytics]) en aanvullende gegevens te verzenden. In deze video wordt uitgelegd hoe u dit kunt doen.
 
