@@ -1,22 +1,21 @@
 ---
 title: De functie Aantal bij benadering onderscheiden in berekende metriek
 description: Er is een functie Afzonderlijke telling benaderen toegevoegd aan de functie Berekende metrische bouwer. Het is een lang verwachte functie die de benaderende verschillende telling van afmetingspunten voor een geselecteerde afmeting zal terugkeren.
-feature: Calculated Metrics
+feature: Berekende standaarden
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1910
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d3594ed7-b90e-4f97-89c7-3e6c75534136
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '90'
 ht-degree: 2%
 
 ---
-
 
 # [!UICONTROL Approximate Count Distinct] [!UICONTROL Function] in  [!UICONTROL Calculated Metrics]{#approximate-count-distinct-function-in-calculated-metrics}
 
