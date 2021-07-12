@@ -1,22 +1,21 @@
 ---
 title: Flexibele lay-outs in Analysis Workspace
 description: De Analyse van de vrije vorm omvat de capaciteit om plaats, breedte, en hoogte van grafieken en lijsten te veranderen zodat u een rijker project kunt bouwen. In deze video ziet u hoe u de lay-out kunt wijzigen.
-feature: Visualizations
+feature: Visualisaties
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2137
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 44e8cded-3ef8-4c55-811d-28f4e9415032
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '74'
 ht-degree: 1%
 
 ---
-
 
 # Flexibele lay-outs in Analysis Workspace {#flexible-layouts-in-analysis-workspace}
 
