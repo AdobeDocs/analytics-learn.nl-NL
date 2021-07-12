@@ -1,24 +1,23 @@
 ---
 title: AppMeasurement bijwerken als Experience Platform Launch niet wordt gebruikt
 description: In deze video ziet u hoe u de code appMeasurement kunt bijwerken wanneer u geen Experience Platform Launch gebruikt. Dit omvat waar u de code wilt ophalen en waar u deze wilt bijwerken.
-feature: Appmeasurement Implementation
+feature: Implementatie van toepassingen
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1848
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 27a8ce2f-afea-4505-9525-49720432f40f
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-
-# AppMeasurement bijwerken als [!DNL Experience Platform Launch] {#updating-appmeasurement-when-not-using-adobe-launch} niet wordt gebruikt
+# AppMeasurement bijwerken als [!DNL Experience Platform Launch] niet wordt gebruikt {#updating-appmeasurement-when-not-using-adobe-launch}
 
 In deze video ziet u hoe u de code appMeasurement kunt bijwerken wanneer u geen Adobe [!DNL Experience Platform Launch] gebruikt. Dit omvat waar u de code wilt ophalen en waar u deze wilt bijwerken.
 
