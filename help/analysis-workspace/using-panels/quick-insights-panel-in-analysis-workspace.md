@@ -1,23 +1,22 @@
 ---
 title: Deelvenster Quick Insights in Analysis Workspace
 description: Quick Insights biedt richtlijnen voor niet-analisten en nieuwe gebruikers van Analysis Workspace hoe ze zakelijke vragen snel en eenvoudig kunnen beantwoorden.
-feature: Panels
+feature: Deelvensters
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37248.jpg
 kt: 5838
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: af6da0a2-9273-480c-a915-bd5bab7d5c5d
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 81%
+source-wordcount: '69'
+ht-degree: 85%
 
 ---
-
 
 # [!UICONTROL Quick Insights] Deelvenster in Analysis Workspace
 
