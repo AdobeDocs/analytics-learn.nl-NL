@@ -7,18 +7,17 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2345
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 8b8e0dac-2498-4fba-ba4b-585b309ae1fd
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
-
-# De Adobe Analytics API {#using-report-builder-to-learn-the-adobe-analytics-api} leren gebruiken[!UICONTROL Report Builder]
+# De Adobe Analytics API leren gebruiken met [!UICONTROL Report Builder] {#using-report-builder-to-learn-the-adobe-analytics-api}
 
 [!UICONTROL Report Builder] is iets dat we allemaal kennen en liefhebben. Dus wat als ik je zou vertellen dat je wat je weet over [!UICONTROL Report Builder] zou kunnen gebruiken om je Adobe Analytics skillset nog verder te ontwikkelen? In deze video, zullen wij door hoe te nemen zuiveren [!UICONTROL Report Builder] verzoeken en hen gebruiken om te leren hoe te om uw eigen [!DNL Analytics] API vragen te creëren.
 
