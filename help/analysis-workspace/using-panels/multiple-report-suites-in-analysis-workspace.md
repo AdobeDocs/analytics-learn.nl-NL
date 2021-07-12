@@ -1,22 +1,21 @@
 ---
 title: Meerdere rapportsuites in Analysis Workspace
 description: De veelvoudige rapportreeksen kunnen in één enkel project van de Werkruimte worden geanalyseerd door reeksen op het paneelniveau te selecteren. Op deze manier kunt u een analyse van vensters naast elkaar uitvoeren voor verschillende datasets.
-feature: Panels
+feature: Deelvensters
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4820
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ae9e55c0-a9ab-4b71-8a00-67a2c31a7676
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 32%
+source-wordcount: '129'
+ht-degree: 33%
 
 ---
-
 
 # Meerdere [!UICONTROL Report Suites] in Analysis Workspace
 
