@@ -1,23 +1,22 @@
 ---
 title: Totalen vrije-vormtabellen in Analysis Workspace
 description: In deze video ziet u enkele updates van de totalen van de tabel voor vrije vorm, waaronder de mogelijkheid om totalen te verwijderen.
-feature: Freeform Tables
+feature: Vrije-vormtabellen
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29273.jpg
 kt: 3857
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 22c1f256-041a-49e1-b8e8-47cfd4fb801d
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
-
 
 # Totalen vrije-vormtabellen in Analysis Workspace
 
