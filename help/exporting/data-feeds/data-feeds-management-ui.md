@@ -1,24 +1,23 @@
 ---
 title: Gebruikersinterface gegevensfeeds-beheer
 description: Met de Adobe Analytics Data Feed kunt u onbewerkte klikstreamgegevens exporteren om te importeren en samen te voegen met andere gegevensbronnen in een EDW- of gegevenseer. U kunt uw eigen gegevensfeeds maken en beheren in Adobe Analytics. In deze video ziet u hoe.
-feature: Data Feeds
+feature: Gegevensfeeds
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2353
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 79599c6d-eb3e-438a-8e24-45b286d54071
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '110'
 ht-degree: 1%
 
 ---
 
-
-# [!UICONTROL Data Feeds] Gebruikersinterface voor beheer  {#data-feeds-management-ui}
+# [!UICONTROL Data Feeds] Gebruikersinterface voor beheer {#data-feeds-management-ui}
 
 Met de Adobe Analytics [!UICONTROL Data Feed] kunt u onbewerkte klikstreamgegevens exporteren om deze te importeren en samen te voegen met andere gegevensbronnen in een EDW- of gegevenseer. U kunt uw eigen [!UICONTROL Data Feeds] maken en beheren in Adobe Analytics. In deze video ziet u hoe.
 
