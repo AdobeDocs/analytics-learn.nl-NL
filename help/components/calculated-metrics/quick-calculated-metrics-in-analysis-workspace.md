@@ -1,23 +1,22 @@
 ---
 title: Snel berekende cijfers in Analysis Workspace
 description: Nu kunt u berekende metriek op de vlucht binnen Analysis Workspace bouwen.  Als u een snelle percentagewijziging of verdeling wilt uitvoeren met een paar metriek in uw vrije-vormlijst, selecteert u alleen de metriek in de koptekst, klikt u met de rechtermuisknop en kiest u de gewenste operator.  De nieuwe berekende metrisch zal op het recht verschijnen.
-feature: Calculated Metrics
+feature: Berekende standaarden
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23126.jpg
 kt: 1666
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 461dc5f8-b52e-47ce-b2c4-afe4426dab16
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '114'
 ht-degree: 1%
 
 ---
-
 
 # Snel [!UICONTROL Calculated Metrics] in Analysis Workspace {#quick-calculated-metrics-in-analysis-workspace}
 
