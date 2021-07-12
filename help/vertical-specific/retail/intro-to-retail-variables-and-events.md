@@ -1,22 +1,21 @@
 ---
 title: Introductie tot handelsvariabelen en -gebeurtenissen
 description: Als u een detailhandelssite hebt, zijn er enkele variabelen en gebeurtenissen die alleen voor u zijn gemaakt (bent u niet speciaal)! Deze video geeft u snel inzicht in deze handelsspecifieke variabelen en gebeurtenissen.
-feature: Use Cases
+feature: Gevallen gebruiken
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3579
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 3cf9d641-bb99-40b3-a76b-d9ea62ee7548
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
-
 
 # Introductie tot handelsvariabelen en -gebeurtenissen
 
