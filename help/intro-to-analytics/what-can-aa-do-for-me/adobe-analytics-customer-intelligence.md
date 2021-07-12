@@ -1,22 +1,21 @@
 ---
 title: Adobe Analytics - Het is meer dan data. Het is Customer Intelligence
 description: Om een ervaringsbedrijf te worden, is de gegeven-gedreven marketing essentieel. Breng de rijpheid van uw analysemogelijkheden naar een nieuw niveau - van gegevens tot inzichten tot actie.
-feature: Analytics Basics
+feature: Basisbeginselen van analysemogelijkheden
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4384
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 9aeb8371-3fac-41db-bea3-35c7ca3deeef
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Analytics - Het is meer dan data. Het is Customer Intelligence
 
