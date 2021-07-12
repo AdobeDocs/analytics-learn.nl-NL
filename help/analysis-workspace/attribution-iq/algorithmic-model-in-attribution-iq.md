@@ -1,23 +1,22 @@
 ---
 title: Algoritmisch model in Attribution IQ
 description: Het Algorithmic Attribution model in Analysis Workspace gebruikt statistische technieken om dynamisch de optimale allocatie van krediet voor de geselecteerde metrische waarde te bepalen.
-feature: Attribution
+feature: Attributie
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36205.jpg
 kt: 5554
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: fc7a4eda-0e1b-45a5-876d-022b97ef6e42
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 28%
+source-wordcount: '71'
+ht-degree: 29%
 
 ---
-
 
 # Algoritmisch model in Attribution IQ
 
