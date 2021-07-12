@@ -1,23 +1,22 @@
 ---
 title: Latentieanalyse met cohorttabellen
 description: Met de instelling Latentietabel in Cohort Tables kunt u het gedrag van uw cohorts voor en na de insluitingsgebeurtenis analyseren (en niet alleen na standaardcohortafbeeldingen). Deze instelling is handig voor het analyseren van de impact van een nieuw product of een nieuwe campagne, bijvoorbeeld.
-feature: Visualizations
+feature: Visualisaties
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25964.jpg
 kt: 2480
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: e31fc334-9a60-4b90-a126-98ff169952b3
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # Latentieanalyse met [!UICONTROL Cohort Tables] {#latency-analysis-with-cohort-tables}
 
