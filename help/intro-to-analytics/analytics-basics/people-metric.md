@@ -8,18 +8,17 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 24037.jpg
 kt: 1986
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 47110d1b-7ae7-483f-ba05-796d00741b20
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
 
-
-# [!UICONTROL People] [!UICONTROL Metric] in Adobe Analytics  {#people-metric-in-adobe-analytics}
+# [!UICONTROL People] [!UICONTROL Metric] in Adobe Analytics {#people-metric-in-adobe-analytics}
 
 Adobe Analytics biedt nu een [!UICONTROL People] metrische methode om bezoekers te dedupliceren op basis van de Adobe Experience Cloud [!UICONTROL Device Co-op]! Deze video bevat meer informatie en laat zien hoe u aan de slag kunt gaan.
 
