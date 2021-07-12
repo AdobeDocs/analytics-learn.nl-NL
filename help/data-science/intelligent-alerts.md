@@ -1,22 +1,21 @@
 ---
 title: Intelligente waarschuwingen in Adobe Analytics
 description: Het intelligente alarm zet de macht van de Detectie van het Anomaly rechtstreeks in uw inbox of op uw telefoon. Als u direct op de hoogte bent van belangrijke wijzigingen in uw belangrijkste maatstaven en segmenten, hebt u geen gemiste kansen.
-feature: Data Science
+feature: Gegevenswetenschap
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2338
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 04af0dc3-3cf3-446d-924c-82f21ee6974c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
-
 
 # Intelligente waarschuwingen in Adobe Analytics {#intelligent-alerts-in-adobe-analytics}
 
