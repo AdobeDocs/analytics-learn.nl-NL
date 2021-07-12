@@ -1,22 +1,21 @@
 ---
 title: Een gegevenslaag gebruiken om paginanaam en andere variabelen in Adobe Analytics in te stellen via Starten
 description: Het gebruiken van een gegevenslaag voor Analytics en andere oplossingen van Experience Cloud wordt beschouwd als beste praktijken. In deze video leert u hoe u uw waarden uit de gegevenslaag kunt halen en deze in Launch kunt gebruiken om variabelen in Adobe Analytics te vullen.
-feature: Launch Implementation
+feature: Implementatie starten
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1852
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
-
 
 # Een gegevenslaag gebruiken om paginanaam en andere variabelen in te stellen via [!DNL Experience Platform Launch] {#using-a-data-layer-to-set-page-name-and-other-variables-in-adobe-analytics-via-launch}
 
