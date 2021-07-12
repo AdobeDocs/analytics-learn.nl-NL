@@ -1,23 +1,22 @@
 ---
 title: Analyse op verschillende tabbladen gebruiken om de basismarketingkenmerken in Analysis Workspace te verkennen
 description: Er zijn vele manieren u uw attributiemethodologie aan het volgende niveau met Adobe Analytics kunt nemen. In deze video, benadrukken wij hoe u diepere inzichten uit het rapport van de Kanalen van de Marketing kunt voortbrengen gebruikend dwars-lusanalyse in Werkruimte.
-feature: Marketing Channels
+feature: Marketingkanalen
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39237.jpg
 kt: 6067
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: b5843678-6444-453b-a9c9-1e301ffca876
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '290'
 ht-degree: 4%
 
 ---
-
 
 # Analyse op verschillende tabbladen gebruiken om de basismarketingkenmerken in Analysis Workspace te verkennen
 
