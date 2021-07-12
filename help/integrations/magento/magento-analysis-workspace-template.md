@@ -1,26 +1,25 @@
 ---
 title: Magento Analysis Workspace-sjabloon
 description: Introduceert de Magento Marketing & Commerce sjabloon voor Analysis Workspace.
-feature: Experience Cloud Integration
+feature: Experience Cloud-integratie
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: TM
 kt: 3269
-topic: Integrations
-role: Business Practitioner
+topic: Integraties
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 4487a376-90fe-4952-92e1-c2333ae88a75
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '54'
 ht-degree: 1%
 
 ---
 
-
-# [!DNL Magento] Analysis Workspace-sjabloon  {#magento-analysis-workspace-template}
+# [!DNL Magento] Analysis Workspace-sjabloon {#magento-analysis-workspace-template}
 
 Introduceert de [!DNL Magento Marketing and Commerce] malplaatje voor [!UICONTROL Analysis Workspace]. Dit is gericht op gebruikers van [!DNL Magento], maar kan door om het even welke online detailhandelaar worden gebruikt. Het omvat vooraf gebouwde inzichten voor detailhandelaren op uw handelsactiviteiten om u te helpen verkoop verbeteren.
 
