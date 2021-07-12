@@ -1,22 +1,21 @@
 ---
 title: Uw eerste project starten in Analysis Workspace
 description: In deze video leert u hoe u een project maakt in Analysis Workspace met gebruik van de standaardsjablonen en aangepaste sjablonen en hoe u elementen kopieert tussen projecten.
-feature: Projects
+feature: Projecten
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4102
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
-
 
 # Uw eerste project starten in Analysis Workspace
 
