@@ -1,22 +1,21 @@
 ---
 title: Aangepaste datumbereiken maken in Analysis Workspace
 description: In deze video wordt uitgelegd hoe u datumbereiken kunt gebruiken in Analysis Workspace.
-feature: Calendar
+feature: Kalender
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2113
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ce01320f-24fa-4c9b-ad77-3f82c0829323
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '37'
 ht-degree: 0%
 
 ---
-
 
 # Aangepast [!UICONTROL Date Ranges] maken in Analysis Workspace {#creating-custom-date-ranges-in-analysis-workspace}
 
