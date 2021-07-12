@@ -1,25 +1,24 @@
 ---
 title: Visualisatie van stromen in Analysis Workspace
 description: Deze video bespreekt de stroomvisualisatie in Analysis Workspace. U kunt stroom gebruiken om gebruikersbeweging te tonen en te onderzoeken, om uw klantenreis beter te begrijpen.
-feature: Visualizations
+feature: Visualisaties
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24045.jpg
 kt: 2279
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 888fec4a-308d-4a05-9c7b-a4b4deba09b1
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '76'
 ht-degree: 1%
 
 ---
 
-
-# [!DNL Flow Visualization] in Analysis Workspace  {#flow-visualization-in-analysis-workspace}
+# [!DNL Flow Visualization] in Analysis Workspace {#flow-visualization-in-analysis-workspace}
 
 Deze video bespreekt u [!DNL Flow visualization] in Analysis Workspace. U kunt [!DNL Flow] gebruiken om gebruikersbeweging te tonen en te onderzoeken, om uw [!DNL customer journey] beter te begrijpen.
 
