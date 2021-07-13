@@ -1,22 +1,21 @@
 ---
 title: Real-time rapportage in Reports and Analytics
 description: Deze video toont een handvol updates die Adobe heeft aangebracht in het Real-Time Report in Reports & Analytics in Adobe Analytics.
-feature: Analytics Basics
+feature: Basisbeginselen van analysemogelijkheden
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2360
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 6e434bce-b7da-4ced-94bd-0ad30711fa2c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
-
 
 # Real-time rapportage in [!DNL Reports & Analytics] {#real-time-reporting-in-reports-analytics}
 
