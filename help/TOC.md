@@ -4,7 +4,7 @@ user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analyt
 breadcrumb-title: Analytische Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 6587d9ff43b7fcbf697bda4cdd9be2ae7a63ef86
+source-git-commit: dbab0f9190e660eadfacdb75ac00994afff375e7
 workflow-type: tm+mt
 source-wordcount: '2065'
 ht-degree: 8%
@@ -132,7 +132,7 @@ ht-degree: 8%
       + [Intra-linking in Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [Positief-negatief kaartthema](analysis-workspace/visualizations/positive-negative-map-theme.md)
       + [Visualisaties opnieuw rangschikken en vergroten/verkleinen](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
-      + [Reekslabel bewerken](analysis-workspace/visualizations/series-label-editing.md)
+      + [De legenda voor visualisatie aanpassen](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [100% gestapelde visualisaties](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [Instellingen van tabelgegevensbron](analysis-workspace/visualizations/table-data-source-settings.md)
       + [Een Time-Parting Heatmap maken](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
