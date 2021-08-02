@@ -6,10 +6,10 @@ role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect
 level: Beginner
 hide: true
 hidefromtoc: true
-source-git-commit: f9cb8039fbea267c81439ade541dbbe0b02043d2
+source-git-commit: 7b35dbe13d81473ae6bb860ab43ef660f73649fa
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 1%
+source-wordcount: '200'
+ht-degree: 0%
 
 ---
 
@@ -18,67 +18,70 @@ ht-degree: 1%
 
 Experience League LIVE is een live streaming show die door het team van het Experience League wordt geproduceerd, en voorziet u van actioneerbare uiteinden, trucs, en strategieën u in de toepassingen van Experience Cloud, de toepassingsdiensten, en Adobe Experience Platform kunt toepassen.
 
->[!TIP]
->
->Voor extra leermethoden bekijkt u onze gratis [cursussen](https://experienceleague.adobe.com/#dashboard/learning) en individuele [zelfstudies](https://experienceleague.adobe.com/docs/home-tutorials.html).
+## Volgende aflevering: Experience Platform en Real-time CDP!
+
+![volgende ](assets/exl-live-ep2-after-2.jpg)
+*afleveringGasten:* Aaron Shields, Yaya Wang, Andres Monroy 
+***MARK THE DATE!*** Komend op donderdag 26  **augustus** die  **9** uur Pacific Time
 
 ## Volgende afleveringen
 
-Markeer uw kalender voor de volgende komende episodes van Experience League LIVE!
+Word enthousiast over de volgende komende episodes van Experience League LIVE!
 
 <table>
 <tr>
   <td>
-    <strong>Datum</strong>
+    <img height="113" width="200" alt="Adobe Campaign-logo" src="assets/AdobeCampaignLogo.jpg" />
   </td>
   <td>
-    <strong>Gasten</strong>
+    <strong><img height="113" width="200" alt="Adobe AEM Logo" src="assets/aem-logo.png" /></strong>
   </td>
   <td>
-    <strong>Onderwerp</strong>
+    <strong><img height="113" width="200" alt="Adobe Campaign-logo" src="assets/platform-logo.jpeg" /></strong>
   </td>
 </tr>
 <tr>
   <td>
-    Donderdag 26 augustus 2021
+    <strong>Toepassing:</strong> Adobe <br/>
+    <strong>CampaignDate:</strong> sept 2021<br/>
+    <strong>Topic:</strong> <br/>
+    <strong>TBDGuests:</strong> TBD
   </td>
   <td>
-    David Kao, productmanager
+    <strong>Toepassing:</strong> Adobe Experience <br/>
+    <strong>ManagerDate:</strong> okt 2021<br/>
+    <strong>Onderwerp:</strong> <br/>
+    <strong>TBDGuests:</strong> TBD
   </td>
   <td>
-    Levering van nieuwe eigenschappen in Echte - tijdCDP Doelen
+    <strong>Toepassing:</strong> Adobe Experience <br/>
+    <strong>PlatformDate:</strong> Nov 2021<br/>
+    <strong>Topic:</strong> <br/>
+    <strong>TBDGuests:</strong> TBD
   </td>
 </tr>
 </table>
 
 ## Herafspelen van afleveringen uit het verleden
 
-Heb je een aflevering van Experience League LIVE gemist? Hoe durf je! JK. We vergeven je. Hier zijn koppelingen zodat u voorbij afleveringen kunt kijken.
+Heb je een aflevering van Experience League LIVE gemist? We vergeven je. Hier zijn koppelingen zodat u voorbij afleveringen kunt kijken.
 
 <table>
 <tr>
   <td>
-    <strong>Afspeeldatum</strong>
-  </td>
-  <td>
-    <strong>Gasten</strong>
-  </td>
-  <td>
-    <strong>Info/koppeling voor opnieuw afspelen</strong>
-  </td>
-</tr>
-<tr>
-  <td>
-    29 juli 2021
-  </td>
-  <td>
-    Eric Matisoff,<br/>Dasha Fitzpatrick
-  </td>
-  <td>
     <a href="https://www.youtube.com/watch?v=lxOvLCzEGBI">
-      <img alt="Experience League LIVE" src="assets/AELLIVE_AA.png" />
-    </a>
+      <img height="225" width="400" alt="Experience League LIVE" src="assets/exl-live-after2.jpg" />
+    </a><br/>
+    <b>Host:</b> <i></i><br/>
+    <b>DougGuests:</b> <i>Eric Matisoff en Dasha </i><br/>
+    <b>FitzpatrickAire:29 </b> <i>juli 2021</i>
 
 </td>
+
 </tr>
+
 </table>
+
+>[!TIP]
+>
+>Voor extra leermethoden bekijkt u onze gratis [cursussen](https://experienceleague.adobe.com/#dashboard/learning) en individuele [zelfstudies](https://experienceleague.adobe.com/docs/home-tutorials.html).
