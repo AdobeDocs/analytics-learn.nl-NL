@@ -4,10 +4,10 @@ user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analyt
 breadcrumb-title: Analytische Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: aa1627c6f13274e35fcf10f25d709fec484007b2
+source-git-commit: 48da246e50ed658bdb496a8a8a551e8f0454021d
 workflow-type: tm+mt
-source-wordcount: '2068'
-ht-degree: 8%
+source-wordcount: '2141'
+ht-degree: 7%
 
 ---
 
@@ -62,6 +62,7 @@ ht-degree: 8%
       + [Componentbeheer in Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [Componentbeheer gebruiken](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
       + [Een rapportsuite selecteren in Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
+      + [Prestatiegegevens van Analysis Workspace weergeven](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + Tips en trucs {#tips-and-tricks}
       + [7 tips en trucs voor Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [Tips om de productiviteit in Analysis Workspace te verhogen](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
@@ -211,9 +212,14 @@ ht-degree: 8%
 + Reports and Analytics {#reports-and-analytics}
    + [Real-time rapportage in Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Beheer {#administration}
+   + Bedrijfsinstellingen {#company-settings}
+      + [E-maildomeinbeperkingen afdwingen](administration/company-settings/enforce-email-domain-restrictions.md)
+      + [Beschikbare functies van uw account weergeven](administration/company-settings/view-your-accounts-available-features.md)
    + Gebruikersbeheer {#user-management}
       + [Beheerders toevoegen aan Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Toegang tot rapportsuite beperken in Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
+      + [Gebruikerselementen naar een andere gebruiker overbrengen](administration/user-management/transfer-user-assets-to-a-different-user.md)
+      + [Controleer de gekoppelde IMS-id om aanmeldingsproblemen te voorkomen](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + Rapportuiteinden beheren {#manage-report-suites}
       + [Algemene accountinstellingen configureren](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Kalenderinstellingen aanpassen](administration/manage-report-suites/customize-calendar-settings.md)
@@ -222,13 +228,17 @@ ht-degree: 8%
       + [Interne URL-filters instellen](administration/manage-report-suites/set-internal-url-filters.md)
       + [Instellingen voor postcode en postcode configureren](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Variabelen configureren in de Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [De optionele instelling voor Tijdstempel inschakelen](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
+      + [Beide regels configureren in Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Data Governance en GDPR {#data-governance-and-gdpr}
       + [Data Governance en GDPR in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
       + [De juiste personen op uw Analyseteam krijgen](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
    + Traffic-beheer {#traffic-management}
       + [Gebruik van server calls](administration/traffic-management/server-call-usage.md)
+      + [Een aanstaande verkeersstroom beheren](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
    + Logboeken{#logs}
       + [Gebruikslogbestanden bijhouden voor Analysis Workspace](administration/logs/usage-log-tracking-for-analysis-workspace.md)
+      + [Overzicht van logbestanden voor analysebeheer](administration/logs/overview-of-analytics-admin-logs.md)
 + Implementatie {#implementation}
    + Grondbeginselen van implementatie {#implementation-basics}
       + [Eerste implementatie](implementation/implementation-basics/first-time-implementation.md)
@@ -311,8 +321,12 @@ ht-degree: 8%
       + [Exporteren naar CSV vanuit Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
       + [Inleiding tot Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
+      + [Aanvraag Data Warehouse verzenden via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
    + Gegevensfeeds {#data-feeds}
       + [Gebruikersinterface gegevensfeeds-beheer](exporting/data-feeds/data-feeds-management-ui.md)
+      + [De verificatietoets van de gegevensfeed downloaden](exporting/data-feeds/download-the-data-feed-authentication-key.md)
+      + [ID gegevensfeed zoeken](exporting/data-feeds/find-your-data-feed-id.md)
+      + [Een gegevensfeed-taak opnieuw uitvoeren](exporting/data-feeds/rerun-a-data-feed-job.md)
    + Report Builder {#report-builder}
       + [Segmenten aan Meerdere verzoeken tegelijk toevoegen in Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
       + [Anomaly Detection in Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
