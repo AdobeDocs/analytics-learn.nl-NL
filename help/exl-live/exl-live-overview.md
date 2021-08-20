@@ -6,80 +6,89 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 hide: true
 hidefromtoc: true
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
+source-git-commit: dcfa04814012434a3f017cd0f06c8707b4d4cf2c
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 0%
+source-wordcount: '201'
+ht-degree: 1%
 
 ---
 
 
 # Experience League LIVE
 
-Experience League LIVE is een live streaming show die door het team van het Experience League wordt geproduceerd, en voorziet u van actioneerbare uiteinden, trucs, en strategieën u in de toepassingen van Experience Cloud, de toepassingsdiensten, en Adobe Experience Platform kunt toepassen.
+## Doe mee voor de volgende episode!
 
-## Volgende aflevering: Experience Platform en Real-time CDP!
+<a href="https://www.youtube.com/watch?v=rogVKsTFbWk"><img alt="Als u klikt, gaat u naar de YouTube-lobby voor Experience League Live" src="assets/1440x492.png" /></a>
 
-![volgende ](assets/exl-live-ep2-after-2.jpg)
-*afleveringGasten:* Aaron Shields, Yaya Wang, Andres Monroy 
-***MARK THE DATE!*** Komend op donderdag 26  **augustus** die  **9** uur Pacific Time
+Experience League LIVE is een live streaming show die wordt gemaakt door het team van Experiencen League.  Het is een kans om met de productdeskundigen van Adobe te verbinden en actionable uiteinden, trucs, en strategieën te leren u met de toepassingen van Adobe Experience Cloud kunt toepassen.
 
-## Volgende afleveringen
 
-Word enthousiast over de volgende komende episodes van Experience League LIVE!
+## Actuele Experience League LIVE-gebeurtenissen!
 
 <table>
 <tr>
   <td>
-    <img height="113" width="200" alt="Adobe Campaign-logo" src="assets/AdobeCampaignLogo.jpg" />
+      <img alt="Inhoudsservices" src="./assets/journeys.png" />
+     <div>
+          <strong>Klantenreizen</strong>
+     </div>
+     <div>
+          <em>September 2021</em>
+     </div>
+    <p>
+    <em>Leer van productdeskundigen over het opbouwen van ervaringen die in real-time aan klanten worden aangepast</em>
+    <p>
   </td>
   <td>
-    <strong><img height="113" width="200" alt="Adobe AEM Logo" src="assets/aem-logo.png" /></strong>
+      <img alt="Inhoudsservices" src="./assets/content.png" />
+     <div>
+          <strong>Inhoud en handel</strong>
+     <div>
+          <em>Oktober 2021</em>
+     </div>
+     </div>
+    <p>
+    <em>Leer om inhoud op schaal te creëren en te beheren en gepersonaliseerde handelservaringen te bouwen</em>
+    <p>
   </td>
   <td>
-    <strong><img height="113" width="200" alt="Adobe Campaign-logo" src="assets/platform-logo.jpeg" /></strong>
-  </td>
-</tr>
-<tr>
-  <td>
-    <strong>Toepassing:</strong> Adobe <br/>
-    <strong>CampaignDate:</strong> sept 2021<br/>
-    <strong>Topic:</strong> <br/>
-    <strong>TBDGuests:</strong> TBD
-  </td>
-  <td>
-    <strong>Toepassing:</strong> Adobe Experience <br/>
-    <strong>ManagerDate:</strong> okt 2021<br/>
-    <strong>Onderwerp:</strong> <br/>
-    <strong>TBDGuests:</strong> TBD
-  </td>
-  <td>
-    <strong>Toepassing:</strong> Adobe Experience <br/>
-    <strong>PlatformDate:</strong> Nov 2021<br/>
-    <strong>Topic:</strong> <br/>
-    <strong>TBDGuests:</strong> TBD
+      <img alt="Inhoudsservices" src="./assets/platform.png" />
+     <div>
+          <strong>Experience Platform</strong>
+     </div>
+     <div>
+          <em>december 2021</em>
+     </div>    
+    <p>
+    <em>Leer van productdeskundigen over het opbouwen van ervaringen die in real-time aan klanten worden aangepast</em>
+    <p>
   </td>
 </tr>
 </table>
 
-## Herafspelen van afleveringen uit het verleden
 
-Heb je een aflevering van Experience League LIVE gemist? We vergeven je. Hier zijn koppelingen zodat u voorbij afleveringen kunt kijken.
+## Afgelopen episodes
+
+Heb je een aflevering van Experience League LIVE gemist? We vergeven je. Bekijk al onze eerdere afleveringen!
 
 <table>
 <tr>
-  <td>
+
+<td>
     <a href="https://www.youtube.com/watch?v=lxOvLCzEGBI">
       <img height="225" width="400" alt="Experience League LIVE" src="assets/exl-live-after2.jpg" />
-    </a><br/>
-    <b>Host:</b> <i></i><br/>
-    <b>DougGuests:</b> <i>Eric Matisoff en Dasha </i><br/>
-    <b>FitzpatrickAire:29 </b> <i>juli 2021</i>
-
-</td>
-
+    </a>
+     <div>
+          <strong>Gasten</strong> :  <i>Eric Matisoff en Dasha Fitzpatrick</i>
+     </div>
+     <div>
+          <em>29 juli 2021</em>
+     </div>    
+    <p>
+    <em></em>
+    <p>
+  </td>
 </tr>
-
 </table>
 
 >[!TIP]
