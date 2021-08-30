@@ -1,7 +1,7 @@
 ---
 title: Algemene instellingen configureren in de extensie Analytics starten
 description: Als u net begonnen bent met Lancering, door Adobe, en de uitbreiding van Adobe Analytics, kan deze video u met het algemene montagegedeelte van de configuratie, met inbegrip van het plaatsen van de volgende server helpen.
-feature: Implementatie starten
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,10 +10,10 @@ kt: 2837
 role: Developer, Data Engineer
 level: Beginner
 exl-id: b4e89144-730e-4256-9c9f-c38f9c814e7b
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 9%
+source-wordcount: '122'
+ht-degree: 2%
 
 ---
 
@@ -25,8 +25,8 @@ Als u nog maar net aan de slag gaat met Experience Platform Launch en de Adobe A
 
 Raadpleeg de volgende documentatieonderwerpen voor aanvullende informatie over de aspecten van dit gebruiksgeval:
 
-[Postcodes](https://docs.adobe.com/help/en/analytics/components/variables/dimensions-reports/reports-zip.html)
+[Postcodes](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en)
 
-[Classificaties](https://docs.adobe.com/content/help/en/analytics/components/classifications/c-classifications.html)
+[Classificaties](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
 
-[Analysis Workspace](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/analysis-workspace-features.html)
+[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html)

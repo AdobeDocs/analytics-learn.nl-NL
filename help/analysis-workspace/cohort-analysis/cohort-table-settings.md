@@ -1,7 +1,7 @@
 ---
 title: Tabelinstellingen coderen
 description: 'Er zijn verschillende instellingen voor de tabel Cohort waarmee u de weergave van het behoud of de kleur kunt aanpassen. Zie ze gemarkeerd in deze video. '
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 11%
+ht-degree: 0%
 
 ---
 
@@ -32,4 +32,4 @@ De aanpassingen voor [!UICONTROL Cohort Table] omvatten de capaciteit om
 
 De gemiddelde rij is vooral handig bij het weergeven van [!UICONTROL retention] of [!UICONTROL churn] als geheel, in plaats van op individuele [!UICONTROL cohort] rijen.
 
-Voor meer informatie over [!UICONTROL cohort] analyse, bezoek [documentatie](https://docs.adobe.com/help/nl-NL/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html).
+Voor meer informatie over [!UICONTROL cohort] analyse, bezoek [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=en).
