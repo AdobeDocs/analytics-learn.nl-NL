@@ -10,10 +10,10 @@ kt: 1768
 role: User
 level: Intermediate
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -27,4 +27,4 @@ Leer hoe u [!UICONTROL anomaly detection] [!UICONTROL metrics] aan uw gegevensaa
 
 In [!UICONTROL Report Builder] kunt u [!UICONTROL metric] actuals, samen met verwachte waarden en boven &amp; onder grenzen, terugkeren om meer diepte aan de gegevens toe te voegen u analyseert &amp; deelt.
 
-Voor meer informatie over deze eigenschap, bezoek [documentatie](https://marketing.adobe.com/resources/help/en_US/arb/anomaly_detection.html).
+Voor meer informatie over deze eigenschap, bezoek [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/statistics-anomaly-detection.html?lang=en).

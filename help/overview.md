@@ -1,7 +1,7 @@
 ---
 title: Analysevideo's en Tutorials
 description: Een verzameling video's en zelfstudies voor Adobe Analytics.
-feature: Basisbeginselen van analysemogelijkheden
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: overview
@@ -9,16 +9,16 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 33%
+source-wordcount: '290'
+ht-degree: 31%
 
 ---
 
 # Overzicht
 
-Welkom bij de site [!DNL Analytics] Tutorials.  Als u deze zelfstudies samen met de [documentatie](https://docs.adobe.com/content/help/nl-NL/analytics/landing/home.html) gebruikt, krijgt u meer inzicht in de manier waarop u Adobe Analytics kunt gebruiken om sneller dan ooit inzicht in klanten te krijgen.  Aan de slag,
+Welkom bij de site [!DNL Analytics] Tutorials.  Als u deze zelfstudies samen met de [documentatie](https://experienceleague.adobe.com/docs/analytics/landing/home.html) gebruikt, krijgt u meer inzicht in de manier waarop u Adobe Analytics kunt gebruiken om sneller dan ooit inzicht in klanten te krijgen.  Aan de slag,
 * Zie de **&quot;Nieuwe functies&quot;** sectie hieronder voor de nieuwste gooien
 * **Personeelszaken** Pickshighlights een deel van onze favoriete inhoud
 * Verken de inhoud per onderwerp en subtopic in **linkernavigatie**

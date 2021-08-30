@@ -1,7 +1,7 @@
 ---
 title: Aangepaste terugblikvensters in Attribution IQ
 description: Aangepaste terugblikvensters geven u de mogelijkheid om het attributievenster uit te breiden tot buiten het rapportagebereik (tot maximaal 90 dagen) en worden toegepast op elke conversie in het rapportagebereik. Met deze optie wordt de toewijzingsnauwkeurigheid voor gebeurtenissen die zich vroeg in de verslagperiode voordoen, doorgaans vergroot door de verwerking van interacties die in de voorafgaande maand(en) hebben plaatsgevonden.
-feature: Attributie
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
@@ -11,9 +11,9 @@ kt: 5553
 role: User
 level: Intermediate
 exl-id: eea84902-834c-4826-91cd-5d258fcb4f0e
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '141'
 ht-degree: 49%
 
 ---
@@ -24,4 +24,4 @@ Aangepaste terugblikvensters geven u de mogelijkheid om het attributievenster ui
 
 >[!VIDEO](https://video.tv.adobe.com/v/36204/?quality=12&learn=on)
 
-Zie de [documentatie](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/attribution/models.html#lookback-windows) voor meer informatie
+Zie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html#lookback-windows) voor meer informatie

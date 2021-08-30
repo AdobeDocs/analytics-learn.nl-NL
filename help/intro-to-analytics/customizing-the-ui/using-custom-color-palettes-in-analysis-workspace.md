@@ -1,7 +1,7 @@
 ---
 title: Aangepaste kleurenpaletten gebruiken in Analysis Workspace
 description: U kunt het kleurenpalet wijzigen dat in Analysis Workspace wordt gebruikt, zodat het beter wordt uitgelijnd op uw merk of dat van uw klanten.
-feature: Basisprincipes van werkruimte
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -10,9 +10,9 @@ kt: 1943
 role: User
 level: Beginner
 exl-id: 03cb00ce-42c1-481b-8dc2-bf90d8a98acc
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,4 @@ U kunt de [!UICONTROL color palette] wijzigen die in [!UICONTROL Analysis Worksp
 
 We bieden 5 OTB-paletten en de mogelijkheid om uw eigen unieke kleurenreeks op te geven. De kleuren zullen alle categoriale visualisaties in [!UICONTROL Analysis Workspace] beïnvloeden. De enige uitgesloten [!UICONTROL visualizations] zijn [!UICONTROL Summary Change], voorwaardelijke opmaak in [!UICONTROL freeform tables], items/uitgangen in [!UICONTROL Flow] en [!UICONTROL Map].
 
-Raadpleeg de [documentatie](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/color_palettes.html) voor meer informatie.
+Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/color-palettes.html?lang=en) voor meer informatie.

@@ -1,7 +1,7 @@
 ---
 title: Analyse op verschillende tabbladen gebruiken om de basismarketingkenmerken in Analysis Workspace te verkennen
 description: Er zijn vele manieren u uw attributiemethodologie aan het volgende niveau met Adobe Analytics kunt nemen. In deze video, benadrukken wij hoe u diepere inzichten uit het rapport van de Kanalen van de Marketing kunt voortbrengen gebruikend dwars-lusanalyse in Werkruimte.
-feature: Marketingkanalen
+feature: Marketing Channels
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 4%
+source-wordcount: '286'
+ht-degree: 3%
 
 ---
 
@@ -39,4 +39,4 @@ Er zijn vele manieren u uw attributiemethodologie aan het volgende niveau met Ad
 * 4:30 - de montages van de kolom kunnen nu bulksgewijs worden bijgewerkt, in plaats van 1-bij-1. Meer informatie vindt u op 8:45 van de video: [Rij- en kolominstellingen in vrije-vormtabellen](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
 
-Raadpleeg de [documentatie](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/attribution/models.html) voor meer informatie over dit onderwerp.
+Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html) voor meer informatie over dit onderwerp.

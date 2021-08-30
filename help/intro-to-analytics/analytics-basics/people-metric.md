@@ -11,9 +11,9 @@ kt: 1986
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 47110d1b-7ae7-483f-ba05-796d00741b20
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,6 @@ Adobe Analytics biedt nu een [!UICONTROL People] metrische methode om bezoekers 
 
 Als u een deel van [!UICONTROL Device Co-op] bent, kunt u metriek berekenen die op mensen, niet alleen bezoekers wordt gebaseerd.
 
-Ga voor meer informatie over [!UICONTROL Device Co-op] naar [deze documentatie](https://marketing.adobe.com/resources/help/en_US/mcdc/).
+Ga voor meer informatie over [!UICONTROL Device Co-op] naar [deze documentatie](https://experienceleague.adobe.com/docs/device-co-op/using/about/overview.html?lang=en).
 
-Voor meer informatie over [!UICONTROL People] metrisch, ga [deze documentatie](https://marketing.adobe.com/resources/help/en_US/mcdc/mcdc-people.html).
+Voor meer informatie over [!UICONTROL People] metrisch, ga [deze documentatie](https://experienceleague.adobe.com/docs/device-co-op/using/data/people.html?lang=en).

@@ -1,7 +1,7 @@
 ---
 title: Attribution IQ gebruiken in tabellen voor vrije vorm
 description: Met Attribution IQ kunt u het attributiemodel op een kolom Freeform direct wijzigen in een van de tien op regels gebaseerde modellen.
-feature: Attributie
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 1661
 role: User
 level: Intermediate
 exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad8,28b1dbc4-315b-47d5-82f7-4b394ed31ad8,adf48696-d495-43a3-9421-993434f35962
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 3%
+source-wordcount: '78'
+ht-degree: 0%
 
 ---
 
@@ -32,7 +32,3 @@ Elke attributie [!UICONTROL model] steunt volledig segmentatie en onderverdeling
 * [!DNL Adobe Analytics Select]
 * [!DNL Adobe Analytics Prime]
 * [!DNL Adobe Analytics Ultimate]
-
-## Aanvullende resources {#additional-resources}
-
-* [Functiedocumentatie](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/attribution.html)

@@ -1,7 +1,7 @@
 ---
 title: Meerdere rapportsuites in Analysis Workspace
 description: De veelvoudige rapportreeksen kunnen in één enkel project van de Werkruimte worden geanalyseerd door reeksen op het paneelniveau te selecteren. Op deze manier kunt u een analyse van vensters naast elkaar uitvoeren voor verschillende datasets.
-feature: Deelvensters
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 4820
 role: User
 level: Beginner
 exl-id: ae9e55c0-a9ab-4b71-8a00-67a2c31a7676
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 33%
+source-wordcount: '126'
+ht-degree: 25%
 
 ---
 
@@ -29,4 +29,4 @@ Meerdere [!UICONTROL report suites] kunnen in één [!DNL Workspace]-project wor
 
 Gegevens van meerdere [!UICONTROL report suites] kunnen niet worden gecombineerd in tabellen, [!UICONTROL segments] of [!UICONTROL calculated metrics] (opgeteld, verdeeld, enz.). De beste praktijken voor een holistische gegevensbenadering blijven alle klappen naar een &quot;globale reeks&quot;sturen.
 
-Raadpleeg de [documentatie](https://docs.adobe.com/content/help/nl-NL/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html) voor meer informatie.
+Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html) voor meer informatie.

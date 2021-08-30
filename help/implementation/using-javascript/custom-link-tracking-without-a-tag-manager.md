@@ -1,7 +1,7 @@
 ---
 title: Aangepaste koppeling bijhouden zonder tagbeheer
 description: Voor veel acties op de pagina, zou het volgen niet als een paginamening moeten worden behandeld. In deze video leert u hoe u een koppelingsmarkering kunt coderen naar Analytics als u geen tagbeheer gebruikt (zoals Experience Platform Launch). Zie de code en leer een belangrijke tip.
-feature: Implementatie van toepassingen
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,9 +10,9 @@ kt: 1845
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -49,5 +49,3 @@ Hier volgt de voorbeeldcode die wordt gebruikt voor de aangepaste koppeling in d
     Click here to share on FaceBook
 </a>
 ```
-
-Raadpleeg de [documentatie](https://marketing.adobe.com/resources/help/en_US/sc/implement/function_tl.html) voor meer informatie over aangepaste koppelingen.

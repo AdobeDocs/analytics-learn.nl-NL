@@ -1,7 +1,7 @@
 ---
 title: Een gegevenslaag gebruiken om paginanaam en andere variabelen in Adobe Analytics in te stellen via Starten
 description: Het gebruiken van een gegevenslaag voor Analytics en andere oplossingen van Experience Cloud wordt beschouwd als beste praktijken. In deze video leert u hoe u uw waarden uit de gegevenslaag kunt halen en deze in Launch kunt gebruiken om variabelen in Adobe Analytics te vullen.
-feature: Implementatie starten
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,9 +10,9 @@ kt: 1852
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Het gebruiken van een gegevenslaag voor [!DNL Analytics] en andere oplossingen v
 
 ## Gegevenslagen {#data-layers}
 
-Het wordt aanbevolen een gegevenslaag te gebruiken wanneer u werkt met gegevens op uw site en met Adobe Experience Cloud-oplossingen, vooral met Adobe Analytics. Een _gegevenslaag_ is een framework van JavaScript-objecten dat ontwikkelaars op pagina&#39;s invoegen. De gegevenslagen kunnen worden gebruikt door het volgen hulpmiddelen (met inbegrip van systemen van het markeringsbeheer zoals [!DNL Experience Platform Launch]) om rapporten te bevolken. Meer informatie over gegevenslagen vindt u in de [Experience Cloud-documentatie](https://marketing.adobe.com/resources/help/en_US/sc/implement/ref-data-layer.html) of op de [W3C-site](https://www.w3.org/).
+Het wordt aanbevolen een gegevenslaag te gebruiken wanneer u werkt met gegevens op uw site en met Adobe Experience Cloud-oplossingen, vooral met Adobe Analytics. Een _gegevenslaag_ is een framework van JavaScript-objecten dat ontwikkelaars op pagina&#39;s invoegen. De gegevenslagen kunnen worden gebruikt door het volgen hulpmiddelen (met inbegrip van systemen van het markeringsbeheer zoals [!DNL Experience Platform Launch]) om rapporten te bevolken. Meer informatie over gegevenslagen vindt u in de [Experience Cloud-documentatie](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=en) of op de [W3C-site](https://www.w3.org/).
 
 Zie ook de blog [Gegevenslagen: Van Buzzword tot Beste praktijken,](https://theblog.adobe.com/data-layers-buzzword-best-practice/), die u wat grote informatie over gegevenslagen, evenals een paar voorbeelden geeft.
 

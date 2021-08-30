@@ -9,14 +9,13 @@ team: Technical Marketing
 kt: 4818
 role: Architect
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 05bbfccf-a76f-4f01-9f44-a959afc7d12a
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 16%
+source-wordcount: '89'
+ht-degree: 7%
 
 ---
-
 
 # [!DNL Adobe Labs] (Technologievoorvertoningen) met Adobe Analytics
 
@@ -26,4 +25,4 @@ ht-degree: 16%
 
 Wanneer het gebruiken van een [!DNL Labs] prototype, kunt u de eigenschap binnen de context van uw eigen zaken gebruiken gevallen en gegevens evalueren.
 
-Raadpleeg de [documentatie](https://docs.adobe.com/content/help/en/analytics/analyze/tech-previews/overview.html) voor meer informatie.
+Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html) voor meer informatie.

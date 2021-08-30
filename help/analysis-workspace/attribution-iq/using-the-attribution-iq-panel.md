@@ -1,7 +1,7 @@
 ---
 title: Het deelvenster Attribution IQ in Analysis Workspace gebruiken
 description: In deze video ziet u het deelvenster Attribution IQ. Dit is een fantastische beginplaats voor het maken van een Analysis Workspace-project voor toewijzing.
-feature: Attributie
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
@@ -12,10 +12,10 @@ kt: 1667
 role: User
 level: Intermediate
 exl-id: 2c265c0b-5d5e-435f-9fdd-086f7faa0bd9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9,2c265c0b-5d5e-435f-9fdd-086f7faa0bd9
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 2%
+source-wordcount: '99'
+ht-degree: 0%
 
 ---
 
@@ -26,7 +26,3 @@ In deze video ziet u de [!DNL Attribution IQ] [!UICONTROL Panel], een geweldige 
 >[!VIDEO](https://video.tv.adobe.com/v/23139/?quality=12)
 
 De [!DNL Attribution IQ] [!UICONTROL Panel] in Analysis Workspace is een manier om om het even welke tien op regel-gebaseerde [!DNL attribution models] op een visuele manier snel te vergelijken. Zie hoe elk model om het even welke afmeting beïnvloedt gebruikend [!DNL Bar Charts], [!DNL Venn diagrams], [!DNL Histograms], [!DNL Scatter Plots], en zelfs a [!DNL Flow Diagram]. De [!DNL Attribution] [!UICONTROL Panel] is een groot uitgangspunt voor geavanceerdere attributieanalyse.
-
-## Aanvullende resources {#additional-resources}
-
-* [Functiedocumentatie](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/use_attribution_iq.html)

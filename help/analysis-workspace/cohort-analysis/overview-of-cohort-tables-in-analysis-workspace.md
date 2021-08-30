@@ -1,7 +1,7 @@
 ---
 title: Overzicht van Cohort Tables in Analysis Workspace
 description: Met de instelling Rolling Berekening in de tabellen Cohort kunt u de periode-overperiode van de cohorten analyseren, zodat u kunt zien hoe dezelfde gebruikers in de loop der tijd behouden blijven (of kurn).
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 2477
 role: User
 level: Intermediate
 exl-id: 3c0b0814-61b0-43ad-b69c-9e55555d4edd
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -24,4 +24,4 @@ Met de instelling [!UICONTROL Rolling Calculation] binnen [!UICONTROL Cohort Tab
 
 >[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12)
 
-Raadpleeg de [documentatie](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/cohort_analysis.html) voor meer informatie.
+Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en) voor meer informatie.

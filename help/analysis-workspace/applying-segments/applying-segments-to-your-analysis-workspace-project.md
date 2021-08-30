@@ -1,7 +1,7 @@
 ---
 title: Segmenten toepassen op uw Analysis Workspace-project
 description: In deze video leert u hoe u de gegevens in uw tabellen en visualisaties kunt beperken door segmenten toe te passen op uw gegevens.
-feature: Segmentatie
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 4107
 role: User
 level: Beginner
 exl-id: d8bd4226-a3f0-4faa-8b78-4b47b5a008ce
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 1%
+source-wordcount: '68'
+ht-degree: 0%
 
 ---
 
@@ -23,4 +23,4 @@ In deze video leert u hoe u de gegevens in uw tabellen en visualisaties kunt bep
 
 >[!VIDEO](https://video.tv.adobe.com/v/30994/?quality=12)
 
-Raadpleeg de [documentatie](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html) voor meer informatie.
+Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html) voor meer informatie.

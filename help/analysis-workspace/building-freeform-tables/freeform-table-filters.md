@@ -1,7 +1,7 @@
 ---
 title: Filters voor vrije-vormtabellen in Analysis Workspace
 description: De filters verstrekken meer controle over welke rijen van gegevens in een vrije vormlijst worden gedeeld.
-feature: Vrije-vormtabellen
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
@@ -11,9 +11,9 @@ kt: 1699
 role: User
 level: Beginner
 exl-id: 17423156-1e0c-4698-9af2-b59f0753176f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,6 @@ Filters bieden meer controle over de rijen met gegevens die worden gedeeld in ee
 
 In Analysis Workspace bieden we nu meer filterbeheer met 11 filtercriteria en EN/OF-operatoren.
 
-Voor meer informatie over de beschikbare filters, bezoek [documentatie](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/pagination_filtering_sorting.html).
+Voor meer informatie over de beschikbare filters, bezoek [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html#cja-workspace?lang=en).
 
 **Opmerking:** Geavanceerde speciale tekens zijn niet beschikbaar in Analysis Workspace.

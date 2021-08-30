@@ -1,7 +1,7 @@
 ---
 title: 50.000 items downloaden als CSV
 description: Met de optie Items downloaden als CSV kunt u maximaal 50.000 items downloaden voor een dimensie in een vrije-vormtabel, met toegepaste segmenten en filters. Terwijl de interface tot 400 items vóór paginering blijft weergeven, kunt u met deze optie buiten Analysis Workspace meer gegevensrijen openen.
-feature: Curven en delen
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 6278
 role: User
 level: Beginner
 exl-id: fe7d41f1-a6ec-4601-9266-b4c3aa6a6963
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 7%
+source-wordcount: '121'
+ht-degree: 0%
 
 ---
 
@@ -24,4 +24,4 @@ Met de optie Items downloaden als CSV kunt u maximaal 50.000 items downloaden vo
 
 >[!VIDEO](https://video.tv.adobe.com/v/40385/?quality=12&learn=on)
 
-Meer informatie in de [documentatie](https://docs.adobe.com/content/help/nl-NL/analytics/analyze/analysis-workspace/curate-share/download-send.html)
+Meer informatie in de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)

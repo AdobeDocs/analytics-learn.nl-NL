@@ -1,7 +1,7 @@
 ---
 title: Tabellen, visualisaties en deelvensters gebruiken in Analysis Workspace
 description: In deze video leert u hoe u de bouwstenen van uw Analysis Workspace-project kunt gebruiken, namelijk deelvensters, tabellen en visualisaties. Deze elementen zijn het canvas waarop de gegevens zijn getekend.
-feature: Deelvensters
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 4103
 role: User
 level: Beginner
 exl-id: 38b360d2-ce4a-4442-8a19-366c090eb717,a273d1a8-3b58-4bf2-b683-638d26a1cc4e,a273d1a8-3b58-4bf2-b683-638d26a1cc4e,38b360d2-ce4a-4442-8a19-366c090eb717
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 9%
+source-wordcount: '108'
+ht-degree: 0%
 
 ---
 
@@ -23,4 +23,4 @@ In deze video leert u hoe u de bouwstenen van uw Analysis Workspace-project kunt
 
 >[!VIDEO](https://video.tv.adobe.com/v/30369/?quality=12)
 
-Raadpleeg de documentatie voor [panels](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/panels.html) en [visualisaties](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html) voor meer informatie.
+Raadpleeg de documentatie voor [panels](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html) en [visualisaties](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html) voor meer informatie.

@@ -1,7 +1,7 @@
 ---
 title: Visualisatie voor nooduitval in Analysis Workspace
 description: In deze video wordt u door de Fallout-visualisatie in Analysis Workspace in Adobe Analytics geleid. Gebruik Fallout om trechters te maken of om de doorloop van gebruikers te tonen bij belangrijke app-/siteworkflows.
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 2275
 role: User
 level: Beginner
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -24,4 +24,4 @@ Deze video bespreekt de [!DNL Fallout visualization] beschikbaar in Analysis Wor
 
 >[!VIDEO](https://video.tv.adobe.com/v/24042/?quality=12)
 
-Voor meer informatie over deze eigenschap, bezoek [documentatie](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/fallout_flow.html).
+Voor meer informatie over deze eigenschap, bezoek [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).

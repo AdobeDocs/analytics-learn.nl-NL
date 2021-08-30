@@ -1,7 +1,7 @@
 ---
 title: Segmentbeheer en delen in Adobe Analytics
 description: In deze video ziet u hoe u segmenten kunt delen en beheren in Adobe Analytics.
-feature: Segmentatie
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 2305
 role: User
 level: Beginner
 exl-id: d78f2b6f-d685-4a21-8f45-4f410c3a0e5c
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 1%
+source-wordcount: '57'
+ht-degree: 0%
 
 ---
 
@@ -23,4 +23,4 @@ In deze video ziet u hoe u [!UICONTROL segments] kunt delen en beheren in Adobe 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25402/?quality=12)
 
-Voor meer informatie over deze eigenschap, bezoek [documentatie](https://marketing.adobe.com/resources/help/en_US/analytics/segment/seg_manage.html).
+Voor meer informatie over deze eigenschap, bezoek [documentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-manage.html?lang=en).

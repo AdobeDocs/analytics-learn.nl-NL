@@ -1,7 +1,7 @@
 ---
 title: Segmentering op onderscheiden Dimension Tellingen
 description: De nieuwe afzonderlijke exploitanten van de Telling in de bouwer van het Segment staan u toe om te segmenteren die op het aantal unieke punten binnen om het even welke afmeting wordt gebaseerd. Filter voor bezoeken waarbij meer dan 5 pagina's werden weergegeven of bezoekers waarbij meer dan 5 producten werden aangeschaft, d.w.z. binnen één bestelling.
-feature: Segmentatie
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
@@ -10,9 +10,9 @@ kt: 2918
 role: User
 level: Beginner
 exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,4 @@ Met de nieuwe [!UICONTROL Distinct Count]-operatoren in [!UICONTROL Segment buil
 
 Kan deze functie koeler zijn? :)
 
-Raadpleeg de [documentatie](https://marketing.adobe.com/resources/help/en_US/analytics/segment/seg_operators.html) voor meer informatie.
+Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=en) voor meer informatie.

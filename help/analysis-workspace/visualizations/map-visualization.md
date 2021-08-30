@@ -1,7 +1,7 @@
 ---
 title: Visualisatie kaart in Analysis Workspace
 description: In deze video ziet u hoe u de nieuwe Kaartweergave in Analysis Workspace kunt gebruiken. Met de Kaartweergave kunt u mobiele gegevens (lang/lang) of webgegevens (IP-adres) weergeven op basis van een dynamische kaart, zodat u een idee krijgt van het gebruik door klanten in de context van hun locatie.
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -10,7 +10,7 @@ kt: 1771
 role: User
 level: Beginner
 exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Secties in deze video:
 
 7:00 - Heatmapweergave
 
-Voor meer informatie over dit [!UICONTROL visualization], bezoek [documentatie](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/map-visualization.html).
+Voor meer informatie over dit [!UICONTROL visualization], bezoek [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=en).

@@ -1,7 +1,7 @@
 ---
 title: Alleen-weergeven projecten in Analysis Workspace
 description: Workspace-projecten kunnen met gebruikers worden gedeeld als ‘alleen weergeven’. Wanneer een ontvanger voor Weergaven het gedeelde project opent, ontvangt hij/zij een beperktere projectervaring zonder linkerrail en met beperkte interactie.
-feature: Curven en delen
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 5556
 role: User
 level: Beginner
 exl-id: c6884dcd-4e0c-4a7a-aa6e-670db4111145
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 90%
+source-wordcount: '90'
+ht-degree: 84%
 
 ---
 
@@ -24,4 +24,4 @@ Workspace-projecten kunnen met gebruikers worden gedeeld als ‘alleen weergeven
 
 >[!VIDEO](https://video.tv.adobe.com/v/36206/?quality=12&learn=on)
 
-Zie de [documentatie](https://docs.adobe.com/content/help/nl-NL/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) voor meer informatie
+Zie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) voor meer informatie
