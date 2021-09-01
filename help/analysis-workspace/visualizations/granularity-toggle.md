@@ -1,18 +1,16 @@
 ---
 title: Korreligheid in Analysis Workspace
 description: Er is een selector voor granulariteit toegevoegd aan de trended visualisatie-instellingen, zodat u de granulariteit van de gegevens heel eenvoudig kunt aanpassen van minuut tot jaar. Met deze instelling past u zowel de grafiek als de brontabel aan, waarbij u de stappen voor het ongedaan maken en bewerken van de tabel opslaat.
-feature: Visualisaties
-topics: null
-activity: use
+feature: Visualizations
 doc-type: feature video
-team: Technical Marketing
+thumbnail: 23548.jpg
 kt: 1770
 role: User
 level: Beginner
 exl-id: 35746c54-fb23-44bd-be95-d79c2b1705f9
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ad0fa7f4e781d826a3a10a5ad7e7022334cb44e4
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
