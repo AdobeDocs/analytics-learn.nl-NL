@@ -4,9 +4,9 @@ user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analyt
 breadcrumb-title: Analytische Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: d8ac4494a517608fce4c78769136b684937c7639
+source-git-commit: ff682b772fb0c261bee2e57b75f49ee07a318030
 workflow-type: tm+mt
-source-wordcount: '2192'
+source-wordcount: '2197'
 ht-degree: 7%
 
 ---
@@ -61,6 +61,7 @@ ht-degree: 7%
       + [Standaardsjablonen in Analysis Workspace](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
       + [Aangepaste sjablonen gebruiken om Analysis Workspace-gebruikers van Novice in te schakelen](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
       + [Begrijpen hoe gegevens in uw Analysis Workspace-project worden opgehaald](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
+      + [Foundary Metrics in Adobe Analytics](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
       + [Componentbeheer in Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [Componentbeheer gebruiken](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
       + [Een rapportsuite selecteren in Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
