@@ -4,10 +4,10 @@ user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analyt
 breadcrumb-title: Analytische Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: d8ac4494a517608fce4c78769136b684937c7639
 workflow-type: tm+mt
-source-wordcount: '2131'
-ht-degree: 8%
+source-wordcount: '2192'
+ht-degree: 7%
 
 ---
 
@@ -28,13 +28,15 @@ ht-degree: 8%
       + [Top 2019 Super Session - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + Basisbeginselen van analysemogelijkheden {#analytics-basics}
       + [Try in Workspace Button in Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
-      + [Metrisch met personen](intro-to-analytics/analytics-basics/people-metric.md)
       + [De analysecyclus begrijpen](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [Hoe analysegegevens worden verzameld](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Aanmelden bij Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Introductie tot de gebruikersinterface voor analyse](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
       + [Het begrijpen van en het Creëren van de Reeksen van het Rapport](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [Adobe Labs (voorvertoningen van technologie)](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
+      + [Basisstatistieken van bezoekers](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
+      + [Inleiding aan de Variabelen van het Verkeer (Keuringen)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
+      + [Inleiding tot conversievariabelen (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
+      + [Inleiding tot conversiegebeurtenissen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
    + UI {#customizing-the-ui} aanpassen
       + [Gebruikersvoorkeuren in Adobe Analytics](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [Dimension- en metrische beschrijvingen toevoegen](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
@@ -241,6 +243,7 @@ ht-degree: 8%
 + Implementatie {#implementation}
    + Grondbeginselen van implementatie {#implementation-basics}
       + [Eerste implementatie](implementation/implementation-basics/first-time-implementation.md)
+      + [Het begrijpen van en het Creëren van de Reeksen van het Rapport](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html)
       + [De Variabelen van contextData van de kaart in Props en Gebeurtenissen met de Regels van de Verwerking](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [Uw Analytics Tracking Server en Report Suites identificeren](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Een document met zakelijke vereisten maken](implementation/implementation-basics/creating-a-business-requirements-document.md)
@@ -311,6 +314,7 @@ ht-degree: 8%
       + [Overzicht van Activity Map](components/activity-map/activity-map-overview.md)
       + [De Adobe Analytics-Activity Map inschakelen, fouten opsporen en aanpassen](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + Extra gereedschappen {#additional-tools}
+   + [Adobe Labs (voorvertoningen van technologie)](additional-tools/adobe-labs-technology-previews.md)
    + Analysedashboards {#analytics-dashboards}
       + [Scorecard Builder voor Adobe Analytics-dashboards](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
       + [Aangepaste datumbereiken toepassen](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
