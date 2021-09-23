@@ -1,25 +1,23 @@
 ---
 title: Overzicht van Segment Builder
-description: Een snel overzicht en een richting voor de segmentbuilder in Adobe Analytics.
+description: U kunt uw gegevens in Adobe Analytics segmenteren en scheiden. Deze video bespreekt u door de segmentbouwer en geeft een basisoverzicht.
 feature: Segmentation
-topics: null
 activity: use
 doc-type: feature video
-team: Technical Marketing
 kt: 2300
 role: User
 level: Beginner
 exl-id: 763c9504-0692-4d56-ba5e-a3af7e2e607a
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: d36d3dd0488bad079b62530cdbbc573d36c0d118
 workflow-type: tm+mt
-source-wordcount: '28'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Segment Builder] in Adobe Analytics {#segment-builder-in-adobe-analytics}
+# Segment Builder in Adobe Analytics {#segment-builder-in-adobe-analytics}
 
-Een kort overzicht en een richting voor [!UICONTROL segment builder] in Adobe Analytics.
+U kunt uw gegevens in Adobe Analytics segmenteren en scheiden. Deze video bespreekt u door de segmentbouwer en geeft een basisoverzicht.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25404/?quality=12)
 
