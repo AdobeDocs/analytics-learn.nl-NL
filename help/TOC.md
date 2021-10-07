@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: 3fa5d24147c0a2074921144d725d21ea57a92336
+source-git-commit: 808129e3d71b11446eadac44862e6a879c9e95b7
 workflow-type: tm+mt
-source-wordcount: '2197'
+source-wordcount: '2201'
 ht-degree: 7%
 
 ---
@@ -317,6 +317,7 @@ ht-degree: 7%
    + [Adobe Labs (voorvertoningen van technologie)](additional-tools/adobe-labs-technology-previews.md)
    + Analysedashboards {#analytics-dashboards}
       + [Scorecard Builder voor Adobe Analytics-dashboards](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
+      + [Visualisaties voor mobiele scoreborden](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [Aangepaste datumbereiken toepassen](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [In-app ervaring met analytische dashboards](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
 + {#exporting} exporteren
@@ -387,7 +388,7 @@ ht-degree: 7%
       + [Levenscyclusstatistieken initialiseren en weergeven met de SDK van het Experience Platform](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
       + [Handelingen bijhouden (aangepaste AKA-koppelingen)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [Volgstatus (AKA-pagina&#39;s of -schermen)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
-      + [Implementeren in iOS SWIFT-toepassingen](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
+      + [Implementeren in iOS Swift-apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
       + [Implementeren in iOS-toepassingen voor doelstelling-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
       + [Implementeren in Android-apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html)
    + Mobiele analyse meten {#measuring-mobile-analytics}
