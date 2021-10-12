@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: 808129e3d71b11446eadac44862e6a879c9e95b7
+source-git-commit: bf34fbd9aa8f707efd8cb96a3cebda03d6ebdeb1
 workflow-type: tm+mt
-source-wordcount: '2201'
+source-wordcount: '2209'
 ht-degree: 7%
 
 ---
@@ -410,3 +410,4 @@ ht-degree: 7%
    + [ZIP-codeanalyse voor in de handel gebrachte producten instellen](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Studieprogramma Analytics University](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
++ [De Grondbeginselen van de Analyse voor BedrijfsGebruikers is gepensioneerd](retired-courses/retire-fundamentals-for-business-users-course.md)
