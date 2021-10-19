@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: bf34fbd9aa8f707efd8cb96a3cebda03d6ebdeb1
+source-git-commit: da55943c5e956f7b03952babf8cdaf50d6239133
 workflow-type: tm+mt
 source-wordcount: '2209'
 ht-degree: 7%
@@ -36,7 +36,7 @@ ht-degree: 7%
       + [Inleiding aan de Variabelen van het Verkeer (Keuringen)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
       + [Inleiding tot conversievariabelen (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
       + [Inleiding tot conversiegebeurtenissen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
-   + UI {#customizing-the-ui} aanpassen
+   + De gebruikersinterface aanpassen {#customizing-the-ui}
       + [Gebruikersvoorkeuren in Adobe Analytics](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [Dimension- en metrische beschrijvingen toevoegen](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [Aangepaste kleurenpaletten gebruiken in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
@@ -46,12 +46,12 @@ ht-degree: 7%
       + [Analysis Workspace instellen als bestemmingspagina](intro-to-analytics/customizing-the-ui/set-analysis-workspace-as-your-landing-page.md)
       + [Een Analysis Workspace-project instellen als bestemmingspagina](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
       + [Uitbreiding Donkere modus voor Analysis Workspace](intro-to-analytics/customizing-the-ui/dark-mode-extension-for-analysis-workspace.md)
-   + Help {#getting-help} ophalen
+   + Help opvragen {#getting-help}
       + [Tips voor Analysis Workspace-producten](intro-to-analytics/getting-help/in-product-tips.md)
       + [Toelevering voor Ticket voor ondersteuning van producten](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
       + [Hulp krijgen in Adobe Analytics](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
-   + Analysis Workspace-basisbeginselen {#analysis-workspace-basics}
+   + Analysis Workspace Basics {#analysis-workspace-basics}
       + [Analysis Workspace Introduction](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace - Overzicht](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Nieuwe Analysis Workspace-projecten maken](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
@@ -82,7 +82,7 @@ ht-degree: 7%
       + [Dichtheid weergeven in Analysis Workspace](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [Verbeteringen van de status nul](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
       + [Filters (tags) gebruiken in het linkerspoor](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
-   + Deelvensters {#using-panels} gebruiken
+   + Deelvensters gebruiken {#using-panels}
       + [Tabellen, visualisaties en deelvensters gebruiken in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Deelvenster Quick Insights in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Het deelvenster Attribution IQ gebruiken](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html)
@@ -91,7 +91,7 @@ ht-degree: 7%
       + [Deelvensters gebruiken om uw Analysis Workspace-projecten te organiseren](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Verbeteringen voor segmentneerzetzone](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Meerdere rapportsuites in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
-   + Vrije-vormtabellen maken {#building-freeform-tables}
+   + Freeform-tabellen maken {#building-freeform-tables}
       + [Begrijp uw gegevens-Vrije Lijsten van de Vorm](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [Het gebruiken van het Linkerspoor om Vrije Lijsten van de Vorm in Analysis Workspace te bouwen](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [Automatisch vrije-vormtabellen maken in Analysis Workspace](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
@@ -139,7 +139,7 @@ ht-degree: 7%
       + [100% gestapelde visualisaties](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [Gegevensbroninstellingen voor tabel en visualisatie](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Een Time-Parting Heatmap maken](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
-   + Segmenten {#applying-segments} toepassen
+   + Segmenten toepassen {#applying-segments}
       + [Segmenten toepassen op uw Analysis Workspace-project](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Segmenten gebruiken in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
       + [Ad hoc (tijdelijk) segmenten](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
@@ -165,7 +165,7 @@ ht-degree: 7%
       + [Aangepaste datumbereiken maken](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Datumvergelijkingen in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Vergelijkingen van voorafgaande maanden en jaar toevoegen aan trends](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
-   + De reizen van de Klant {#analyzing-customer-journeys} analyseren
+   + Klantenreizen analyseren {#analyzing-customer-journeys}
       + [Gegevens begrijpen—Fallout &amp; Flow](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Reis-IQ - Apparaatanalyse](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
       + [Vallout Visualisatie](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
@@ -175,7 +175,7 @@ ht-degree: 7%
       + [Flowvisualisaties](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
       + [Uitbreiden bij stroomvisualisatie](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
       + [Tekstomloop en multidimensionale stroom](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
-   + Projecten cureren en delen {#curate-and-share-projects}
+   + Projecten krullen en delen {#curate-and-share-projects}
       + [Opslaan, delen en samenwerken aan projecten in Analysis Workspace](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Curation and Sharing in Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Directe koppeling naar een project](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
@@ -221,7 +221,7 @@ ht-degree: 7%
       + [Toegang tot rapportsuite beperken in Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [Gebruikerselementen naar een andere gebruiker overbrengen](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [Controleer de gekoppelde IMS-id om aanmeldingsproblemen te voorkomen](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
-   + Rapportuiteinden beheren {#manage-report-suites}
+   + Rapportsets beheren {#manage-report-suites}
       + [Algemene accountinstellingen configureren](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Kalenderinstellingen aanpassen](administration/manage-report-suites/customize-calendar-settings.md)
       + [Menu&#39;s aanpassen in rapporten en analyses](administration/manage-report-suites/customize-menus.md)
@@ -269,18 +269,17 @@ ht-degree: 7%
       + [Experience Platforms Launch voor speciale pagina&#39;s maken](implementation/via-adobe-launch/creating-launch-rules-for-special-pages.md)
       + [Het creëren van de Regels van het Experience Platform Launch voor Succesgebeurtenissen](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
       + [Bibliotheken van Experience Platforms Launch publiceren naar werkgebied en productie](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
-   + JavaScript {#using-javascript} gebruiken
+   + JavaScript gebruiken {#using-javascript}
       + [Aangepaste koppeling bijhouden zonder tagbeheer](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [AppMeasurement bijwerken als Experience Platform Launch niet wordt gebruikt](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
-   + {#validating-and-troubleshooting} valideren en problemen oplossen
+   + Valideren en problemen oplossen {#validating-and-troubleshooting}
       + [Implementaties controleren met de Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
-   + Pagina&#39;s {#spa-pages} SPA
+   + SPA pagina&#39;s {#spa-pages}
       + [Beste werkwijzen gebruiken bij het bijhouden van SPA](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + Onderdelen {#components}
    + Segmentatie {#segmentation}
       + [Overzicht van Segment Builder](components/segmentation/segment-builder-overview.md)
       + [Segmenten zoeken en maken](components/segmentation/finding-and-creating-segments.md)
-      + [Voor/Na-reeksen in opeenvolgende segmentatie](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [Roldatumbereiken in segmenten](components/segmentation/rolling-date-ranges-in-segments.md)
       + [Segmentvergelijking in Analysis Workspace](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [Segmentcontainers](components/segmentation/segment-containers.md)
@@ -289,6 +288,7 @@ ht-degree: 7%
       + [Segmenten gebruiken als Dimension in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html)
       + [Segmenten gebruiken om gegevens in Analysis Workspace te beperken](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html)
       + [Opvolgende segmentatie](components/segmentation/sequential-segmentation.md)
+      + [Voor/Na-reeksen in opeenvolgende segmentatie](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [Segmentering op onderscheiden Dimension Tellingen](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [Dimension Modellen in segmentatie](components/segmentation/dimension-models-in-segmentation.md)
       + [Gelijk aan om het even welke exploitant in segmentatie](components/segmentation/equals-any-of-operator-in-segmentation.md)
@@ -320,8 +320,8 @@ ht-degree: 7%
       + [Visualisaties voor mobiele scoreborden](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [Aangepaste datumbereiken toepassen](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [In-app ervaring met analytische dashboards](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
-+ {#exporting} exporteren
-   + Uit de interface {#from-the-ui}
++ Exporteren {#exporting}
+   + Vanuit de gebruikersinterface {#from-the-ui}
       + [Exporteren naar CSV vanuit Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
       + [Inleiding tot Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
@@ -369,20 +369,20 @@ ht-degree: 7%
    + [Bijdrage-analyse in Analysis Workspace](data-science/contribution-analysis-workspace.md)
    + [Slimme meldingen](data-science/intelligent-alerts.md)
    + [Adobe Analytics en Adobe Sensei - Democratie in de gegevenswetenschap voor ALL](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
-+ Verticaal specifieke {#vertical-specific}
-   + Hoge Tech {#high-tech}
++ Verticaal specifiek {#vertical-specific}
+   + Hoge technologie {#high-tech}
       + [Top 2019 Super Session - High Tech](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html)
-   + Reizen en gastvrijheid {#travel-and-hospitality}
+   + Reizen en verblijf {#travel-and-hospitality}
       + [Topconferentie 2019 Super Session - Reizen en Ziekenhuizen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html)
    + Detailhandel {#retail}
       + [Introductie tot handelsvariabelen en -gebeurtenissen](vertical-specific/retail/intro-to-retail-variables-and-events.md)
       + [Basisvariabelen en -gebeurtenissen voor de detailhandel toevoegen aan opstartregel](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
       + [Een opstartregel toevoegen voor de koopgebeurtenis](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
       + [Top 2019 Super Session - Retail](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html)
-+ Media-analyse {#media-analytics}
++ Media Analytics {#media-analytics}
    + Spraak of audio meten {#measuring-voice-or-audio}
       + [De audioverbruikssjabloon in Analysis Workspace gebruiken](media-analytics/measuring-voice-or-audio/using-the-audio-consumption-template-in-analysis-workspace.md)
-+ Analyse van mobiele apps {#mobile-app-analytics}
++ Mobiele App Analytics {#mobile-app-analytics}
    + Implementatie {#implementation}
       + [Beheerinstellingen voor mobiele apps](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
       + [Levenscyclusstatistieken initialiseren en weergeven met de SDK van het Experience Platform](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
@@ -391,7 +391,7 @@ ht-degree: 7%
       + [Implementeren in iOS Swift-apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
       + [Implementeren in iOS-toepassingen voor doelstelling-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
       + [Implementeren in Android-apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html)
-   + Mobiele analyse meten {#measuring-mobile-analytics}
+   + Mobiele analysemogelijkheden meten {#measuring-mobile-analytics}
       + [Aan de slag met Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [Impact van aanraakpunten op mobiele reizen](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [Werking van gebruiker via kanalen analyseren](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
@@ -400,8 +400,8 @@ ht-degree: 7%
    + [Analysis Workspace gebruiken om API 2.0-verzoeken te maken](apis/using-analysis-workspace-to-build-api-2-requests.md)
    + [Report Builder gebruiken om de Adobe Analytics API te leren](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html)
    + [Adobe Analytics 2.0 API-verzoeken maken met Postman](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
-+ Gebruiksscenario&#39;s voor analyse {#analysis-use-cases}
-   + Interne site zoeken {#internal-site-search}
++ Gebruiksscenario&#39;s analyse {#analysis-use-cases}
+   + Zoeken op interne site {#internal-site-search}
       + [De zakelijke vereisten voor het zoeken op uw interne site definiëren](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
       + [Interne zoekvariabelen implementeren met AppMeasurement](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
       + [Interne onderzoeksvariabelen uitvoeren gebruikend Web SDK](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
