@@ -9,27 +9,27 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 47061b035847e42d72dec3b83d7a8322f0276e6b
+source-git-commit: c6cb1238e3e2da656976154445992e34bfa011ae
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '288'
 ht-degree: 31%
 
 ---
 
 # Overzicht
 
-Welkom bij de site [!DNL Analytics] Tutorials.  Als u deze zelfstudies samen met de [documentatie](https://experienceleague.adobe.com/docs/analytics/landing/home.html) gebruikt, krijgt u meer inzicht in de manier waarop u Adobe Analytics kunt gebruiken om sneller dan ooit inzicht in klanten te krijgen.  Aan de slag,
-* Zie de **&quot;Nieuwe functies&quot;** sectie hieronder voor de nieuwste gooien
-* **Personeelszaken** Pickshighlights een deel van onze favoriete inhoud
-* Verken de inhoud per onderwerp en subtopic in **linkernavigatie**
-* Gebruik het veld **search** boven aan de pagina als u weet wat u zoekt
+Welkom bij de [!DNL Analytics] Site Tutorials.  Deze zelfstudies samen met de [documentatie](https://experienceleague.adobe.com/docs/analytics.html) biedt u een beter inzicht in hoe u Adobe Analytics kunt gebruiken om sneller dan ooit inzicht in klanten te krijgen.  Aan de slag,
+* Zie de **&quot;Nieuwe functies&quot;** onderstaande sectie voor de meest recente goodies
+* **Personeelspictogrammen** benadrukt een aantal van onze favoriete inhoud
+* Verken de inhoud per onderwerp en subonderwerp in het dialoogvenster **linkernavigatie**
+* Gebruik de **zoeken** veld boven aan de pagina als u weet waarnaar u zoekt
 
 ## Nieuwe functies
 
 * **[Klikken met rechtermuisknop voor efficiëntie van werkruimte (video)](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
 
    <br>
-   *Meer weten over al onze favoriete Analysis Workspace-rechtsklikken en hoe u ze kunt gebruiken. Van [!UICONTROL Freeform Tables] tot [!UICONTROL Fallout Visualizations], zal het met de rechtermuisknop aanklikken u efficiënter en bekwaam in [!DNL Workspace].* maken
+   *Meer weten over al onze favoriete Analysis Workspace-rechtsklikken en hoe u ze kunt gebruiken. Van [!UICONTROL Freeform Tables] tot [!UICONTROL Fallout Visualizations]door met de rechtermuisknop te klikken, kunt u efficiënter en bekwamer omgaan met [!DNL Workspace].*
 
 * **[Deelvenster Snelle inzichten in Analysis Workspace (video)](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)**
 
