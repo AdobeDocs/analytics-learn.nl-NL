@@ -1,27 +1,23 @@
 ---
 title: Visualisatie van stromen in Analysis Workspace
-description: Deze video bespreekt de stroomvisualisatie in Analysis Workspace. U kunt stroom gebruiken om gebruikersbeweging te tonen en te onderzoeken, om uw klantenreis beter te begrijpen.
+description: Stroomvisualisaties worden gebruikt om de exacte reizen te verkennen die klanten met uw merk hebben. De stroom kan op Pagina's, de kanalen van de Marketing, en om het even welke andere dimensie of mengeling van dimensies worden toegepast die u verzamelt.
 feature: Visualizations
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 24045.jpg
 kt: 2279
 role: User
 level: Beginner
 exl-id: 888fec4a-308d-4a05-9c7b-a4b4deba09b1
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 5c1acb8df5e4937f53dae2cdea7d0714c41b1c98
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
 # [!DNL Flow Visualization] in Analysis Workspace {#flow-visualization-in-analysis-workspace}
 
-Deze video bespreekt u [!DNL Flow visualization] in Analysis Workspace. U kunt [!DNL Flow] gebruiken om gebruikersbeweging te tonen en te onderzoeken, om uw [!DNL customer journey] beter te begrijpen.
+Stroomvisualisaties worden gebruikt om de exacte reizen te verkennen die klanten met uw merk hebben. De stroom kan op Pagina&#39;s, de kanalen van de Marketing, en om het even welke andere dimensie of mengeling van dimensies worden toegepast die u verzamelt.
 
->[!VIDEO](https://video.tv.adobe.com/v/24045/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24045/?quality=12&learn=on)
 
-Voor meer informatie over deze eigenschap, bezoek [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=en).
