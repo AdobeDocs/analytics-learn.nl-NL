@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: 74f9fce66df5b5b9cf9f05feed1b992aa6b7a114
+source-git-commit: 4092033ff06e0b4805a94bb77e7d9c964adcf82a
 workflow-type: tm+mt
-source-wordcount: '2208'
+source-wordcount: '2225'
 ht-degree: 7%
 
 ---
@@ -87,6 +87,7 @@ ht-degree: 7%
       + [Deelvenster Quick Insights in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Het deelvenster Attribution IQ gebruiken](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html)
       + [Deelvenster Mediagelijktijdige viewers in Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
+      + [Deelvenster Tijd van afspelen van media](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
       + [Vervolgkeuzefilters gebruiken](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [Deelvensters gebruiken om uw Analysis Workspace-projecten te organiseren](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Verbeteringen voor segmentneerzetzone](analysis-workspace/using-panels/segment-dropzone-improvements.md)
@@ -149,12 +150,12 @@ ht-degree: 7%
       + [Segmenten gebruiken om gegevens in Analysis Workspace te beperken](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
    + Cijfers {#metrics}
       + [Basisstatistieken van bezoekers](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [Dimension en statistieken toevoegen aan uw project in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
+      + [Dimension en metriek toevoegen aan uw project in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
       + [Inleiding tot conversiegebeurtenissen](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [Werken met metriek in een tabel voor vrije vorm](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html)
       + [Deelnemings-statistieken gebruiken in Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
    + Dimensies {#dimensions}
-      + [Dimension en statistieken toevoegen aan uw project in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
+      + [Dimension en metriek toevoegen aan uw project in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Inleiding aan de Variabelen van het Verkeer (Keuringen)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [Inleiding tot conversievariabelen (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
       + [Werken met Dimension in een tabel voor vrije vorm](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html)
@@ -202,7 +203,7 @@ ht-degree: 7%
       + [Churn-analyse met kleurentabellen](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
       + [Cohortanalyse met elke Dimension](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
       + [Latentieanalyse met cohorttabellen](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
-      + [Rolretentie berekenen in cohortabellen](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
+      + [Rolretentie berekenen in kleurentabellen](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
    + Spraakanalyse {#voice-analytics}
       + [Hoe te om Uw Gegevens van de HulpApp van de Stem te beheren en te volgen](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
       + [Begrijp Verschillen over stem-Toegelaten Apparaten Apparaten](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
@@ -380,8 +381,9 @@ ht-degree: 7%
       + [Een opstartregel toevoegen voor de koopgebeurtenis](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
       + [Top 2019 Super Session - Retail](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html)
 + Media Analytics {#media-analytics}
-   + Spraak of audio meten {#measuring-voice-or-audio}
-      + [De audioverbruikssjabloon in Analysis Workspace gebruiken](media-analytics/measuring-voice-or-audio/using-the-audio-consumption-template-in-analysis-workspace.md)
+   + Meetmedia-analyse {#measuring-media-analytics}
+      + [Deelvenster Tijd van afspelen van media](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
+      + [De audioverbruikssjabloon in Analysis Workspace gebruiken](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
 + Mobiele App Analytics {#mobile-app-analytics}
    + Implementatie {#implementation}
       + [Beheerinstellingen voor mobiele apps](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
