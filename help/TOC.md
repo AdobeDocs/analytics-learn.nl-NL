@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: 4092033ff06e0b4805a94bb77e7d9c964adcf82a
+source-git-commit: acc9965df12599640462302becd18d82e7dcbc33
 workflow-type: tm+mt
-source-wordcount: '2225'
+source-wordcount: '2231'
 ht-degree: 7%
 
 ---
@@ -293,6 +293,7 @@ ht-degree: 7%
       + [Segmentering op onderscheiden Dimension Tellingen](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [Dimension Modellen in segmentatie](components/segmentation/dimension-models-in-segmentation.md)
       + [Gelijk aan om het even welke exploitant in segmentatie](components/segmentation/equals-any-of-operator-in-segmentation.md)
+      + [Analyses Insider-webinar - Segmentatiestrategieën van klanten](components/segmentation/customer-segmentation-strategies.md)
    + Berekende statistieken {#calculated-metrics}
       + [De functie Aantal bij benadering onderscheiden in berekende metriek](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Attribution IQ in berekende cijfers](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
