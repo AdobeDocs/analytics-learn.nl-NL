@@ -2,15 +2,13 @@
 title: Het gebruiken van evenaart om het even welke exploitant in segmentatie
 description: Gelijk om het even welk van en is niet gelijk aan om het even welke segmentexploitanten toegevoegd aan de segmentbouwer. Gebruik deze operatoren om te filteren naar een lijst met specifieke items in plaats van meerdere OR-instructies te gebruiken of Bevat een van deze instructies. Het gebruiken van deze exploitanten in plaats van bevat om het even welk zal helpen vraagsnelheid eveneens verbeteren.
 feature: Segmentation
-topics: null
-activity: use
-doc-type: feature video
+thumbnail: 32960.jpg
 team: Technical Marketing
 kt: 4844
 role: User
 level: Beginner
 exl-id: ed4eccc6-a56e-4767-aeea-046bbbb7ee9c
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -23,4 +21,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12)
 
-Voor meer informatie raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html)
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html)

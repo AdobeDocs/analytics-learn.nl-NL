@@ -6,11 +6,12 @@ topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 24036.jpg
 kt: 2008
 role: User
 level: Beginner
 exl-id: d07ba0a5-735b-43f2-ad67-31520ac897bd
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -23,6 +24,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/24036/?quality=12)
 
-U kunt nu volledig [!UICONTROL dimensions] en [!UICONTROL metrics], naast de bestaande steun voor [!UICONTROL dimension] punten, [!UICONTROL date ranges] en [!UICONTROL segments] laten vallen. Bovendien, hebben wij verbeterd hoe [!UICONTROL dimension] punten van &quot;niet gespecificeerd&quot;en &quot;niets&quot;worden behandeld wanneer gelaten vallen in [!UICONTROL segment] dalingsstreek.
+U kunt nu volledig neerzetten [!UICONTROL dimensions] en [!UICONTROL metrics], naast de bestaande steun voor [!UICONTROL dimension] objecten, [!UICONTROL date ranges] en [!UICONTROL segments]. Bovendien hebben we verbeterd hoe [!UICONTROL dimension] items van &quot;unspecified&quot; en &quot;none&quot; worden verwerkt wanneer deze in het dialoogvenster [!UICONTROL segment] dropzone.
 
-Voor meer informatie over deze eigenschap, bezoek [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/t-freeform-project-segment.html?lang=en).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/t-freeform-project-segment.html?lang=en).
