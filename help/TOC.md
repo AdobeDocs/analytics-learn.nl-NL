@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: decddf7d0623120b9d2ee9620c922cf280476086
+source-git-commit: c04177fead4f2f7d3187907172ed916accaeecc6
 workflow-type: tm+mt
-source-wordcount: '2235'
+source-wordcount: '2248'
 ht-degree: 7%
 
 ---
@@ -227,6 +227,9 @@ ht-degree: 7%
       + [Kalenderinstellingen aanpassen](administration/manage-report-suites/customize-calendar-settings.md)
       + [Detectie van betaalde zoekopdracht configureren](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Menu&#39;s aanpassen in rapporten en analyses](administration/manage-report-suites/customize-menus.md)
+      + [Inkomende gegevens manipuleren met verwerkingsregels](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
+      + [Het vormen de Variabelen van het Verkeer (steunen)](administration/manage-report-suites/configuring-traffic-variables-props.md)
+      + [Lijstvariabelen configureren](administration/manage-report-suites/configuring-list-variables.md)
       + [Zoekmethoden configureren](administration/manage-report-suites/configure-finding-methods.md)
       + [Interne URL-filters instellen](administration/manage-report-suites/set-internal-url-filters.md)
       + [Instellingen voor postcode en postcode configureren](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
