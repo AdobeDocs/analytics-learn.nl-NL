@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: c04177fead4f2f7d3187907172ed916accaeecc6
+source-git-commit: 376accf865e72799c0238250ac1e17f000c8d5b5
 workflow-type: tm+mt
-source-wordcount: '2248'
+source-wordcount: '2251'
 ht-degree: 7%
 
 ---
@@ -229,6 +229,7 @@ ht-degree: 7%
       + [Menu&#39;s aanpassen in rapporten en analyses](administration/manage-report-suites/customize-menus.md)
       + [Inkomende gegevens manipuleren met verwerkingsregels](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Het vormen de Variabelen van het Verkeer (steunen)](administration/manage-report-suites/configuring-traffic-variables-props.md)
+      + [Verkeersclassificaties configureren](administration/manage-report-suites/configure-traffic-classifications.md)
       + [Lijstvariabelen configureren](administration/manage-report-suites/configuring-list-variables.md)
       + [Zoekmethoden configureren](administration/manage-report-suites/configure-finding-methods.md)
       + [Interne URL-filters instellen](administration/manage-report-suites/set-internal-url-filters.md)
