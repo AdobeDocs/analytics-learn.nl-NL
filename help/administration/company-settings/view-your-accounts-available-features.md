@@ -1,20 +1,19 @@
 ---
-title: 'Beschikbare functies van uw account weergeven '
+title: Beschikbare functies van uw account weergeven
 description: Met de instellingen van de toegangsniveaus voor functies onder Beheer in de sectie Analytics kunt u het toegangsniveau voor Adobe Analytics-pakketten en -functies weergeven waarop uw bedrijf recht heeft. Dit omvat Activity Map, Advertising Analytics, Anomaly-detectie in waarschuwingen, enz.
-feature: Bedrijfsinstellingen
-topic: 'Beheer '
+feature: Company Settings
+topic: Administration
 role: User, Admin
 level: Beginner
-doc-type: feature video
 thumbnail: 335742.jpg
-kt: KT-8463
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
+kt: 8463
+exl-id: a8397a6b-0cbf-4a7e-b3dc-9f347b01b1f3
+source-git-commit: f53d322ca18abdd0c7f0f46de7a0146c5af14e6f
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
-
 
 # Beschikbare functies van uw account weergeven
 
