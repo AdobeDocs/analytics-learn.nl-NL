@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: 376accf865e72799c0238250ac1e17f000c8d5b5
+source-git-commit: d97a15fbefd174cbd5345b1ff7fe28502de676d8
 workflow-type: tm+mt
-source-wordcount: '2251'
+source-wordcount: '2254'
 ht-degree: 7%
 
 ---
@@ -230,11 +230,12 @@ ht-degree: 7%
       + [Inkomende gegevens manipuleren met verwerkingsregels](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Het vormen de Variabelen van het Verkeer (steunen)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Verkeersclassificaties configureren](administration/manage-report-suites/configure-traffic-classifications.md)
+      + [Variabelen configureren in de Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [Conversieclassificaties configureren](administration/manage-report-suites/configure-conversion-classifications.md)
       + [Lijstvariabelen configureren](administration/manage-report-suites/configuring-list-variables.md)
       + [Zoekmethoden configureren](administration/manage-report-suites/configure-finding-methods.md)
       + [Interne URL-filters instellen](administration/manage-report-suites/set-internal-url-filters.md)
       + [Instellingen voor postcode en postcode configureren](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
-      + [Variabelen configureren in de Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [De optionele instelling voor Tijdstempel inschakelen](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Beide regels configureren in Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Data Governance en GDPR {#data-governance-and-gdpr}
