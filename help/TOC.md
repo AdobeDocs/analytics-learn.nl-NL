@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: c08c284f9e69cb2e16266e54c42ea15307e946b5
+source-git-commit: c9984b0e1081f3ac19d8c49bc01626a69cd77b55
 workflow-type: tm+mt
 source-wordcount: '2268'
 ht-degree: 7%
@@ -217,6 +217,7 @@ ht-degree: 7%
    + Sleutelbeheervaardigheden {#key-admin-skills}
       + [Een machtige gemeenschap creëren](administration/key-admin-skills/empowered-community.md)
       + [Vereenvoudig en besteed minder tijd aan trainingsgebruikers](administration/key-admin-skills/simplify-training-users.md)
+      + [De juiste personen op uw Analyseteam krijgen](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
    + Bedrijfsinstellingen {#company-settings}
       + [E-maildomeinbeperkingen afdwingen](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Beschikbare functies van uw account weergeven](administration/company-settings/view-your-accounts-available-features.md)
@@ -243,7 +244,6 @@ ht-degree: 7%
       + [Beide regels configureren in Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Data Governance en GDPR {#data-governance-and-gdpr}
       + [Data Governance en GDPR in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
-      + [De juiste personen op uw Analyseteam krijgen](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
    + Traffic-beheer {#traffic-management}
       + [Gebruik van server calls](administration/traffic-management/server-call-usage.md)
       + [Een aanstaande verkeersstroom beheren](administration/traffic-management/manage-an-upcoming-traffic-spike.md)

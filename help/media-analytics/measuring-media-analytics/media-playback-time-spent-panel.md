@@ -7,13 +7,13 @@ level: Beginner
 doc-type: feature video
 thumbnail: 338699.jpg
 kt: 9379
-source-git-commit: b15c7365a354f47edbb2c7661efb68bbc05758b9
+exl-id: 100f33bb-9a2f-4181-835b-16537e02cd80
+source-git-commit: c9984b0e1081f3ac19d8c49bc01626a69cd77b55
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
-
 
 # Deelvenster Tijd van afspelen van media
 
@@ -21,4 +21,4 @@ Met het deelvenster Tijd voor afspelen van media kunnen mediagebruikers hun view
 
 >[!VIDEO](https://video.tv.adobe.com/v/338699/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-playback-time-spent.html).
