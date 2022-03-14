@@ -1,26 +1,24 @@
 ---
-title: Curation and Sharing in Analysis Workspace
-description: Als u eenmaal een project hebt gemaakt in Analysis Workspace, kunt u het beheren (vereenvoudigen) en delen met andere teams en personen in uw organisaties, zodat ze het kunnen verkennen en zelf met gegevens kunnen werken. In deze video ziet u hoe u met curatie en delen werkt.
+title: Curven en delen in Analysis Workspace
+description: Als u eenmaal een project hebt gemaakt in Analysis Workspace, kunt u het beheren (vereenvoudigen) en delen met andere teams en personen in uw organisaties, zodat zij het kunnen verkennen en zelf kunnen dienen met gegevens. In deze video ziet u hoe u met curatie en delen werkt.
 feature: Curate and Share
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2294
+topic: Collaboration
 role: User
 level: Beginner
-exl-id: 892b7f9d-9351-4c68-a54f-85803a67c072
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+doc-type: feature video
+thumbnail: 341021.jpg
+kt: 2294
+source-git-commit: 5791ddd8ef948d74148bc4c2d4834a69ce879858
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Curation] en delen in Analysis Workspace {#curation-and-sharing-in-analysis-workspace}
+# titel Curve en delen in Analysis Workspace
 
-Als u eenmaal een project hebt gemaakt in Analysis Workspace, kunt u het [!UICONTROL curate] (vereenvoudigen) en delen met andere teams en personen in uw organisaties, zodat zij het kunnen verkennen en met gegevens kunnen werken. In deze video ziet u hoe u met [!UICONTROL curation] werkt en hoe u bestanden deelt.
+Als u eenmaal een project in Analysis Workspace hebt gemaakt, kunt u [!UICONTROL curate] (vereenvoudigen) het en het delen met andere teams en individuen in uw organisaties zodat zij het kunnen onderzoeken en met gegevens kunnen dienen. In deze video wordt getoond hoe u kunt werken met [!UICONTROL curation] en delen.
 
->[!VIDEO](https://video.tv.adobe.com/v/24711/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/341021/?quality=12&learn=on)
 
-Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=en) voor meer informatie over deze functie.
+Voor meer informatie over deze functie raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=en).

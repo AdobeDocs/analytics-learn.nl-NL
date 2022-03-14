@@ -1,24 +1,24 @@
 ---
-title: Directe koppeling naar een project in Analysis Workspace
+title: Rechtstreekse koppeling naar een project in Analysis Workspace
 description: Deze video laat zien hoe u analyses beter kunt democratiseren door verkorte links te maken, waardoor uw collega's naar uw Analysis Workspace-projecten kunnen gaan.
-feature: Curven en delen
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2296
+feature: Curate and Share
+topic: Collaboration
 role: User
 level: Beginner
-exl-id: 105c7767-4ca1-45d0-a1ca-7b99b4cfae6e
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+doc-type: feature video
+thumbnail: 341027.jpg
+kt: 2296
+source-git-commit: 5791ddd8ef948d74148bc4c2d4834a69ce879858
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
-# Directe koppeling naar een project in Analysis Workspace {#direct-link-to-a-project-in-analysis-workspace}
+# Rechtstreekse koppeling naar een project in Analysis Workspace
 
 Deze video laat zien hoe u analyses beter kunt democratiseren door verkorte links te maken, waardoor uw collega&#39;s naar uw Analysis Workspace-projecten kunnen gaan.
 
->[!VIDEO](https://video.tv.adobe.com/v/24710/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/341027/?quality=12&learn=on)
+
+Voor meer informatie over deze functie raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/shareable-links.html?lang=en).
