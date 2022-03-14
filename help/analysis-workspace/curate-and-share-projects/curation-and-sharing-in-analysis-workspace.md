@@ -8,14 +8,14 @@ level: Beginner
 doc-type: feature video
 thumbnail: 341021.jpg
 kt: 2294
-source-git-commit: 5791ddd8ef948d74148bc4c2d4834a69ce879858
+source-git-commit: 8cba2c4f9d7daa5befe4f6bd90afed066dbbfea9
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
-# titel Curve en delen in Analysis Workspace
+# Curven en delen in Analysis Workspace
 
 Als u eenmaal een project in Analysis Workspace hebt gemaakt, kunt u [!UICONTROL curate] (vereenvoudigen) het en het delen met andere teams en individuen in uw organisaties zodat zij het kunnen onderzoeken en met gegevens kunnen dienen. In deze video wordt getoond hoe u kunt werken met [!UICONTROL curation] en delen.
 
