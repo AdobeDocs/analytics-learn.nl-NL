@@ -7,13 +7,13 @@ level: Beginner
 doc-type: feature video
 thumbnail: 34749.jpg
 kt: 9830
-source-git-commit: 404ec61f8e1ad389f9d0f51d60ce5d9634b0a38c
+exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
+source-git-commit: de78868e07b0fa59a7babc092c463bbe4d8e2da7
 workflow-type: tm+mt
-source-wordcount: '3644'
+source-wordcount: '3690'
 ht-degree: 0%
 
 ---
-
 
 # Een uitgebreide handleiding voor de overgang van Google Analytics naar Adobe Analytics
 
@@ -116,7 +116,7 @@ In Adobe zijn segmenten (in feite gegevensfilters) retroactief van toepassing. D
 
 In vrije-vormtabellen zijn meerdere kolommen en segmentatie mogelijk, indien nodig, om de gegevens op de gewenste manier te visualiseren.
 
-Wilt u uit het bovenstaande geen uitsplitsing naar datum zien? Sleep gewoon een andere dimensie of segment om de gegevens op een andere manier te bekijken... zoals bij het gebruik van segmenten voor Apparaattype en voeg vervolgens een uitsplitsing toe per besturingssysteem voor uw mobiele gebruikers/gebruikers van tablets:
+Wilt u uit het bovenstaande geen uitsplitsing naar datum zien? Sleep gewoon een andere dimensie of segment om de gegevens op een andere manier te bekijken... zoals bij het gebruik van segmenten voor Apparaattype en voeg vervolgens een uitsplitsing toe naar OS voor uw Mobile/Tablet-gebruikers:
 
 ![image3](assets/ga-to-aa_4.png)
 
@@ -170,7 +170,7 @@ Hier vindt u ook &quot;Bot&quot;-rapporten, het verkeer van bots is uitgesloten 
 
 Site-inhoud bestaat uit een groep standaardinstellingen voor Adobe: Paginanaam, Sitesecties (kanalen), Hiërarchieën (een manier om aangepaste boor-down rapporten van organisatie binnen uw website te maken), Servers (dit is met name handig als u meerdere subdomeinen op uw site hebt of meerdere sites tegelijk wilt coderen in één volgsuite), enz. Deze zijn allemaal beschikbaar in Workspace.
 
-Mobile is een groep specifieke gegevens van mobiele apparaten, zoals apparaten, apparaattypen, enz. Deze zijn allemaal beschikbaar in Workspace.
+Mobile bestaat uit een groep Mobile Device-specifieke gegevens, zoals apparaten, apparaattypen, enzovoort. Deze zijn allemaal beschikbaar in Workspace.
 
 Paden zijn een van de andere items die niet helemaal beschikbaar zijn in Workspace... terwijl Workspace wel een Flow-diagram heeft, kunt u alleen de in- en uitstromen voor één pagina/waarde zien... terwijl Paden u in staat stellen de meest gebruikte paden op uw website weer te geven. Pagina&#39;s is standaard het eerste padrapport dat voor u is ingesteld, maar u kunt dit inschakelen voor aangepaste props (bijvoorbeeld als u een waarde voor Paginatype wilt bijhouden), zodat u het plakken binnen paginatypen kunt bekijken. Wat ik persoonlijk leuk vind aan Paden is de eenvoudige manier waarop de informatie wordt gepresenteerd... Het stroomdiagram in de werkruimte (afhankelijk van hoeveel u probeert te bekijken) kan overweldigend worden. Ik raad aan beide uit te proberen... ze hebben elk een nut en waarde afhankelijk van wat u probeert te bereiken. Opgemerkt moet worden dat elke dimensie kan worden gebruikt bij Stromen, terwijl Padden moet worden ingesteld op een proxy in het deelvenster Beheer.
 
@@ -268,20 +268,19 @@ Ik wil echter benadrukken dat ik het gebruik van zowel Adobe Analytics als Googl
 
 Naast deze handleiding beschikt u over veel bronnen die u kunnen helpen uw strategie te verbeteren:
 
-* [Adobe Experience League](https://experienceleague.adobe.com/#home) (met zelfstudies, video&#39;s, documentatie en communityforums)
-* [Adobe-gebruikersgroepen](https://analytics-augs.adobe.com/) (dit is een hub van community run events om gebruikers te helpen verbinding met elkaar te maken en hun implementaties te verbeteren - alleen omdat deze in bepaalde tijdzone zijn gebaseerd, is het beter om te controleren wat andere regio&#39;s ook uitvoeren)
-* YouTube Channel
-   * [Adobe Analytics-gebruikersgroepen](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA)
-* Slack kanalen
-   * [Chat meten](https://www.measure.chat/)
-* en meer
+* [Adobe Experience League](https://experienceleague.adobe.com/#home) - Bevat zelfstudies, video&#39;s, documentatie en communityforums
+* [Adobe-gebruikersgroepen](https://analytics-augs.adobe.com/) - Een hub van op gemeenschap-in werking gestelde gebeurtenissen om gebruikers te helpen met elkaar verbinden en hun implementaties verbeteren - omdat deze in een specifieke tijdzone gebaseerd zijn, is het best om te controleren wat andere gebieden ook lopen.
+* [Adobe Analytics-gebruikersgroepen YouTube-kanaal](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Kan geen gebruikersgroepsessie voor Adobe Analytics maken? Bekijk vorige gebruikersgroepssessies over de hele wereld opnieuw voor meer informatie over hoe uw collega&#39;s het gereedschap gebruiken.
+* [Chat-Slack-kanaal meten](https://www.measure.chat/) - Maak verbinding met Adobe Analytics-gebruikers over de hele wereld en deel ervaringen uit de branche, stel vragen aan uw collega&#39;s en sluit zich aan bij belangengroepen die zich bij de meting richten.
+* en meer!
 
 ## Auteur
 
 Dit document is geschreven door:
 
-![Jennifer Dugan](assets/Jennifer_Dungan_Headshot150.png)
+![Jennifer Dungan](assets/Jennifer_Dungan_Headshot150.png)
+
+Jennifer Dungan, Optimization Manager Analytics at Torstar
 
 Adobe Analytics Champion
 
-Jennifer Dugan, Optimization Manager Analytics at Torstar
