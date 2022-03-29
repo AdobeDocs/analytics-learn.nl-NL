@@ -1,6 +1,6 @@
 ---
 title: Marketingkanalen instellen in uw rapportenpakket
-description: In deze video, tonen wij hoe te om marketing kanalen te vormen die in uw het rapportreeks van de Analyse melden.
+description: In deze video, tonen wij hoe te om de rapporten van de marketing kanalen in uw het rapportreeks van de Analyse te vormen.
 feature: Marketing Channels
 topic: Administration
 role: Admin
@@ -8,18 +8,22 @@ level: Beginner
 doc-type: feature video
 thumbnail: 340789.jpg
 kt: 9623
-source-git-commit: fe6f05a290666634db50e0b5053cf0ea99bcf1d5
+exl-id: 986707b8-3af4-4157-9afb-4ff95cb8705a
+source-git-commit: 9836913129127648ffda01fec5b60240f5de5870
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
-
 # Marketingkanalen instellen in uw rapportenpakket
 
-In deze video, tonen wij hoe te om marketing kanalen te vormen die in uw het rapportreeks van de Analyse melden.
+In deze video, tonen wij hoe te om de rapporten van de marketing kanalen in uw het rapportreeks van de Analyse te vormen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340789/?quality=12&learn=on)
+
+>[!NOTE]
+>
+>Om de doeltreffendheid van de Marketing Kanalen voor Attribution IQ en Customer Journey Analytics te maximaliseren, publiceerden wij sommige [herziene beste praktijken](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=en).
 
 Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-getting-started-mchannel.html?lang=en).

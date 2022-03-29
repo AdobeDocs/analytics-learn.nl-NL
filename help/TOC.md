@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: e434c7f884bbc98ce1c296848abe0f7d2179bb1b
+source-git-commit: 61bbee615d9b65029a7f33fe50908276132f9820
 workflow-type: tm+mt
-source-wordcount: '2286'
+source-wordcount: '2294'
 ht-degree: 7%
 
 ---
@@ -334,7 +334,7 @@ ht-degree: 7%
    + [Adobe Labs (voorvertoningen van technologie)](additional-tools/adobe-labs-technology-previews.md)
    + Analysedashboards {#analytics-dashboards}
       + [Scorecard Builder voor Adobe Analytics-dashboards](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
-      + [Visualisaties voor Mobile Scorecards](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
+      + [Visualisaties voor mobiele scoreborden](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [Aangepaste datumbereiken toepassen](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [In-app ervaring met analytische dashboards](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
 + Exporteren {#exporting}
@@ -343,6 +343,7 @@ ht-degree: 7%
    + Data Warehouse {#data-warehouse}
       + [Inleiding tot Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [Aanvraag Data Warehouse verzenden via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
+      + [Verzend de rapporten van de Data Warehouse in het Uittreksel van Gegevens Tableau](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + Gegevensfeeds {#data-feeds}
       + [Gebruikersinterface gegevensfeeds-beheer](exporting/data-feeds/data-feeds-management-ui.md)
       + [De verificatietoets van de gegevensfeed downloaden](exporting/data-feeds/download-the-data-feed-authentication-key.md)
@@ -409,9 +410,9 @@ ht-degree: 7%
       + [Implementeren in iOS Swift-apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
       + [Implementeren in iOS-toepassingen voor doelstelling-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
       + [Implementeren in Android-apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html)
-   + Metingen uitvoeren op Mobile Analytics {#measuring-mobile-analytics}
+   + Mobiele analysemogelijkheden meten {#measuring-mobile-analytics}
       + [Aan de slag met Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
-      + [Impact van aanraakpunten op Mobile-reis](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
+      + [Impact van aanraakpunten op mobiele reizen](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [Werking van gebruiker via kanalen analyseren](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
       + [Betrokkenheid en behoudsrente verhogen](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + API&#39;s {#apis}
