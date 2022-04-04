@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: f9e9a8e194305d382c8090c212656d3019fb0a2b
+source-git-commit: 7caea7a0194180dd1d4489703adc0356d9564609
 workflow-type: tm+mt
-source-wordcount: '2299'
+source-wordcount: '2321'
 ht-degree: 7%
 
 ---
@@ -222,6 +222,10 @@ ht-degree: 7%
       + [Een machtige gemeenschap creëren](administration/key-admin-skills/empowered-community.md)
       + [Vereenvoudig en besteed minder tijd aan trainingsgebruikers](administration/key-admin-skills/simplify-training-users.md)
       + [De juiste personen op uw Analyseteam krijgen](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
+      + [Licentie ophalen aan tafel](administration/key-admin-skills/gaining-a-seat-at-the-table.md)
+      + [Onbruikbare artikelen voorzien van gegevens](administration/key-admin-skills/telling-impactful-stories-with-data.md)
+      + [De technische taal van Adobe Analytics op niet-technische wijze vertalen](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
+      + [Werken met meerdere functies](administration/key-admin-skills/working-cross-functionally.md)
    + Bedrijfsinstellingen {#company-settings}
       + [E-maildomeinbeperkingen afdwingen](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Beschikbare functies van uw account weergeven](administration/company-settings/view-your-accounts-available-features.md)
@@ -404,16 +408,16 @@ ht-degree: 7%
       + [De audioverbruikssjabloon in Analysis Workspace gebruiken](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
 + Mobiele App Analytics {#mobile-app-analytics}
    + Implementatie {#implementation}
-      + [Beheerinstellingen voor mobiele apps](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
+      + [Beheerinstellingen voor Mobile-toepassingen](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
       + [Levenscyclusstatistieken initialiseren en weergeven met de SDK van het Experience Platform](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
       + [Handelingen bijhouden (aangepaste AKA-koppelingen)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [Volgstatus (AKA-pagina&#39;s of -schermen)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
       + [Implementeren in iOS Swift-apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
       + [Implementeren in iOS-toepassingen voor doelstelling-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
       + [Implementeren in Android-apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html)
-   + Mobiele analysemogelijkheden meten {#measuring-mobile-analytics}
+   + Metingen uitvoeren op Mobile Analytics {#measuring-mobile-analytics}
       + [Aan de slag met Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
-      + [Impact van aanraakpunten op Mobile-reis](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
+      + [Impact van aanraakpunten op mobiele reizen](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [Werking van gebruiker via kanalen analyseren](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
       + [Betrokkenheid en behoudsrente verhogen](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + API&#39;s {#apis}
