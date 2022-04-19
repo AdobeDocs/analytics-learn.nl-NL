@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: c127c940ee352cc4815c34551e74564b725c776d
+source-git-commit: 0c61d08819b6a6d2fa15f287b9f6d88b6f5ef246
 workflow-type: tm+mt
 source-wordcount: '2346'
 ht-degree: 7%
@@ -360,7 +360,7 @@ ht-degree: 7%
       + [Anomaly Detection in Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [Metriek bewerken in verschillende verzoeken](exporting/report-builder/edit-metrics-across-requests.md)
       + [Report Builder gebruiken om de Adobe Analytics API te leren](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
-      + [Ga aan de slag met de rapportontwikkelaar](exporting/report-builder/get-started-with-report-builder.md)
+      + [Aan de slag met Report Builder](exporting/report-builder/get-started-with-report-builder.md)
       + [Een Report Builder-aanvraag plannen](exporting/report-builder/schedule-a-report-builder-request.md)
       + [Geavanceerde Report Builder-leveringsopties gebruiken voor Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + Integraties {#integrations}
@@ -412,7 +412,7 @@ ht-degree: 7%
       + [De audioverbruikssjabloon in Analysis Workspace gebruiken](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
 + Mobiele App Analytics {#mobile-app-analytics}
    + Implementatie {#implementation}
-      + [Beheerinstellingen voor Mobile-toepassingen](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
+      + [Beheerinstellingen voor mobiele apps](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
       + [Levenscyclusstatistieken initialiseren en weergeven met de SDK van het Experience Platform](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
       + [Handelingen bijhouden (aangepaste AKA-koppelingen)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [Volgstatus (AKA-pagina&#39;s of -schermen)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
