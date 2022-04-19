@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: 55c2a148ef766bc2b4d38c0d22490e9ae8c58d5c
+source-git-commit: c127c940ee352cc4815c34551e74564b725c776d
 workflow-type: tm+mt
-source-wordcount: '2327'
+source-wordcount: '2346'
 ht-degree: 7%
 
 ---
@@ -360,6 +360,9 @@ ht-degree: 7%
       + [Anomaly Detection in Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [Metriek bewerken in verschillende verzoeken](exporting/report-builder/edit-metrics-across-requests.md)
       + [Report Builder gebruiken om de Adobe Analytics API te leren](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
+      + [Ga aan de slag met de rapportontwikkelaar](exporting/report-builder/get-started-with-report-builder.md)
+      + [Een Report Builder-aanvraag plannen](exporting/report-builder/schedule-a-report-builder-request.md)
+      + [Geavanceerde Report Builder-leveringsopties gebruiken voor Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + Integraties {#integrations}
    + Experience Cloud {#experience-cloud}
       + [Verbeterde Experience Cloud Audience Publishing](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
@@ -416,7 +419,7 @@ ht-degree: 7%
       + [Implementeren in iOS Swift-apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
       + [Implementeren in iOS-toepassingen voor doelstelling-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
       + [Implementeren in Android-apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html)
-   + Metingen uitvoeren op Mobile Analytics {#measuring-mobile-analytics}
+   + Mobiele analysemogelijkheden meten {#measuring-mobile-analytics}
       + [Aan de slag met Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [Impact van aanraakpunten op mobiele reizen](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [Werking van gebruiker via kanalen analyseren](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
