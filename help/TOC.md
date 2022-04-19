@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: 7caea7a0194180dd1d4489703adc0356d9564609
+source-git-commit: 55c2a148ef766bc2b4d38c0d22490e9ae8c58d5c
 workflow-type: tm+mt
-source-wordcount: '2321'
+source-wordcount: '2327'
 ht-degree: 7%
 
 ---
@@ -226,6 +226,7 @@ ht-degree: 7%
       + [Onbruikbare artikelen voorzien van gegevens](administration/key-admin-skills/telling-impactful-stories-with-data.md)
       + [De technische taal van Adobe Analytics op niet-technische wijze vertalen](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [Werken met meerdere functies](administration/key-admin-skills/working-cross-functionally.md)
+      + [Stel je de juiste vragen?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + Bedrijfsinstellingen {#company-settings}
       + [E-maildomeinbeperkingen afdwingen](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Beschikbare functies van uw account weergeven](administration/company-settings/view-your-accounts-available-features.md)
