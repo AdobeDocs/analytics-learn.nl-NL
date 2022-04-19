@@ -7,9 +7,9 @@ role: Admin
 level: Experienced
 thumbnail: 342361.jpg
 kt: 10272
-source-git-commit: 55c2a148ef766bc2b4d38c0d22490e9ae8c58d5c
+source-git-commit: b5cda911edf548886cc0aeb404a8289bcea4f454
 workflow-type: tm+mt
-source-wordcount: '1080'
+source-wordcount: '1082'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Verzend een lijst met vragen die uw belanghebbende vóór de vergadering van de 
 
 De vragen zullen door technische of analytische processen, bedrijfstructuur, of ingewikkeldheid van het onderwerp van de gegevensinzameling variëren. Het is vaak nuttig om op hoog niveau, met vragen over de volledige organisatie te beginnen, dan de rol van uw belanghebbende te bespreken ter ondersteuning van die organisatorische doelstellingen, etc. in stijgende niveaus van detail. U kunt dan ervoor zorgen dat de korrelige besproken gegevenspunten de algemene doelstellingen van de organisatie effectief zullen steunen. Het geeft je ook de mogelijkheid creatief te denken en nieuwe ideeën voor te stellen voor gegevens die hun doelen ondersteunen.
 
-[Deze sjabloon verkennen](assets/stakeholder-questionnaire.pdf) met verschillende voorbeeldvragen voor gesprekken met belanghebbenden. U kunt ze opnieuw gebruiken of ze aanpassen om relevante vragen voor te bereiden voor uw discussies.
+[Deze sjabloon verkennen](assets/stakeholder-questionnaire.pdf){target=&quot;_blank&quot;} met enkele voorbeeldvragen voor gesprekken met belanghebbenden. U kunt ze opnieuw gebruiken of ze aanpassen om relevante vragen voor te bereiden voor uw discussies.
 
 ### 2. Voorbeeldrapporten aanvragen
 
