@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: 0c61d08819b6a6d2fa15f287b9f6d88b6f5ef246
+source-git-commit: 58969c2aaf8b8614a77f4f310444393958f24e04
 workflow-type: tm+mt
-source-wordcount: '2346'
+source-wordcount: '2364'
 ht-degree: 7%
 
 ---
@@ -56,6 +56,8 @@ ht-degree: 7%
    + Analysis Workspace Basics {#analysis-workspace-basics}
       + [Analysis Workspace Introduction](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace - Overzicht](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
+      + [Navigeren door de nieuwe bestemmingspagina](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [Updates van Analysis Workspace-bestemmingspagina](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [Nieuwe Analysis Workspace-projecten maken](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [Een werkruimteproject helemaal vanaf het begin maken](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Aangepaste sjablonen maken en beheren in Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
@@ -95,6 +97,7 @@ ht-degree: 7%
       + [Deelvensters gebruiken om uw Analysis Workspace-projecten te organiseren](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Verbeteringen voor segmentneerzetzone](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Meerdere rapportsuites in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
+      + [Deelvensters en rapporten in de werkruimte Volgende/Vorige en Paginaoverzicht](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + Freeform-tabellen maken {#building-freeform-tables}
       + [Begrijp uw gegevens-Vrije Lijsten van de Vorm](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [Het gebruiken van het Linkerspoor om Vrije Lijsten van de Vorm in Analysis Workspace te bouwen](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
