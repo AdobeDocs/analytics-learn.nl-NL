@@ -1,30 +1,28 @@
 ---
-title: Anomaly Detection in Report Builder
+title: Anomalische detectie in Report Builder
 description: Leer hoe u metriek voor afwijkingsdetectie toevoegt aan uw gegevensaanvragen en de gegevens creatief weergeeft.
 feature: Report Builder
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 1768
 role: User
 level: Intermediate
+doc-type: feature video
+thumbnail: 25444.jpg
+kt: 1768
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Anomaly Detection] in  [!UICONTROL Report Builder] {#anomaly-detection-in-report-builder}
+# [!UICONTROL Anomaly detection] in [!UICONTROL Report Builder] {#anomaly-detection-in-report-builder}
 
-Leer hoe u [!UICONTROL anomaly detection] [!UICONTROL metrics] aan uw gegevensaanvragen kunt toevoegen en de gegevens creatief kunt weergeven.
+Meer informatie over toevoegen [!UICONTROL anomaly detection] [!UICONTROL metrics] aan uw gegevensverzoeken, evenals creatief grafiek de gegevens.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23543/?quality=12)
 
 [!UICONTROL Anomaly detection] gebruikt statistische modellering om onverwachte tendensen in uw gegevens automatisch te vinden.
 
-In [!UICONTROL Report Builder] kunt u [!UICONTROL metric] actuals, samen met verwachte waarden en boven &amp; onder grenzen, terugkeren om meer diepte aan de gegevens toe te voegen u analyseert &amp; deelt.
+In [!UICONTROL Report Builder], kunt u terugkeren [!UICONTROL metric] actuals, samen met verwachte waarden en boven- en ondergrenzen, om meer diepte toe te voegen aan de gegevens die u analyseert en deelt.
 
-Voor meer informatie over deze eigenschap, bezoek [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/statistics-anomaly-detection.html?lang=en).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/statistics-anomaly-detection.html?lang=en).

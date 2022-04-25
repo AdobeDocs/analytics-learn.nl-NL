@@ -1,26 +1,24 @@
 ---
-title: Gebruikersinterface gegevensfeeds-beheer
+title: Gebruikersinterface voor gegevensfeeds
 description: Met de Adobe Analytics Data Feed kunt u onbewerkte klikstreamgegevens exporteren om te importeren en samen te voegen met andere gegevensbronnen in een EDW- of gegevenseer. U kunt uw eigen gegevensfeeds maken en beheren in Adobe Analytics. In deze video ziet u hoe.
-feature: Gegevensfeeds
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2353
+feature: Data Feeds
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 25452.jpg
+kt: 2353
 exl-id: 79599c6d-eb3e-438a-8e24-45b286d54071
-source-git-commit: c25fa27046e5dd573e4dfb07535e319afe27c478
+source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 1%
+source-wordcount: '109'
+ht-degree: 0%
 
 ---
 
-# [!UICONTROL Data Feeds] Gebruikersinterface voor beheer {#data-feeds-management-ui}
+# [!UICONTROL Data feeds] beheerinterface {#data-feeds-management-ui}
 
-Met de Adobe Analytics [!UICONTROL Data Feed] kunt u onbewerkte klikstreamgegevens exporteren om deze te importeren en samen te voegen met andere gegevensbronnen in een EDW- of gegevenseer. U kunt uw eigen [!UICONTROL Data Feeds] maken en beheren in Adobe Analytics. In deze video ziet u hoe.
+De Adobe Analytics [!UICONTROL Data feed] Hiermee kunt u onbewerkte klikstreamgegevens exporteren om deze te importeren en samen te voegen met andere gegevensbronnen in een EDW- of gegevenseer. U kunt uw eigen bestanden maken en beheren [!UICONTROL Data Feeds] in Adobe Analytics. In deze video ziet u hoe.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12)
 
-Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=en#) voor meer informatie over deze functie.
+Voor meer informatie over deze functie raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=en#).

@@ -1,24 +1,22 @@
 ---
-title: Inleiding tot Data Warehouse
-description: Met het gereedschap voor het aanvragen van Data Warehouse in Adobe Analytics hebt u toegang tot query's voor de onbewerkte gegevens. Data Warehouse kunnen een onbeperkt aantal rijen verwerken in één aanvraag voor afzonderlijke geplande en gedownloade rapporten. Deze video is een inleiding aan het hulpmiddel, met inbegrip van een analyse van het creëren van een rapport van de Data Warehouse.
+title: Inleiding tot het gegevensentrepot
+description: Het hulpmiddel van het de verzoekverzoek van het gegevenspakhuis in Adobe Analytics geeft u toegang om de ruwe gegevens te vragen. Het entrepot van gegevens kan een onbeperkt aantal rijen in één enkel verzoek voor individuele geplande en gedownloade rapporten verwerken. Deze video is een inleiding aan het hulpmiddel, met inbegrip van een analyse van het creëren van een rapport van de Data Warehouse.
 feature: Data Warehouse
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2916
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: null
+kt: 2916
 exl-id: 917fa84a-256f-4feb-9ab4-10a5905e2456
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '104'
 ht-degree: 1%
 
 ---
 
-# Inleiding tot [!UICONTROL Data Warehouse] {#introduction-to-data-warehouse}
+# Inleiding tot [!UICONTROL data warehouse] {#introduction-to-data-warehouse}
 
-Met het [!UICONTROL Data Warehouse]-aanvraaggereedschap in Adobe Analytics hebt u toegang tot query&#39;s voor de onbewerkte gegevens. [!UICONTROL Data Warehouse] U kunt een onbeperkt aantal rijen verwerken in één aanvraag voor afzonderlijke geplande en gedownloade rapporten. Deze video is een inleiding aan het hulpmiddel, met inbegrip van een analyse van het creëren van een [!UICONTROL Data Warehouse] rapport.
+De [!UICONTROL data warehouse] Met het aanvraaggereedschap in Adobe Analytics hebt u toegang tot query&#39;s voor de onbewerkte gegevens. [!UICONTROL Data warehouse] U kunt een onbeperkt aantal rijen verwerken in één aanvraag voor afzonderlijke geplande en gedownloade rapporten. Deze video is een inleiding op het hulpmiddel, met inbegrip van een analyse van het creëren van [!UICONTROL data warehouse] verslag.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12)
