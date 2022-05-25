@@ -7,13 +7,13 @@ role: Admin
 level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
-source-git-commit: 5c1a78ea47373af78e3ad33e48f1401405e8bd88
+exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
+source-git-commit: e00df8fba0101dff2a8a0a1640b107f0497fabb1
 workflow-type: tm+mt
 source-wordcount: '1263'
 ht-degree: 0%
 
 ---
-
 
 # Licentie ophalen aan tafel
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## Waarom u aan tafel moet zijn
 
-Laten we eerst iets uit de weg gaan. De rol van de beheerder van Analytics is geëvolueerd. Beheerders kunnen niet langer achter hun computerschermen zitten die alleen op eVars, gebeurtenissen en sProps zijn gericht. U, als beheerder heeft de verantwoordelijkheid om ervoor te zorgen uw bedrijf de juiste gegeven-gedreven besluiten neemt. Maar om dit te doen, moet je zijn waar die beslissingen worden genomen, en geen getallen op je bureau korten.
+Laten we eerst iets uit de weg gaan. De rol van gegevensanalisten is geëvolueerd. De analisten kunnen niet meer achter hun computerschermen zitten die zich slechts op eVars, gebeurtenissen, en sProps concentreren. U, als beheerder heeft de verantwoordelijkheid om ervoor te zorgen uw bedrijf de juiste gegeven-gedreven besluiten neemt. Maar om dit te doen, moet je zijn waar die beslissingen worden genomen, en geen getallen op je bureau korten.
 
 Dit zijn drie redenen waarom je er moet zijn.
 
