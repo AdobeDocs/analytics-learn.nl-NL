@@ -8,9 +8,9 @@ level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
 exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
-source-git-commit: e00df8fba0101dff2a8a0a1640b107f0497fabb1
+source-git-commit: 17a07f0734b9bb36ce1b2f95e1678abac5c823bf
 workflow-type: tm+mt
-source-wordcount: '1263'
+source-wordcount: '1283'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
 
-&quot;Een stoel aan tafel krijgen.&quot; Deze populaire uitdrukking is al jaren een heet onderwerp in de zakenwereld. Maar wat betekent het? Als u een zetel aan de tafel krijgt, maakt u deel uit van de besluitvormingsconversies op hoog niveau. Je bent niet alleen uitgenodigd, maar je input wordt gewaardeerd en gewaardeerd. Ik ga u tonen hoe het verkrijgen van een plaats bij de lijst uw bedrijf en uw carrière als Beheerder van Adobe Analytics zal helpen.
+&quot;Een stoel aan tafel krijgen.&quot; Deze populaire uitdrukking is al jaren een heet onderwerp in de zakenwereld. Maar wat betekent het? Als u een zetel aan de tafel krijgt, maakt u deel uit van de besluitvormingsconversies op hoog niveau. Je bent niet alleen uitgenodigd, maar je input wordt gewaardeerd en gewaardeerd. Ik zal u tonen hoe het verkrijgen van een zetel aan de tafel uw bedrijf en uw carrière als machtsgebruiker van Adobe Analytics zal helpen, of uw officiële rol die van een beheerder, een gegevensanalist, of wat dan ook is uw bedrijfskaart zegt.
 
 ## Waarom u aan tafel moet zijn
 
-Laten we eerst iets uit de weg gaan. De rol van gegevensanalisten is geëvolueerd. De analisten kunnen niet meer achter hun computerschermen zitten die zich slechts op eVars, gebeurtenissen, en sProps concentreren. U, als beheerder heeft de verantwoordelijkheid om ervoor te zorgen uw bedrijf de juiste gegeven-gedreven besluiten neemt. Maar om dit te doen, moet je zijn waar die beslissingen worden genomen, en geen getallen op je bureau korten.
+Laten we eerst iets uit de weg gaan. De rol van gegevensprofessionals is geëvolueerd. Ze kunnen niet meer achter hun computerschermen zitten die zich alleen richten op eVars, gebeurtenissen en sProps. U, als beheerder heeft de verantwoordelijkheid om ervoor te zorgen uw bedrijf de juiste gegeven-gedreven besluiten neemt. Maar om dit te doen, moet je zijn waar die beslissingen worden genomen, en geen getallen op je bureau korten.
 
 Dit zijn drie redenen waarom je er moet zijn.
 
