@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: 58969c2aaf8b8614a77f4f310444393958f24e04
+source-git-commit: 3b5c8dae86d714a2735a9e9516ae02f9843abd58
 workflow-type: tm+mt
-source-wordcount: '2364'
+source-wordcount: '2365'
 ht-degree: 7%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Analytische Tutorials {#tutorials}
 
-+ [Overzicht](overview.md)
++ [Zelfstudies voor analyse](overview.md)
 + Inleiding tot Analytics {#intro-to-analytics}
    + Wat kan Adobe Analytics voor mij doen? {#what-can-aa-do-for-me}
       + [Hoe Adobe Analysis Workspace uw bedrijf kan veranderen](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
@@ -430,7 +430,7 @@ ht-degree: 7%
 + API&#39;s {#apis}
    + [Analysis Workspace gebruiken om API 2.0-verzoeken te maken](apis/using-analysis-workspace-to-build-api-2-requests.md)
    + [Report Builder gebruiken om de Adobe Analytics API te leren](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html)
-   + [Adobe Analytics 2.0 API-verzoeken maken met Postman](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
+   + [Postman gebruiken om Adobe Analytics 2.0 API-verzoeken te maken](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Gebruiksscenario&#39;s analyse {#analysis-use-cases}
    + Zoeken op interne site {#internal-site-search}
       + [De zakelijke vereisten voor het zoeken op uw interne site definiëren](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
