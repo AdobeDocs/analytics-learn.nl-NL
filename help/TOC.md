@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: f96f1412447c175b6e963176af11af2a82a706e6
+source-git-commit: eb3c42b38a22bceb8e65690956066584205fe0c2
 workflow-type: tm+mt
-source-wordcount: '2392'
-ht-degree: 7%
+source-wordcount: '2430'
+ht-degree: 6%
 
 ---
 
@@ -234,6 +234,14 @@ ht-degree: 7%
       + [De technische taal van Adobe Analytics op niet-technische wijze vertalen](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [Werken met meerdere functies](administration/key-admin-skills/working-cross-functionally.md)
       + [Stel je de juiste vragen?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
+   + Tips en trucs voor beheerders {#admin-tips}
+      + [De afspeelboek van de implementatie downloaden](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + [Standaardnaamconventies maken](administration/admin-tips/create-standardized-naming-conventions.md)
+      + [Standaardcodesjablonen maken](administration/admin-tips/create-standardized-code-templates.md)
+      + [Basisvideo&#39;s en -training maken](administration/admin-tips/create-basic-videos-and-training.md)
+      + [Een interne Adobe Analytics-site maken](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
+      + [Een algemene rapportsuite gebruiken](administration/admin-tips/use-a-global-report-suite.md)
+      + [Een nieuws- en aankondigingsproject maken](administration/admin-tips/create-a-news-and-announcements-project.md)
    + Bedrijfsinstellingen {#company-settings}
       + [E-maildomeinbeperkingen afdwingen](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Beschikbare functies van uw account weergeven](administration/company-settings/view-your-accounts-available-features.md)
