@@ -1,28 +1,26 @@
 ---
 title: Een SDR maken en onderhouden.
-description: Het document van de Verwijzing van het Ontwerp van de Oplossing (SDR) is hoofdzakelijk de blauwdruk voor uw plaats. Deze video laat zien hoe u er een kunt maken, in combinatie met het document met zakelijke vereisten, zodat u altijd een bron van waarheid kunt hebben waar u op kunt terugkeren terwijl u Adobe Analytics implementeert en waar u in de toekomst naar terugverwijst.
-feature: Grondbeginselen van implementatie
-topics: null
-activity: implement
-doc-type: feature video
+description: Het document van de Verwijzing van het Ontwerp van de Oplossing (SDR) is de blauwdruk voor bedrijfsvereisten en het ontwerp van de gegevensinzameling voor Analytics op uw digitale eigenschappen. Leer hoe u dit document maakt en onderhoudt als bron van waarheid voor uw analyseoplossing.
+feature: Implementation Basics
 team: Technical Marketing
 kt: 3581
+thumbnail: 28754.jpg
 role: Developer, Data Engineer
 level: Beginner
 exl-id: c942e819-0763-4907-adcc-747ec753c407
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 6ef8fd0853c8926a6237081383772046675aad02
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
 # Het creëren van en het handhaven van een Document van de Verwijzing van het Ontwerp van de Oplossing (SDR)
 
-Het document van de Verwijzing van het Ontwerp van de Oplossing (SDR) is hoofdzakelijk de blauwdruk voor uw plaats. In deze video wordt getoond hoe u er een kunt maken in combinatie met het document met zakelijke vereisten, zodat u altijd een bron van waarheid kunt hebben waar u naar kunt terugkeren wanneer u Adobe Analytics implementeert en waar u in de toekomst naar terugverwijst.
+Het document van de Verwijzing van het Ontwerp van de Oplossing (SDR) is de blauwdruk voor bedrijfsvereisten en het ontwerp van de gegevensinzameling voor Analytics op uw digitale eigenschappen. Leer hoe u dit document maakt en onderhoudt als bron van waarheid voor uw analyseoplossing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12)
 
-[U kunt een voorbeeld van de OOBH/SDR ](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) downloaden waarmee u uw site kunt definiëren.
+[Downloaden](assets/aa-implementation-playbook.xlsx) een sjabloon van voorbeeldExcel aan documentvereisten en het ontwerp van de gegevensinzameling voor uw digitale eigenschappen.
 
-[Download ](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) de BRD/SDR vanaf deze video (en de  [BRD-video](creating-a-business-requirements-document.md)).
+[Downloaden](assets/geometrixx-clothiers-brd-sdr.xlsx) het Excel-document dat in deze video wordt gepresenteerd en/of de bijbehorende [documentvideo over zakelijke vereisten](creating-a-business-requirements-document.md)).
