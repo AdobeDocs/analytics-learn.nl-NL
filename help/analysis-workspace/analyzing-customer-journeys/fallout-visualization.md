@@ -1,27 +1,24 @@
 ---
-title: Visualisatie voor nooduitval in Analysis Workspace
-description: In deze video wordt u door de Fallout-visualisatie in Analysis Workspace in Adobe Analytics geleid. Gebruik Fallout om trechters te maken of om de doorloop van gebruikers te tonen bij belangrijke app-/siteworkflows.
+title: Een fallout-visualisatierapport maken
+description: Leer over de gebruiksgevallen van het reserverapport en hoe te om dit rapport in Analysis Workspace te vormen. Begrijp hoe te om verscheidene types van touchpoints toe te voegen en hoe te om segmenten in deze component tot stand te brengen en te gebruiken.
 feature: Visualizations
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 24042.jpg
-kt: 2275
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 345883.jpg
+kt: 2275
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 1b141ab4e15a6db80a6de3cc80bef22dc3499302
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
-# [!DNL Fallout Visualization] in Analysis Workspace {#fallout-visualization-in-analysis-workspace}
+# Een fallout-visualisatierapport maken
 
-Deze video bespreekt de [!DNL Fallout visualization] beschikbaar in Analysis Workspace in Adobe Analytics. Gebruik [!DNL Fallout] om trechters te maken of om de doorloop van gebruikers te tonen bij belangrijke app/site-workflows.
+Leer over de gebruiksgevallen van het reserverapport en hoe te om dit rapport te vormen in [!DNL Analysis Workspace]. Begrijp hoe te om verscheidene types van touchpoints toe te voegen en hoe te om segmenten in deze component tot stand te brengen en te gebruiken.
 
->[!VIDEO](https://video.tv.adobe.com/v/24042/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12)
 
-Voor meer informatie over deze eigenschap, bezoek [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).

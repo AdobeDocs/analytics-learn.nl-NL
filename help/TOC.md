@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
+source-git-commit: eac3aedaf58c56a1607ef6ba8b6ca361e26ccd56
 workflow-type: tm+mt
-source-wordcount: '2432'
+source-wordcount: '2422'
 ht-degree: 6%
 
 ---
@@ -151,16 +151,13 @@ ht-degree: 6%
       + [Gegevensbroninstellingen voor tabel en visualisatie](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Een Time-Parting Heatmap maken](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + Klantenreizen analyseren {#analyzing-customer-journeys}
-      + [Gegevens begrijpen—Fallout &amp; Flow](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [Begrijp uw gegevens—fallout &amp; flow](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Reis-IQ - Apparaatanalyse](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
-      + [Vallout Visualisatie](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [Verbeteringen voor de volledige visualisatie](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
-      + [Multidimensionale uitval](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
-      + [Segmenten vergelijken in Fallout](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
-      + [Flowvisualisaties](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
+      + [Uitvalvisualisatie](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+      + [Stroomvisualisatie](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
       + [Uitbreiden bij stroomvisualisatie](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [2022 Stroomverbeteringen](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
-      + [Tekstomloop en multidimensionale stroom](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
+      + [2022-stroomverbeteringen](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
+      + [Tekstomloop en multidimensionale doorloop](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + Segmenten toepassen {#applying-segments}
       + [Segmenten toepassen op uw Analysis Workspace-project](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Segmenten gebruiken in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
