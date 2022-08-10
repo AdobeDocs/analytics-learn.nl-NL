@@ -3,7 +3,7 @@ title: Eenvoudige stapels voor meer efficiëntie en zelfbediening - deel 1
 description: Leer de belangrijkste uitdagingen waarmee analytische teams vandaag worden geconfronteerd, en onze aanbevelingen om hen te overwinnen die strategieën buiten Adobe Analytics UI gebruiken.
 solution: Analytics
 exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
-source-git-commit: dad200fdb5c5d15c00254d693fb47bbcec80afaf
+source-git-commit: 1181bfa62c5ec3d465aec5d1293e927c2c56f288
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 0%
@@ -86,4 +86,4 @@ Andere belangrijke uitdagingen waarmee analisten worden geconfronteerd:
    * Bouw hun aanwezigheid door versies en wins te socialiseren
    * Gebruik regelmatig kantooruren om de trainers te helpen trainen en af te snijden op ad-hoctaken
 
-Meer informatie over strategie en leiderschap bij de [Klant geslaagd](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) hub.
+Meer informatie over strategie en leiderschap bij de [Klant geslaagd](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) hub.

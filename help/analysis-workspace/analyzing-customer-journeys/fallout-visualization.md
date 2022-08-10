@@ -1,6 +1,6 @@
 ---
-title: Een fallout-visualisatierapport maken
-description: Leer over de gebruiksgevallen van het reserverapport en hoe te om dit rapport in Analysis Workspace te vormen. Begrijp hoe te om verscheidene types van touchpoints toe te voegen en hoe te om segmenten in deze component tot stand te brengen en te gebruiken.
+title: Een fallout-visualisatie maken
+description: Fallout-visualisaties in Analysis Workspace worden gebruikt om te bekijken waar klanten door kunnen of kunnen vallen uit sleutelstromen op uw digitale eigenschappen. Begrijp hoe u verschillende typen aanraakpunten kunt toevoegen en hoe u segmenten in deze component kunt maken en gebruiken.
 feature: Visualizations
 role: User
 level: Beginner
@@ -8,16 +8,16 @@ doc-type: feature video
 thumbnail: 345883.jpg
 kt: 2275
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
-source-git-commit: 1b141ab4e15a6db80a6de3cc80bef22dc3499302
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-# Een fallout-visualisatierapport maken
+# Een fallout-visualisatie maken
 
-Leer over de gebruiksgevallen van het reserverapport en hoe te om dit rapport te vormen in [!DNL Analysis Workspace]. Begrijp hoe te om verscheidene types van touchpoints toe te voegen en hoe te om segmenten in deze component tot stand te brengen en te gebruiken.
+Afvalvisualisaties in [!DNL Analysis Workspace] worden gebruikt om te verkennen waar klanten door of uit zeer belangrijke stromen op uw digitale eigenschappen vallen. Begrijp hoe u verschillende typen aanraakpunten kunt toevoegen en hoe u segmenten in deze component kunt maken en gebruiken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12)
 

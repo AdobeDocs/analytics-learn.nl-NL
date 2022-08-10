@@ -3,7 +3,7 @@ title: Klantintelligentie beheren met Virtual Analyst en Segment IQ
 description: Leer het belang van het gebruik van kunstmatige intelligentie en het leren van machines (AI/ML). Bekijk de voordelen en leer van succesverhalen uit de praktijk van globale klanten die Virtuele Analyst en Segment IQ gebruiken om anomalieën te ontdekken, outliers te vermijden, en ROI te maximaliseren.
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
-source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
 workflow-type: tm+mt
 source-wordcount: '1100'
 ht-degree: 0%
@@ -123,4 +123,4 @@ Blijf altijd op de hoogte van anomalieën in uw gegevens - of u nu op kantoor be
 
 Kijk voor meer informatie naar onze [webinar](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/).
 
-Meer informatie over strategie en leiderschap bij de [Klant geslaagd](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) hub.
+Meer informatie over strategie en leiderschap bij de [Klant geslaagd](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) hub.

@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: eac3aedaf58c56a1607ef6ba8b6ca361e26ccd56
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
 workflow-type: tm+mt
-source-wordcount: '2422'
+source-wordcount: '2416'
 ht-degree: 6%
 
 ---
@@ -151,13 +151,10 @@ ht-degree: 6%
       + [Gegevensbroninstellingen voor tabel en visualisatie](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Een Time-Parting Heatmap maken](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + Klantenreizen analyseren {#analyzing-customer-journeys}
-      + [Begrijp uw gegevens—fallout &amp; flow](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [Een fallout-visualisatie maken](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+      + [Stroomvisualisatie maken](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
+      + [Uitvallen en samenvoegen gebruiken](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Reis-IQ - Apparaatanalyse](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
-      + [Uitvalvisualisatie](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [Stroomvisualisatie](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [Uitbreiden bij stroomvisualisatie](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [2022-stroomverbeteringen](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
-      + [Tekstomloop en multidimensionale doorloop](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + Segmenten toepassen {#applying-segments}
       + [Segmenten toepassen op uw Analysis Workspace-project](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Segmenten gebruiken in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
