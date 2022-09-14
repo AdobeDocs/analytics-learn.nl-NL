@@ -1,14 +1,14 @@
 ---
 title: Opsommingstekens in Analysis Workspace
-description: Leer meer over de Combo Chart visualization in Analysis Workspace. Met de Combo-diagramvisualisatie kunt u snel een vergelijkingsvisualisatie maken zonder eerst een tabel te hoeven maken. U kunt tendensen in uw gegevens in een lijn gemakkelijk bekijken/bar combinatie. (Moet tussen 60 en 160 tekens lang zijn, maar is 258 tekens)
+description: Leer meer over de Combo Chart visualization in Analysis Workspace. Met de Combo-diagramvisualisatie kunt u snel een vergelijkingsvisualisatie maken zonder eerst een tabel te hoeven maken. U kunt tendensen in uw gegevens in een lijn gemakkelijk bekijken/bar combinatie.
 feature: Visualizations
 role: User
 level: Beginner
 kt: 11111
-thumbnail: 3409159.jpeg
-source-git-commit: ac000e8726196b07934f05fcbcdc8f0eb0530f55
+thumbnail: 3409159.jpg
+source-git-commit: 7bfb42fa1896b31ec291fd1cddc02da73da3af8c
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
