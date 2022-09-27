@@ -2,18 +2,14 @@
 title: Werken met Dimension in een tabel voor vrije vorm
 description: Leer alles over het werken met dimensies in vrije-vormlijsten, met inbegrip van het toevoegen van hen, het sorteren, het filtreren, het breken van hen door andere dimensies, enz.
 feature: Dimensions
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 40179.jpg
 kt: 6176
 role: User
 level: Beginner
 exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42db
-source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
+source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -36,3 +32,7 @@ Onderwerpen die in de video worden behandeld, inclusief tijden:
 * Dimension als filters (8:30)
 * Uitsplitsingen (9:48)
 * Gerangschikt, in tijd, en Getrafte Rapporten (13:11)
+
+>[!INFO]
+>
+> Deze video maakt deel uit van een cursus: [Freeform Tables, de Stichting van Analyse](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), gratis beschikbaar op Experience League!

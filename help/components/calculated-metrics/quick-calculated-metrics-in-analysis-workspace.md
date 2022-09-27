@@ -1,25 +1,25 @@
 ---
 title: Snel berekende cijfers in Analysis Workspace
-description: Nu kunt u berekende metriek op de vlucht binnen Analysis Workspace bouwen.  Als u een snelle percentagewijziging of verdeling wilt uitvoeren met een paar metriek in uw vrije-vormlijst, selecteert u alleen de metriek in de koptekst, klikt u met de rechtermuisknop en kiest u de gewenste operator.  De nieuwe berekende metrisch zal op het recht verschijnen.
-feature: Berekende standaarden
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
+description: Nu kunt u berekende metriek op de vlucht binnen Analysis Workspace bouwen.  Als u een snelle percentageverandering of verdeling met een paar metriek in uw vrije lijst wilt doen, enkel de metriek van de kopbal selecteren, met de rechtermuisknop klikken en de exploitant kiezen u wilt.  De nieuwe berekende metrisch zal op het recht verschijnen.
+feature: Calculated Metrics
 thumbnail: 23126.jpg
 kt: 1666
 role: User
 level: Beginner
 exl-id: 461dc5f8-b52e-47ce-b2c4-afe4426dab16
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 1%
+source-wordcount: '135'
+ht-degree: 0%
 
 ---
 
 # Snel [!UICONTROL Calculated Metrics] in Analysis Workspace {#quick-calculated-metrics-in-analysis-workspace}
 
-Nu kunt u [!UICONTROL calculated metrics] op de vlucht binnen Analysis Workspace bouwen.  Als u een snelle percentagewijziging of verdeling met een paar [!UICONTROL metrics] in [!UICONTROL freeform table] wilt doen, enkel selecteren [!UICONTROL metrics] van de kopbal, klik met de rechtermuisknop en kies de exploitant u wilt.  Het nieuwe [!UICONTROL calculated metric] zal op het recht verschijnen.
+Nu kunt u [!UICONTROL calculated metrics] in Analysis Workspace.  Als je een snelle procentswijziging of verdeling wilt maken met een paar [!UICONTROL metrics] in uw [!UICONTROL freeform table], selecteert u alleen de [!UICONTROL metrics] in de koptekst klikt u met de rechtermuisknop en kiest u de gewenste operator.  De nieuwe [!UICONTROL calculated metric] wordt rechts weergegeven.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12)
+
+>[!INFO]
+>
+> Deze video maakt deel uit van een cursus: [Freeform Tables, de Stichting van Analyse](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), gratis beschikbaar op Experience League!
