@@ -1,19 +1,18 @@
 ---
 title: De Donut-visualisatie gebruiken
 description: In deze video leert u hoe u de Donut-visualisatie kunt toevoegen en configureren in uw Analysis Workspace-project.
-feature: Visualisaties
+feature: Visualizations
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 334309.jpg
 kt: 8130
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+exl-id: 24f6db24-f8b3-4506-964c-da23e0e0b505
+source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 1%
+source-wordcount: '84'
+ht-degree: 0%
 
 ---
-
 
 # De Donut-visualisatie gebruiken
 
@@ -21,4 +20,8 @@ In deze video leert u hoe u de Donut-visualisatie kunt toevoegen en configureren
 
 >[!VIDEO](https://video.tv.adobe.com/v/334309/?quality=12&learn=on)
 
-Voor meer informatie raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/donut.html?lang=en).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/donut.html?lang=en).
+
+>[!INFO]
+>
+> Deze video maakt deel uit van een cursus: [Visualisaties gebruiken om uw gegevensartikelen te vertellen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations), gratis beschikbaar op Experience League!
