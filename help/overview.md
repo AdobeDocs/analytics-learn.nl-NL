@@ -8,7 +8,7 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 2e20de678e255981b8fc8f230ddf420793e3b4a5
+source-git-commit: 983b5b828a1c189dff0da90f3e0f1b3747576766
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 8%
@@ -30,6 +30,8 @@ Aan de slag,
 
 De gekromde leerervaringen door rol en vaardigheidsniveau worden ook aangeboden in de cursussectie. Meld u aan met uw Adobe ID en navigeer naar **Leren > Aanbevolen cursussen** in de bovenste navigatie.
 
+<div id="whats-new-section">
+
 ## Nieuwe functies
 
 * **[Adobe Analytics Mobile scorecard-app](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
@@ -37,6 +39,10 @@ De gekromde leerervaringen door rol en vaardigheidsniveau worden ook aangeboden 
 
 * **[Annotaties in werkruimte (video)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
    *Aantekeningen in [!DNL Analysis Workspace] stelt u in staat om contextuele gegevensnuances en inzichten effectief aan uw gebruikers over uw organisatie mee te delen. Annoteer een datum- of datumbereik met bekende gegevensproblemen, feestdagen, het starten van campagnes enzovoort. Dit informeert gebruikers waarom zij onregelmatigheden in lijngrafieken, lijsten en meer zien.*
+
+</div>
+
+<div id="staff-picks-section">
 
 ## Aanbevolen door medewerkers
 
@@ -83,6 +89,8 @@ De gekromde leerervaringen door rol en vaardigheidsniveau worden ook aangeboden 
   </td>
 </tr>
 </table>
+
+</div>
 
 ## Aanvullende bronnen
 
