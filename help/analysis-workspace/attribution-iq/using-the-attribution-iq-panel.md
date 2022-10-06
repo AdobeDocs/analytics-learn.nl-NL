@@ -2,7 +2,6 @@
 title: Het deelvenster Attribution IQ in Analysis Workspace gebruiken
 description: In deze video ziet u het deelvenster Attribution IQ. Dit is een fantastische beginplaats voor het maken van een Analysis Workspace-project voor toewijzing.
 feature: Attribution
-topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
@@ -12,17 +11,21 @@ kt: 1667
 role: User
 level: Intermediate
 exl-id: 2c265c0b-5d5e-435f-9fdd-086f7faa0bd9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9
-source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-# De [!DNL Attribution IQ] [!UICONTROL Panel] in Analysis Workspace gebruiken {#using-the-attribution-iq-panel-in-analysis-workspace}
+# Met de [!DNL Attribution IQ] [!UICONTROL Panel] in Analysis Workspace {#using-the-attribution-iq-panel-in-analysis-workspace}
 
-In deze video ziet u de [!DNL Attribution IQ] [!UICONTROL Panel], een geweldige startpunt bij het maken van uw Analysis Workspace-project voor attributie.
+In deze video ziet u de [!DNL Attribution IQ] [!UICONTROL Panel], een uitstekende plaats om te beginnen wanneer u uw attributie Analysis Workspace project bouwt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23139/?quality=12)
 
-De [!DNL Attribution IQ] [!UICONTROL Panel] in Analysis Workspace is een manier om om het even welke tien op regel-gebaseerde [!DNL attribution models] op een visuele manier snel te vergelijken. Zie hoe elk model om het even welke afmeting beïnvloedt gebruikend [!DNL Bar Charts], [!DNL Venn diagrams], [!DNL Histograms], [!DNL Scatter Plots], en zelfs a [!DNL Flow Diagram]. De [!DNL Attribution] [!UICONTROL Panel] is een groot uitgangspunt voor geavanceerdere attributieanalyse.
+De [!DNL Attribution IQ] [!UICONTROL Panel] in Analysis Workspace is een manier om een van de tien op regels gebaseerde [!DNL attribution models] visueel. Zie hoe elk model om het even welke dimensie gebruikend beïnvloedt [!DNL Bar Charts], [!DNL Venn diagrams], [!DNL Histograms], [!DNL Scatter Plots]en zelfs [!DNL Flow Diagram]. De [!DNL Attribution] [!UICONTROL Panel] is een geweldig uitgangspunt voor geavanceerdere attributieanalyse.
+
+>[!INFO]
+>
+> Deze video maakt deel uit van een cursus [Waarde toewijzen aan Digital Touch-punten op de reis van de klant](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), gratis beschikbaar op Experience League!

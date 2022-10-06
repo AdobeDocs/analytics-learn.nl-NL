@@ -12,17 +12,21 @@ kt: 2281
 role: User
 level: Beginner
 exl-id: da173124-ce09-4be3-9418-8791acd16240
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
 
 # Tekstomloop en [!DNL Multi-Dimensional Flow] in Analysis Workspace {#text-wrapping-multi-dimensional-flow-in-analysis-workspace}
 
-In deze video wordt getoond hoe u labelafbreking in uw [!DNL flow visualization] kunt in- en uitschakelen. Leer ook dimensies naar uw [!DNL flow] te slepen voor multidimensionale [!DNL flow] analyse.
+In deze video wordt getoond hoe u labelafbreking kunt in- en uitschakelen in uw [!DNL flow visualization]. Leer ook dimensies naar uw [!DNL flow] voor multidimensionaal [!DNL flow] analyse.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12)
 
-Voor meer informatie over deze eigenschap, bezoek [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).
+
+>[!INFO]
+>
+> Deze video maakt deel uit van een cursus [Waarde toewijzen aan Digital Touch-punten op de reis van de klant](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), gratis beschikbaar op Experience League!

@@ -8,9 +8,10 @@ level: Beginner
 doc-type: feature video
 thumbnail: 341027.jpg
 kt: 2296
-source-git-commit: 5791ddd8ef948d74148bc4c2d4834a69ce879858
+exl-id: 105c7767-4ca1-45d0-a1ca-7b99b4cfae6e
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -22,3 +23,7 @@ Deze video laat zien hoe u analyses beter kunt democratiseren door verkorte link
 >[!VIDEO](https://video.tv.adobe.com/v/341027/?quality=12&learn=on)
 
 Voor meer informatie over deze functie raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/shareable-links.html?lang=en).
+
+>[!INFO]
+>
+> Deze video maakt deel uit van een cursus [Adobe Analytics-gegevens exporteren en democratiseren](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), gratis beschikbaar op Experience League!

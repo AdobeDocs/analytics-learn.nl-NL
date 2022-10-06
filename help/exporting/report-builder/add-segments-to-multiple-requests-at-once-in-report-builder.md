@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 25445.jpg
 kt: 2344
 exl-id: db5b7623-d863-4ecd-9902-8b20f6aea257
-source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -22,3 +22,7 @@ In deze video wordt getoond hoe u kunt gebruiken [!UICONTROL Report Builder] om 
 >[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12)
 
 Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=en).
+
+>[!INFO]
+>
+> Deze video maakt deel uit van een cursus [Adobe Analytics-gegevens exporteren en democratiseren](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), gratis beschikbaar op Experience League!

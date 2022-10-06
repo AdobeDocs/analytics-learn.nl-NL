@@ -1,25 +1,21 @@
 ---
 title: Eerste Adobe Analytics-implementatie
-landing-page-description: Deze video begeleidt u door het proces om binnen een paar minuten aan de slag te gaan met Adobe Analytics-gegevens.
-description: Het is eenvoudiger dan ooit om Adobe Analytics te implementeren. Als u gloednieuw bent in onze oplossing, zal deze video u door het proces laten lopen om met gegevens over een paar minuten in gebruik te nemen.
+description: Leer hoe u binnen een paar minuten aan de slag kunt met Adobe Analytics-gegevens.
 feature: Implementation Basics
-topics: null
-activity: implement
-doc-type: feature video
-team: Technical Marketing
-kt: 2362
 role: User
 level: Beginner
+kt: 2362
+thumbnail: 25456.jpg
 exl-id: 110d2962-cbcf-4574-bd39-308f2ad33c5e
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
 # Eerste Adobe Analytics-implementatie {#first-time-adobe-analytics-implementation}
 
-Het is eenvoudiger dan ooit om Adobe Analytics te implementeren. Als u gloednieuw bent in onze oplossing, zal deze video u door het proces laten lopen om met gegevens over een paar minuten in gebruik te nemen.
+Het is eenvoudiger dan ooit om Adobe Analytics te implementeren. Als je nog niet klaar bent met onze oplossing, leer dan over een paar minuten aan de slag met Adobe Analytics data.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25456/?quality=12)

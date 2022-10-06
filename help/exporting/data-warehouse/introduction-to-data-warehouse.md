@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 27306.jpg
 kt: 2916
 exl-id: 917fa84a-256f-4feb-9ab4-10a5905e2456
-source-git-commit: 036646c3343a7025f394d74f344b0f8780ebc7df
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '128'
 ht-degree: 1%
 
 ---
@@ -20,3 +20,7 @@ ht-degree: 1%
 De [!UICONTROL data warehouse] Met het aanvraaggereedschap in Adobe Analytics hebt u toegang tot query&#39;s voor de onbewerkte gegevens. [!UICONTROL Data warehouse] U kunt een onbeperkt aantal rijen verwerken in één aanvraag voor afzonderlijke geplande en gedownloade rapporten. Deze video is een inleiding op het hulpmiddel, met inbegrip van een analyse van het creëren van [!UICONTROL data warehouse] verslag.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12)
+
+>[!INFO]
+>
+> Deze video maakt deel uit van een cursus [Adobe Analytics-gegevens exporteren en democratiseren](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), gratis beschikbaar op Experience League!

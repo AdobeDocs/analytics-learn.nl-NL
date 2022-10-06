@@ -1,7 +1,7 @@
 ---
 title: Gegevenselementen maken in Launch voor de analysetransplementatie
 description: Deze video toont hoe te om gegevenselementen voor uw implementatie van Analytics in Lancering tot stand te brengen, die op de variabelen en de gebeurtenissen wordt gebaseerd die op en in een document van de Verwijzing van het Ontwerp van de Oplossing (SDR) worden besloten en worden gedocumenteerd.
-feature: Implementatie starten
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
@@ -10,15 +10,19 @@ kt: 3587
 role: Developer, Data Engineer
 level: Beginner
 exl-id: ee3a808a-f972-46e4-9213-2bc5bba6e0fd
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 4%
 
 ---
 
-# [!UICONTROL Data Elements] maken in [!DNL Launch] voor de [!DNL Analytics]-implementatie
+# Maken [!UICONTROL Data Elements] in [!DNL Launch] voor de [!DNL Analytics] Implementatie
 
-Deze video laat zien hoe u [!UICONTROL data elements] voor uw [!DNL Analytics]-implementatie in [!DNL Experience Platform Launch] maakt op basis van de variabelen en gebeurtenissen waartoe is besloten en die zijn gedocumenteerd in een [!DNL Solution Design Reference] (SDR)-document.
+In deze video wordt getoond hoe u kunt maken [!UICONTROL data elements] voor uw [!DNL Analytics] uitvoering in [!DNL Experience Platform Launch], op basis van de in een [!DNL Solution Design Reference] (SDR) document.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12)
+
+>[!INFO]
+>
+> Deze video maakt deel uit van een cursus [Implementatie met instructies-analyse](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), gratis beschikbaar op Experience League!

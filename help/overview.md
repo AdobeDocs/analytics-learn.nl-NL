@@ -1,6 +1,6 @@
 ---
 title: Analysevideo's en zelfstudies
-description: 'Haal het meeste uit Adobe Analytics.  Gebruik deze zelfstudies om de functies van Analytics master te maken en de voordelen voor uw bedrijf te benutten. Deze inhoud is geschikt voor beheerders, gegevensanalisten, marketers, ontwikkelaars en architecten. '
+description: Haal het meeste uit Adobe Analytics. Gebruik deze zelfstudies om de functies van Analytics te leren en de voordelen voor uw bedrijf te benutten. Deze inhoud is geschikt voor beheerders, gegevensanalisten, marketers, ontwikkelaars en architecten.
 feature: Analytics Basics
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -8,9 +8,9 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: e66ac6397db58e403cb2bc10cb6a2af2eb7b1081
+source-git-commit: 2e20de678e255981b8fc8f230ddf420793e3b4a5
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '320'
 ht-degree: 8%
 
 ---
@@ -19,9 +19,10 @@ ht-degree: 8%
 
 # Zelfstudies voor analyse
 
-Haal het meeste uit [!DNL Adobe Analytics].  Gebruik deze zelfstudies om de functies van Analytics master te maken en de voordelen voor uw bedrijf te benutten. Deze inhoud is geschikt voor beheerders, gegevensanalisten, marketers, ontwikkelaars en architecten.
+Haal het meeste uit [!DNL Adobe Analytics]. Gebruik deze zelfstudies om de functies van Analytics te leren en de voordelen voor uw bedrijf te benutten. Deze inhoud is geschikt voor beheerders, gegevensanalisten, marketers, ontwikkelaars en architecten.
 
 Aan de slag,
+
 * Zie de **&quot;Nieuwe functies&quot;** hieronder voor de nieuwste updates en functies
 * **Personeelspictogrammen** benadrukt een aantal van onze favoriete inhoud
 * Verken de inhoud per onderwerp en subonderwerp in de **linkernavigatie**
@@ -31,14 +32,11 @@ De gekromde leerervaringen door rol en vaardigheidsniveau worden ook aangeboden 
 
 ## Nieuwe functies
 
-* **[Adobe Analytics Mobile scorecard Builder (video)](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)**
-   *Meer informatie over het maken en delen van mobiele scorecards die zijn gemaakt in [!DNL Analysis Workspace] voor uw Executive-gebruikers.*
-
 * **[Adobe Analytics Mobile scorecard-app](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
    *Leer hoe u de mobiele scorecardtoepassing downloadt en mobiele scorecards bekijkt die zijn gemaakt in [!DNL Analysis Workspace].*
 
 * **[Annotaties in werkruimte (video)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *Aantekeningen in [!DNL Analysis Workspace] stelt u in staat om contextuele gegevensnuances en inzichten effectief aan uw gebruikers over uw organisatie mee te delen. Annoteer een datum- of datumbereik met bekende gegevensproblemen, feestdagen, het starten van de campagne enzovoort, om gebruikers beter te informeren waarom ze zien wat ze zien in lijngrafieken, tabellen en meer.*
+   *Aantekeningen in [!DNL Analysis Workspace] stelt u in staat om contextuele gegevensnuances en inzichten effectief aan uw gebruikers over uw organisatie mee te delen. Annoteer een datum- of datumbereik met bekende gegevensproblemen, feestdagen, het starten van campagnes enzovoort. Dit informeert gebruikers waarom zij onregelmatigheden in lijngrafieken, lijsten en meer zien.*
 
 ## Aanbevolen door medewerkers
 

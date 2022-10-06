@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 23547.jpg
 kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
-source-git-commit: 4c6120752763383727ddec5e9bbc8e391bfec4d9
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -24,3 +24,7 @@ U kunt nu bewerken [!UICONTROL metrics] meerdere [!UICONTROL Report Builder] geg
 Deze functionaliteit is een aanvulling op de bestaande bewerkingsmogelijkheden [!UICONTROL report suites], [!UICONTROL date ranges], [!UICONTROL granularity], en [!UICONTROL segments] over verzoeken heen. U kunt aanvragen bulksgewijs bewerken via het snelmenu of via &quot;[!UICONTROL Edit Multiple]&quot; in het venster Beheren.
 
 Ga voor meer informatie over deze functie naar [de documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/manage-requests/edit-multiple-metrics.html?lang=en).
+
+>[!INFO]
+>
+> Deze video maakt deel uit van een cursus [Adobe Analytics-gegevens exporteren en democratiseren](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), gratis beschikbaar op Experience League!

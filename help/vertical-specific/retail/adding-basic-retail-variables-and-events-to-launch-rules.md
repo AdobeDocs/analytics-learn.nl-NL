@@ -1,7 +1,7 @@
 ---
 title: Basisvariabelen en -gebeurtenissen voor de detailhandel toevoegen aan opstartregel
 description: In deze video wordt getoond hoe u in Launch een speciale producttekenreeksextensie kunt gebruiken om standaardvariabelen en -gebeurtenissen in de detailhandel bij te houden, zoals de productweergave, een toevoeging aan winkelwagentje, een uitcheckbewerking, enz.
-feature: Implementatie starten
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
@@ -10,15 +10,19 @@ kt: 3592
 role: Developer, Data Engineer
 level: Beginner
 exl-id: cfddf957-20ca-4393-8a32-597f8a74a15f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 0%
+source-wordcount: '96'
+ht-degree: 4%
 
 ---
 
 # Basisvariabelen en -gebeurtenissen voor de detailhandel toevoegen aan [!DNL Launch] [!UICONTROL Rules]
 
-In deze video wordt getoond hoe u een speciale productreeks [!UICONTROL extension] in [!DNL Experience Platform Launch] kunt gebruiken om standaardhandelsvariabelen en -gebeurtenissen bij te houden, zoals de productweergave, een toevoeging aan winkelwagentje, een kassa, enz.
+In deze video wordt getoond hoe u een speciale productreeks kunt gebruiken [!UICONTROL extension] in [!DNL Experience Platform Launch] om elementaire handelsvariabelen en -gebeurtenissen te volgen, zoals de productweergave, een winkelwagentje, een kassa, enz.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12)
+
+>[!INFO]
+>
+> Deze video maakt deel uit van een cursus [Implementatie met instructies-analyse](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), gratis beschikbaar op Experience League!

@@ -11,17 +11,21 @@ kt: 2278
 role: User
 level: Beginner
 exl-id: 64097031-55a3-458b-bf5b-18ed4babb956
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# Segmenten in [!UICONTROL Fallout] in Analysis Workspace vergelijken {#comparing-segments-in-fallout-in-analysis-workspace}
+# Segmenten vergelijken in [!UICONTROL Fallout] in Analysis Workspace {#comparing-segments-in-fallout-in-analysis-workspace}
 
 In deze video ziet u hoe u de belangrijkste workflows voor verschillende segmenten in Analysis Workspace kunt vergelijken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12)
 
-Voor meer informatie over deze eigenschap, bezoek [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=en).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=en).
+
+>[!INFO]
+>
+> Deze video maakt deel uit van een cursus [Waarde toewijzen aan Digital Touch-punten op de reis van de klant](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), gratis beschikbaar op Experience League!

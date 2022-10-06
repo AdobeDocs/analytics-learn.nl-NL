@@ -1,27 +1,26 @@
 ---
-title: Een uitgebreide handleiding voor de overgang van Google Analytics naar Adobe Analytics
-description: Een van de grootste uitdagingen bij het schakelen tussen alle tools is het leren waar equivalente functionaliteit te vinden is en leren hoe u deze efficiënt kunt gebruiken. Deze discussie maakt deel uit van een grotere gids die gebruikers helpt gemakkelijker over te stappen naar Adobe Analytics.
+title: Uitgebreide gids voor het overgaan naar Adobe Analytics van Google Analytics
+description: Leer meer over de locatie van equivalente functionaliteit en hoe u deze efficiënt kunt gebruiken bij de overgang van Google Analytics naar Adobe Analytics
 feature: Third-party Integration
 role: User
 level: Beginner
-doc-type: feature video
-thumbnail: 34749.jpg
 kt: 9830
+thumbnail: 34749.jpg
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
-source-git-commit: de78868e07b0fa59a7babc092c463bbe4d8e2da7
+source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
 workflow-type: tm+mt
-source-wordcount: '3690'
+source-wordcount: '3380'
 ht-degree: 0%
 
 ---
 
-# Een uitgebreide handleiding voor de overgang van Google Analytics naar Adobe Analytics
+# Uitgebreide gids voor het overgaan naar Adobe Analytics van Google Analytics{#comprehensive-guide-for-transitioning-to-Adobe-Analytics}
 
 ## 1. Inleiding
 
-Een van de grootste uitdagingen bij het schakelen tussen alle tools is het leren waar equivalente functionaliteit te vinden is en leren hoe u deze efficiënt kunt gebruiken. Deze discussie maakt deel uit van een grotere handleiding om gebruikers te helpen gemakkelijker over te stappen naar Adobe Analytics (als een nieuwe gebruiker of een gebruiker die afkomstig is van Google Analytics). een diepgaande vergelijking met GA; als het meest waarschijnlijke vergelijkend instrument waarmee de meeste gebruikers vertrouwd zullen raken; wordt verstrekt om gebruikers te helpen bestaande kennis aan de nieuwe toolset correleren. Hoewel de praktijk niet kan worden vervangen; dit zal u helpen beginnen en hopelijk vermindert de frustraties u tijdens deze tijd ( of zelfs als verfrisser na u begint in het zwaai van dingen te raken) kunt ontmoeten.
+Een van de grootste uitdagingen bij het schakelen tussen alle tools is het leren waar equivalente functionaliteit te vinden is en leren hoe u deze efficiënt kunt gebruiken. Deze discussie maakt deel uit van een grotere handleiding om gebruikers te helpen gemakkelijker over te stappen naar Adobe Analytics (als een nieuwe gebruiker of een gebruiker die afkomstig is van Google Analytics). een diepgaande vergelijking met GA; als het meest waarschijnlijke vergelijkend instrument waarmee de meeste gebruikers vertrouwd zijn; wordt verstrekt om gebruikers te helpen bestaande kennis aan de nieuwe toolset correleren. Als deze praktijk niet kan worden vervangen, kunt u op deze manier aan de slag gaan en de frustraties die u tijdens deze periode kunt ondervinden, verminderen.
 
-We moeten ook een snelle vergelijking van de terminologie hebben:
+We moeten een snelle vergelijking van terminologie hebben:
 
 | **Beschrijving** | **Adobe Analytics** | **Google Analytics** |
 |--------------------------------------------------------------------------------------------------------------------------------|---------------------|----------------------|
@@ -31,7 +30,7 @@ We moeten ook een snelle vergelijking van de terminologie hebben:
 
 ## 2. De interfaces
 
-Een van de dingen die ik het vaakst zie wanneer mensen Adobe Analytics en Google Analytics vergelijken, is dat Adobe veel gaande is - het is ontmoedigend voor mensen. Dit is waar, maar het is ook waar; al dan niet geloven; een kracht, geen zwakte. Adobe biedt een breed scala aan hulpmiddelen en flexibiliteit in uw gegevensvisualisatie, zodat u veel meer vrijheid hebt om te bouwen wat u nodig hebt.
+Wanneer mensen de vergelijking maken, merken ze op dat de interface van Adobe Analytics en Adobe in eerste instantie ontmoedigend is. Dit is waar, maar het is ook waar; al dan niet geloven; een kracht, geen zwakte. Adobe biedt een breed scala aan hulpmiddelen en flexibiliteit in uw gegevensvisualisatie, zodat u veel meer vrijheid hebt om te bouwen wat u nodig hebt.
 
 Laten we beginnen met de &#39;in-site&#39; rapportage.
 
@@ -43,11 +42,11 @@ Zowel Adobe Analytics als Google Analytics bieden een manier om de eerste weerga
 
 ##### 2.1.1.1. Werkruimte / Startscherm aangepaste set (Adobe Analytics)
 
-Adobe Analytics gaat ervan uit dat het een vooraf samengesteld rapport maakt dat door alle gebruikers wordt weergegeven bij het aanmelden. De standaardhomepage neemt de gebruiker aan het de landende scherm van de Werkruimte die elke gebruiker alle werkruimterapporten zal tonen die zij creeerden of met hen werden gedeeld. Ook, heeft elke gebruiker de capaciteit om het even welk van deze rapporten als hun huisscherm te plaatsen als zij zo kiezen.
+Adobe Analytics gaat ervan uit dat het een vooraf samengesteld rapport maakt dat door alle gebruikers wordt weergegeven bij het aanmelden. De standaardhomepage neemt de gebruiker aan het de landende scherm van de Werkruimte dat elke gebruiker alle werkruimterapporten toont die zij creeerde of met hen werden gedeeld. Ook, kan elke gebruiker om het even welk van deze rapporten als hun homescherm plaatsen als zij zo kiezen.
 
-![image1](assets/ga-to-aa_1.png)
+![werkruimte-create-project](assets/ga-to-aa_1.png)
 
-Hieronder vindt u meer informatie over de werkruimte in deze handleiding. Zie punt 2.1.2.1
+Hieronder vindt u meer informatie over de werkruimte verderop in deze handleiding. Zie punt 2.1.2.1
 
 >[!TIP]
 >
@@ -57,21 +56,21 @@ Hieronder vindt u meer informatie over de werkruimte in deze handleiding. Zie pu
 
 ##### 2.1.1.2. Schermafbeeldingen thuis (Google Analytics)
 
-* Google Analytics Home Screen heeft enkele vooraf gebouwde visualisaties voor u.  Deze omvatten zaken als:
-* Gebruikers, sessies, Bounce Rate en Session Duration in de laatste 7 dagen
+* Google Analytics Home Screen heeft enkele vooraf gebouwde visualisaties voor u. Deze omvatten zaken als:
+* Gebruikers, sessies, Bounce Rate en Session Duration in de laatste zeven dagen
 * Gebruikers op tijdstip van de dag in de laatste 30 dagen
 * Huidige gebruikers nu en de bovenste actieve pagina&#39;s
-* Verkeerskanaal, bron/medium en verwijzingen in de laatste 7 dagen
-* Sessies per land in de laatste 7 dagen
-* Bovenste pagina&#39;s voor de laatste 7 dagen
+* Verkeerkanaal, bron/medium en verwijzingen in de laatste zeven dagen
+* Sessies per land in de laatste zeven dagen
+* Bovenste pagina&#39;s voor de laatste zeven dagen
 * Ontwikkeling van actieve gebruikers in de afgelopen 30 dagen
 * en meer
 
-In GA4 hebben gebruikers meer opties om hun eigen rapporten aan het Homescherm aan te passen en toe te voegen.
+GA4-gebruikers hebben meer mogelijkheden om hun eigen rapporten aan te passen en toe te voegen aan het Homescherm.
 
-![image2](assets/ga-to-aa_2.png)
+![google-analytics-interfaces](assets/ga-to-aa_2.png)
 
-Dit is waarschijnlijk het enige dat u het meest zult missen wanneer u naar Adobe komt. ze hebben niet zo&#39;n beginscherm dat voor u vooraf is gemaakt, maar u kunt eenvoudig een aangepaste werkruimte instellen om te repliceren wat u van het bovenstaande nodig hebt en, als u dat wilt, instellen als het landingsscherm. Meer informatie hierover vindt u later (of zie sectie 2.1.2.1 Adobe Workspace).
+Dit is waarschijnlijk het enige dat je het meest mist in Adobe Analytics. Er is geen beginscherm voor u vooraf gebouwd. U kunt echter eenvoudig een aangepaste werkruimte instellen om te repliceren wat u in de bovenstaande lijst nodig hebt en deze in te stellen als het landingsscherm. Er is meer over dit onderwerp later (of zie Sectie 2.1.2.1 de Werkruimte van de Adobe).
 
 #### 2.1.2. Report Builder ter plaatse
 
@@ -112,29 +111,29 @@ Gebruikers beschikken over een groot aantal visualisaties:
 Elk deelvenster en elke visualisatie kunnen een naam krijgen en er kan een beschrijving op worden toegepast om context te geven aan wat de informatie weergeeft.
 In Adobe zijn segmenten (in feite gegevensfilters) retroactief van toepassing. Deze kunnen worden opgehaald in kolommen van vrije-vormtabellen om gegevens naast elkaar te vergelijken. Bijvoorbeeld, als een gebruiker twee verschillende categorieën op hun plaats voor verkeer wilde vergelijken; zij zouden een segment voor &quot;categorie A&quot; en een ander segment voor &quot;categorie B&quot; kunnen maken.
 
-![image3](assets/ga-to-aa_3.png)
+![analytics-page-views-report](assets/ga-to-aa_3.png)
 
 In vrije-vormtabellen zijn meerdere kolommen en segmentatie mogelijk, indien nodig, om de gegevens op de gewenste manier te visualiseren.
 
-Wilt u uit het bovenstaande geen uitsplitsing naar datum zien? Sleep gewoon een andere dimensie of segment om de gegevens op een andere manier te bekijken... zoals bij het gebruik van segmenten voor Apparaattype en voeg vervolgens een uitsplitsing toe naar OS voor uw Mobile/Tablet-gebruikers:
+Als u geen onderbreking door datum wilt zien, eenvoudig sleep en laat vallen een andere afmeting of segment daar om de gegevens op een verschillende manier te zien. Gebruik bijvoorbeeld segmenten voor Apparaattype en voeg vervolgens een uitsplitsing toe naar besturingssysteem voor uw mobiele gebruikers/gebruikers van tablets:
 
-![image3](assets/ga-to-aa_4.png)
+![analytics-compare-page-views-report](assets/ga-to-aa_4.png)
 
 Met de werkruimte kan uw creativiteit vliegen, u bent niet beperkt tot standaardstoringen. U kunt de visualisaties opbouwen die u nodig hebt om diepgaand in de vergelijkingen te duiken u moet in werking stellen.
 
 >[!TIP]
 >
->Wees niet bang om te spelen en te verkennen, er zijn zoveel manieren om buiten de doos te denken, om te zien wat je kunt doen! Maar zorg er ook voor dat je probeert te valideren dat wat je hebt gebouwd echt laat zien wat je denkt dat het is. Ervaring hier zal helpen!
+>Wees niet bang om te spelen en te verkennen. Er zijn zoveel manieren om buiten de doos te denken. Bovendien toont de validatie van wat u hebt gemaakt wat u denkt. Ervaar hulp!
 
-U kunt zelfs berekende metriek of segmenten tot stand brengen die slechts binnen het rapport leven (verhinderend overstroming uw segment en berekeningen bewaarplaats, maar ook ervoor zorgen dat u gerichte punten kunt tot stand brengen die voor specifieke rapporten nodig zijn zonder uw organisatie met dingen te verwarren die niet zeer bruikbaar in andere contexten zijn.
+U kunt de berekende metriek of de segmenten tot stand brengen die slechts binnen het rapport leven om overstroming van uw segment en berekeningsbewaarplaats te verhinderen. Dit staat u toe om geconcentreerde punten tot stand te brengen die voor specifieke rapporten nodig zijn zonder uw organisatie met dingen te verwarren die niet in andere contexten bruikbaar zijn.
 
-Deze discussie is slechts een inleiding op dit instrument, er zullen andere uitgebreidere gidsen zijn om u te beginnen, maar wanneer u doet, zult u uitvoerige rapporten zoals kunnen maken:
+Deze discussie is slechts een inleiding op dit instrument, er zijn andere uitgebreide gidsen om u op gang te brengen. Nadat u deze handleidingen hebt bekeken, kunt u uitgebreide rapporten zoals deze weergeven:
 
-![image3](assets/ga-to-aa_5.png)
+![werkruimte-dashboard](assets/ga-to-aa_5.png)
 
-Opgemerkt moet worden dat Workspaces niet automatisch-sparen, zodat is het gemakkelijker om een eenmalig ad-hocrapport te doen zonder uw rapportbewaarplaats te registreren.
+De werkruimten niet auto-sparen, zodat is het gemakkelijker om een eenmalig, ad-hoc rapport te doen zonder uw rapportbewaarplaats te registreren.
 
-Een andere krachtige eigenschap van werkruimten is de capaciteit om interactieve bepalingen op uw rapporten in de vorm van drop-down toe te passen. Hoewel deze drop-down niet aan uitgevoerde CSV of dossiers van PDF van uw rapporten zal werken, binnen het levende rapport staan zij u toe om alle visualisaties in een paneel bij te werken om het zelfde rapport onder verschillende voorwaarden te tonen. Meerdere vervolgkeuzelijsten kunnen worden gebruikt en zolang de opties elkaar niet uitsluiten, worden de geselecteerde items gestapeld zodat er op een schone manier informatie kan worden weergegeven.
+Een andere krachtige eigenschap van werkruimten is de capaciteit om interactieve bepalingen op uw rapporten in de vorm van drop-down toe te passen. Deze drop-down werken niet aan uitgevoerde CSV of dossiers van PDF van uw rapporten. In het live rapport kunt u echter alle visualisaties in een deelvenster bijwerken, zodat hetzelfde rapport onder verschillende omstandigheden wordt weergegeven. Meerdere vervolgkeuzelijsten kunnen worden gebruikt, en op voorwaarde dat de opties elkaar niet uitsluiten, worden de geselecteerde items gestapeld zodat er op een schone manier informatie kan worden gepresenteerd.
 
 >[!IMPORTANT]
 >
@@ -144,13 +143,13 @@ Een andere krachtige eigenschap van werkruimten is de capaciteit om interactieve
 
 Google beschikt over een paar gereedschappen voor het maken van rapporten binnen de interface, maar deze werken nog steeds met dezelfde weergave en beperkingen van de rapportsectie.
 
-Nu, voor degenen die in Google Analytics zijn geverfd als je dit leest, zou je kunnen zeggen: &quot;Wacht even even, wat met Google Data Studio, is dat geen beter equivalent aan Adobe Workspace?&quot; en u zou correct zijn, maar omdat de Studio van Gegevens geen technisch deel van het hulpmiddel van Analytics is, en voor verbindingen aan verschillende gegevensbronnen toestaat, wordt dit hulpmiddel behandeld later in de &quot;Uitgebreide sectie van de Toegang van het Rapport&quot;van deze bespreking (en in het bijzonder Sectie 2.2.3)
+Nu, voor degenen die in Google Analytics zijn geverfd als je dit leest, zou je kunnen zeggen: &quot;Wacht even even, wat met Google Data Studio, is dat geen beter equivalent aan Adobe Workspace?&quot; Ja, maar de Studio van Gegevens is technisch geen deel van het hulpmiddel van Analytics, en het staat voor verbindingen aan verschillende gegevensbronnen toe. Dit hulpmiddel wordt behandeld later in de &quot;Uitgebreide sectie van de Toegang van het Rapport&quot;, specifiek paragraaf 2.2.3.
 
 Met Google-dashboards en aangepaste rapporten kunt u meerdere visualisaties samenvoegen tot één rapport, maar in tegenstelling tot Workspace bent u nog steeds vergrendeld in eenvoudige correlaties en welke gegevens u in welke kolommen kunt plaatsen.
 
-In de Rapporten van de Douane, is één van de grootste uitdagingen het feit dat wanneer u een filter creeert het op alle lusjes van het rapport van toepassing is.. er geen manier is om twee verschillende filters binnen het zelfde rapport te vergelijken.
+In de Rapporten van de Douane, één van de grootste uitdagingen is wanneer u een filter creeert, is het op alle lusjes van het rapport van toepassing. Er is geen manier om twee verschillende filters binnen het zelfde rapport te vergelijken.
 
-Voor oppervlakvergelijkingen doet het het werk. Deze zijn allemaal vergelijkbaar met de oude Adobe-dashboards, aangepaste rapporten en bladwijzers. De belangrijkste hulpmiddelen die worden verstrekt om uw behoeften te steunen, die binnen de rapportreeks verblijven.
+Voor oppervlakvergelijkingen, doet het het werk. Deze zijn allemaal vergelijkbaar met de oude Adobe-dashboards, aangepaste rapporten en bladwijzers. De belangrijkste hulpmiddelen die worden verstrekt om uw behoeften te steunen, die binnen de rapportreeks verblijven.
 
 #### 2.1.3. Rapporten
 
@@ -158,49 +157,49 @@ Zowel Google als Adobe hebben enkele rapporten waarin u kunt navigeren. Deze rap
 
 ##### 2.1.3.1. Adobe Analytics-rapporten
 
-Adobe Analytics heeft ook een sectie Rapporten, hoewel dit in het algemeen meestal wordt afgebouwd ten gunste van hun Analysis Workspace (en in feite is het einde van de levensduur aangekondigd voor deze interface, sinds Workspace [Afdeling 2.1.2.1] is een veel krachtiger hulpmiddel), waar de meeste van deze tabellen met meer gemak kunnen worden gemaakt en gewijzigd. Adobe zijn veel breder en dit kan ontmoedigend zijn:
+Adobe Analytics heeft ook een onderdeel Rapporten, maar dit wordt geleidelijk afgeschaft ten gunste van Analysis Workspace. In feite is het einde van de levensduur aangekondigd voor deze interface, aangezien Workspace een krachtiger instrument is. De meeste van deze tabellen kunnen eenvoudiger worden gemaakt en gewijzigd. Adobe zijn veel breder en dit kan ontmoedigend zijn:
 
-![image3](assets/ga-to-aa_6.png)
+![analytische site-metriek](assets/ga-to-aa_6.png)
 
-Aangezien het grootste deel van het bovenstaande toegankelijk is via Workspaces, zal ik een kort overzicht geven van deze secties en van de wijze waarop ze betrekking hebben op Google Analytics, en hier de nog relevante verslagen benadrukken.
+Aangezien het grootste deel van het bovenstaande toegankelijk is via Workspaces, geef ik een kort overzicht van deze secties en hoe ze betrekking hebben op Google Analytics, en benadruk hier de nog steeds relevante verslagen.
 
 Sitemetriek is wat u zou verwachten. Deze heeft betrekking op de standaardmetriek (paginaweergaven, unieke bezoekers, bezoeken en aangepaste gebeurtenissen die u hebt ingesteld). Dit is gelijkaardig aan het rapport van het Gedrag GA, maar omvat ook wat van wat u in Publiek (aangezien Adobe niet de metrische types) zou vinden.
 
-Hier vindt u ook &quot;Bot&quot;-rapporten, het verkeer van bots is uitgesloten van al uw standaardrapporten, maar er zijn twee rapporten die u inzicht geven in wat er gebeurt en welke bots naar uw site komen. Dit is vooral handig als u aangepaste Bot-regels instelt om bekende spamerbots die vaak op uw site worden aangetroffen, uit te sluiten. Je kunt enig inzicht krijgen in wat die bots doen zonder dat je hoofdrapporten overstroomd worden, maar dat verkeer. Bot-rapporten zijn momenteel niet beschikbaar via Workspace (maar gebruikers kunnen deze gegevens ook ophalen als binnenkort nieuwe rapportmogelijkheden beschikbaar komen).
+Hier zie je &#39;Bot&#39;-rapporten. Verkeer van bots wordt uitgesloten van al uw standaardrapporten. Er zijn echter twee rapporten die inzicht verschaffen in wat er gebeurt en welke bots naar uw site komen. Dit is vooral handig als u aangepaste Bot-regels instelt om bekende spamerbots die vaak op uw site worden aangetroffen, uit te sluiten. Je kunt enig inzicht krijgen in wat die bots doen zonder dat je hoofdrapporten overstroomd worden, maar dat verkeer. Beide rapporten zijn momenteel niet beschikbaar via Workspace (maar met de nieuwe rapportmogelijkheden die binnenkort beschikbaar zijn, kunnen gebruikers deze gegevens ook daar ophalen).
 
-Site-inhoud bestaat uit een groep standaardinstellingen voor Adobe: Paginanaam, Sitesecties (kanalen), Hiërarchieën (een manier om aangepaste boor-down rapporten van organisatie binnen uw website te maken), Servers (dit is met name handig als u meerdere subdomeinen op uw site hebt of meerdere sites tegelijk wilt coderen in één volgsuite), enz. Deze zijn allemaal beschikbaar in Workspace.
+Site-inhoud bestaat uit een groep standaardinstellingen voor Adobe: Paginanaam, Sitesecties, Hiërarchieën, Servers en meer. Al deze afmetingen zijn beschikbaar in Workspace.
 
-Mobile bestaat uit een groep Mobile Device-specifieke gegevens, zoals apparaten, apparaattypen, enzovoort. Deze zijn allemaal beschikbaar in Workspace.
+Mobiel is een groep van specifieke gegevens voor mobiele apparaten, zoals apparaten, apparaattypen en meer. Deze zijn beschikbaar in Workspace.
 
-Paden zijn een van de andere items die niet helemaal beschikbaar zijn in Workspace... terwijl Workspace wel een Flow-diagram heeft, kunt u alleen de in- en uitstromen voor één pagina/waarde zien... terwijl Paden u in staat stellen de meest gebruikte paden op uw website weer te geven. Pagina&#39;s is standaard het eerste padrapport dat voor u is ingesteld, maar u kunt dit inschakelen voor aangepaste props (bijvoorbeeld als u een waarde voor Paginatype wilt bijhouden), zodat u het plakken binnen paginatypen kunt bekijken. Wat ik persoonlijk leuk vind aan Paden is de eenvoudige manier waarop de informatie wordt gepresenteerd... Het stroomdiagram in de werkruimte (afhankelijk van hoeveel u probeert te bekijken) kan overweldigend worden. Ik raad aan beide uit te proberen... ze hebben elk een nut en waarde afhankelijk van wat u probeert te bereiken. Opgemerkt moet worden dat elke dimensie kan worden gebruikt bij Stromen, terwijl Padden moet worden ingesteld op een proxy in het deelvenster Beheer.
+Paden zijn niet beschikbaar in Workspace. De werkruimte heeft een stroomdiagram waarin u de in- en uitstromen voor één pagina/waarde kunt zien. Met Paden daarentegen kunt u zien welke paden het meest worden gebruikt in uw website. Pagina&#39;s zijn standaard het eerste padrapport dat voor u is ingesteld. U kunt dit echter ook inschakelen voor aangepaste props, zoals een waarde voor Paginatype. U zou kunnen kijken naar het plakken binnen paginatypen. Wat ik persoonlijk leuk vind aan Paden is de eenvoudige manier waarop de informatie wordt gepresenteerd... Het stroomdiagram in de werkruimte (afhankelijk van hoeveel u probeert te bekijken) kan overweldigend worden. Ik raad aan beide uit te proberen... ze hebben elk een nut en waarde afhankelijk van wat u probeert te bereiken. Opgemerkt moet worden dat elke dimensie kan worden gebruikt bij Stromen, terwijl Padden moet worden ingesteld op een proxy in het deelvenster Beheer.
 
-De rapporten van de Bronnen van het verkeer, Campagnes en van de Kanalen van de Marketing zijn allen gelijkaardig aan het rapport van de Aankoop in Google. De bronnen van het verkeer concentreren zich op Ware Referenties, de Campagnes concentreren zich op uw Codes van de Campagne, en de Kanalen van de Marketing richten zich ook op de Codes van de Campagne, maar passen ook extra logica toe zoals die door u op wordt bepaald hoe te om de informatie te verwerken. Ik vind dat Adobe veel meer vrijheid biedt voor het opzetten van je regels, Google doet veel voor je, en dat zal een beetje een verandering in denken zijn. Er zij ook op gewezen dat Google standaard een toewijzing voor Campagne heeft van 6 maanden, terwijl de Adobe standaard op 1 week worden ingesteld. Dit kan worden gewijzigd in uw beheerinstellingen, maar in Workspace kunt u in feite een aangepaste toewijzing boven op elke dimensie toepassen, zodat u veel meer flexibiliteit &#39;ter plekke&#39; hebt.
+De bronnen van het verkeer, de Campagnes, en de rapporten van de Kanalen van de Marketing zijn allen gelijkaardig aan het rapport van de Aankoop bij het product van Google. De bronnen van het verkeer concentreren zich op Ware Referenties, de Campagnes concentreren zich op uw Codes van de Campagne, en de Kanalen van de Marketing richten zich ook op de Codes van de Campagne, maar passen ook extra logica toe zoals die door u op wordt bepaald hoe te om de informatie te verwerken. Adobe biedt meer vrijheid bij het instellen van regels. Google doet daarentegen veel voor je, en dit is een verandering in denken. Standaard is de Google-toewijzing voor campagnecodes zes maanden. Adobe is ingesteld op één week. Dit kan worden gewijzigd in uw beheerinstellingen, maar in Workspace kunt u in feite een aangepaste toewijzing boven op elke dimensie toepassen, zodat u veel meer flexibiliteit &#39;ter plekke&#39; hebt.
 
 De rapporten Bezoek- en Bezoekersprofiel zijn vergelijkbaar met de rapporten Publiek in Google Analytics. De aandacht wordt meer gericht op de terugkeerfrequentie, terwijl het Profiel van de Bezoeker meer op de Geografie en de Technologie van de gebruikers wordt gericht.
 
-Aangepaste conversie en Aangepast verkeer zijn beide aangepaste dimensierapporten, conversies zijn uw eVars (waarbij u een aangepaste vervaldatum kunt instellen op de waarde, bijvoorbeeld &#39;hit&#39;, &#39;visit&#39;, &#39;month&#39;, &#39;year&#39; enz................................................................................................................................................................................................... Verkeersvariabelen zijn uw eigen profielen, maar u kunt deze ook instellen voor Pathing Reports of als lijstitems (die meerdere waarden splitsen op basis van een scheidingsteken van uw keuze).
+De rapporten van de Omzetting van de douane en van het Verkeer van de Douane zijn beide rapporten van de douanedimensie. Conversies zijn eVars. U kunt een aangepaste vervaldatum instellen op de waarde hit, visit, month en year. Deze waarde blijft voor een gebruiker in persistentie voor het gevormde tijdkader tenzij beschreven. Verkeersvariabelen zijn profielen. U kunt deze ook instellen voor Pathing Reports of als lijstitems die meerdere waarden splitsen op basis van een scheidingsteken naar keuze.
 
 Media is bedoeld voor video&#39;s of audiobestanden waarin u speciale mediatracering hebt ingesteld.
 
-De Rapporten van de douane is een sectie waar een gebruiker de kolommen en de onderverdelingen kan aanpassen die zij binnen de rapportinterface hebben gecreeerd en het opslaan als douanerapport. Zoals hierboven vermeld, moet er echter alles op maat gemaakt worden, aangezien Workspace zoveel krachtigere breuken en correlaties mogelijk maakt. Dit was een goede oplossing voordat Workspace bestond.
+De Rapporten van de douane is een sectie waar een gebruiker de kolommen en de onderverdelingen kan aanpassen die zij binnen de rapportinterface hebben gecreeerd en het opslaan als douanerapport. Zoals hierboven vermeld, moet er echter alles op maat worden gemaakt, aangezien Workspace zoveel krachtigere breuken en correlaties mogelijk maakt. Dit was een goede oplossing voordat Workspace bestond.
 
 De sectie Bladwijzers is vergelijkbaar met Aangepaste rapporten, waar vaak gebruikte rapporten als bladwijzers kunnen worden gemarkeerd in de interface Rapporten, zodat ze gemakkelijker kunnen worden gevonden.
 
 Dashboard was een oud product dat mensen in staat stelde gegevensrapporten te combineren tot één visualisatie. Nochtans, is de functionaliteit in Werkruimte (Sectie 2.1.2.1) zo gemakkelijker om met te werken, dat dit slechts als toegangspunt aan erfenisrapporten bestaat die zouden moeten worden herbouwd alvorens deze eigenschap zonsondergang is.
 
-Streefcijfers zijn een speciaal rapporteringsgebied dat mensen toestaat om een rapport tot stand te brengen dat op een doel binnen een bepaald tijdsbestek wordt gebaseerd zodat de teams dingen zoals campagnes konden controleren en konden zien of zij op spoor waren om hun verkeersdoelstellingen te bereiken.
+Met doelen kunnen mensen binnen een bepaald tijdsbestek een rapport maken op basis van een doel. De teams controleren campagnes om te zien of zijn zij op spoor om hun verkeersdoelstellingen te bereiken.
 
-Alle rapporten hier stonden voor veelvoudige metrische kolommen en afmetingsonderverdelingen toe. maar de eenvoud van de visualisaties en sommige logica achter de elementen die gecorreleerd zouden kunnen zijn , zou soms frustrerend kunnen zijn .
+Alle rapporten hier stonden voor veelvoudige metrische kolommen en afmetingsonderverdelingen toe. De eenvoud van de visualisaties en een aantal logica achter de elementen die gecorreleerd kunnen zijn, kunnen echter soms frustrerend zijn.
 
 ##### 2.1.3.2. Google Analytics
 
-Google Analytics splitsen deze rapporten in de volgende secties: Realtime, Publiek, Acquisitie, Gedrag en Gesprek (in GA3) en in Levenscyclus (met de subsecties: Verwerving, Betrokkenheid, Monetisering, Behoud) en Gebruiker (met de subsecties: Demografie en technologie).
+Google Analytics splitsen deze rapporten in de volgende secties: Realtime, Publiek, Acquisitie, Gedrag, en Gesprek (in GA3) en in Levenscyclus (met de subsecties: Verwerving, Betrokkenheid, Monetisering, Behoud) en Gebruiker (met de subsecties: Demografie en technologie).
 
-![image3](assets/ga-to-aa_7.png)
+![google-analytics-interface-compare](assets/ga-to-aa_7.png)
 
-U kunt kleine aanpassingen maken aan deze visualisaties, een secundaire afbraak toevoegen, de visualisatie wijzigen, een filter voor de gegevens maken, enzovoort. U kunt uw aanpassingen opslaan als Opgeslagen Rapport.
+U kunt kleine aanpassingen maken aan deze visualisaties, een secundaire afbraak toevoegen, de visualisatie wijzigen, een filter voor de gegevens maken en nog veel meer. U kunt uw aanpassingen opslaan als Opgeslagen Rapport.
 
-Dit geeft u snel en gemakkelijk inzicht in uw gegevens. Nochtans, kunt u dingen zoals Gebruikers aan paginameningen voor een pagina in de zelfde lijst vergelijken, en u kunt niet meer dan één extra dimensie toevoegen om extra gegevens te zien.
+Deze bieden snel en gemakkelijk inzicht in uw gegevens. Nochtans, kunt u dingen zoals Gebruikers aan paginameningen voor een pagina in de zelfde lijst vergelijken, en u kunt niet meer dan één extra dimensie toevoegen om extra gegevens te zien.
 
 Deze zijn goed voor snelle analytische gegevens, maar als je echt diep moet graven, lijden ze aan de beperkingen.
 
@@ -208,68 +207,68 @@ Deze zijn goed voor snelle analytische gegevens, maar als je echt diep moet grav
 
 Naast &quot;Rapportering ter plaatse&quot;, bieden de meeste hulpmiddelen uitgebreide functionaliteit aan die u toestaat om uw analyse buiten de hulpmiddelen te nemen en iets te bouwen een beetje meer aangepast.
 
-#### 2.2.1. Adobe Analytics Report Builder (Microsoft Excel-extensie)
+#### 2.2.1. Adobe Analytics Report Builder (Microsoft® Excel-extensie)
 
 De werkruimte is een geweldig hulpmiddel, maar soms moet u uw gegevens in een aangepaste spreadsheet krijgen, misschien zodat u veelvoudige bronnen van gegevens kunt verenigen. Hier speelt Report Builder een rol.
 
-Report Builder is een insteekmodule voor Microsoft Excel waarmee u verbindingen met uw Adobe Analytics-gegevens kunt maken om tabelgegevens te verkrijgen die u in Excel kunt manipuleren. Over het algemeen om dit efficiënt te gebruiken zou u de gegevens in sommige ruwe gegevenslusjes trekken, dan gebruiks excel celverwijzingen om gegevens van deze lusjes in één enkel geconsolideerd rapport te trekken, dan grafieken en visualisaties tot stand te brengen.
+Report Builder is een insteekmodule voor Microsoft® Excel waarmee u verbindingen met uw Adobe Analytics-gegevens kunt maken om tabelgegevens te verkrijgen die u in Excel kunt bewerken. Over het algemeen om dit efficiënt te gebruiken zou u de gegevens in sommige ruwe gegevenslusjes trekken, dan gebruiks excel celverwijzingen om gegevens van deze lusjes in één enkel geconsolideerd rapport te trekken, dan grafieken en visualisaties tot stand te brengen.
 
 >[!NOTE]
 >
->Report Builder heeft een speciale machtiging die op uw gebruikers moet worden toegepast om toegang te krijgen tot deze plug-in. Dit zou waarschijnlijk slechts aan gebruikers moeten worden verleend die hebben geleerd hoe te om het hulpmiddel behoorlijk te gebruiken.
+>Report Builder heeft een speciale machtiging die op uw gebruikers moet worden toegepast om toegang te krijgen tot deze plug-in. Dit moet worden toegestaan aan gebruikers die hebben geleerd hoe u het gereedschap op de juiste manier kunt gebruiken.
 
 #### 2.2.2. Adobe Analytics API-verbinding
 
-Als u uw Adobe Analytics door iets anders dan excel moet worden verteerd, maar u nog de voordelen van verwerkte gegevens (met inbegrip van de beide lijnuitsluitingen) wilt, kunt u Adobe API gebruiken om gegevens uit te trekken direct, dan het via manuscript te verwerken of het toe te voegen aan een gegevensbestand voor gebruik met een ander systeem.
+Als u Adobe Analytics door iets anders dan Excel moet worden gecentreerd, en u de verwerkte gegevens met inbegrip van de beide uitsluitingen wilt, gebruik Adobe API om de gegevens direct te trekken. Verwerk de gegevens vervolgens met een script of voeg deze toe aan een database voor gebruik met een ander systeem.
 
 Opgemerkt moet worden dat de API nog steeds correlatiegegevens ophaalt die de uitsplitsingen en segmenten toepassen zoals die in de pull-aanvraag zijn gespecificeerd.
 
-Adobe Workspace (Section 2.1.2.1) gebruikt in feite de API om alle rapporten samen te stellen. Als u de foutopsporingsmodus inschakelt in Workspace, worden de exacte gebruikte API-aanroepen weergegeven. Dit is een snelle manier om uw API vraag uit te bouwen door Werkruimte te gebruiken om de gegevens te bouwen en te bevestigen u wilt trekken, dan die API vraag gebruiken om de gegevens uit te krijgen aan uw eigen verwerking.
+De werkruimte van Adobe (Sectie 2.1 2.1) gebruikt API om de rapporten te bouwen, en als u zuivert wijze in Werkruimte toelaat, toont het u exact gebruikte API. Dit is een snelle manier om uw API vraag uit te bouwen. Door Werkruimte te gebruiken om de gegevens te bouwen en te bevestigen u wilt trekken, dan gebruikt u die API vraag om de gegevens uit te krijgen aan uw eigen verwerking.
 
 
 #### 2.2.3. Google Analytics Data Studio
 
-Als u reeds van bovenaf zult weten dat ik de Studio van Gegevens als gelijkwaardig aan het lezen van de Werkruimte van Adobe noemde. De Studio van gegevens staat u toe om in Google Analytics gegevens, maar ook gegevens uit andere bronnen te trekken. Dit is handig als u de analysegegevens wilt samenvoegen met andere verzamelde gegevens. maar wat de Google Analytics betreft, heb ik dezelfde visualisatiebeperkingen gevonden als in Google Analytics. De manier waarop de rijen en kolommen worden gevormd is nog steeds zeer beperkt in wat er kan worden gedaan.
+Als u reeds hebt gelezen, weet u reeds van bovenaf dat ik de Studio van Gegevens noemde die aan Adobe als werkruimte gelijkwaardig zijn. De Studio van gegevens staat u toe om in Google Analytics gegevens, maar ook gegevens uit andere bronnen te trekken. Dit is handig als u de analysegegevens wilt consolideren met andere verzamelde gegevens. Bij Google Analytics zijn er echter dezelfde visualisatiebeperkingen. De manier waarop de rijen en kolommen worden gevormd is nog steeds beperkt.
 
-Het is nog steeds een krachtig hulpmiddel, en ik zou mensen er op geen enkele manier van weerhouden om het te gebruiken, maar mijn persoonlijke ervaring is dat ik, nadat ik Workspace zo lang heb gebruikt, persoonlijk het starre gedrag zeer beperkt vind.
+Het is nog steeds een krachtig instrument, en ik zou mensen er op geen enkele manier van weerhouden het te gebruiken. Mijn persoonlijke ervaring is dat ik het rigide gedrag vrij beperkend vind.
 
 
 #### 2.2.4. Google-spreadsheetextensie
 
-Voor mijn eigen gebruik, wanneer ik gegevens uitgebreid van Google Analytics moet trekken, is mijn persoonlijke hulpmiddel van keus de Uitbreiding van de Spreadsheet van Google. Zeker, moet ik veelvoudige verbindingen aan mijn lijsten maken GA, maar als Adobe Report Builder, kan ik naar cellen van de ruwe gegevens verwijzen en de rapporten uitbouwen ik nodig heb, dan hen visualiseren gebruikend de gravende mogelijkheden van Google Spreadsheet.
+Voor mijn eigen gebruik, wanneer ik gegevens uitgebreid van Google Analytics moet trekken, is mijn persoonlijke hulpmiddel van keus de Uitbreiding van de Spreadsheet van Google. Hoewel ik veelvoudige verbindingen aan mijn lijsten GA moet maken, kan ik de cellen van de ruwe gegevens van verwijzingen voorzien en de rapporten uitbouwen die ik nodig heb. Vervolgens visualiseer ik ze met behulp van de grafische mogelijkheden van Google Spreadsheet.
 
 
 ## 3. Uitvoer van onbewerkte gegevens
 
-Voor die tijden hebt u echt ruwe gegevens nodig, zowel Adobe als Google bieden de mogelijkheden om informatie op deze manier te trekken.
+Wanneer u echt ruwe gegevens nodig hebt, zowel bieden Adobe als Google de mogelijkheden om informatie op deze manier te trekken.
 
 ### 3.1. Adobe Data Feed
 
-In paragraaf 2.2.2 vermeldde ik dat de Adobe Analytics API uit &quot;verwerkte gegevens&quot; werd gehaald. De feed Raw-gegevens bevat nog steeds gegevens die zijn verwerkt door de verwerkingsregels die zijn ingesteld in het beheerpaneel (zorg ervoor dat de onbewerkte gegevens worden vertraagd om ervoor te zorgen dat al deze regels zijn voltooid op het moment dat de onbewerkte gegevens worden opgehaald), maar deze onbewerkte gegevens bevatten alle gegevens die overal anders zijn uitgesloten.
+In paragraaf 2.2.2 vermeldde ik dat de Adobe Analytics API uit &quot;verwerkte gegevens&quot; werd gehaald. De feed Raw-gegevens bevat gegevens die worden verwerkt door de verwerkingsregels die zijn ingesteld in het deelvenster Beheer, maar deze onbewerkte gegevens bevatten alle gegevens die overal anders zijn uitgesloten.
 
-Dit betekent dat al uw Boot-uitsluitingen, interne IP gefilterde gegevens, enz. in de onbewerkte gegevensfeeds zullen worden opgenomen. Er zijn vlaggen om deze gegevens te identificeren, zodat als u een gegevensmeer bouwt, uw techniekteam logica kan creëren om deze gegevens dienovereenkomstig te verwerken.
+Dit betekent dat al uw Boot-uitsluitingen, interne IP-gefilterde gegevens en andere uitgesloten gegevens zich in de onbewerkte gegevensfeeds bevinden. Er zijn vlaggen om deze gegevens te identificeren, zodat als u een gegevensmeer bouwt, kan het technische team logica tot stand brengen om deze gegevens dienovereenkomstig te verwerken.
 
 De ruwe gegevensvoer kan worden aangepast om alle kolommen van gegevens te verzenden, of slechts specifieke kolommen als u een meer geconcentreerde voer nodig hebt.
 
-De feeds kunnen rechtstreeks worden verzonden naar FTP, SFTP, S3, enz.
+De feeds kunnen rechtstreeks naar FTP, SFTP of S3 worden verzonden.
 
 
 ### 3.2. Google Big Query
 
-Jammer genoeg, is dit Hulpmiddel dat ik geen ervaring heb gehad het gebruiken, maar zou in theorie aan één Adobe moeten gelijkaardig zijn Feed van Gegevens, die uw ingenieursteam toestaat om ruwe gegevens van uw rekening van Google Analytics toegang te hebben.
+Helaas heb ik geen ervaring met dit Google-instrument. In theorie, zou het aan de Diervoed van Gegevens van de Adobe moeten gelijkaardig zijn, die uw techniekteam toestaan om tot ruwe gegevens van uw rekening van Google Analytics toegang te hebben.
 
-Ik geloof echter dat het uw engineers in plaats van een volledige stortplaats van onbewerkte gegevens toegang geeft tot de gegevens via SQL-query&#39;s, zodat ze ofwel gerichte onbewerkte gegevens kunnen ophalen of als ze willen dat ze alle kolommen met onbewerkte gegevens kunnen ophalen om in een datumpigment te komen.
+Nochtans, eerder dan het verstrekken van een volledige stortplaats van ruwe gegevens, staat het uw ingenieurs toe om tot de gegevens via SQL vragen toegang te hebben om gerichte ruwe gegevens of alle kolommen van ruwe gegevens te trekken.
 
 ## 4. Conclusie
 
-Zoals elk systeem, is de praktijk nodig om met het comfortabel te worden, maar hopelijk zal deze gids u beginnen, of geeft u uiteinden om uw gebruik van Adobe Analytics te verbeteren als u slechts het oppervlak gekrast hebt.
+Zoals elk systeem, is de praktijk nodig om met het hulpmiddel comfortabel te worden. Hopelijk helpt deze handleiding u om aan de slag te gaan of biedt hij tips om uw gebruik van Adobe Analytics te verbeteren.
 
 Ik wil echter benadrukken dat ik het gebruik van zowel Adobe Analytics als Google Analytics in uw implementatiestrategie zou aanbevelen (ook al zijn de Google Analytics alleen de vrije versie). Hierdoor hebt u een back-upsysteem om ervoor te zorgen dat u over gegevens beschikt, aangezien geen enkel systeem onfeilbaar is.
 
 Naast deze handleiding beschikt u over veel bronnen die u kunnen helpen uw strategie te verbeteren:
 
 * [Adobe Experience League](https://experienceleague.adobe.com/#home) - Bevat zelfstudies, video&#39;s, documentatie en communityforums
-* [Adobe-gebruikersgroepen](https://analytics-augs.adobe.com/) - Een hub van op gemeenschap-in werking gestelde gebeurtenissen om gebruikers te helpen met elkaar verbinden en hun implementaties verbeteren - omdat deze in een specifieke tijdzone gebaseerd zijn, is het best om te controleren wat andere gebieden ook lopen.
+* [Adobe-gebruikersgroepen](https://analytics-augs.adobe.com/) - Een hub van op gemeenschap-in werking gestelde gebeurtenissen om gebruikers te helpen met elkaar verbinden en hun implementaties verbeteren.
 * [Adobe Analytics-gebruikersgroepen YouTube-kanaal](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Kan geen gebruikersgroepsessie voor Adobe Analytics maken? Bekijk vorige gebruikersgroepssessies over de hele wereld opnieuw voor meer informatie over hoe uw collega&#39;s het gereedschap gebruiken.
 * [Chat-Slack-kanaal meten](https://www.measure.chat/) - Maak verbinding met Adobe Analytics-gebruikers over de hele wereld en deel ervaringen uit de branche, stel vragen aan uw collega&#39;s en sluit zich aan bij belangengroepen die zich bij de meting richten.
 * en meer!

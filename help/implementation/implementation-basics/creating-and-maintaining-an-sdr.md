@@ -1,21 +1,20 @@
 ---
-title: Een SDR maken en onderhouden.
+title: Creeer en handhaaf een document van de Verwijzing van het Ontwerp van de Oplossing (SDR)
 description: Het document van de Verwijzing van het Ontwerp van de Oplossing (SDR) is de blauwdruk voor bedrijfsvereisten en het ontwerp van de gegevensinzameling voor Analytics op uw digitale eigenschappen. Leer hoe u dit document maakt en onderhoudt als bron van waarheid voor uw analyseoplossing.
 feature: Implementation Basics
-team: Technical Marketing
-kt: 3581
-thumbnail: 28754.jpg
 role: Developer, Data Engineer
 level: Beginner
+kt: 3581
+thumbnail: 28754.jpg
 exl-id: c942e819-0763-4907-adcc-747ec753c407
-source-git-commit: 6ef8fd0853c8926a6237081383772046675aad02
+source-git-commit: bd4ac9bba3d240f571991d32dbe3b225a4452c1a
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 0%
+source-wordcount: '149'
+ht-degree: 2%
 
 ---
 
-# Het creëren van en het handhaven van een Document van de Verwijzing van het Ontwerp van de Oplossing (SDR)
+# Creeer en handhaaf een Document van de Verwijzing van het Ontwerp van de Oplossing (SDR){#create-and-maintain-a-solution-design-reference-document}
 
 Het document van de Verwijzing van het Ontwerp van de Oplossing (SDR) is de blauwdruk voor bedrijfsvereisten en het ontwerp van de gegevensinzameling voor Analytics op uw digitale eigenschappen. Leer hoe u dit document maakt en onderhoudt als bron van waarheid voor uw analyseoplossing.
 
@@ -24,3 +23,7 @@ Het document van de Verwijzing van het Ontwerp van de Oplossing (SDR) is de blau
 [Downloaden](assets/aa-implementation-playbook.xlsx) een sjabloon van voorbeeldExcel aan documentvereisten en het ontwerp van de gegevensinzameling voor uw digitale eigenschappen.
 
 [Downloaden](assets/geometrixx-clothiers-brd-sdr.xlsx) het Excel-document dat in deze video wordt gepresenteerd en/of de bijbehorende [documentvideo over zakelijke vereisten](creating-a-business-requirements-document.md)).
+
+>[!INFO]
+>
+> Deze video maakt deel uit van een cursus [Implementatie met instructies-analyse](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), gratis beschikbaar op Experience League!

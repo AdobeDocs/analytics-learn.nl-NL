@@ -2,7 +2,6 @@
 title: Analyse op verschillende tabbladen gebruiken om de basismarketingkenmerken in Analysis Workspace te verkennen
 description: Er zijn vele manieren u uw attributiemethodologie aan het volgende niveau met Adobe Analytics kunt nemen. In deze video, benadrukken wij hoe u diepere inzichten uit het rapport van de Kanalen van de Marketing kunt voortbrengen gebruikend dwars-lusanalyse in Werkruimte.
 feature: Marketing Channels
-topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,9 +10,9 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '312'
 ht-degree: 3%
 
 ---
@@ -24,19 +23,22 @@ Er zijn vele manieren u uw attributiemethodologie aan het volgende niveau met Ad
 
 >[!VIDEO](https://video.tv.adobe.com/v/39237/?quality=12&learn=on)
 
-**BIJWERKEN**: Er zijn verschillende verbeteringen aangebracht  [!DNL Workspace] sinds deze video is gepubliceerd. We laten de video live, omdat deze tips bevat die u toch moet kennen.
+**BIJWERKEN**: Er zijn verschillende verbeteringen aangebracht in [!DNL Workspace] sinds deze video is gepubliceerd. We laten de video live, omdat deze tips bevat die u toch moet kennen.
 
-**Eerst**, ben zeker om de  [!UICONTROL Attribution IQ] eigenschappen te controleren die uw marketing attributieanalyse nog verder zullen helpen nemen. Dit zijn de volgende video&#39;s en de video&#39;s rondom deze video&#39;s:
+**Eerste** moet u de [!UICONTROL Attribution IQ] functies die u helpen bij het nog verder analyseren van uw marketingtoewijzing. Dit zijn de volgende video&#39;s en de video&#39;s rondom deze video&#39;s:
 
 * [Het deelvenster Attribution IQ gebruiken](using-the-attribution-iq-panel.md)
 * [Naast elkaar vergelijkingen van modellen van Attribution IQ toevoegen](adding-side-by-side-comparisons-of-attribution-iq-models.md)
 * [Algoritmisch model in Attribution IQ](algorithmic-model-in-attribution-iq.md)
 * [Aangepaste terugblikvensters in Attribution IQ](custom-lookback-windows-in-attribution-iq.md)
 
-**Ten tweede**, als u de stappen in deze video volgt, ben zich ervan bewust dat u de  [Bouwer van de Lijst van de Vrije Vorm kunt ](../building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md) gebruiken om uw lijst te opstelling.
+**Seconde** Als u de stappen in deze video uitvoert, moet u er rekening mee houden dat u [de Freeform Table Builder gebruiken](../building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md) om uw tabel in te stellen.
 
 * 3:20 - De afmetingen van de verschillende tabbladen zijn automatisch dynamisch wanneer ze worden neergezet. Dit betekent dat hun waarden na verloop van tijd kunnen veranderen. Voor deze analyse, is het best om statische kolommen in plaats daarvan over te brengen. Meer informatie over dynamische kolommen vindt u op 6:33 van de video: [Rij- en kolominstellingen in vrije-vormtabellen](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 * 4:30 - de montages van de kolom kunnen nu bulksgewijs worden bijgewerkt, in plaats van 1-bij-1. Meer informatie vindt u op 8:45 van de video: [Rij- en kolominstellingen in vrije-vormtabellen](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
+Ga voor meer informatie over dit onderwerp naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html).
 
-Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html) voor meer informatie over dit onderwerp.
+>[!INFO]
+>
+> Deze video maakt deel uit van een cursus [Waarde toewijzen aan Digital Touch-punten op de reis van de klant](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), gratis beschikbaar op Experience League!

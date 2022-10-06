@@ -11,17 +11,21 @@ kt: 2477
 role: User
 level: Intermediate
 exl-id: 3c0b0814-61b0-43ad-b69c-9e55555d4edd
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
 # Overzicht van [!UICONTROL Cohort Tables] in Analysis Workspace {#overview-of-cohort-tables-in-analysis-workspace}
 
-Met de instelling [!UICONTROL Rolling Calculation] binnen [!UICONTROL Cohort Tables] kunt u [!UICONTROL cohorts] punt-over-periode analyseren, om te begrijpen hoe dezelfde gebruikers in de loop van de tijd worden behouden (of [!UICONTROL churn]).
+De [!UICONTROL Rolling Calculation] instellen binnen [!UICONTROL Cohort Tables] kan worden gebruikt om [!UICONTROL cohorts] punt-over-periode, om te begrijpen hoe dezelfde gebruikers worden behouden (of [!UICONTROL churn]) in de loop van de tijd.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12)
 
-Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en) voor meer informatie.
+Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
+
+>[!INFO]
+>
+> Deze video maakt deel uit van een cursus [Waarde toewijzen aan Digital Touch-punten op de reis van de klant](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), gratis beschikbaar op Experience League!

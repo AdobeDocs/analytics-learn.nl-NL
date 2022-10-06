@@ -9,9 +9,9 @@ doc-type: feature video
 thumbnail: 341273.jpg
 kt: 2295
 exl-id: 14af33e2-659e-4d78-923f-20752e26067b
-source-git-commit: eb553f8a90a4f53329a1907e78d837fdb1d49f85
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -23,3 +23,7 @@ Soms wilt u een Analysis Workspace-project delen, maar vergeet u ook de segmente
 >[!VIDEO](https://video.tv.adobe.com/v/341273/?quality=12&learn=on)
 
 Voor meer informatie over deze functie raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=en).
+
+>[!INFO]
+>
+> Deze video maakt deel uit van een cursus [Adobe Analytics-gegevens exporteren en democratiseren](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), gratis beschikbaar op Experience League!
