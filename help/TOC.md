@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: ac000e8726196b07934f05fcbcdc8f0eb0530f55
+source-git-commit: 7785ccc22eb4f22f14928f62ac8cae4cb27a4d71
 workflow-type: tm+mt
-source-wordcount: '2418'
+source-wordcount: '2426'
 ht-degree: 6%
 
 ---
@@ -135,6 +135,7 @@ ht-degree: 6%
       + [Trend Lines toevoegen aan Line Visualizations](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Kaartvisualisatie](analysis-workspace/visualizations/map-visualization.md)
       + [Samenvattingsnummer en visualisaties van samenvattingswijzigingen](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
+      + [Belangrijke metrische samenvatting Visualisatie](analysis-workspace/visualizations/key-metric-summary.md)
       + [Visualisatie van tekst](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [Visualisatie van verstrooiingspunten](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Treemap Visualization](analysis-workspace/visualizations/treemap-visualization.md)
@@ -354,6 +355,7 @@ ht-degree: 6%
       + [Visualisaties voor mobiele scoreborden](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [Aangepaste datumbereiken toepassen](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [In-app ervaring met analytische dashboards](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
+      + [Aangepaste detailweergaven maken](additional-tools/analytics-dashboards/create-custom-detail-views.md)
 + Exporteren {#exporting}
    + Vanuit de gebruikersinterface {#from-the-ui}
       + [Exporteren naar CSV vanuit Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
