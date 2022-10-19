@@ -8,7 +8,7 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 3cf17558385944871209a801463e013663d58b3a
+source-git-commit: d05f59507a766881250090547b177ffdd0fdf5e0
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -41,15 +41,17 @@ De gekromde leerervaringen door rol en vaardigheidsniveau worden ook aangeboden 
    *Aantekeningen in [!DNL Analysis Workspace] stelt u in staat om contextuele gegevensnuances en inzichten effectief aan uw gebruikers over uw organisatie mee te delen. Annoteer een datum- of datumbereik met bekende gegevensproblemen, feestdagen, het starten van campagnes enzovoort. Dit informeert gebruikers waarom zij onregelmatigheden in lijngrafieken, lijsten en meer zien.*
 
 </div>
+
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
 <div id="recs-overview-body-3"></div>
 <div id="recs-overview-body-4"></div>
 <div id="recs-overview-body-5"></div>
 <div id="recs-overview-body-6"></div>
+
 <div id="staff-picks-section">
 
-## Aanbevolen door medewerkers
+## Personeelsselectie
 
 <table>
 <tr>
