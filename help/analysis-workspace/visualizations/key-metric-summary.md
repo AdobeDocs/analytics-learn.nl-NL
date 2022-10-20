@@ -1,15 +1,15 @@
 ---
 title: Belangrijkste metrische overzichtsvisualisatie
-description: Leer meer over de Combo Chart visualization in Analysis Workspace. De Belangrijkste metrische summiere visualisatie laat u zien hoe belangrijke metrisch binnen één enkel tijdkader trending. Ook kunt u de metrische prestaties in twee tijdframes vergelijken. (Moet tussen 60 en 160 tekens lang zijn, maar is 244 tekens)
+description: Leer hoe de belangrijkste metrische summiere visualisatie u laat zien hoe belangrijke metrisch binnen één enkel tijdkader trending.
 feature: Visualizations
 role: User
 level: Beginner
 kt: 11270
 thumbnail: 3410003.jpeg
 last-substantial-update: 2022-10-11T00:00:00Z
-source-git-commit: 08d9f0a196306c44f3397fb5e1d396483222f8c1
+source-git-commit: 7e543468111051b51e9dffcf0d4438c2d058b51d
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Belangrijkste metrische overzichtsvisualisatie
 
-Leer meer over de Combo Chart visualization in Analysis Workspace. De Belangrijkste metrische summiere visualisatie laat u zien hoe belangrijke metrisch binnen één enkel tijdkader trending. Ook kunt u de metrische prestaties in twee tijdframes vergelijken.
+Leer over de belangrijkste metrische summiere visualisatie in Analysis Workspace, die u laat zien hoe belangrijke metrisch binnen één enkel tijdkader trending. Ook kunt u de metrische prestaties in twee tijdframes vergelijken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410003/?quality=12&learn=on)
 
