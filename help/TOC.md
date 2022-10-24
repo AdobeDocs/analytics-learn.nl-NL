@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: f2f6d27d2bc79ae6a859cd84d6e1b28cf8b31ee5
+source-git-commit: 7453357526b3b144cdc93215be51cc758678c4f3
 workflow-type: tm+mt
 source-wordcount: '2429'
 ht-degree: 6%
@@ -15,17 +15,17 @@ ht-degree: 6%
 
 + [Zelfstudies voor analyse](overview.md)
 + Inleiding tot Analytics {#intro-to-analytics}
-   + Wat kan Adobe Analytics voor mij doen? {#what-can-aa-do-for-me}
    + [Wat is analyses?](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
-   + [Hoe Adobe Analysis Workspace uw bedrijf kan veranderen](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
-   + [Het is meer dan data. Het is Customer Intelligence](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
-   + [Adobe Sensei en Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
-   + [Gebruiksscenario voor klant - ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
-   + [Gebruiksscenario voor klant - Acceptatiegroep](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
-   + [Gebruiksscenario voor klanten - De thuislocatie](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
-   + [Topconferentie 2019 Super Session - Reizen en Ziekenhuizen](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
-   + [Top 2019 Super Session - Retail](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
-   + [Top 2019 Super Session - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+   + Wat kan Adobe Analytics voor mij doen? {#what-can-aa-do-for-me}
+      + [Hoe Adobe Analysis Workspace uw bedrijf kan veranderen](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
+      + [Het is meer dan data. Het is Customer Intelligence](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
+      + [Adobe Sensei en Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
+      + [Gebruiksscenario voor klant - ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
+      + [Gebruiksscenario voor klant - Acceptatiegroep](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
+      + [Gebruiksscenario voor klanten - De thuislocatie](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
+      + [Topconferentie 2019 Super Session - Reizen en Ziekenhuizen](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
+      + [Top 2019 Super Session - Retail](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
+      + [Top 2019 Super Session - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + Strategie en leiderschap{#strategy}
       + [Deel 1 - Eenvoudige stapels voor meer efficiëntie](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
       + [Deel 2 - Eenvoudige stapels voor meer efficiëntie](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
