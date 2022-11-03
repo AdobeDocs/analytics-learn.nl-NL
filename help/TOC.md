@@ -1,11 +1,11 @@
 ---
 user-guide-title: Adobe Analytics-tutorials
-user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
+user-guide-description: Bekijk videozelfstudies voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: 7453357526b3b144cdc93215be51cc758678c4f3
+source-git-commit: 6915876d8d4fa4497a968cf913bf6e9fac3b6c6e
 workflow-type: tm+mt
-source-wordcount: '2429'
+source-wordcount: '2437'
 ht-degree: 6%
 
 ---
