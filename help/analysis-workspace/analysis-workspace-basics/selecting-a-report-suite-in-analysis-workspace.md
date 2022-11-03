@@ -1,27 +1,21 @@
 ---
 title: Een rapportsuite selecteren in Analysis Workspace
-seo-title: Een rapportsuite selecteren in Analysis Workspace - Adobe Analytics
-description: Deze video neemt u door de selecteur van de rapportreeks.
-seo-description: Deze video neemt u door de selecteur van de rapportreeks. - Adobe Analytics
-feature: Basisprincipes van werkruimte
-topics: null
-activity: use
-doc-type: feature video
-author: Doug Moore
-team: Technical Marketing
+description: Hier vindt u enkele tips voor het selecteren van een rapportsuite in Analysis Workspace.
+feature: Workspace Basics
 kt: 2026
+thumbnail: 24095.jpg
 role: User
 level: Beginner
 exl-id: a46c4392-739f-4366-b5ea-504519ce1a0f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: de2adda096458119c3de42e85de4d49898576113
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 4%
+source-wordcount: '38'
+ht-degree: 0%
 
 ---
 
-# Een [!UICONTROL Report Suite] selecteren in Adobe Analytics {#selecting-a-report-suite-in-adobe-analytics}
+# Een rapportsuite selecteren in Analysis Workspace {#selecting-a-report-suite-in-adobe-analytics}
 
-Deze video neemt u door de [!UICONTROL report suite] selecteur.
+Hier vindt u enkele tips voor het selecteren van een rapportsuite in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/23967/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23967/?quality=12&learn=on)

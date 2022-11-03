@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Bekijk videozelfstudies voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: 6915876d8d4fa4497a968cf913bf6e9fac3b6c6e
+source-git-commit: d817981dd65fc53bbf04b96087d264bf2116eaca
 workflow-type: tm+mt
-source-wordcount: '2437'
+source-wordcount: '2388'
 ht-degree: 6%
 
 ---
@@ -44,15 +44,11 @@ ht-degree: 6%
       + [Inleiding tot conversievariabelen (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
       + [Inleiding tot conversiegebeurtenissen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
    + De gebruikersinterface aanpassen {#customizing-the-ui}
-      + [Gebruikersvoorkeuren in Adobe Analytics](intro-to-analytics/customizing-the-ui/user-preferences.md)
-      + [Dimension- en metrische beschrijvingen toevoegen](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
-      + [Aangepaste kleurenpaletten gebruiken in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
-      + [Kleurenpipetextensie voor het definiëren van aangepaste paletten](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
-      + [Het menu aanpassen in Reports and Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
+      + [Analysis Workspace-gebruikersvoorkeuren aanpassen](intro-to-analytics/customizing-the-ui/user-preferences.md)
+      + [Dimensie en metrische beschrijvingen toevoegen](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
+      + [Het menu in Reports and Analytics aanpassen](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
       + [Verbeterde beveiliging in Adobe Analytics](intro-to-analytics/customizing-the-ui/enhancing-security.md)
-      + [Analysis Workspace instellen als bestemmingspagina](intro-to-analytics/customizing-the-ui/set-analysis-workspace-as-your-landing-page.md)
       + [Een Analysis Workspace-project instellen als bestemmingspagina](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
-      + [Uitbreiding Donkere modus voor Analysis Workspace](intro-to-analytics/customizing-the-ui/dark-mode-extension-for-analysis-workspace.md)
    + Help opvragen {#getting-help}
       + [Tips voor Analysis Workspace-producten](intro-to-analytics/getting-help/in-product-tips.md)
       + [Toelevering voor Ticket voor ondersteuning van producten](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
@@ -63,15 +59,11 @@ ht-degree: 6%
       + [Analysis Workspace - Overzicht](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Navigeren door de nieuwe bestemmingspagina](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Updates van Analysis Workspace-bestemmingspagina](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
-      + [Nieuwe Analysis Workspace-projecten maken](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [Een werkruimteproject helemaal vanaf het begin maken](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Aangepaste sjablonen maken en beheren in Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
-      + [Standaardsjablonen in Analysis Workspace](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
-      + [Aangepaste sjablonen gebruiken om Analysis Workspace-gebruikers van Novice in te schakelen](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
       + [Begrijpen hoe gegevens in uw Analysis Workspace-project worden opgehaald](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
       + [Foundary Metrics in Adobe Analytics](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
       + [Componentbeheer in Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
-      + [Componentbeheer gebruiken](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
       + [Een rapportsuite selecteren in Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [Prestatiegegevens van Analysis Workspace weergeven](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + Tips en trucs {#tips-and-tricks}
