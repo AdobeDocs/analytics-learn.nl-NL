@@ -1,24 +1,22 @@
 ---
-title: Het menu aanpassen in Reports and Analytics
-description: In deze video wordt uitgelegd hoe u de menu's in Analytics voor uw bedrijf kunt aanpassen.
-feature: Basisbeginselen van analysemogelijkheden
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2365
+title: Het menu in Rapporten en Analytics aanpassen
+description: Leer hoe u het menu Rapporten en analyses aanpast voor gebruikers in uw organisatie.
+feature: Analytics Basics
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 333035.jpg
+kt: 2365
 exl-id: e07dd703-0e68-473c-a764-145019bf671f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 1b57a173b65903c83ccee4a0ea127568b51b4a93
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
-# Het menu aanpassen in [!DNL Reports & Analytics] {#customizing-the-menu-in-reports-analytics}
+# Het menu aanpassen in [!DNL Reports & Analytics] {#custome-the-menu-in-reports-analytics}
 
-In deze video wordt uitgelegd hoe u de menu&#39;s in [!DNL Analytics] voor uw bedrijf kunt aanpassen.
+Leer hoe u de [!DNL Reports & Analytics] voor gebruikers in uw organisatie. Zo kunnen gebruikers gemakkelijker rapporten vinden die ze het vaakst gebruiken.
 
->[!VIDEO](https://video.tv.adobe.com/v/25457/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/333035/?quality=12)
