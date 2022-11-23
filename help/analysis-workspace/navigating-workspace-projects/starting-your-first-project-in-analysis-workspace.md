@@ -1,29 +1,26 @@
 ---
-title: Uw eerste project starten in Analysis Workspace
-description: In deze video leert u hoe u een project maakt in Analysis Workspace met gebruik van de standaardsjablonen en aangepaste sjablonen en hoe u elementen kopieert tussen projecten.
+title: Projecten maken met behulp van sjablonen
+description: Leer hoe u Analysis Workspace-projecten maakt met behulp van sjablonen
 feature: Projects
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 4102
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 30368.jpg
+team: Technical Marketing
+kt: 4102
 exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
-source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
+source-git-commit: f3a000ac21b937f3d8f95997a588dc38af529c79
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 4%
+source-wordcount: '71'
+ht-degree: 7%
 
 ---
 
-# Uw eerste project starten in Analysis Workspace
+# Projecten maken met behulp van sjablonen
 
-In deze video leert u hoe u een project maakt in Analysis Workspace met gebruik van de standaardsjablonen en aangepaste sjablonen en hoe u elementen kopieert tussen projecten.
+Leer hoe u Analysis Workspace-projecten maakt met behulp van sjablonen. Dit is een tijdbesparende techniek in vergelijking met het handmatig bouwen van projecten en kan nieuwe gebruikers helpen snel aan de slag te gaan.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12)
-
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html).
 
 >[!INFO]
 >

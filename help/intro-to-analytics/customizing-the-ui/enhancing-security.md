@@ -1,24 +1,23 @@
 ---
-title: Verbeterde beveiliging in Adobe Analytics
-description: Adobe Analytics voldoet aan de nieuwste beveiligingsnormen. Als uw organisatie die veiligheid met dingen zoals sterke wachtwoorden en IP login beperkingen wil uitbreiden, zal deze video u tonen hoe.
-feature: Basisbeginselen van analysemogelijkheden
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2366
+title: Beveiliging verbeteren
+description: Leer over de montages van de Manager van de Veiligheid in de Montages van het Bedrijf om toegang tot Adobe Analytics te controleren.
+feature: Analytics Basics
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 25458.jpg
+team: Technical Marketing
+kt: 2366
 exl-id: b50f383f-2eb2-4671-a841-0b5b98a7e3db
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 846450b63ef18cb275a8a08ec3324223044fdaac
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---
 
-# Verbeterde beveiliging in Adobe Analytics {#enhancing-security-in-adobe-analytics}
+# Beveiliging verbeteren {#enhance-security}
 
-Adobe Analytics voldoet aan de nieuwste beveiligingsnormen. Als uw organisatie die veiligheid met dingen zoals sterke wachtwoorden en IP login beperkingen wil uitbreiden, toont deze video u hoe.
+Leer over de montages van de Manager van de Veiligheid in de Montages van het Bedrijf om toegang tot Adobe Analytics te controleren. Hieronder vallen sterke wachtwoorden, functies voor het verlopen en herstellen van wachtwoorden en beperkingen voor e-maildomeinen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25458/?quality=12)
