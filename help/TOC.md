@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Bekijk videozelfstudies voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: f0569db5990d9766f57fcedb6a84ce3f7c03487d
+source-git-commit: 9dfd262512ea4c36e5fad6c335b176b269c20652
 workflow-type: tm+mt
-source-wordcount: '2394'
+source-wordcount: '2377'
 ht-degree: 6%
 
 ---
@@ -72,18 +72,18 @@ ht-degree: 6%
       + [Klanttips voor het vervolgen van uw Adobe Analytics Learning-reis](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + Navigeren door werkruimteprojecten {#navigating-workspace-projects}
       + [Projecten maken met behulp van sjablonen](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
-      + [Trainingstutorialsjabloon in Analysis Workspace](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
-      + [Kopiëren en invoegen in Analysis Workspace](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
+      + [Sjabloon voor trainingszelfstudie](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
+      + [Deelvensters en visualisaties kopiëren en invoegen](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [Een inhoudsopgave maken](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [Klikken met rechtermuisknop voor efficiëntie van werkruimte](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [Sneltoetsen](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
-      + [Annotaties in Analysis Workspace](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
+      + [Annotaties](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [Menubalk](analysis-workspace/navigating-workspace-projects/menu-bar.md)
       + [Projectbeheer](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
-      + [Handelingen in Analysis Workspace ongedaan maken](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
-      + [Dichtheid weergeven in Analysis Workspace](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
-      + [Verbeteringen van de status nul](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
-      + [Filters (tags) gebruiken in het linkerspoor](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+      + [Handelingen ongedaan maken](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
+      + [Weergavedichtheid](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
+      + [Verbeteringen in de status Nul](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
+      + [Filters gebruiken](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
    + Deelvensters gebruiken {#using-panels}
       + [Tabellen, visualisaties en deelvensters gebruiken in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Deelvenster Quick Insights in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
