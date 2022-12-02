@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Bekijk videozelfstudies voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: efa60f017c4dcea7949e00a5a11ce2630ca66dad
+source-git-commit: f0569db5990d9766f57fcedb6a84ce3f7c03487d
 workflow-type: tm+mt
-source-wordcount: '2383'
+source-wordcount: '2394'
 ht-degree: 6%
 
 ---
@@ -92,7 +92,7 @@ ht-degree: 6%
       + [Deelvenster Tijd van afspelen van media](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
       + [Vervolgkeuzefilters gebruiken](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [Deelvensters gebruiken om uw Analysis Workspace-projecten te organiseren](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
-      + [Verbeteringen voor segmentneerzetzone](analysis-workspace/using-panels/segment-dropzone-improvements.md)
+      + [Segmenten kiezen voor een deelvenster](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
       + [Meerdere rapportsuites in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [Deelvensters en rapporten in de werkruimte Volgende/Vorige en Paginaoverzicht](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + Freeform-tabellen maken {#building-freeform-tables}
@@ -155,7 +155,7 @@ ht-degree: 6%
       + [Segmenten gebruiken in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
       + [Ad hoc (tijdelijk) segmenten](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
       + [Verschillende Attribution IQ-modellen gebruiken voor segmenten](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html)
-      + [Segmenten op deelvensterniveau](analysis-workspace/using-panels/panel-level-segments.md)
+      + [Segmenten kiezen voor een deelvenster](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
       + [Segmenten gebruiken als Dimension in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Segmenten gebruiken om gegevens in Analysis Workspace te beperken](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Snelle segmenten in Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
