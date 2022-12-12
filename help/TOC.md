@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Bekijk videozelfstudies voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: 9dfd262512ea4c36e5fad6c335b176b269c20652
+source-git-commit: c0c05641658d5ad5b1901ff1b95f44d17353ec25
 workflow-type: tm+mt
-source-wordcount: '2377'
+source-wordcount: '2372'
 ht-degree: 6%
 
 ---
@@ -152,8 +152,7 @@ ht-degree: 6%
       + [Reis-IQ - Apparaatanalyse](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
    + Segmenten toepassen {#applying-segments}
       + [Segmenten toepassen op uw Analysis Workspace-project](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
-      + [Segmenten gebruiken in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
-      + [Ad hoc (tijdelijk) segmenten](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
+      + [Ad-hocsegmenten toepassen](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
       + [Verschillende Attribution IQ-modellen gebruiken voor segmenten](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html)
       + [Segmenten kiezen voor een deelvenster](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
       + [Segmenten gebruiken als Dimension in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
