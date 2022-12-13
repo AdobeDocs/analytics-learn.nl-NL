@@ -1,26 +1,24 @@
 ---
-title: Filters (tags) gebruiken in het linkerspoor
-description: Filters (of -tags) zijn een snelle en eenvoudige manier om de linkerrail in Analysis Workspace te filteren en de gewenste onderdelen te zoeken. Gebruik tags die buiten de box vallen en door Adobe worden aangeboden, of voeg uw eigen aangepaste tags toe om gerelateerde componenten te ordenen.
+title: Filters (tags) gebruiken
+description: Leer hoe u filters (tags) kunt gebruiken in Analysis Workspace
 feature: Workspace Basics
-thumbnail: 32959.jpg
-kt: 4845
 role: User
 level: Beginner
+kt: 4845
+thumbnail: 32959.jpg
 exl-id: ae892414-fcd0-4900-8302-542d4f9bfca8
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+source-git-commit: 618deaa6e64f66b48d8acebe1610a19603504923
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-# Filters (tags) gebruiken in het linkerspoor
+# Filters (tags) gebruiken
 
-Filters (of -tags) zijn een snelle en eenvoudige manier om de linkerrail in Analysis Workspace te filteren en de [!UICONTROL components] dat is nodig. Gebruik tags buiten de box van Adobe of voeg uw eigen aangepaste tags toe om gerelateerde tags te ordenen [!UICONTROL components].
+Leer hoe u in Analysis Workspace filters, tags genoemd, kunt gebruiken. Dit zijn tijdbesparende technieken om u te helpen uw project efficiënt bouwen.
 
->[!VIDEO](https://video.tv.adobe.com/v/32959/?quality=12)
-
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html)
+>[!VIDEO](https://video.tv.adobe.com/v/32959/?quality=12&learn=on)
 
 >[!INFO]
 >

@@ -1,26 +1,21 @@
 ---
-title: Sneltoetsen in Analysis Workspace
-description: 'In deze video worden de sneltoetsopties in Analysis Workspace besproken, zodat u kunt zien hoe u sneller en efficiënter kunt werken. '
+title: Sneltoetsen gebruiken
+description: Meer informatie over het gebruik van sneltoetsen in Analysis Workspace
 feature: Workspace Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2031
 role: User
 level: Beginner
+kt: 2031
+thumbnail: 23984.jpg
 exl-id: f344469b-b925-4978-918f-5204f6f10094
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 618deaa6e64f66b48d8acebe1610a19603504923
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '37'
 ht-degree: 0%
 
 ---
 
-# Sneltoetsen in Analysis Workspace {#keyboard-shortcuts-in-analysis-workspace}
+# Sneltoetsen gebruiken {#use-keyboard-shortcuts}
 
-In deze video worden de sneltoetsopties in Analysis Workspace besproken, zodat u kunt zien hoe u sneller en efficiënter kunt werken.
+Leer hoe u sneltoetsen kunt gebruiken in Analysis Workspace. Dit zijn tijdbesparende technieken om u te helpen diverse taken in een project uitvoeren.
 
->[!VIDEO](https://video.tv.adobe.com/v/23984/?quality=12)
-
-Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/fa-shortcut-keys.html?lang=en) voor meer informatie over deze functie.
+>[!VIDEO](https://video.tv.adobe.com/v/23984/?quality=12&learn=on)

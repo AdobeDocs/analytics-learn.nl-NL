@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Bekijk videozelfstudies voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: c0c05641658d5ad5b1901ff1b95f44d17353ec25
+source-git-commit: 143e78ce630df75af574e5547c7941c31a2e75b5
 workflow-type: tm+mt
-source-wordcount: '2372'
+source-wordcount: '2363'
 ht-degree: 6%
 
 ---
@@ -78,11 +78,7 @@ ht-degree: 6%
       + [Klikken met rechtermuisknop voor efficiëntie van werkruimte](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [Sneltoetsen](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
       + [Annotaties](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
-      + [Menubalk](analysis-workspace/navigating-workspace-projects/menu-bar.md)
-      + [Projectbeheer](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
-      + [Handelingen ongedaan maken](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
       + [Weergavedichtheid](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
-      + [Verbeteringen in de status Nul](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
       + [Filters gebruiken](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
    + Deelvensters gebruiken {#using-panels}
       + [Tabellen, visualisaties en deelvensters gebruiken in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
