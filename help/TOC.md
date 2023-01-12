@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Bekijk videozelfstudies voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: 143e78ce630df75af574e5547c7941c31a2e75b5
+source-git-commit: e2933c4aa1a56609719f38f131888c95dfe2f741
 workflow-type: tm+mt
 source-wordcount: '2363'
 ht-degree: 6%
@@ -58,7 +58,6 @@ ht-degree: 6%
       + [Analysis Workspace - korte inleiding](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Overzicht van Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Navigeren door de nieuwe bestemmingspagina](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
-      + [Analysis Workspace-bestemmingspagina-updates](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [Een werkruimteproject helemaal vanaf het begin maken](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Aangepaste sjablonen maken en beheren in Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Begrijpen hoe gegevens in uw Analysis Workspace-project terechtkomen](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
@@ -73,6 +72,7 @@ ht-degree: 6%
    + Navigeren door werkruimteprojecten {#navigating-workspace-projects}
       + [Projecten maken met behulp van sjablonen](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Sjabloon voor trainingszelfstudie](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
+      + [Mappen in Analysis Workspace gebruiken](analysis-workspace/navigating-workspace-projects/use-folders-in-analysis-workspace.md)
       + [Deelvensters en visualisaties kopiëren en invoegen](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [Een inhoudsopgave maken](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [Klikken met rechtermuisknop voor efficiëntie van werkruimte](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
