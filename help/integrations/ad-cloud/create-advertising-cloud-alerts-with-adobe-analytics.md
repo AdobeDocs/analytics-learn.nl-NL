@@ -1,21 +1,21 @@
 ---
 title: Advertising Cloud-waarschuwingen maken met Adobe Analytics
-description: Hoe je de kracht van Adobe Analytics Alerts kunt aanwenden om je via Advertising Cloud betaalde mediacampagnes te volgen.
-feature: Advertising Cloud-integratie
+description: Hoe kan ik gebruikmaken van de kracht van Adobe Analytics Alerts om uw mediacampagnes voor advertenties te volgen.
+feature: Advertising Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35118.jpg
 kt: 5475
-topic: Integraties
+topic: Integrations
 role: User
 level: Intermediate
 exl-id: c021f6b9-f242-4576-8f3a-cb2ef31f32fc
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 1%
+source-wordcount: '49'
+ht-degree: 0%
 
 ---
 
