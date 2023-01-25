@@ -1,22 +1,22 @@
 ---
-title: De Freeform Table Builder in Analysis Workspace gebruiken
-description: De Bouwer van de Lijst van de Vrije Vorm staat u toe om in vele dimensies, onderverdelingen, metriek en segmenten te slepen en lijsten te bouwen die complexere bedrijfsvragen beantwoorden. Gegevens worden niet ter plekke bijgewerkt; in plaats daarvan wordt de tabel bijgewerkt wanneer u op "Samenstellen" klikt, zodat u tijd bespaart omdat de tabel slechts eenmaal wordt bijgewerkt.
+title: De freeform-tabelbuilder in Analysis Workspace gebruiken
+description: De de lijstbouwer van de Freeform staat u toe om in vele dimensies, onderbrekingen, metriek en segmenten te slepen en te laten vallen om lijsten te bouwen die complexere bedrijfsvragen beantwoorden. Gegevens worden niet ter plekke bijgewerkt; in plaats daarvan wordt de tabel bijgewerkt wanneer u op "Samenstellen" klikt, zodat u tijd bespaart omdat de tabel slechts eenmaal wordt bijgewerkt.
 feature: Freeform Tables
 thumbnail: 31318.jpg
 kt: 4217
 role: User
 level: Beginner
 exl-id: 4cf94512-e4e4-418f-b759-db5feff272e6
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
-# Met de [!DNL Freeform Table Builder] in Analysis Workspace
+# De freeform-tabelbuilder in Analysis Workspace gebruiken
 
-[!DNL Freeform Table Builder] staat u toe om in vele dimensies, onderverdelingen, metriek en segmenten te slepen en te laten vallen om lijsten te bouwen die complexere bedrijfsvragen beantwoorden. Gegevens worden niet ter plekke bijgewerkt; in plaats daarvan wordt de tabel bijgewerkt wanneer u op &quot;Samenstellen&quot; klikt, zodat u tijd bespaart omdat de tabel slechts eenmaal wordt bijgewerkt.
+[!DNL Freeform table builder] staat u toe om in vele dimensies, onderverdelingen, metriek en segmenten te slepen en te laten vallen om lijsten te bouwen die complexere bedrijfsvragen beantwoorden. Gegevens worden niet ter plekke bijgewerkt; in plaats daarvan wordt de tabel bijgewerkt wanneer u op &quot;Samenstellen&quot; klikt, zodat u tijd bespaart omdat de tabel slechts eenmaal wordt bijgewerkt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31318/?quality=12)
 

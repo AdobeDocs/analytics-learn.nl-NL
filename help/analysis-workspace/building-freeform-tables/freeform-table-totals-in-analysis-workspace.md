@@ -1,24 +1,24 @@
 ---
-title: Totalen vrije-vormtabellen in Analysis Workspace
-description: In deze video ziet u enkele updates van de totalen van de tabel voor vrije vorm, waaronder de mogelijkheid om totalen te verwijderen.
+title: Totaal vrije-vormtabellen in Analysis Workspace
+description: Leer wat de totalen in vrije vormlijsten beïnvloedt, evenals om hen toe te laten en onbruikbaar te maken.
 feature: Freeform Tables
 thumbnail: 29273.jpg
 kt: 3857
 role: User
 level: Beginner
 exl-id: 22c1f256-041a-49e1-b8e8-47cfd4fb801d
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+source-git-commit: 0f81e30dbee6bc52b3fcbf7f6c91a6c85cc33755
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
-# Totalen vrije-vormtabellen in Analysis Workspace
+# Totaal vrije-vormtabellen in Analysis Workspace
 
-In deze video ziet u enkele updates van [!UICONTROL Freeform Table] totalen, inclusief de mogelijkheid totalen te verwijderen. U ziet ook hoe u de rijen &quot;unspecified&quot; of &quot;none&quot; kunt verwijderen.
+Leer wat de totalen in vrije vormlijsten beïnvloedt, evenals om hen toe te laten en onbruikbaar te maken.
 
->[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12&learn=on)
 
 >[!INFO]
 >

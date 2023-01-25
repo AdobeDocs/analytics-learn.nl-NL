@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Bekijk videozelfstudies voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: d9e56f9659192cced888a18f76a9214824bfa370
+source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
 workflow-type: tm+mt
-source-wordcount: '2363'
+source-wordcount: '2347'
 ht-degree: 6%
 
 ---
@@ -92,20 +92,20 @@ ht-degree: 6%
       + [Meerdere rapportsuites in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [Deelvensters en rapporten in de werkruimte Volgende/Vorige en Paginaoverzicht](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + Freeform-tabellen maken {#building-freeform-tables}
-      + [Begrijp uw gegevens-Vrije Lijsten van de Vorm](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
-      + [Het gebruiken van het Linkerspoor om Vrije Lijsten van de Vorm in Analysis Workspace te bouwen](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
+      + [Gegevens begrijpen—vrije tabellen](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
+      + [De linkerspoorstaaf gebruiken om vrije-vormlijsten te bouwen](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [Eenvoudig slepen en neerzetten op lege projecten](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
-      + [Werken met Dimension in een tabel voor vrije vorm](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
-      + [Werken met metriek in een tabel voor vrije vorm](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [Werken met afmetingen in een vrije-vormtabel](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
+      + [Werken met metriek in een vrije-vormtabel](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [Rij- en kolominstellingen in vrije-vormtabellen](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
-      + [De Builder voor tabel met vrije vorm gebruiken](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
-      + [Klikken met rechtermuisknop voor efficiëntie van werkruimte](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
-      + [Statische rijen opnieuw ordenen in Analysis Workspace](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
-      + [Attribution IQ gebruiken in tabellen voor vrije vorm](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html)
-      + [Crossverkoopanalyse in Analysis Workspace](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
-      + [Filters voor vrije-vormtabellen](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
-      + [Dimension voor tijdpartering in Analysis Workspace](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
-      + [Totalen vrije-vormtabellen in Analysis Workspace](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
+      + [De samensteller van de vrije-vormtabel gebruiken](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
+      + [Klik met de rechtermuisknop voor efficiëntie van de werkruimte](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
+      + [Statische rijen opnieuw ordenen](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
+      + [Attribution IQ gebruiken in vrije-vormtabellen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html)
+      + [Cross-sell-analyse](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
+      + [Freeform-tabelfilters](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
+      + [Tijduitsplitsende dimensies](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
+      + [Tabeltotalen voor vrije vorm](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
    + Visualisaties {#visualizations}
       + [Gegevensvisualisatie in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [Visualisatietypen](analysis-workspace/visualizations/visualization-types.md)
