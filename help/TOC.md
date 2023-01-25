@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics-tutorials
 user-guide-description: Bekijk videozelfstudies voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytische Tutorials
 solution: Analytics
-source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
+source-git-commit: 6581a3a6bdcc471f786adca7f4a5334fa90a2a57
 workflow-type: tm+mt
 source-wordcount: '2347'
 ht-degree: 6%
@@ -98,6 +98,7 @@ ht-degree: 6%
       + [Werken met afmetingen in een vrije-vormtabel](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [Werken met metriek in een vrije-vormtabel](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [Rij- en kolominstellingen in vrije-vormtabellen](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+      + [Tabeltotalen voor vrije vorm](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
       + [De samensteller van de vrije-vormtabel gebruiken](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [Klik met de rechtermuisknop voor efficiëntie van de werkruimte](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
       + [Statische rijen opnieuw ordenen](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
@@ -105,7 +106,6 @@ ht-degree: 6%
       + [Cross-sell-analyse](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
       + [Freeform-tabelfilters](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [Tijduitsplitsende dimensies](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
-      + [Tabeltotalen voor vrije vorm](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
    + Visualisaties {#visualizations}
       + [Gegevensvisualisatie in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [Visualisatietypen](analysis-workspace/visualizations/visualization-types.md)
