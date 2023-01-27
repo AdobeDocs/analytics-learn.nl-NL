@@ -1,26 +1,23 @@
 ---
-title: Aangepaste analytische gegevens maken met advertentiegegevens
-description: Nuttige aangepaste maateenheden die u kunt maken bij het gebruik van advertentiegegevens in Adobe Analytics.
+title: Aangepaste metingen voor Analyse maken met Advertising Cloud-gegevens
+description: Leer meer over handige maateenheden die u kunt maken bij gebruik van Advertising Cloud-gegevens in Adobe Analytics.
 feature: Advertising Integration
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 35119.jpg
-kt: 5476
 topic: Integrations
 role: User
 level: Intermediate
+thumbnail: 35119.jpg
+kt: 5476
 exl-id: 9c50787d-ee08-437a-81ab-4e0da7861269
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+source-git-commit: eabf80121425753fb3f6ab00d188a29669f94908
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Aangepaste analytische gegevens maken met advertentiegegevens
 
-Nuttige aangepaste maateenheden die u kunt maken bij het gebruik van advertentiegegevens in Adobe Analytics.
+# Aangepaste metingen voor Analyse maken met Advertising Cloud-gegevens
+
+Leer meer over handige maateenheden die u kunt maken bij gebruik van Advertising Cloud-gegevens in Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35119/?quality=12&learn=on)

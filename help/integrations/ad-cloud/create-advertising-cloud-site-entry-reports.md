@@ -1,26 +1,22 @@
 ---
-title: Advertentierapporten voor site-invoer maken
-description: Een invoerrapport voor een advertentiesite maken om de dag van de week, het tijdstip van de dag, de browser en de geografische invloed te controleren.
+title: Rapporten Advertising Cloud-site-item maken
+description: Maak een Advertising Cloud-sitemelding om de dag van de week, het tijdstip van de dag, de browser en de geografische invloed te controleren.
 feature: Advertising Integration
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 35120.jpg
-kt: 5477
 topic: Integrations
 role: User
 level: Intermediate
+thumbnail: 35120.jpg
+kt: 5477
 exl-id: 3762dde6-b090-42e3-b6c5-002a022d13ee
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+source-git-commit: ecfce7b894986903f28ecaaa3252c903420f5aa8
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Advertentierapporten voor site-invoer maken
+# Rapporten Advertising Cloud-site-item maken
 
-Een invoerrapport voor een advertentiesite maken om de dag van de week, het tijdstip van de dag, de browser en de geografische invloed te controleren.
+Maak een Advertising Cloud-sitemelding om de dag van de week, het tijdstip van de dag, de browser en de geografische invloed te controleren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35120/?quality=12&learn=on)

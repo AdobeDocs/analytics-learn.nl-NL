@@ -1,26 +1,22 @@
 ---
-title: Analytics-segmenten maken voor activering en rapportage
-description: Met de afmetingen voor advertenties kunt u segmenten maken voor een schonere rapportage en analyse.
+title: Analysesegmenten maken voor activering en rapportage
+description: De afmetingen van Advertising Cloud van het gebruik om segmenten voor rapporten en analyse tot stand te brengen.
 feature: Advertising Integration
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 35117.jpg
-kt: 5474
 topic: Integrations
 role: User
 level: Intermediate
+thumbnail: 35117.jpg
+kt: 5474
 exl-id: 0df46be9-bae9-4792-912a-7c95a7fce4ee
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+source-git-commit: eabf80121425753fb3f6ab00d188a29669f94908
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 38%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Analytics-segmenten maken voor activering en rapportage
+# Analysesegmenten maken voor activering en rapportage
 
-Met de afmetingen voor advertenties kunt u segmenten maken voor een schonere rapportage en analyse.
+De afmetingen van Advertising Cloud van het gebruik om segmenten voor rapporten en analyse tot stand te brengen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35117/?quality=12&learn=on)
