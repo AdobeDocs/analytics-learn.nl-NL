@@ -1,22 +1,22 @@
 ---
-title: Crossverkoopanalyse in Analysis Workspace
-description: Het rapport Cross-Sell in Rapporten & Analytics geeft de relatie tussen producten in dezelfde producttekenreeks weer, zodat u kunt analyseren welke producten samen worden aangeschaft. In deze video laten we u zien hoe u het rapport Cross-Sell in Analysis Workspace kunt maken en het nog verder kunt uitbreiden naar elke multigetaxeerde dimensie of classificatie.
+title: Cross-sell-analyse in Analysis Workspace
+description: In deze video leert u hoe u een cross-sell-rapport kunt maken in Analysis Workspace en dit nog verder kunt uitbreiden naar elke multigetaxeerde dimensie of classificatie.
 feature: Freeform Tables
 thumbnail: 25864.jpg
 kt: 2367
 role: User
 level: Beginner
 exl-id: b9c01772-8c48-4baf-a85d-faabf5bdb846
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+source-git-commit: a3aef96c996343d0d90de8e1462f6dcbf362c403
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Cross Sell] Analyse in Analysis Workspace {#cross-sell-analysis-in-analysis-workspace}
+# Cross-sell-analyse in Analysis Workspace {#cross-sell-analysis-in-analysis-workspace}
 
-De [!UICONTROL Cross Sell] rapporteren in [!DNL Reports & Analytics] geeft de relatie tussen producten in dezelfde productreeks weer, zodat u kunt analyseren welke producten samen worden aangeschaft. In deze video tonen we u hoe u de [!UICONTROL Cross Sell] rapporteren in Analysis Workspace, en deze nog verder uitbreiden tot elke meerwaardeerde dimensie of classificatie.
+In deze video leert u hoe u een cross-sell-rapport kunt maken in Analysis Workspace en dit nog verder kunt uitbreiden naar elke multigetaxeerde dimensie of classificatie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12)
 

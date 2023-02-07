@@ -1,17 +1,17 @@
 ---
-user-guide-title: Adobe Analytics-tutorials
-user-guide-description: Bekijk videozelfstudies voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
-breadcrumb-title: Analytische Tutorials
+user-guide-title: Tutorials voor Adobe Analytics
+user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
+breadcrumb-title: Analytics-tutorials
 solution: Analytics
-source-git-commit: 6581a3a6bdcc471f786adca7f4a5334fa90a2a57
+source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
 workflow-type: tm+mt
-source-wordcount: '2347'
-ht-degree: 6%
+source-wordcount: '2344'
+ht-degree: 7%
 
 ---
 
 
-# Analytische Tutorials {#tutorials}
+# Analytics-tutorials {#tutorials}
 
 + [Zelfstudies voor analyse](overview.md)
 + Inleiding tot Analytics {#intro-to-analytics}
@@ -115,31 +115,30 @@ ht-degree: 6%
       + [Onderdeeldropdowns in Workspace gebruiken](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Gebied en gebied gestapelde visualisaties](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [Gestapelde visualisaties voor balken en balken](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
-      + [Opsomminggrafiek visualisatie](analysis-workspace/visualizations/bullet-graph-visualization.md)
-      + [Donut Visualization](analysis-workspace/visualizations/using-the-donut-visualization.md)
+      + [Opsommingsgrafiek](analysis-workspace/visualizations/bullet-graph-visualization.md)
+      + [Donut visualisatie](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Histogramvisualisatie](analysis-workspace/visualizations/histogram-visualization.md)
       + [Lijnvisualisatie](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
-      + [Combinatieteksten](analysis-workspace/visualizations/combo-charts.md)
-      + [Trend Lines toevoegen aan Line Visualizations](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
+      + [Combografieken](analysis-workspace/visualizations/combo-charts.md)
+      + [Tendellijnen toevoegen aan lijnvisualisaties](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Kaartvisualisatie](analysis-workspace/visualizations/map-visualization.md)
-      + [Samenvattingsnummer en visualisaties van samenvattingswijzigingen](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
-      + [Belangrijke metrische samenvatting Visualisatie](analysis-workspace/visualizations/key-metric-summary.md)
-      + [Visualisatie van tekst](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
-      + [Visualisatie van verstrooiingspunten](analysis-workspace/visualizations/scatterplot-visualization.md)
-      + [Treemap Visualization](analysis-workspace/visualizations/treemap-visualization.md)
-      + [Venn Diagram Visualisatie](analysis-workspace/visualizations/venn-diagram-visualization.md)
-      + [De functie Cumulatief gemiddelde gebruiken om metrisch vloeiend maken toe te passen](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
+      + [Visualisaties van overzichtsaantal en overzichtsverandering](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
+      + [Belangrijkste metrische overzichtsvisualisatie](analysis-workspace/visualizations/key-metric-summary.md)
+      + [Tekstvisualisatie](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
+      + [Spreiding visualisatie](analysis-workspace/visualizations/scatterplot-visualization.md)
+      + [Treemap visualisatie](analysis-workspace/visualizations/treemap-visualization.md)
+      + [Visualisatie vendiagram](analysis-workspace/visualizations/venn-diagram-visualization.md)
+      + [De cumulatieve gemiddelde functie gebruiken om het vloeiend maken van metrische elementen toe te passen](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [Flexibele indelingen](analysis-workspace/visualizations/flexible-layouts.md)
       + [De schaal/as wijzigen bij visualisatie](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
-      + [Actieve koppeling met Dimension-grafiek](analysis-workspace/visualizations/dimension-graph-live-linking.md)
+      + [Live Dimension-link met grafiek](analysis-workspace/visualizations/dimension-graph-live-linking.md)
       + [Korreligheid in-/uitschakelen](analysis-workspace/visualizations/granularity-toggle.md)
       + [Intra-linking in Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
-      + [Positief-negatief kaartthema](analysis-workspace/visualizations/positive-negative-map-theme.md)
-      + [Visualisaties opnieuw rangschikken en vergroten/verkleinen](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
+      + [Visualisaties opnieuw rangschikken en het formaat ervan wijzigen](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [De legenda voor visualisatie aanpassen](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [100% gestapelde visualisaties](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
-      + [Gegevensbroninstellingen voor tabel en visualisatie](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
-      + [Een Time-Parting Heatmap maken](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
+      + [Instellingen voor tabel- en visualisatiegegevens](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
+      + [Een geparseerde heatmap maken](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + Klantenreizen analyseren {#analyzing-customer-journeys}
       + [Een fallout-visualisatie maken](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Stroomvisualisatie maken](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
