@@ -10,7 +10,7 @@ kt: 3586
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 07fe5327-c8b8-48cb-a357-a0426ab8494c
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 6%
@@ -21,7 +21,7 @@ ht-degree: 6%
 
 In deze video ziet u een snelle manier om de [!DNL Analytics] extensie in [!DNL Experience Platform Launch] voor een basissite.
 
->[!VIDEO](https://video.tv.adobe.com/v/28751/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28751/?quality=12&learn=on)
 
 >[!INFO]
 >

@@ -7,7 +7,7 @@ level: Beginner
 kt: 3580
 thumbnail: 28758.jpg
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
-source-git-commit: bd4ac9bba3d240f571991d32dbe3b225a4452c1a
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 2%
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 Leer hoe belangrijk het is om gedragsgegevens te definiëren die u wilt vastleggen en analyseren in Adobe Analytics. Wat moet uw bedrijf begrijpen over hoe bezoekers uw digitale eigenschappen gebruiken? Schrijf eerst deze vereisten neer, en besluit dan hoe te om hen te vangen gebruikend de gebeurtenissen van de Analyse, dimensies, en metriek.
 
->[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12&learn=on)
 
 [Downloaden](assets/aa-implementation-playbook.xlsx) een sjabloon van voorbeeldExcel aan documentvereisten en het ontwerp van de gegevensinzameling voor uw digitale eigenschappen.
 

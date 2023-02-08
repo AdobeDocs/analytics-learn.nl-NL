@@ -10,7 +10,7 @@ kt: 1942
 role: Developer, Data Engineer
 level: Beginner
 exl-id: c13a5973-3c7a-4980-95c5-447b50b962c7
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 3%
@@ -21,7 +21,7 @@ ht-degree: 3%
 
 De [!DNL Experience Cloud debugger] is een hulpmiddel dat gebruikers toestaat om de Markeringen van Experience Cloud te inspecteren en te zuiveren. In deze video wordt uitgelegd hoe u de [!DNL Experience Cloud Debugger] te inspecteren [!DNL Analytics] implementaties.
 
->[!VIDEO](https://video.tv.adobe.com/v/23878/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23878/?quality=12&learn=on)
 
 U leert zien wat er op verschillende pagina&#39;s gebeurt, hoe u vriendelijke namen van variabelen laadt en hoe u resultaten exporteert voor gevallen van geavanceerd gebruik.
 
