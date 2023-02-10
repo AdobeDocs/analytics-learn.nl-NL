@@ -1,26 +1,26 @@
 ---
 title: 100% gestapelde visualisaties in Analysis Workspace
-description: In deze video leert u hoe u gestapelde visualisaties instelt als percentages in plaats van alleen onbewerkte waarden.
+description: Leer hoe u gestapelde visualisaties instelt als percentages in plaats van alleen onbewerkte waarden.
 feature: Visualizations
 thumbnail: 23131.jpg
 kt: 1670
 role: User
 level: Beginner
 exl-id: 7b775e43-2495-4851-8e16-ab6d93c75dd1
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+source-git-commit: fc1de005c13705a41a229403bfc0444f1538ec51
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-# 100% gestapeld [!UICONTROL Visualizations] In Analysis Workspace {#stacked-visualizations-in-analysis-workspace}
+# 100% gestapelde visualisaties in Analysis Workspace
 
-In deze video leert u hoe u gestapelde visualisaties instelt als percentages in plaats van alleen onbewerkte waarden.
+Leer hoe u gestapelde visualisaties instelt als percentages in plaats van alleen onbewerkte waarden.
 
->[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
 
-Gestapelde grafieken zijn handig om delen van een geheel in een trend weer te geven. De nieuwe 100% gestapelde viz-instelling helpt u snel te zien hoe elk onderdeel een bijdrage levert aan het geheel, in termen van een %-waarde in plaats van een onbewerkte waarde. Deze nieuwe instelling is beschikbaar op het tabblad [!UICONTROL Visualization] Instellingenversnelling in rechterbovenhoek van [!UICONTROL Area Stacked], [!UICONTROL Bar Stacked] en [!UICONTROL Horizontal Bar Stacked] vizs.
+Gestapelde grafieken zijn handig om delen van een geheel in een trend weer te geven. De 100% instelling voor gestapelde visualisatie helpt u snel te zien hoe elk onderdeel bijdraagt aan het geheel, in termen van een waarde in % in plaats van een onbewerkte waarde. Deze instelling is beschikbaar via het tandwieltje voor visualisatie-instellingen rechtsboven in het gebied dat is gestapeld, gestapeld met een staaf en horizontale staafgestapelde visualisaties.
 
 >[!INFO]
 >
