@@ -6,14 +6,14 @@ kt: 3565
 role: User
 level: Beginner
 exl-id: 9d823311-8679-4d5b-873d-1ae0a49bbd7a
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 53db4c11ce54076099f1d38e2005103a2fe82d72
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '66'
 ht-degree: 6%
 
 ---
 
-# Hoe [!DNL analytics] gegevens worden gedollecteerd
+# Hoe analysegegevens worden verzameld
 
 Hoe komen gegevens van je pagina naar de rapporten in Adobe Analytics? In deze video ziet u hoe.
 
