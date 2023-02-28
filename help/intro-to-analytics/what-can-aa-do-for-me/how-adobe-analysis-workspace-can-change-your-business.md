@@ -1,6 +1,6 @@
 ---
 title: Je bedrijf veranderen met Adobe Analysis Workspace
-description: Leer meer over de typen analyses die beschikbaar zijn in Analysis Workspace, zoals Ad Hoc, Cohort en Fallout. Gebruik de functies voor slepen en neerzetten om gegevens snel en gemakkelijk te analyseren.
+description: Leer meer over de soorten analyses die beschikbaar zijn in Analysis Workspace, zoals Ad Hoc, Cohort en Fallout. Gebruik de functies voor slepen en neerzetten om gegevens eenvoudig en snel te analyseren.
 feature: Workspace Basics
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -10,13 +10,13 @@ exl-id: 6e23fcf4-b4e2-4370-8904-801a13acf651
 source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 50%
 
 ---
 
 # Je bedrijf veranderen met Adobe Analysis Workspace
 
-Meer informatie over de typen analyses die beschikbaar zijn in [!DNL Analysis Workspace], zoals [!DNL Ad Hoc],[!DNL Cohort], en [!DNL Fallout]. Gebruik de functies voor slepen en neerzetten om gegevens snel en gemakkelijk te analyseren.
+Meer informatie over de typen analyses die beschikbaar zijn in [!DNL Analysis Workspace], zoals [!DNL Ad Hoc],[!DNL Cohort], en [!DNL Fallout]. Gebruik de functies voor slepen en neerzetten om gegevens eenvoudig en snel te analyseren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31501/?quality=12)
 
