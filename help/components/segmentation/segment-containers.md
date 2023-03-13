@@ -7,9 +7,9 @@ thumbnail: 25401.jpg
 role: User
 level: Beginner
 exl-id: 742e263e-2ac0-4d6e-b321-90691189d914
-source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -21,3 +21,7 @@ Wanneer het bouwen van segmenten, controleren de aanraking, het bezoek, en bezoe
 >[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12)
 
 Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=en).
+
+>[!INFO]
+>
+> Deze video maakt deel uit van een cursus [Gegevens filteren met aangepaste segmentatie en datums](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), gratis beschikbaar op Experience League!

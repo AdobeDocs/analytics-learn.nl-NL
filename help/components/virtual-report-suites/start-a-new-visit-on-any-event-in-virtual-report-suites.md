@@ -12,14 +12,14 @@ level: Intermediate
 exl-id: ca1d8ca8-a854-4d02-8017-4e3e3587ab9e
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
-# Nieuw bezoek bij elke gebeurtenis starten in [!UICONTROL Virtual Report Suites] {#start-a-new-visit-on-any-event-in-virtual-report-suites}
+# Een nieuw bezoek starten bij een willekeurige gebeurtenis in [!UICONTROL Virtual Report Suites] {#start-a-new-visit-on-any-event-in-virtual-report-suites}
 
-In deze video wordt getoond hoe u gebeurtenissen kunt gebruiken om het begin van een nieuw bezoek in Adobe Analytics te starten met behulp van de instellingen voor het bezoek van [!UICONTROL Virtual Report Suite].
+In deze video wordt getoond hoe u gebeurtenissen kunt gebruiken om het begin van een nieuw bezoek in Adobe Analytics te starten met een [!UICONTROL Virtual Report Suite]Bezoek-instellingen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12)
 

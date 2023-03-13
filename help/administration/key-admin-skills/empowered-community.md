@@ -1,6 +1,6 @@
 ---
-title: 'Hoe te om een machtige gemeenschap tot stand te brengen '
-description: 'Meer informatie over het maken van een machtigingsgemeenschap. Een gemachtigde gemeenschap wordt gesteund door zijn beheerders van Adobe Analytics, is goed geïnformeerd over hoe de bedrijfsvereisten binnen hun implementatie worden vertegenwoordigd, en heeft de middelen om analyse voor gegeven-gedreven besluitvorming op betrouwbare wijze te gebruiken. '
+title: Hoe te om een machtige gemeenschap tot stand te brengen
+description: Meer informatie over het maken van een machtigingsgemeenschap. Een gemachtigde gemeenschap wordt gesteund door zijn beheerders van Adobe Analytics, is goed geïnformeerd over hoe de bedrijfsvereisten binnen hun implementatie worden vertegenwoordigd, en heeft de middelen om analyse voor gegeven-gedreven besluitvorming op betrouwbare wijze te gebruiken.
 feature: Admin Tools
 topic: Administration
 type: Documentation
@@ -9,7 +9,8 @@ role: Admin
 level: Experienced
 thumbnail: 340457.jpg
 kt: 9780
-source-git-commit: c08c284f9e69cb2e16266e54c42ea15307e946b5
+exl-id: a5e69595-a9e6-48f4-9e85-6c15640dfaab
+source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
 workflow-type: tm+mt
 source-wordcount: '1556'
 ht-degree: 0%

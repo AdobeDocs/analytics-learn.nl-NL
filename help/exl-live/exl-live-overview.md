@@ -6,13 +6,13 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 hide: true
 hidefromtoc: true
-source-git-commit: dcfa04814012434a3f017cd0f06c8707b4d4cf2c
+exl-id: 3c8c6737-3c42-4c87-8850-996798ccfda6
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
-
 
 # Experience League LIVE
 
@@ -30,7 +30,7 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
   <td>
       <img alt="Inhoudsservices" src="./assets/journeys.png" />
      <div>
-          <strong>Klantenreizen</strong>
+          <strong>Klantreizen</strong>
      </div>
      <div>
           <em>September 2021</em>
@@ -42,7 +42,7 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
   <td>
       <img alt="Inhoudsservices" src="./assets/content.png" />
      <div>
-          <strong>Inhoud en handel</strong>
+          <strong>Content en commerce</strong>
      <div>
           <em>Oktober 2021</em>
      </div>
@@ -79,7 +79,7 @@ Heb je een aflevering van Experience League LIVE gemist? We vergeven je. Bekijk 
       <img height="225" width="400" alt="Experience League LIVE" src="assets/exl-live-after2.jpg" />
     </a>
      <div>
-          <strong>Gasten</strong> :  <i>Eric Matisoff en Dasha Fitzpatrick</i>
+          <strong>Gasten</strong> : <i>Eric Matisoff en Dasha Fitzpatrick</i>
      </div>
      <div>
           <em>29 juli 2021</em>
@@ -93,4 +93,4 @@ Heb je een aflevering van Experience League LIVE gemist? We vergeven je. Bekijk 
 
 >[!TIP]
 >
->Voor extra leermethoden bekijkt u onze gratis [cursussen](https://experienceleague.adobe.com/#dashboard/learning) en individuele [zelfstudies](https://experienceleague.adobe.com/docs/home-tutorials.html).
+>Ontdek gratis onze gratis leermethoden [cursussen](https://experienceleague.adobe.com/#dashboard/learning) en individuele [zelfstudies](https://experienceleague.adobe.com/docs/home-tutorials.html).

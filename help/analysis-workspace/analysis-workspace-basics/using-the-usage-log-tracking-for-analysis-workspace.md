@@ -19,9 +19,9 @@ ht-degree: 1%
 ---
 
 
-# De [!UICONTROL Usage Log Tracking] voor Analysis Workspace gebruiken {#using-the-usage-log-tracking-for-analysis-workspace}
+# Met de [!UICONTROL Usage Log Tracking] voor Analysis Workspace {#using-the-usage-log-tracking-for-analysis-workspace}
 
-In deze video wordt getoond hoe u [!UICONTROL Usage Log Tracking] kunt gebruiken voor [!DNL Workspace]-projecten, waarmee u beter inzicht kunt krijgen in het gebruik van Adobe Analytics door uw gebruikers.
+In deze video wordt getoond hoe u de [!UICONTROL Usage Log Tracking] op [!DNL Workspace] projecten die u kunnen helpen het gebruik van Adobe Analytics door uw gebruikers beter te begrijpen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12)
 
@@ -34,11 +34,11 @@ In deze video wordt getoond hoe u [!UICONTROL Usage Log Tracking] kunt gebruiken
 * Verwijderen van projecten
 * Projectweergaven
 
-De meningen van het project zullen de beste aanwijzing zijn van of uw gebruikers [!DNL Workspace] gebruiken of zelfs projecten openen die met hen worden gedeeld.
+De mening van het project zal de beste aanwijzing zijn of uw gebruikers al dan niet gebruiken [!DNL Workspace] of zelfs projecten te openen die met hen worden gedeeld.
 
 ## Aanvullende bronnen {#additional-resources}
 
 * [Meer informatie over logbestanden](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)
 * [Demo-dashboard downloaden](https://adobe.ly/2ygP5ws)
 
-VOLGENDE: We zijn bezig om deze informatie binnenkort te presenteren in een vriendelijke gebruikersinterface (en met meer details) binnen [!DNL Analytics].
+VOLGENDE: We werken eraan deze informatie te presenteren in een vriendelijke gebruikersinterface (en met meer details) binnen [!DNL Analytics] binnenkort.

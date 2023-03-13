@@ -8,13 +8,13 @@ level: Beginner
 doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
-source-git-commit: 160df6c23acb67f1b07f2fcd25f1eca96eb6dee7
+exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
+source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
 workflow-type: tm+mt
-source-wordcount: '1805'
+source-wordcount: '1803'
 ht-degree: 0%
 
 ---
-
 
 # Afspeelboek voor Adobe Analytics-implementatie downloaden
 
@@ -62,7 +62,7 @@ Voor elk van deze afmetingen voeg ik de volgende kolommen toe:
 Screenshot van voorbeeld SDR:
 ![Voorbeeld-SDR.](assets/sample-sdr.png)
 
-Het wordt ook aangeraden dit coderingsdocument te gebruiken om gratis variabelen en eventuele junkvariabelen bij te houden. Wanneer een afmeting niet meer nuttig is, zal dev gewoonlijk enige tijd nodig hebben om het te schrappen. Zelfs daarna kan caching voorkomen, of u kunt zich realiseren dat de dimensie ook elders werd geplaatst. Het opschonen van dimensies is niet eenvoudig en vereist vaak geduld. Hier volgen enkele tips om je junk verborgen te houden onder het bed, zodat je gebruikers niet in verwarring raken terwijl ze het bijhouden.
+Het wordt ook aangeraden dit coderingsdocument te gebruiken om gratis variabelen en eventuele junkvariabelen bij te houden. Wanneer een afmeting niet meer nuttig is, zal dev gewoonlijk enige tijd nodig hebben om het te schrappen. Zelfs daarna kan caching voorkomen, of u kunt zich realiseren dat de dimensie ook elders werd geplaatst. Het opschonen van dimensies is niet eenvoudig en vereist vaak geduld. Hier volgen enkele tips om je rommel onder het bed te houden, zodat je gebruikers niet in verwarring raken terwijl ze het bijhouden.
 
 * Alle afmetingen/gebeurtenissen die niet worden gebruikt, zijn &#39;free&#39; of &#39;being delete&#39;
    * Als de dimensie in de afgelopen 90 dagen junkwaarden heeft, wordt ze &#39;verwijderd&#39;
@@ -101,7 +101,7 @@ Het wordt aanbevolen dit document zo eenvoudig mogelijk te houden en het niet me
 >
 >Een naam-/eigenschapdimensie maken in Adobe Analytics. Als u in Adobe Analytics een speciale dimensie (meestal een eVar) hebt die de naam van de site/app aangeeft, kunt u segmenteren, problemen oplossen, virtuele rapportsuite maken, enz. De voordelen zijn eindeloos, vooral wanneer het combineren van veelvoudige plaatsen in één (globale) rapportreeks. De sleutel zorgt ervoor dat uw ontwikkelingsteams altijd deze waarde in de eigenschappen afmeting plaatsen, met inbegrip van alle paginaladingen (s.t vraag/trackState) en alle douanegebeurtenissen (s.tl vraag/trackAction). Verwerkingsregels kunnen een waardevol hulpmiddel zijn om u te helpen deze waarden behoorlijk en consequent plaatsen.
 
-[Bekijk deze video van Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html){target=&quot;_blank&quot;} voor meer informatie over het invullen van het afspeelboek van de implementatie.
+[Bekijk deze video van Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html){target="_blank"} voor meer informatie over het invullen van de implementatie playbook.
 
 ## Auteurs
 

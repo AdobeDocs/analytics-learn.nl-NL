@@ -10,22 +10,22 @@ kt: 2836
 role: Developer, Data Engineer
 level: Beginner
 exl-id: be28db8a-0de6-4f9f-ae2e-2337e86740a1
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 2%
 
 ---
 
-# [!UICONTROL Library Management] configureren voor [!DNL Analytics] {#configuring-library-management-in-the-launch-analytics-extension}
+# Configureren [!UICONTROL Library Management] for [!DNL Analytics] {#configuring-library-management-in-the-launch-analytics-extension}
 
-Als u net aan de slag gaat met Experience Platform Launch en de Adobe Analytics [!UICONTROL Extension], kunt u met deze video [!UICONTROL Library Management], met inbegrip van het selecteren [!UICONTROL report suites] waarin om gegevens te verzenden.
+Als u net aan de slag gaat met Experience Platform Launch en de Adobe Analytics [!UICONTROL Extension]kunt u met deze video [!UICONTROL Library Management], met inbegrip van [!UICONTROL report suites] waarin gegevens moeten worden verzonden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12)
 
 Raadpleeg de volgende documentatieonderwerpen voor aanvullende informatie over de aspecten van dit gebruiksgeval:
 
-[Postcodes](https://docs.adobe.com/help/en/analytics/components/variables/dimensions-reports/reports-zip.html)
+[Postcodes](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en)
 
 [Classificaties](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
 

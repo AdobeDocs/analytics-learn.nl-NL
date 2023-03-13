@@ -1,7 +1,7 @@
 ---
 title: Adobe Analytics - Het is meer dan data. Het is Customer Intelligence
 description: Om een ervaringsbedrijf te worden, is de gegeven-gedreven marketing essentieel. Breng de rijpheid van uw analysemogelijkheden naar een nieuw niveau - van gegevens tot inzichten tot actie.
-feature: Basisbeginselen van analysemogelijkheden
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: value video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 9aeb8371-3fac-41db-bea3-35c7ca3deeef
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---

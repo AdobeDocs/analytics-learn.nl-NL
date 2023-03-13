@@ -39,6 +39,6 @@ Schrijf u hier in voor de cursus: [https://edex.adobe.com/pd/course/adobe-analyt
 
 Dit studieprogramma met speciaal ontwikkelde activiteiten aan het einde van elke sectie kan worden gecombineerd met de sandboxomgeving van Adobe Analytics University.
 
-Registreer hier voor toegang: [Registratie van analysestudieprogramma](https://experienceleague.adobe.com/landing/analytics-university/)
+Registreer hier voor toegang: [Registratie van analyseprogramma&#39;s](https://experienceleague.adobe.com/landing/analytics-university/)
 
 [De PDF van het studieprogramma downloaden](assets/Adobe-Analytics-Curriculum_2021.pdf)

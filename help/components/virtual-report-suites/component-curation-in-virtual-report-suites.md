@@ -19,11 +19,11 @@ ht-degree: 0%
 
 # Component Curation in [!UICONTROL Virtual Report Suites] {#component-curation-in-virtual-report-suites}
 
-[!UICONTROL Virtual Report Suites] kan worden gebogen om te omvatten en uit te sluiten  [!UICONTROL dimensions],  [!UICONTROL metrics]en  [!UICONTROL segments] in Analysis Workspace, wat zeer helpt als u het met andere teams deelt die slechts een specifiek segment van de gegevens of een verschillende gegevensnomenclatuur nodig hebben.
+[!UICONTROL Virtual Report Suites] kan worden opgenomen in en uitgesloten [!UICONTROL dimensions], [!UICONTROL metrics], en [!UICONTROL segments] in Analysis Workspace, wat zeer nuttig is als u het met andere teams deelt die slechts een specifiek segment van de gegevens nodig hebben of een verschillende gegevensnomenclatuur gebruiken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12)
 
-Als de componentenaanpassing wordt toegelaten, zal [!UICONTROL Virtual Report Suite] slechts in Analysis Workspace toegankelijk zijn.
+Als de componentenaanpassing wordt toegelaten, [!UICONTROL Virtual Report Suite] alleen toegankelijk zijn in Analysis Workspace.
 
 Secties in deze video:
 
@@ -31,4 +31,4 @@ Secties in deze video:
 
 4:05 - VRS gebruiken in Analysis Workspace
 
-Voor meer informatie over deze eigenschap, bezoek [documentatie](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-components.html?lang=en).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-components.html?lang=en).

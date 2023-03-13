@@ -8,13 +8,13 @@ doc-type: article
 kt: 9167
 hide: true
 hidefromtoc: true
-source-git-commit: bf34fbd9aa8f707efd8cb96a3cebda03d6ebdeb1
+exl-id: 0d7f8185-817c-4474-9655-a867beb7d454
+source-git-commit: a4cfd7ce71ff32976451b52fc51fe9c56a3dad9c
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 7%
 
 ---
-
 
 # De Grondbeginselen van de Analyse voor BedrijfsGebruikers is gepensioneerd
 
@@ -33,6 +33,6 @@ Als u in een BedrijfsGebruiker, een Praktijk, of een andere gelijkaardige rol be
 1. [Visualisaties gebruiken om uw gegevensartikelen te vertellen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)
 1. [Waarde toewijzen aan Digital Touch-punten op de reis van de klant](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)
 
-Er zijn extra cursussen beschikbaar op het Experience League voor [Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace).
+Er zijn aanvullende cursussen met betrekking tot [Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) beschikbaar op Experience League.
 
 Bedankt!

@@ -17,9 +17,9 @@ ht-degree: 2%
 
 ---
 
-# [!UICONTROL General] Instellingen configureren in [!DNL Launch Analytics] [!UICONTROL Extension] {#configuring-general-settings-in-the-launch-analytics-extension}
+# Configureren [!UICONTROL General] Instellingen in het dialoogvenster [!DNL Launch Analytics] [!UICONTROL Extension] {#configuring-general-settings-in-the-launch-analytics-extension}
 
-Als u nog maar net aan de slag gaat met Experience Platform Launch en de Adobe Analytics [!UICONTROL Extension], kunt u met deze video het instellingengedeelte [!UICONTROL General] van de configuratie, inclusief het instellen van de trackingserver, gebruiken.
+Als u net aan de slag gaat met Experience Platform Launch en de Adobe Analytics [!UICONTROL Extension], kan deze video u helpen met de [!UICONTROL General] instellingengedeelte van de configuratie, inclusief het instellen van de trackingserver.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=9)
 

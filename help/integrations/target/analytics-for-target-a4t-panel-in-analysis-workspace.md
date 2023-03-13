@@ -21,8 +21,8 @@ ht-degree: 45%
 
 # [!DNL Analytics for Target] (A4T) Panel in Analysis Workspace
 
-Met het [!DNL Analytics for Target] (A4T)-deelvenster kunt u uw Adobe Target-activiteiten en -ervaringen in [!UICONTROL Analysis Workspace] met optillen en vertrouwen analyseren.
+De [!DNL Analytics for Target] (A4T) kunt u uw Adobe Target-activiteiten en -ervaringen met optillen en vertrouwen analyseren in [!UICONTROL Analysis Workspace].
 
 >[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
-Meer informatie vindt u in de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html).
+Meer informatie in het dialoogvenster [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html).

@@ -1,7 +1,7 @@
 ---
 title: Het vormen van Gemakkelijke Controle van de Verbinding van de Download in Experience Platform Launch
 description: Als u slechts een paar keer klikt in de extensie Adobe Analytics in Experience Platform Launch, kunt u de downloadkoppelingen op uw site volgen (koppelingen waarmee niet-browserbestanden op uw computer worden gedownload). In deze video ziet u hoe u deze instelt.
-feature: Implementatie starten
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -12,17 +12,17 @@ level: Beginner
 exl-id: 28822d90-6bbb-43dc-bf98-892e21e71a1d
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
-# Eenvoudig downloaden [!UICONTROL Link Tracking] configureren in [!DNL Experience Platform Launch] {#configuring-easy-download-link-tracking-in-adobe-launch}
+# Eenvoudig downloaden configureren [!UICONTROL Link Tracking] in [!DNL Experience Platform Launch] {#configuring-easy-download-link-tracking-in-adobe-launch}
 
-Als u slechts een paar keer klikt in de Adobe Analytics [!UICONTROL Extension] in Adobe [!DNL Experience Platform Launch], kunt u downloadkoppelingen op uw site volgen (koppelingen die niet-browserbestanden downloaden op uw computer). In deze video ziet u hoe u deze instelt.
+Met slechts een paar klikken in de Adobe Analytics [!UICONTROL Extension] in Adobe [!DNL Experience Platform Launch], kunt u downloadkoppelingen op uw site volgen (koppelingen die bestanden van andere leveranciers dan de browser op uw computer downloaden). In deze video ziet u hoe u deze instelt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12)
 
-Of het nu whitepapers, handleidingen, audio- of videobestanden zijn of een groot aantal andere mogelijkheden, op uw site staan koppelingen waarmee u bestanden kunt downloaden die niet in een browser zijn geopend. Op zijn minst, zelfs als zij in browser (zoals een tekstdossier) openen, kunt u geen [!DNL Analytics] code op de pagina voor het volgen hebben. Daarom moet u de verbinding aan het downloaddossier volgen.
+Of het nu whitepapers, handleidingen, audio- of videobestanden zijn of een groot aantal andere mogelijkheden, op uw site staan koppelingen waarmee u bestanden kunt downloaden die niet in een browser zijn geopend. Op zijn minst, zelfs als zij in browser (zoals een tekstdossier) openen, kunt u niet hebben [!DNL Analytics] code op de pagina om te volgen. Daarom moet u de verbinding aan het downloaddossier volgen.
 
-Dit is zeer snel en gemakkelijk in [!DNL Experience Platform Launch], gebruikend de configuratie van [!DNL Analytics] uitbreiding.
+Dit is heel snel en gemakkelijk in [!DNL Experience Platform Launch], waarbij de configuratie van de [!DNL Analytics] extensie.

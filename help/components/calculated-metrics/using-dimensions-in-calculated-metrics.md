@@ -17,12 +17,12 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Dimensions] gebruiken in [!UICONTROL Calculated Metrics] {#using-dimensions-in-calculated-metrics}
+# Gebruiken [!UICONTROL Dimensions] in [!UICONTROL Calculated Metrics] {#using-dimensions-in-calculated-metrics}
 
-[!UICONTROL Dimensions] zijn nu beschikbaar in de  [!UICONTROL Calculated Metric Builder]. Ze kunnen aan elke [!UICONTROL calculated metric] [!UICONTROL formula] worden toegevoegd om direct een intern segment te maken.
+[!UICONTROL Dimensions] zijn nu beschikbaar in [!UICONTROL Calculated Metric Builder]. Ze kunnen aan elke [!UICONTROL calculated metric] [!UICONTROL formula] een intern segment te maken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12)
 
 Deze functie stroomlijnt de workflow voor het maken en gebruiken van [!UICONTROL segments] binnen [!UICONTROL calculated metrics].
 
-Voor meer informatie over deze eigenschap, bezoek [documentatie](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=en).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=en).

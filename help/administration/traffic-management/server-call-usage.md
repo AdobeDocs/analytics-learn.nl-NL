@@ -1,22 +1,22 @@
 ---
 title: Gebruik van serveroproepen in Adobe Analytics
-seo-title: Gebruik van serveroproepen in Adobe Analytics
+seo-title: Server Call Usage in Adobe Analytics
 description: Het gebruik van de Vraag van de server rapporteert zal het voor u mogelijk maken om precies te volgen hoeveel van uw verplichting van de servervraag u op om het even welk ogenblik hebt gebruikt, en zal u ook proactief waarschuwen wanneer u uw totale verplichting nadert.
-seo-description: Het gebruik van de Vraag van de server rapporteert zal het voor u mogelijk maken om precies te volgen hoeveel van uw verplichting van de servervraag u op om het even welk ogenblik hebt gebruikt, en zal u ook proactief waarschuwen wanneer u uw totale verplichting nadert.
-feature: Gegevensconfiguratie en -verzameling
+seo-description: Server Call usage reporting will make it possible for you to track exactly how much of your server call commitment you’ve used at any point in time, and will also proactively alert you when you are approaching your total commitment.
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1665
-topic: Beheer
+topic: Administration
 role: Admin, Architect
 level: Beginner
 exl-id: 8ada68ff-c7fc-45e3-a663-c477519f557f
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---

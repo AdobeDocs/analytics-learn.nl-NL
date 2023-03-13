@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # [!DNL Adobe Summit] 2019 Super Session - Retail
 
-Zie gekrulde clips van de handelssessie &quot;super&quot; op [!DNL Summit] 2019
+Zie gekrulde clips van de professionele &quot;supersessie&quot; op [!DNL Summit] 2019
 
 >[!VIDEO](https://video.tv.adobe.com/v/30549/?quality=12)

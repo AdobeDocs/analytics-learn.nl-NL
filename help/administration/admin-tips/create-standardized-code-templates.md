@@ -1,6 +1,6 @@
 ---
 title: Standaardcodesjablonen maken
-description: 'Voor een basislijnimplementatie (d.w.z. wat uw bedrijf KPIs voor alle plaatsen van Adobe Analytics moet hebben), zou uw org één enkele implementatiemethode moeten hebben waar mogelijk. '
+description: Voor een basislijnimplementatie (d.w.z. wat uw bedrijf KPIs voor alle plaatsen van Adobe Analytics moet hebben), zou uw org één enkele implementatiemethode moeten hebben waar mogelijk.
 feature: Implementation Basics
 topic: Administration
 role: Admin
@@ -8,13 +8,13 @@ level: Beginner
 doc-type: article
 thumbnail: 10532.jpg
 kt: 10532
-source-git-commit: 160df6c23acb67f1b07f2fcd25f1eca96eb6dee7
+exl-id: be00c8c0-a4bc-4380-98da-d1e2a3d31ec5
+source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 1%
 
 ---
-
 
 # Standaardcodesjablonen maken
 

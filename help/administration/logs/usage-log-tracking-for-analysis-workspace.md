@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # Gebruikslogbestanden bijhouden voor Analysis Workspace
 
-Onder [!UICONTROL Admin] - [!UICONTROL Logs] - [!UICONTROL Usage & Access] kunt u het gebruik van Adobe Analytics door uw gebruikers beter begrijpen. Deze video richt zich specifiek op het meten van [!DNL Workspace] projectgebruik. Opmerking: Sinds deze video is uitgebracht, is er een producttip over het uitvoeren van een degelijke gebruiksanalyse in Analysis Workspace gepubliceerd op adobe.ly/aausage.
+Onder [!UICONTROL Admin] - [!UICONTROL Logs] - [!UICONTROL Usage & Access], je kunt beter begrijpen hoe Adobe Analytics door je gebruikers wordt gebruikt. Deze video is specifiek gericht op meten [!DNL Workspace] projectgebruik. Opmerking: Sinds deze video is uitgebracht, is er een producttip over het uitvoeren van een degelijke gebruiksanalyse in Analysis Workspace gepubliceerd op adobe.ly/aausage.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29768/?quality=12)
 
-Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en) voor meer informatie.
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en).

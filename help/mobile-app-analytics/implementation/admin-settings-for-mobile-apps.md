@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # Beheerinstellingen voor mobiele apps {#admin-settings-for-mobile-apps}
 
-Leer hoe u rapportage voor mobiele apps in Adobe Analytics instelt, inclusief [!UICONTROL Lifecycle]-componenten, [!UICONTROL Location Tracking]- en [!UICONTROL Background Hit]-rapporten.
+Leer hoe u rapportage voor mobiele apps instelt in Adobe Analytics, inclusief [!UICONTROL Lifecycle] componenten, [!UICONTROL Location Tracking], en [!UICONTROL Background Hit] rapportage.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25961/?quality=12)
 
-Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/gs.html?lang=en) voor meer informatie.
+Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/gs.html?lang=en).

@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # [!UICONTROL Anomaly Detection] in Analysis Workspace {#anomaly-detection-in-analysis-workspace}
 
-Analysis Workspace detecteert automatisch anomalieën in uw gegevens voor tijdreeksen [!UICONTROL visualization] of gegevenstabellen. Vang de &quot;onbekende onbekend&quot;zonder enige extra inspanning van uw kant!
+Analysis Workspace detecteert automatisch anomalieën in uw gegevens voor elke tijdreeks [!UICONTROL visualization] of gegevenstabel. Vang de &quot;onbekende onbekend&quot;zonder enige extra inspanning van uw kant!
 
 >[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12)
 
-Voor meer informatie over deze eigenschap, bezoek [de documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en).
+Ga voor meer informatie over deze functie naar [de documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en).

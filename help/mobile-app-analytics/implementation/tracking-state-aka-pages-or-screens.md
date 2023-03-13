@@ -13,15 +13,15 @@ level: Experienced
 exl-id: e58f7e86-dc61-44eb-a44e-fe5e984d8248
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
 # Volgstatus (AKA-pagina&#39;s of -schermen) in een mobiele app met de SDK van het Experience Platform {#tracking-state-aka-pages-or-screens-in-a-mobile-app-with-the-experience-platform-sdk}
 
-Frames vertegenwoordigen schermen of weergaven in uw app. Elke keer dat een nieuwe staat in uw toepassing wordt weergegeven, bijvoorbeeld wanneer een gebruiker van de startpagina naar de nieuwsfeed navigeert, kan `trackState` worden aangeroepen om de Staatsnaam (paginanaam in [!DNL Analytics]) en aanvullende gegevens te verzenden. In deze video wordt uitgelegd hoe u dit kunt doen.
+Frames vertegenwoordigen schermen of weergaven in uw app. Elke keer dat een nieuwe status in uw toepassing wordt weergegeven, bijvoorbeeld wanneer een gebruiker van de startpagina naar de nieuwsfeed navigeert, `trackState` kan worden aangeroepen om te verzenden met de naam van de staat (paginanaam in [!DNL Analytics]) en aanvullende gegevens. In deze video wordt uitgelegd hoe u dit kunt doen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26260/?quality=12)
 
-Raadpleeg de [documentatie](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/configuration-reference/mobile-core-api-reference) voor meer informatie over trackState.
+Voor meer informatie over trackState raadpleegt u de [documentatie](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/configuration-reference/mobile-core-api-reference).

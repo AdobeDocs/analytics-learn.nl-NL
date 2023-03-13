@@ -7,9 +7,9 @@ thumbnail: 25405.jpg
 role: User
 level: Beginner
 exl-id: be1610a0-dbec-46d0-8cad-b4726333b8f9
-source-git-commit: da55943c5e956f7b03952babf8cdaf50d6239133
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -20,10 +20,8 @@ In deze video ziet u hoe u een segment maakt in Analysis Workspace op basis van 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25405/?quality=12)
 
-## Verwante video&#39;s
-
-[Voor en na reeksen in opeenvolgende segmentatie](before-after-sequences-in-sequential-segmentation.md)
-
-## Aanvullende informatie
-
 Ga voor meer informatie over dit onderwerp naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=en).
+
+>[!INFO]
+>
+> Deze video maakt deel uit van een cursus [Gegevens filteren met aangepaste segmentatie en datums](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), gratis beschikbaar op Experience League!

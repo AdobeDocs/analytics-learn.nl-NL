@@ -8,10 +8,10 @@ kt: 4105
 role: User
 level: Beginner
 exl-id: 0962f332-acc7-4ebe-9841-4d3fdf1d77b3
-source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 4%
+source-wordcount: '117'
+ht-degree: 8%
 
 ---
 
@@ -25,4 +25,8 @@ Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.co
 
 >[!INFO]
 >
-> Deze video maakt deel uit van een cursus: [Aan de slag met Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace), gratis beschikbaar op Experience League!
+> Deze video maakt deel uit van twee cursussen:
+> * [Aan de slag met Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)
+> * [Gegevens filteren met aangepaste segmentatie en datums](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)
+>
+> Beide zijn gratis beschikbaar op Experience League!

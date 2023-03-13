@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ---
 
-# De projectomzetter gebruiken om projecten van [!DNL Ad Hoc Analysis] naar [!UICONTROL Analysis Workspace] te verplaatsen {#using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace}
+# Het gebruiken van de Omzetter van het Project om projecten van te bewegen [!DNL Ad Hoc Analysis] tot [!UICONTROL Analysis Workspace] {#using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace}
 
-De [!UICONTROL Ad Hoc Analysis] Omzetter van het Project zet naadloos [!UICONTROL Ad Hoc Analysis] (AHA) projecten in [!UICONTROL Analysis Workspace] projecten in met de klik van een knoop.
+De [!UICONTROL Ad Hoc Analysis] Projectconverter converteert naadloos [!UICONTROL Ad Hoc Analysis] (AHA) projecten voor [!UICONTROL Analysis Workspace] projecten met een klik op een knop.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23118/?quality=12)
 

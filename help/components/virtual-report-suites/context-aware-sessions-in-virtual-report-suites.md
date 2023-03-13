@@ -27,4 +27,4 @@ Secties in deze video:
 
 2:45 - VRS gebruiken in Analysis Workspace
 
-Voor meer informatie over deze eigenschap, bezoek [de documentatie](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-mobile-visit-processing.html?lang=en).
+Ga voor meer informatie over deze functie naar [de documentatie](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-mobile-visit-processing.html?lang=en).

@@ -8,17 +8,17 @@ level: Beginner
 doc-type: article
 thumbnail: 10534.jpg
 kt: 10534
-source-git-commit: 160df6c23acb67f1b07f2fcd25f1eca96eb6dee7
+exl-id: 692b6726-12f8-45fb-b7c7-8ae42e1a14b7
+source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
-
 # Een interne Adobe Analytics-site maken (Connect of andere)
 
-**WAT:** Als u de aanbeveling in [deze tip](create-basic-videos-and-training.md){target=&quot;_blank&quot;} om trainingsdocumenten te maken, kunt u deze uiteraard niet op de vaste schijf houden. Maak een centrale locatie waar deze kunnen worden gedeeld en geraadpleegd door al uw gebruikers - een interne Adobe Analytics-site (Connect of andere) waar u al deze documenten kunt plaatsen en verschillende versies kunt onderhouden.
+**WAT:** Als u de aanbeveling in [deze tip](create-basic-videos-and-training.md){target="_blank"} om trainingsdocumenten te maken , kunt u ze uiteraard niet op de vaste schijf houden . Maak een centrale locatie waar deze kunnen worden gedeeld en geraadpleegd door al uw gebruikers - een interne Adobe Analytics-site (Connect of andere) waar u al deze documenten kunt plaatsen en verschillende versies kunt onderhouden.
 
 **WAAROM:** Door één gedeelde opslagplaats in te stellen, kunt u alle nieuwe gebruikers op één plaats leiden en één bron van waarheid bieden wat de nieuwste versies van al uw documenten betreft. Het maakt optimaal versiebeheer en optimale samenwerking mogelijk.
 

@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # [!UICONTROL Cohort] Analyse in Analysis Workspace {#cohort-analysis-in-analysis-workspace}
 
-Hoe te om een [!UICONTROL cohort] analystabel in Analysis Workspace te bouwen.
+Hoe een [!UICONTROL cohort] analystabel in Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23990/?quality=12)
 
-Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en) voor meer informatie over deze functie.
+Voor meer informatie over deze functie raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).

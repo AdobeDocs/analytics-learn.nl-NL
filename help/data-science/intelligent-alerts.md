@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # Intelligente waarschuwingen in Adobe Analytics {#intelligent-alerts-in-adobe-analytics}
 
-[!DNL Intelligent Alerts] zet de macht van  [!UICONTROL Anomaly Detection] rechtstreeks in uw inbox of op uw telefoon. Als u direct op de hoogte bent van belangrijke wijzigingen in uw belangrijkste maatstaven en segmenten, hebt u geen gemiste kansen.
+[!DNL Intelligent Alerts] de kracht van [!UICONTROL Anomaly Detection] rechtstreeks in uw inbox of op uw telefoon. Als u direct op de hoogte bent van belangrijke wijzigingen in uw belangrijkste maatstaven en segmenten, hebt u geen gemiste kansen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25446/?quality=12)
 
-Voor meer informatie over deze eigenschap, bezoek [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=en).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=en).

@@ -19,10 +19,10 @@ ht-degree: 0%
 
 # [!UICONTROL Contribution Analysis] in Analysis Workspace {#contribution-analysis-in-analysis-workspace}
 
-Deze video doorloopt [!UICONTROL Contribution Analysis] en zijn capaciteit om machine het leren te gebruiken om de factoren snel en gemakkelijk te verklaren die tot een trend in uw gegevens hebben bijgedragen.
+Deze video doorloopt [!UICONTROL Contribution Analysis] en het vermogen om machine het leren te gebruiken om de factoren snel en gemakkelijk te verklaren die tot een trend in uw gegevens hebben bijgedragen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25443/?quality=12)
 
 [!UICONTROL Contribution Analysis] is beschikbaar in Analysis Workspace voor klanten van Adobe Analytics Premium.
 
-Voor meer informatie over deze eigenschap, bezoek [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en).

@@ -16,10 +16,10 @@ ht-degree: 7%
 
 # [!DNL Adobe Labs] (Technologievoorvertoningen) met Adobe Analytics
 
-[!DNL Adobe Labs] (De Voorproeven van de Technologie) staat u toe om met opkomende technologieën in dienst te nemen, waardevolle inzichten te ontdekken, en toekomstige  [!DNL Analytics] eigenschapontwikkeling en prioriteiten te beïnvloeden.
+[!DNL Adobe Labs] (Technologievoorvertoningen) biedt u de mogelijkheid om nieuwe technologieën te gebruiken, waardevolle inzichten te ontdekken en de toekomst te beïnvloeden [!DNL Analytics] ontwikkeling en prioriteiten van functies.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32841/?quality=12)
 
-Wanneer het gebruiken van een [!DNL Labs] prototype, kunt u de eigenschap binnen de context van uw eigen zaken gebruiken gevallen en gegevens evalueren.
+Wanneer u een [!DNL Labs] prototype, kunt u de eigenschap binnen de context van uw eigen zaken en gegevens evalueren.
 
-Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html) voor meer informatie.
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html).
