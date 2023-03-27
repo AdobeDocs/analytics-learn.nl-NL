@@ -10,7 +10,7 @@ kt: 1663
 role: User
 level: Intermediate
 exl-id: ca1d8ca8-a854-4d02-8017-4e3e3587ab9e
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 In deze video wordt getoond hoe u gebeurtenissen kunt gebruiken om het begin van een nieuw bezoek in Adobe Analytics te starten met een [!UICONTROL Virtual Report Suite]Bezoek-instellingen.
 
->[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12&learn=on)
 
 U kunt de context van een bezoek in Adobe Analytics opnieuw definiëren door aangepaste time-outinstellingen te gebruiken, achtergrondillustraties te negeren of een nieuw bezoek te starten wanneer u de app start. Met deze functie breiden we deze functionaliteit uit zodat u een nieuw bezoek kunt starten voor elke combinatie van gebeurtenissen, in plaats van alleen via het starten van een app.

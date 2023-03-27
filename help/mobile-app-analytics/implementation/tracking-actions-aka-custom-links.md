@@ -11,7 +11,7 @@ topic: Mobile
 role: Developer, Data Engineer
 level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Acties zijn gebeurtenissen die in uw mobiele app voorkomen. In deze video leert u hoe u de API trackAction kunt gebruiken om een handeling bij te houden en te meten.
 
->[!VIDEO](https://video.tv.adobe.com/v/26268/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26268/?quality=12&learn=on)
 
 Dit is de API die u moet gebruiken om alle handelingen te volgen die niet op het scherm worden geladen. Als het scherm omhoog komt, dan gebruik trackState, die een klap van de paginamening teweegbrengt. Anders gebruikt u trackAction om variabelen te verzenden die zijn gekoppeld aan de handeling die plaatsvindt.
 

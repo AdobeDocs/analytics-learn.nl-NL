@@ -10,7 +10,7 @@ kt: 2340
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8b59b6d3-3754-464d-ac87-7b57ce442676
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 De intelligentie van de klant is nooit veelbelovender geweest. Maar het samenbrengen van gegevens die nuttig kunnen zijn voor zakelijke gebruikers in de hele organisatie — en het afvangen van de belangrijke trends in de tijd om op hen te reageren — is niet iets dat zelfs een geavanceerd team van gegevenswetenschap alleen kan verwerken. Als u de gegevens gebruikt die u al verzamelt, lijken deze Adobe Sensei AI- en computerleermogelijkheden in Adobe Analytics op elkaar.
 
->[!VIDEO](https://video.tv.adobe.com/v/25837/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25837/?quality=12&learn=on)

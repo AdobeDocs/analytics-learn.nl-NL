@@ -7,7 +7,7 @@ kt: 2011
 role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 In deze video laten we u zien hoe u twee vergelijkingsfuncties voor datums kunt gebruiken in [!UICONTROL freeform tables] - &#39;[!UICONTROL add time period column]&#39; en &#39;[!UICONTROL compare time periods].&quot;
 
->[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12&learn=on)
 
 Datumvergelijkingen zijn een gemakkelijke manier om diepte toe te voegen aan uw huidige Analysis Workspace-tabellen en helpen u om uw huidige gegevens eenvoudig in perspectief te plaatsen op historische prestaties.
 

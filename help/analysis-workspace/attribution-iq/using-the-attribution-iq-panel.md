@@ -11,7 +11,7 @@ kt: 1667
 role: User
 level: Intermediate
 exl-id: 2c265c0b-5d5e-435f-9fdd-086f7faa0bd9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 In deze video ziet u de [!DNL Attribution IQ] [!UICONTROL Panel], een uitstekende plaats om te beginnen wanneer u uw attributie Analysis Workspace project bouwt.
 
->[!VIDEO](https://video.tv.adobe.com/v/23139/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23139/?quality=12&learn=on)
 
 De [!DNL Attribution IQ] [!UICONTROL Panel] in Analysis Workspace is een manier om een van de tien op regels gebaseerde [!DNL attribution models] visueel. Zie hoe elk model om het even welke dimensie gebruikend beïnvloedt [!DNL Bar Charts], [!DNL Venn diagrams], [!DNL Histograms], [!DNL Scatter Plots]en zelfs [!DNL Flow Diagram]. De [!DNL Attribution] [!UICONTROL Panel] is een geweldig uitgangspunt voor geavanceerdere attributieanalyse.
 

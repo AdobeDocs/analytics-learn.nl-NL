@@ -8,7 +8,7 @@ kt: 4105
 role: User
 level: Beginner
 exl-id: 0962f332-acc7-4ebe-9841-4d3fdf1d77b3
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 8%
@@ -19,7 +19,7 @@ ht-degree: 8%
 
 In deze video leert u hoe u datums kunt gebruiken. [!UICONTROL date ranges]en datumvergelijkingen om uw tabellen en visualisaties aan te passen aan het juiste tijdkader.
 
->[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12&learn=on)
 
 Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html).
 

@@ -10,7 +10,7 @@ kt: 2386
 role: Developer, Data Engineer
 level: Experienced
 exl-id: c2bf15d7-4614-4bda-83de-1a45b5f98c7b
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 9%
@@ -21,6 +21,6 @@ ht-degree: 9%
 
 In deze video tonen we u hoe u Analysis Workspace kunt gebruiken om automatisch API 2.0-aanvragen te maken. Door foutopsporing in de gebruikersinterface kunt u JSON-aanvragen rechtstreeks naar elke API-client kopiëren en plakken en terugsturen [!DNL Analytics] gegevens. U kunt foutopsporing nu gemakkelijker inschakelen door naar Workspace Help > Foutopsporing inschakelen te gaan.
 
->[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12&learn=on)
 
 Ga voor meer informatie naar de [documentatie](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.md).

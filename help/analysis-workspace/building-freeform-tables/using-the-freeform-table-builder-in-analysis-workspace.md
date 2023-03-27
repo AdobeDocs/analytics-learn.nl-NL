@@ -7,7 +7,7 @@ kt: 4217
 role: User
 level: Beginner
 exl-id: 4cf94512-e4e4-418f-b759-db5feff272e6
-source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!DNL Freeform table builder] staat u toe om in vele dimensies, onderverdelingen, metriek en segmenten te slepen en te laten vallen om lijsten te bouwen die complexere bedrijfsvragen beantwoorden. Gegevens worden niet ter plekke bijgewerkt; in plaats daarvan wordt de tabel bijgewerkt wanneer u op &quot;Samenstellen&quot; klikt, zodat u tijd bespaart omdat de tabel slechts eenmaal wordt bijgewerkt.
 
->[!VIDEO](https://video.tv.adobe.com/v/31318/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31318/?quality=12&learn=on)
 
 >[!INFO]
 >

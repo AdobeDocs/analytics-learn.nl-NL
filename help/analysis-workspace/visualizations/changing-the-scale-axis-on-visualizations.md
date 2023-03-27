@@ -10,7 +10,7 @@ kt: 2133
 role: User
 level: Beginner
 exl-id: c76d8252-d6b7-48d7-b75e-3f8bedc50815
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In deze video ziet u hoe u de schaal (of aslimieten) voor de Y-as op een eenvoudige manier kunt wijzigen [!UICONTROL line] in de Analysis Workspace om gegevens moeilijker te maken voor jou en anderen om ze verkeerd te interpreteren.
 
->[!VIDEO](https://video.tv.adobe.com/v/24708/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24708/?quality=12&learn=on)

@@ -10,7 +10,7 @@ kt: 1848
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 27a8ce2f-afea-4505-9525-49720432f40f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 In deze video ziet u hoe u de code appMeasurement kunt bijwerken wanneer u geen Adobe gebruikt [!DNL Experience Platform Launch]. Dit omvat waar u de code wilt ophalen en waar u deze wilt bijwerken.
 
->[!VIDEO](https://video.tv.adobe.com/v/25913/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25913/?quality=12&learn=on)
 
 >[!NOTE]
 >

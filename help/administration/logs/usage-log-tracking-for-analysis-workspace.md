@@ -11,7 +11,7 @@ topic: Administration
 role: Admin
 level: Beginner
 exl-id: 397cfb51-7d7d-49dd-8b54-e928fe77d39e
-source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Onder [!UICONTROL Admin] - [!UICONTROL Logs] - [!UICONTROL Usage & Access], je kunt beter begrijpen hoe Adobe Analytics door je gebruikers wordt gebruikt. Deze video is specifiek gericht op meten [!DNL Workspace] projectgebruik. Opmerking: Sinds deze video is uitgebracht, is er een producttip over het uitvoeren van een degelijke gebruiksanalyse in Analysis Workspace gepubliceerd op adobe.ly/aausage.
 
->[!VIDEO](https://video.tv.adobe.com/v/29768/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29768/?quality=12&learn=on)
 
 Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en).

@@ -11,7 +11,7 @@ topic: SPA
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8fe63dd1-9629-437f-ae07-fe1c5a05fa42
-source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '1288'
 ht-degree: 0%
@@ -88,7 +88,7 @@ Wanneer de nieuwe inhoud laadt of wanneer een actie op de SPA pagina voorkomt, m
 
 Raadpleeg de pagina&#39;s en documenten waarnaar hierboven wordt verwezen voor meer informatie over hoe en wanneer deze gebeurtenissen worden uitgevoerd. U hoeft niet dezelfde gebeurtenisnamen te gebruiken in uw implementatie. Het functionele gebruiksscenario voor de gebruikte methode is van essentieel belang om te begrijpen als de aanbevolen beste praktijk voor elke methode. In de volgende video ziet u een voorbeeld SPA pagina en voorbeeldcode in [!DNL Experience Platform Tags] die naar de aangepaste gebeurtenissen luistert.
 
->[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12&learn=on)
 
 ## s.t() of s.tl() uitvoeren in het dialoogvenster [!DNL Experience Platform Tags] {#running-s-t-or-s-tl-in-the-launch-rule}
 
@@ -102,7 +102,7 @@ Een belangrijk begrip voor [!DNL Analytics] wanneer u met een SPA werkt, is het 
 
 De volgende video laat zien waar en hoe u kunt activeren `s.t()` of `s.tl()` in tags.
 
->[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12&learn=on)
 
 ## Variabelen wissen {#clear-variables}
 
@@ -114,7 +114,7 @@ In het bovenstaande diagram worden variabelen gewist *na* u verzendt gegevens. I
 
 In de volgende video ziet u waar en hoe u variabelen kunt wissen in [!DNL Tags].
 
->[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12&learn=on)
 
 ## Aanvullende overwegingen {#additional-considerations}
 

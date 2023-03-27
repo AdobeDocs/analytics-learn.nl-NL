@@ -7,7 +7,7 @@ kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 In deze video leert u hoe u vervolgkeuzefilters in Analysis Workspace kunt gebruiken om de inhoud van een deelvenster dynamisch te wijzigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/23877/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23877/?quality=12&learn=on)
 
 De dropzone van het deelvenster heeft nu vervolgkeuzemogelijkheden voor filteren. Met vervolgkeuzefilters kunnen analisten en eindgebruikers via gecontroleerde filters met de gegevens communiceren. U kunt een drop-down filter van om het even welk componententype tot stand brengen, en dan tussen punten in drop-down schakelen om de paneelinhoud te filtreren. U kunt ook meerdere vervolgkeuzelijsten toevoegen aan één deelvenster voor extra controle.
 

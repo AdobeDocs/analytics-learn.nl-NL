@@ -12,7 +12,7 @@ topic: Integrations
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 5db98e46-c91e-4e24-9745-82e54d19152a
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 [!UICONTROL Audience Analytics] is nieuwe integratie die u toestaat om segmenten van Audience Manager aan te delen [!DNL Analytics] in real time om publieksontdekking, segmentatie, en optimalisering te informeren.
 
->[!VIDEO](https://video.tv.adobe.com/v/25450/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25450/?quality=12&learn=on)
 
 Voorbeeld [!UICONTROL segment] gegevens die kunnen worden gedeeld, zijn onder meer: demografische gegevens van externe gegevensleveranciers, campagnegegevens van advertentieservers (zoals offsite-impressies) en onbeheerde CRM-gegevens. Dit is de eerste productievere integratie tussen een DMP en een analytische motor op de markt.
 

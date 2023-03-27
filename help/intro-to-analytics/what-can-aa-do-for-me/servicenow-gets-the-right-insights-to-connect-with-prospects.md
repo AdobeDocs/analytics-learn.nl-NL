@@ -10,7 +10,7 @@ kt: 4385
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: f25a9539-4596-4f22-8c6b-224273e185e4
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Meer informatie [!DNL ServiceNow] activeerbare gegevens uit de marketingkanalen en een stimulans voor het rendement van investeringen in betaalde zoekopdrachten bij Adobe Advertising Cloud en Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/31504/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31504/?quality=12&learn=on)
 
 Adobe Experience Cloud biedt u de geïntegreerde hulpmiddelen die u nodig hebt om kanaalmarketing, digitale reclame, publiek en gegevensoptimalisatie uit te wisselen, en nog veel meer.

@@ -7,7 +7,7 @@ thumbnail: 25405.jpg
 role: User
 level: Beginner
 exl-id: be1610a0-dbec-46d0-8cad-b4726333b8f9
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 In deze video ziet u hoe u een segment maakt in Analysis Workspace op basis van een reeks gedragingen op uw site of in uw app. Met andere woorden, u zou een segment van bezoekers kunnen willen bouwen die &quot;ding A&quot;deden en dan &quot;ding B,&quot;deden zodat u kunt zien hoe die opeenvolging van gebeurtenissen alle andere gegevens beïnvloedde. Veel plezier.
 
->[!VIDEO](https://video.tv.adobe.com/v/25405/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25405/?quality=12&learn=on)
 
 Ga voor meer informatie over dit onderwerp naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=en).
 

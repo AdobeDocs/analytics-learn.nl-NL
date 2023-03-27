@@ -9,7 +9,7 @@ team: Technical Marketing
 thumbnail: 23140.jpg
 kt: 1668
 exl-id: 47016dae-2694-4bbe-a23f-ebff9799c239,1789789c-19aa-4e77-999f-15fa11b7f858
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 1%
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 In deze video wordt getoond hoe u kunt gebruiken [!DNL Attribution IQ] in [!DNL Calculated Metrics].
 
->[!VIDEO](https://video.tv.adobe.com/v/23140/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23140/?quality=12&learn=on)
 
 Berekende metriek ondersteunt nu een van de tien op regels gebaseerde attributiemodellen. Met berekende metriek kunt u attributiemodellen vergelijken (bijvoorbeeld door het aftrekken [!UICONTROL First Touch] van [!UICONTROL Last Touch]) om het verschil te zien. U kunt ook hybride modellen maken (bijvoorbeeld 50% [!UICONTROL Time Decay] plus 50% [!UICONTROL First Touch]), of pas attributie op uw belangrijke omzettingsmetriek zoals opbrengst per orden, of orden toe per bezoek.
 

@@ -10,7 +10,7 @@ kt: 1910
 role: User
 level: Beginner
 exl-id: d3594ed7-b90e-4f97-89c7-3e6c75534136
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 An [!UICONTROL Approximate Count Distinct] [!UICONTROL function] is toegevoegd aan de [!UICONTROL Calculated Metric Builder]. Er wordt lang gewacht [!UICONTROL function] dat de [!UICONTROL approximate distinct count] van [!UICONTROL dimension] items voor een geselecteerde [!UICONTROL dimension].
 
->[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12&learn=on)
 
 U kunt de [!UICONTROL metric] in elk rapport om inzicht te krijgen in de telling van één [!UICONTROL dimension] tegen waarden van andere. Bijvoorbeeld, het aantal unieke klanten door het Kanaal van de Marketing.

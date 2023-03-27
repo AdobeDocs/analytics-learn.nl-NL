@@ -7,7 +7,7 @@ kt: 2367
 role: User
 level: Beginner
 exl-id: b9c01772-8c48-4baf-a85d-faabf5bdb846
-source-git-commit: a3aef96c996343d0d90de8e1462f6dcbf362c403
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 In deze video leert u hoe u een cross-sell-rapport kunt maken in Analysis Workspace en dit nog verder kunt uitbreiden naar elke multigetaxeerde dimensie of classificatie.
 
->[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12&learn=on)
 
 >[!INFO]
 >

@@ -10,7 +10,7 @@ kt: 3051
 role: User
 level: Beginner
 exl-id: 80d3545c-3c3c-4003-a92a-39a410c76996
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Leer hoe u aan de slag gaat met Adobe Analytics for mobile apps met behulp van sjablonen. Vooraf gebouwd [!UICONTROL standard templates] helpen u de betrokkenheid van gebruikers en de prestaties van apps te begrijpen [!UICONTROL metrics] in Analysis Workspace. Leer ook hoe u uw project kunt aanpassen met onze gebruiksvriendelijke interface voor slepen en neerzetten.
 
->[!VIDEO](https://video.tv.adobe.com/v/27826/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27826/?quality=12&learn=on)

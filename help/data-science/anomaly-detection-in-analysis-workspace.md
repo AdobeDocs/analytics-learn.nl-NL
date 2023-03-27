@@ -10,7 +10,7 @@ kt: 2336
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 175c91e5-6ae5-4e52-acb5-6c8fc2731bea
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Analysis Workspace detecteert automatisch anomalieën in uw gegevens voor elke tijdreeks [!UICONTROL visualization] of gegevenstabel. Vang de &quot;onbekende onbekend&quot;zonder enige extra inspanning van uw kant!
 
->[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12&learn=on)
 
 Ga voor meer informatie over deze functie naar [de documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en).

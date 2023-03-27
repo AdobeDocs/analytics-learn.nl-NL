@@ -6,7 +6,7 @@ kt: 4104
 role: User
 level: Beginner
 exl-id: 748ba7ff-a75d-4ecb-a5d8-5451d1922725,01466500-25ef-40d5-9ae1-ce1e0e92b0b5
-source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 4%
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 In deze video leert u meer over [!UICONTROL dimensions] en [!UICONTROL metrics], het verschil tussen beide, en hoe te om hen aan uw lijsten en visualisaties in Analysis Workspace toe te voegen. Leer ook hoe te om uit-van-de-doos toe te voegen [!UICONTROL Calculated Metrics].
 
->[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12&learn=on)
 
 Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html).
 

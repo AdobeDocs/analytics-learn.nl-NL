@@ -10,7 +10,7 @@ kt: 2273
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 80a6a83e-9315-4339-bdfe-2b1f11129403
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Met slechts een paar klikken in de Adobe Analytics [!UICONTROL Extension] in Adobe [!DNL Experience Platform Launch]kunt u afsluitkoppelingen op uw site (koppelingen die van uw site naar een andere site leiden) volgen. In deze video ziet u hoe u deze instelt.
 
->[!VIDEO](https://video.tv.adobe.com/v/25763/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25763/?quality=12&learn=on)
 
 Op uw site hebt u mogelijk koppelingen naar andere sites die u bezit of naar andere sites waarmee u een partner bent. Het is gebruikelijk om te weten hoeveel mensen uit uw pagina&#39;s op deze sites klikken. Met deze optie in Adobe [!DNL Experience Platform Launch], kunt u de functie voor het bijhouden van de afsluitkoppeling heel snel en eenvoudig instellen en deze zelfs naar wens aanpassen.

@@ -10,7 +10,7 @@ kt: 1844
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 28822d90-6bbb-43dc-bf98-892e21e71a1d
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Met slechts een paar klikken in de Adobe Analytics [!UICONTROL Extension] in Adobe [!DNL Experience Platform Launch], kunt u downloadkoppelingen op uw site volgen (koppelingen die bestanden van andere leveranciers dan de browser op uw computer downloaden). In deze video ziet u hoe u deze instelt.
 
->[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12&learn=on)
 
 Of het nu whitepapers, handleidingen, audio- of videobestanden zijn of een groot aantal andere mogelijkheden, op uw site staan koppelingen waarmee u bestanden kunt downloaden die niet in een browser zijn geopend. Op zijn minst, zelfs als zij in browser (zoals een tekstdossier) openen, kunt u niet hebben [!DNL Analytics] code op de pagina om te volgen. Daarom moet u de verbinding aan het downloaddossier volgen.
 

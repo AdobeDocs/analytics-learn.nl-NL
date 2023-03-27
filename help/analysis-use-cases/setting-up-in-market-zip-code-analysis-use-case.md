@@ -13,7 +13,7 @@ kt: 2846
 role: User
 level: Beginner
 exl-id: 0650a07f-5b93-40e0-a4f0-04fa83342a1c
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 1%
@@ -24,7 +24,7 @@ ht-degree: 1%
 
 In dit geval zullen we het systeem zodanig configureren dat er postcodes worden ingevoerd, deze als in- of buiten de markt worden ingedeeld, en deze gegevens vervolgens in Analysis Workspace gebruiken, zodat we de doeltreffendheid van onze geo-gerichte marketingcampagnes kunnen zien.
 
->[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12&learn=on)
 
 Raadpleeg de volgende documentatieonderwerpen voor aanvullende informatie over de aspecten van dit gebruiksgeval:
 

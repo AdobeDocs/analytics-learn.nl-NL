@@ -7,7 +7,7 @@ kt: 2349
 role: User
 level: Beginner
 exl-id: c1751182-bf6d-441b-9ffa-d9d40de20bb9
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!UICONTROL Activity Map] is een hulpprogramma dat beschikbaar is voor Adobe Analytics-gebruikers en waarmee u gebruikersgegevens rechtstreeks op uw website kunt visualiseren. Zie het aantal klikken (of andere [!UICONTROL metrics]) rechtstreeks op de koppelingen van uw pagina.
 
->[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
 
 Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/activity-map.html?lang=en).
 

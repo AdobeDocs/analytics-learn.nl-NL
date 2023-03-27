@@ -10,7 +10,7 @@ kt: 2338
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 04af0dc3-3cf3-446d-924c-82f21ee6974c
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 [!DNL Intelligent Alerts] de kracht van [!UICONTROL Anomaly Detection] rechtstreeks in uw inbox of op uw telefoon. Als u direct op de hoogte bent van belangrijke wijzigingen in uw belangrijkste maatstaven en segmenten, hebt u geen gemiste kansen.
 
->[!VIDEO](https://video.tv.adobe.com/v/25446/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25446/?quality=12&learn=on)
 
 Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=en).

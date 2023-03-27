@@ -10,7 +10,7 @@ kt: 2481
 role: User
 level: Intermediate
 exl-id: 3439b31c-dd4a-4a21-857a-1884463003cf
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 De instelling Rollberekeningen binnen [!UICONTROL Cohort Tables] kan worden gebruikt om [!UICONTROL cohorts] punt-over-periode, om te begrijpen hoe dezelfde gebruikers worden behouden (of [!UICONTROL churn]) in de loop van de tijd.
 
->[!VIDEO](https://video.tv.adobe.com/v/25962/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25962/?quality=12&learn=on)
 
 Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
 

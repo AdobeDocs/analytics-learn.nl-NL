@@ -7,7 +7,7 @@ kt: 1908
 role: User
 level: Beginner
 exl-id: acc44e46-1fd1-45ca-ad4b-485ff6fff5b5
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Met intra-linking kunnen analisten die projecten in Analysis Workspace maken, lezers van het project naar exacte deelvensters leiden en [!UICONTROL visualizations] binnen het project.
 
->[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12&learn=on)
 
 Intra-linking kan ook worden gebruikt om inhoudsopgaven te maken en effectievere gegevensverhalen in het algemeen te vertellen. Koppeling tussen projecten is nu ook mogelijk vanwege de nieuwe hyperlinkfunctionaliteit.
 

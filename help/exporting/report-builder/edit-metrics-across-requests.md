@@ -8,7 +8,7 @@ doc-type: feature video
 thumbnail: 23547.jpg
 kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 U kunt nu bewerken [!UICONTROL metrics] meerdere [!UICONTROL Report Builder] gegevensaanvragen tegelijk, met opties voor toevoegen, vervangen en verwijderen.
 
->[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12&learn=on)
 
 Deze functionaliteit is een aanvulling op de bestaande bewerkingsmogelijkheden [!UICONTROL report suites], [!UICONTROL date ranges], [!UICONTROL granularity], en [!UICONTROL segments] over verzoeken heen. U kunt aanvragen bulksgewijs bewerken via het snelmenu of via &quot;[!UICONTROL Edit Multiple]&quot; in het venster Beheren.
 

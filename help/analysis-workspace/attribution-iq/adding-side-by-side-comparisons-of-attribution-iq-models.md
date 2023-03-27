@@ -11,7 +11,7 @@ kt: 1705
 role: User
 level: Intermediate
 exl-id: 3c259132-250a-4579-a4d8-344e0b0055f1
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Leer in deze video hoe u snel kunt vergelijken [!DNL Attribution IQ models]inclusief een automatisch gemaakte kolom die het procentuele verschil tussen de getallen van de twee modellen aangeeft.
 
->[!VIDEO](https://video.tv.adobe.com/v/23651/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23651/?quality=12&learn=on)
 
 >[!INFO]
 >

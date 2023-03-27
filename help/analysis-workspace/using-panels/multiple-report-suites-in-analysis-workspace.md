@@ -10,7 +10,7 @@ kt: 4820
 role: User
 level: Beginner
 exl-id: ae9e55c0-a9ab-4b71-8a00-67a2c31a7676
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 25%
@@ -21,7 +21,7 @@ ht-degree: 25%
 
 Meerdere [!UICONTROL report suites] kan in één enkele [!DNL Workspace] project selecteren [!UICONTROL report suites] op paneelniveau. Op deze manier kunt u een analyse van vensters naast elkaar uitvoeren voor verschillende datasets.
 
->[!VIDEO](https://video.tv.adobe.com/v/32843/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32843/?quality=12&learn=on)
 
 >[!TIP]
 >

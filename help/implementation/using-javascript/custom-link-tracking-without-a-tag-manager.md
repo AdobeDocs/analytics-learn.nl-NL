@@ -10,7 +10,7 @@ kt: 1845
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Er zijn twee functies die gegevens naar Adobe Analytics verzenden:
 >
 >In deze video tonen we u hoe u een aangepaste aanraakactie codeert wanneer u GEEN tagmanager gebruikt, zoals Adobe [!DNL Experience Platform Launch]. We raden u aan [!DNL Experience Platform Launch], onze aanbevelingen voor beste praktijken voor de uitvoering. Nochtans, als u in een `s.tl()`, hier is hoe u dit kunt doen.
 
->[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12&learn=on)
 
 ## Voorbeeldcode {#sample-code}
 

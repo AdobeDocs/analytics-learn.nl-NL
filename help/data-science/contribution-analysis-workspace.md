@@ -10,7 +10,7 @@ kt: 2337
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: fd939c04-f28c-4b84-9768-2e9644945afb
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Deze video doorloopt [!UICONTROL Contribution Analysis] en het vermogen om machine het leren te gebruiken om de factoren snel en gemakkelijk te verklaren die tot een trend in uw gegevens hebben bijgedragen.
 
->[!VIDEO](https://video.tv.adobe.com/v/25443/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25443/?quality=12&learn=on)
 
 [!UICONTROL Contribution Analysis] is beschikbaar in Analysis Workspace voor klanten van Adobe Analytics Premium.
 

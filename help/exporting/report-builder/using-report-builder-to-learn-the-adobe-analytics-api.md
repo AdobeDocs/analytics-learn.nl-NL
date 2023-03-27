@@ -10,7 +10,7 @@ kt: 2345
 role: User
 level: Intermediate
 exl-id: 8b8e0dac-2498-4fba-ba4b-585b309ae1fd
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 [!UICONTROL Report Builder] is iets dat we allemaal kennen en liefhebben. Dus wat als ik je vertelde dat je kon gebruiken wat je weet over [!UICONTROL Report Builder] om uw Adobe Analytics-skillset nog verder te ontwikkelen? In deze video bekijken we hoe we foutopsporing kunnen uitvoeren [!UICONTROL Report Builder] verzoeken en gebruiken hen leren hoe te om uw te ambten [!DNL Analytics] API-query&#39;s.
 
->[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12&learn=on)
 
 **BIJWERKEN**: [!UICONTROL Report Builder] bijgewerkt hoe de gegevens iets worden opgevraagd. U kunt de benadering van deze video nog gebruiken, maar de informatie zal lichtjes verschillend in debugger zijn.
 
