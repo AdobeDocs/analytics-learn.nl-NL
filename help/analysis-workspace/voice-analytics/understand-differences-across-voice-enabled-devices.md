@@ -10,9 +10,9 @@ kt: 2905
 role: User
 level: Intermediate
 exl-id: 73cb28d8-1078-4d70-a4ce-76427c550fc3
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Leer hoe te om de verschillende prestaties en de functionaliteit over diverse stem-gesteunde apparaten te begrijpen helpen productroadmap voorrang geven.
 
->[!VIDEO](https://video.tv.adobe.com/v/27225/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27225/?quality=12&learn=on)
