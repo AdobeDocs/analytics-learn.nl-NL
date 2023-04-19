@@ -10,10 +10,10 @@ kt: 2837
 role: Developer, Data Engineer
 level: Beginner
 exl-id: b4e89144-730e-4256-9c9f-c38f9c814e7b
-source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
+source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 Als u net aan de slag gaat met Experience Platform Launch en de Adobe Analytics [!UICONTROL Extension], kan deze video u helpen met de [!UICONTROL General] instellingengedeelte van de configuratie, inclusief het instellen van de trackingserver.
 
->[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=12&learn=on)
 
 Raadpleeg de volgende documentatieonderwerpen voor aanvullende informatie over de aspecten van dit gebruiksgeval:
 
