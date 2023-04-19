@@ -10,9 +10,9 @@ kt: 2855
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 73ea8c36-66e3-4800-b0b0-f27e94cb4aaa
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Als u net aan de slag gaat met Experience Platform Launch en de Adobe Analytics [!UICONTROL Extension]kunt u met deze video beter begrijpen wanneer en waar u wilt instellen [!UICONTROL global variables], zoals waarden die u op elke pagina wilt instellen of waarop u wilt klikken.
 
->[!VIDEO](https://video.tv.adobe.com/v/27181/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27181/?quality=12&learn=on)
