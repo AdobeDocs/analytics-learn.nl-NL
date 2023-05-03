@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: d7b1fac5c98080f9ca786ea21a3700d2937c7ebc
+source-git-commit: 5d20da6a06c9395f56bccbc97ba1d7fb8bb49ff8
 workflow-type: tm+mt
 source-wordcount: '1883'
 ht-degree: 0%
@@ -92,7 +92,7 @@ Als je ALLE Terug naar de Toekomstige films hebt gezien, dan weet je dat Marty M
 
 1. Iets eerder **13:30** op **26 oktober 1985**, Marty McFly gaat terug in de tijd naar **5 november 1955**, waar hij voor het eerst over een dennenboom loopt in een tijdreis van DeLorean.  In de komende anderhalf jaar communiceert hij met meerdere mensen, waaronder zijn ouders, die uiteindelijk de toekomst beïnvloeden door zijn vader te beïnvloeden om op te komen voor een pestkop genaamd Biff, zodat zijn vader zijn eigen potentieel kan realiseren om een succesvolle wetenschapsauteur te worden.
 1. Later dezelfde ochtend op **26 oktober 1985** Dr. Emmett Brown komt aan op de autoweg van Marty McFly om hem en zijn vriendin te informeren dat er iets verschrikkelijk mis is gegaan met hun kinderen en ze moeten naar de toekomst gaan om hun problemen op te lossen.  Terwijl ze vertrekken, is hun vertrek getuige van Biff, die het vreemd vindt om een vlucht DeLorean te zien.  Later, in de toekomst, als Biff weer getuige is van een vliegende DeLorean en zelfs later nog zicht krijgt op &quot;twee versies&quot; van Marty, begint hij de zaken samen te stellen.   Toen hij Doc Brown en Marty hoorde beweren dat de &quot;tijdmachine&quot; nooit gebruikt zou moeten worden voor persoonlijk gewin en alleen voor onderzoek (omdat Marty had gepoogd een sportalmanac terug te nemen naar het verleden om wat persoonlijke weddenschappen te maken), steelt Biff de tijdmachine terwijl de twee de sport almanac in het verleden afleiden naar zijn jongere zelf.
-1. Na hun reis naar de toekomst keren Doc Brown en Marty terug naar een **26 oktober 1985** Ze herkennen het niet en ze trekken uit dat de tijdlijnen zijn gewijzigd door een kwaadaardig bijval.  Ze moeten zich realiseren wat er is gebeurd, Doc en Marty willen terugkeren naar **12 november 1955**, de fatale nacht toen alles veranderd werd door Marty toen hij voor het eerst bezocht **1955**.  Doc en Marty besparen uiteindelijk de dag door de almanac van de sport die Old Biff van de toekomst had geleverd aan Young Biff terug te sturen **1955**, maar niet zonder een andere twist moet je echt de volledige trilogie van films bekijken om echt te genieten en te begrijpen.
+1. Na hun reis naar de toekomst keren Doc Brown en Marty terug naar een **26 oktober 1985** Ze herkennen het niet en ze trekken uit dat de tijdslijn veranderd is door een kwaadaardig bijval.  Ze moeten zich realiseren wat er is gebeurd, Doc en Marty willen terugkeren naar **12 november 1955**, de fatale nacht toen alles veranderd werd door Marty toen hij voor het eerst bezocht **1955**.  Doc en Marty besparen uiteindelijk de dag door de almanac van de sport die Old Biff van de toekomst had geleverd aan Young Biff terug te sturen **1955**, maar niet zonder een andere twist moet je echt de volledige trilogie van films bekijken om echt te genieten en te begrijpen.
 
 Afhankelijk van onze **Attributiemodel** en **Venster Opzoeken** We kunnen uiteindelijk met een paar interessante scenario&#39;s komen:
 
@@ -109,7 +109,7 @@ Wat betekent dit voor ons als analisten?
 
 De **Deelvenster Kenmerken** en **Venster Opzoeken** geven ons de macht om voorbij de eenvoudige, oppervlakte-vlakke gegevens te kijken en dieper in de klantenreis te duiken. Door te begrijpen welke aanraakpunten de grootste invloed op conversies hebben gehad, kunnen we geïnformeerde beslissingen nemen over onze marketingstrategieën en effectiever middelen toewijzen.
 
-Herinner me, nadat u hebt **Attributiemodellen** en **Windows opzoeken** geselecteerd, hebt u nog de capaciteit om uw gegevens verder te manipuleren door het met een segment of een andere component te filtreren u wenst.  Bovendien beschikt u na het weergeven van het deelvenster over alle functies van een traditioneel **Werkruimte**, wat betekent dat je officieel bevoegd bent om 88 mph te besturen!
+Herinner me, nadat u hebt **Attributiemodellen** en **Windows opzoeken** geselecteerd, hebt u nog de capaciteit om uw gegevens verder te manipuleren door het met een segment of een andere component te filtreren u wenst.  Bovendien beschikt u na het weergeven van het deelvenster over alle functies van een traditioneel **Werkruimte**, wat betekent dat je officieel toestemming hebt om 88 mph te besturen!
 
 ## Tot slot de richtlijn in de praktijk brengen
 
