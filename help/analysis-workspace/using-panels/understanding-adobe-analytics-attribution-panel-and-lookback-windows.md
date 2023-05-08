@@ -8,9 +8,9 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: 5d20da6a06c9395f56bccbc97ba1d7fb8bb49ff8
+source-git-commit: 48dbac6921a69dbdba1e98bf412ff55ceb27baf5
 workflow-type: tm+mt
-source-wordcount: '1883'
+source-wordcount: '1881'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ Eenvoudig gezegd, als 10 mensen op een knop drukken om door een deur te stappen,
 * **Laatste aanraking**: Het klinkt precies zo.   Dit model geeft 100% krediet aan de laatste persoon die de deur in liep.  Dit model wordt vaak gebruikt om dingen als Onderzoek en kortetermijnmarketing cycluscampagnes te analyseren.
 * **Lineair**: Dit geeft evenveel eer aan elke persoon die door de deur liep.  Dat klopt - Je krijgt een DeLorean, en je krijgt een DeLorean, en je krijgt een DeLorean.  IEDEREEN HEEFT EEN DELOREAN!!
 * **U-vorm**: Deze geeft 40 procent van het krediet aan de eerste in de deur, spreidt 20 procent van het krediet naar iedereen ertussen en geeft dan 40 procent aan de laatste erdoor.  Denk aan een situatie waarin je de meerderheidsomzettingen zowel aan de voor- als aan de achterkant wilt herkennen, maar ook een klein deel van de kredieten wil doorhalen voor een aantal van de interacties die daartussen bijdragen.
-* **Tijdverlies**: Ik zou deze niet met u delen voordat ik u naar de officiële documentatie stuurt om de resterende modellen te bekijken.  Net als Doc Brown&#39;s plutonium heeft dit model letterlijk een halfwaardetijd die exponentieel vervalt!  In dit geval is de standaardparameter voor de halfwaardetijd van dit model 7 dagen.  De manier het werkt is dan gewicht op elk Kanaal van de Marketing toe te passen, die op de hoeveelheid tijd wordt gebaseerd die na het aanvankelijke aanraakpunt overgaat en wanneer de klant omzet.
+* **Tijdverlies**: Ik zou deze niet met u delen voordat ik u de officiële documentatie stuurt om de resterende modellen te bekijken.  Net als Doc Brown&#39;s plutonium heeft dit model letterlijk een halfwaardetijd die exponentieel vervalt!  In dit geval is de standaardparameter voor de halfwaardetijd van dit model 7 dagen.  De manier het werkt is dan gewicht op elk Kanaal van de Marketing toe te passen, die op de hoeveelheid tijd wordt gebaseerd die na het aanvankelijke aanraakpunt overgaat en wanneer de klant omzet.
 
 Voor meer informatie hierover en de overige **Attributiemodellen**, [klik hier](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html).
 
@@ -82,7 +82,7 @@ Yup, hier gaan we - neem ons terug in de tijd!!  Want hier begint de pret!
 
 Adobe definieert **Windows opzoeken** als &quot; de hoeveelheid tijd die een conversie moet terugkijken om aanraakpunten op te nemen . Attributiemodellen die meer krediet geven aan eerste interacties zien grotere verschillen bij het weergeven van verschillende terugkijkvensters.&quot;
 
-* **Het terugkijkvenster van de bezoek**: Kijkt terug naar het begin van een bezoek toen een omzetting plaatsvond
+* **Het terugkijkvenster van de bezoek**: Kijkt terug naar het begin van een bezoek toen een conversie plaatsvond.
 * **Het terugkijkvenster van de bezoeker**: Kijkt naar alle bezoeken terug tot de eerste van de maand van de huidige datumwaaier.
 * **Aangepast terugzoekvenster**: Staat u toe om het Venster van de Attributie buiten de rapporteringsdatumwaaier tot maximaal uit te breiden **90 dagen**.
 
