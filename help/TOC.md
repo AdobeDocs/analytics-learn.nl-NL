@@ -3,9 +3,9 @@ user-guide-title: Tutorials voor Adobe Analytics
 user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
-source-git-commit: b11a8a838efbf7321eb73105c114122e3aeb294a
+source-git-commit: 1c4c7876ad5f4cfe6c41ff6a8cbf72fa9e787173
 workflow-type: tm+mt
-source-wordcount: '2397'
+source-wordcount: '2404'
 ht-degree: 7%
 
 ---
@@ -204,6 +204,7 @@ ht-degree: 7%
       + [Cohortanalyse met elke Dimension](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
       + [Latentieanalyse met cohorttabellen](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
       + [Rolretentie berekenen in kleurentabellen](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
+      + [Cohortanalyse gebruiken om het gedrag van de klant te begrijpen](analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.md)
    + Spraakanalyse {#voice-analytics}
       + [Hoe te om Uw Gegevens van de HulpApp van de Stem te beheren en te volgen](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
       + [Begrijp Verschillen over stem-Toegelaten Apparaten Apparaten](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
