@@ -3,9 +3,9 @@ user-guide-title: Tutorials voor Adobe Analytics
 user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
-source-git-commit: 1c4c7876ad5f4cfe6c41ff6a8cbf72fa9e787173
+source-git-commit: b11a329ca3f5c676aea08c7037e5ee87003edfe6
 workflow-type: tm+mt
-source-wordcount: '2404'
+source-wordcount: '2434'
 ht-degree: 7%
 
 ---
@@ -128,6 +128,7 @@ ht-degree: 7%
       + [Visualisaties van overzichtsaantal en overzichtsverandering](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
       + [Belangrijkste metrische overzichtsvisualisatie](analysis-workspace/visualizations/key-metric-summary.md)
       + [Tekstvisualisatie](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
+      + [Meer dan woorden - tekstvisualisaties en beschrijvingen gebruiken](analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
       + [Spreiding visualisatie](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Treemap visualisatie](analysis-workspace/visualizations/treemap-visualization.md)
       + [Visualisatie vendiagram](analysis-workspace/visualizations/venn-diagram-visualization.md)
@@ -322,6 +323,7 @@ ht-degree: 7%
       + [Dimension Modellen in segmentatie](components/segmentation/dimension-models-in-segmentation.md)
       + [Gelijk aan om het even welke exploitant in segmentatie](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Analyses Insider-webinar - Segmentatiestrategieën van klanten](components/segmentation/customer-segmentation-strategies.md)
+      + [Wacht nu gewoon een segment... met segmentatie om nieuwe inzichten te ontdekken](components/segmentation/segmentation-to-discover-new-insights.md)
    + Berekende statistieken {#calculated-metrics}
       + [De functie Aantal bij benadering onderscheiden in berekende metriek](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Attribution IQ in berekende cijfers](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
@@ -332,6 +334,7 @@ ht-degree: 7%
       + [Berekende cijfers - metrische kiezer](components/calculated-metrics/calculated-metrics-metric-selector.md)
       + [Snel berekende cijfers in Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [Dimension gebruiken in berekende cijfers](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
+      + [Breng uw gegevensanalyse naar het volgende niveau met Berekende Metriek](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + Classificaties {#classifications}
       + [Overzicht van classificaties](components/classifications/overview-of-classifications.md)
       + [De opbouwfunctie voor classificatieregels gebruiken](components/classifications/using-the-classification-rule-builder.md)
