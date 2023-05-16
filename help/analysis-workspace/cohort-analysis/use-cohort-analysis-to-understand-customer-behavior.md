@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-16T00:00:00Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
-source-git-commit: 5988e9d68f0c2200168da56373259bdf9f4f901b
+source-git-commit: 1b82bc495f72b099c44a1118145a63c255dcc62a
 workflow-type: tm+mt
 source-wordcount: '1110'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Huidige digitale prestaties
 1. Voor beide, 11,6% versus 11,4%, zetten de eerste bezoeken een iets hogere conversie uit dan terugkeerbezoeken.
 1. Vergeleken met 2021 daalden de omrekeningskoersen voor beide segmenten.
 
-![Bezoektabel](assets/visits-table.png)
+![Bezoektabel](assets/cohort1.png)
 
 ## Deel 2: Cohortanalyse - Bezoek Eetbare Rangschikkingen Wereldwijde Pro
 
@@ -70,14 +70,14 @@ Procedure voor het instellen van de cohortabel
 1) Maanden met de meeste volumes zijn februari en mei
 1) Er zijn ongeveer 1.000 bezoekers die elke maand naar de site terugkeren
 
-![2022-retentietabel](assets/2022-retention-table.png)
+![2022-retentietabel](assets/cohort2.png)
 
 **In 2021:**
 
 1) Maanden met de hoogste aanhoudingspercentages +1 maand omvatten april, januari en maart
 1) Maanden met de meeste volumes zijn februari en mei
 
-![2021 Bewaartabel](assets/2021-retention-table.png)
+![2021 Bewaartabel](assets/cohort3.png)
 
 **Actiepunten:**
 
@@ -128,7 +128,7 @@ Wat zou het effect zijn als wij meer gebruikers aan login konden krijgen? Is dat
 
 Bekijk de gebruikerservaring van de site om gebruikers te vragen een account te maken tijdens de afhandeling
 
-![Tabel 4](assets/cohort-table-4.png)
+![Tabel 4](assets/cohort4.png)
 
 ## Deel 4: Aangepaste Dimension-cohort
 
@@ -156,7 +156,7 @@ In de tabel Aangepaste Dimension-cohort worden producten gemarkeerd die een hoge
 1) Product 2
 1) Product 3 — levert vaak hogere retentie op dan gemiddeld retentie.
 
-![Tabel 5](assets/cohort-table-5.png)
+![Tabel 5](assets/cohort5.png)
 
 ## Conclusie
 
