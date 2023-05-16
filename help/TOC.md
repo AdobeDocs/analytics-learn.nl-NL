@@ -3,9 +3,9 @@ user-guide-title: Tutorials voor Adobe Analytics
 user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
-source-git-commit: a62da18115dc8d6c23eb95b9a1345312c8ac92ef
+source-git-commit: b11a8a838efbf7321eb73105c114122e3aeb294a
 workflow-type: tm+mt
-source-wordcount: '2391'
+source-wordcount: '2397'
 ht-degree: 7%
 
 ---
@@ -231,6 +231,7 @@ ht-degree: 7%
       + [Een interne Adobe Analytics-site maken](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [Een algemene rapportsuite gebruiken](administration/admin-tips/use-a-global-report-suite.md)
       + [Een nieuws- en aankondigingsproject maken](administration/admin-tips/create-a-news-and-announcements-project.md)
+      + [Het drijven succes met uitvoerende summiere dashboards](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + Bedrijfsinstellingen {#company-settings}
       + [E-maildomeinbeperkingen afdwingen](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Beschikbare functies van uw account weergeven](administration/company-settings/view-your-accounts-available-features.md)
