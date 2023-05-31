@@ -9,9 +9,9 @@ doc-type: feature video
 thumbnail: 332454.jpg
 kt: 7440
 exl-id: feb04719-8d70-403d-9546-f42a32442113
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,3 @@ In deze video ziet u hoe u de verschillende opties voor datumbereiken kunt beher
 >[!VIDEO](https://video.tv.adobe.com/v/332454/?quality=12&learn=on)
 
 Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html).
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus [Adobe Analytics-gegevens exporteren en democratiseren](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), gratis beschikbaar op Experience League!

@@ -10,9 +10,9 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,3 @@ Aanpassingen voor de [!UICONTROL Cohort Table] de mogelijkheid om
 De gemiddelde rij is vooral handig voor weergave [!UICONTROL retention] of [!UICONTROL churn] over het geheel genomen, in plaats van per individu [!UICONTROL cohort] rijen.
 
 Voor meer informatie over [!UICONTROL cohort] analyse, bezoek de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=en).
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus [Waarde toewijzen aan Digital Touch-punten op de reis van de klant](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), gratis beschikbaar op Experience League!

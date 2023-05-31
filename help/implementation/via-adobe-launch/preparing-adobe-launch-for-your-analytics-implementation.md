@@ -6,10 +6,10 @@ kt: 3584
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 057b7a82-882d-4cee-beb0-2dfc1e6c94b4
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 3%
+source-wordcount: '95'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,3 @@ ht-degree: 3%
 Voordat u Experience Platform Launch gebruikt om te implementeren [!DNL Analytics], moet u bepaalde documenten hebben staan en wilt u al een aantal dingen in het systeem hebben ingesteld, zowel in [!DNL Analytics] en in [!DNL Launch]. Deze video gaat over die dingen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28752/?quality=12&learn=on)
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus [Implementatie met instructies-analyse](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), gratis beschikbaar op Experience League!

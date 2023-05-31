@@ -7,9 +7,9 @@ kt: 1661
 role: User
 level: Intermediate
 exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad8
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -29,10 +29,3 @@ Elke toewijzing [!UICONTROL model] volledig steunt segmentatie en onderverdeling
 * [!DNL Adobe Analytics Prime]
 * [!DNL Adobe Analytics Ultimate]
 
->[!INFO]
->
-> Deze video maakt deel uit van een cursus: [Freeform Tables, de Stichting van Analyse](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), gratis beschikbaar op Experience League!
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus [Waarde toewijzen aan Digital Touch-punten op de reis van de klant](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), gratis beschikbaar op Experience League!

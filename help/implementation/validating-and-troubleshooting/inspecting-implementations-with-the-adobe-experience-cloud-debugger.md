@@ -10,10 +10,10 @@ kt: 1942
 role: Developer, Data Engineer
 level: Beginner
 exl-id: c13a5973-3c7a-4980-95c5-447b50b962c7
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,7 +24,3 @@ De [!DNL Experience Cloud debugger] is een hulpmiddel dat gebruikers toestaat om
 >[!VIDEO](https://video.tv.adobe.com/v/23878/?quality=12&learn=on)
 
 U leert zien wat er op verschillende pagina&#39;s gebeurt, hoe u vriendelijke namen van variabelen laadt en hoe u resultaten exporteert voor gevallen van geavanceerd gebruik.
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus [Implementatie met instructies-analyse](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), gratis beschikbaar op Experience League!

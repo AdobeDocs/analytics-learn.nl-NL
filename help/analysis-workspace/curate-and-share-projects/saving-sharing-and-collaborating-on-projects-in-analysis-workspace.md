@@ -7,10 +7,10 @@ level: Beginner
 thumbnail: 33634.jpg
 kt: 4108
 exl-id: 6086f4b7-e8a7-4b04-90c7-1721ee31646e
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 4%
+source-wordcount: '82'
+ht-degree: 0%
 
 ---
 
@@ -21,8 +21,3 @@ In deze video leert u hoe u projecten voor uzelf kunt opslaan en exporteren, pro
 >[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12&learn=on)
 
 Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html).
-
->[!INFO]
->
-> Deze video maakt deel uit van meerdere cursussen [Aan de slag met Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) en [Adobe Analytics-gegevens exporteren en democratiseren](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing) gratis beschikbaar op Experience League!
-

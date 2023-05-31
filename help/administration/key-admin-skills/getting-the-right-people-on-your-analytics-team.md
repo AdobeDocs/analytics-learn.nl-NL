@@ -6,10 +6,10 @@ kt: 3563
 role: Admin
 level: Beginner
 exl-id: ea671adf-c290-4cbe-b65d-2ebdf980b76b
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 3%
+source-wordcount: '97'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,3 @@ ht-degree: 3%
 Het is erg belangrijk om de juiste mensen in uw team op te nemen wanneer u Adobe Analytics implementeert en de activiteiten op uw site analyseert. Deze video geeft u een snelle onderbreking van de verschillende rollen u zult willen vullen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28756/?quality=12&learn=on)
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus [Implementatie met instructies-analyse](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), gratis beschikbaar op Experience League!

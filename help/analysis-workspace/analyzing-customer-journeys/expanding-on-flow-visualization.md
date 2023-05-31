@@ -11,9 +11,9 @@ kt: 2280
 role: User
 level: Beginner
 exl-id: 080edb20-1005-4a9e-8067-167a2dd575be
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,3 @@ In deze video ziet u de verschillende opties voor klikken met de rechtermuisknop
 
 Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=en#analysis-workspace).
 
->[!INFO]
->
-> Deze video maakt deel uit van een cursus [Waarde toewijzen aan Digital Touch-punten op de reis van de klant](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), gratis beschikbaar op Experience League!

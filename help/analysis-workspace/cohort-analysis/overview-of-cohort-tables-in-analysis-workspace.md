@@ -11,9 +11,9 @@ kt: 2477
 role: User
 level: Intermediate
 exl-id: 3c0b0814-61b0-43ad-b69c-9e55555d4edd
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,3 @@ De [!UICONTROL Rolling Calculation] instellen binnen [!UICONTROL Cohort Tables] 
 >[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12&learn=on)
 
 Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus [Waarde toewijzen aan Digital Touch-punten op de reis van de klant](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), gratis beschikbaar op Experience League!

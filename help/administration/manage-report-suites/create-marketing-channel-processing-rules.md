@@ -9,9 +9,9 @@ doc-type: feature video
 thumbnail: 340792.jpg
 kt: 9624
 exl-id: fc07dd0f-76dd-40a6-b8f2-e777eac2473b
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,3 @@ In deze video, lopen wij door hoe te om verwerkingsregels voor marketing kanalen
 >Om de doeltreffendheid van de Marketing Kanalen voor Attribution IQ en Customer Journey Analytics te maximaliseren, publiceerden wij sommige [herziene beste praktijken](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=en).
 
 Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-rules.html?lang=en).
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus [Configuratie en beheer van rapportsuite in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), gratis beschikbaar op Experience League!

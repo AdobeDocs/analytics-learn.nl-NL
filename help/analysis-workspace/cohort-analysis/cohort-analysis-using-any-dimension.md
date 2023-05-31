@@ -10,9 +10,9 @@ kt: 2478
 role: User
 level: Intermediate
 exl-id: 0bb472c0-83e6-44cb-8fca-658355ae3e50
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,3 @@ De aangepaste [!UICONTROL Cohort] [!UICONTROL Dimension] kunt u analyseren [!UIC
 >[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12&learn=on)
 
 Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus [Waarde toewijzen aan Digital Touch-punten op de reis van de klant](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), gratis beschikbaar op Experience League!

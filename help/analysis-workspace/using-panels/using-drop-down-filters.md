@@ -7,9 +7,9 @@ kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,3 @@ De dropzone van het deelvenster heeft nu vervolgkeuzemogelijkheden voor filteren
 Vervolgkeuzelijsten zijn een handige manier om projecten en deelvensters te consolideren. Bijvoorbeeld, als u verscheidene versies van een project hebt dat land-specifieke rapportering verstrekt, kunt u die projecten in één enkel project nu doen ineenstorten, en in een landdrop-down toevoegen die de gebruikers tussen kunnen schakelen.
 
 Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=en).
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus [Gegevens filteren met aangepaste segmentatie en datums](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), gratis beschikbaar op Experience League!

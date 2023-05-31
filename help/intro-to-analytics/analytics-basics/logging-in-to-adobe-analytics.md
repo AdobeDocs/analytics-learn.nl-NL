@@ -6,10 +6,10 @@ kt: 3566
 role: User
 level: Beginner
 exl-id: a7c5c6ba-7517-4407-a914-e125ef9db862
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 5%
+source-wordcount: '49'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,3 @@ ht-degree: 5%
 In deze video laten we u aanmelden, zodat u kunt inloggen en beheren [!DNL Analytics]en uw analyse.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28771/?quality=12&learn=on)
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus [Implementatie met instructies-analyse](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), gratis beschikbaar op Experience League!

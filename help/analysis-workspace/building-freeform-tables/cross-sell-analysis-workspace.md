@@ -7,9 +7,9 @@ kt: 2367
 role: User
 level: Beginner
 exl-id: b9c01772-8c48-4baf-a85d-faabf5bdb846
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 0%
 In deze video leert u hoe u een cross-sell-rapport kunt maken in Analysis Workspace en dit nog verder kunt uitbreiden naar elke multigetaxeerde dimensie of classificatie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12&learn=on)
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus: [Freeform Tables, de Stichting van Analyse](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), gratis beschikbaar op Experience League!

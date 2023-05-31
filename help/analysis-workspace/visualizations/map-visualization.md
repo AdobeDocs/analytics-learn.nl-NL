@@ -7,9 +7,9 @@ kt: 1771
 role: User
 level: Beginner
 exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,3 @@ In deze video ziet u hoe u de kaartvisualisatie in Analysis Workspace kunt gebru
 >[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12&learn=on)
 
 Ga voor meer informatie over deze visualisatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=en).
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus: [Visualisaties gebruiken om uw gegevensartikelen te vertellen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations), gratis beschikbaar op Experience League!

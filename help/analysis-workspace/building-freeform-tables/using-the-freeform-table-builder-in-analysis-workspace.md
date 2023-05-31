@@ -7,9 +7,9 @@ kt: 4217
 role: User
 level: Beginner
 exl-id: 4cf94512-e4e4-418f-b759-db5feff272e6
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 0%
 [!DNL Freeform table builder] staat u toe om in vele dimensies, onderverdelingen, metriek en segmenten te slepen en te laten vallen om lijsten te bouwen die complexere bedrijfsvragen beantwoorden. Gegevens worden niet ter plekke bijgewerkt; in plaats daarvan wordt de tabel bijgewerkt wanneer u op &quot;Samenstellen&quot; klikt, zodat u tijd bespaart omdat de tabel slechts eenmaal wordt bijgewerkt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31318/?quality=12&learn=on)
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus: [Freeform Tables, de Stichting van Analyse](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), gratis beschikbaar op Experience League!

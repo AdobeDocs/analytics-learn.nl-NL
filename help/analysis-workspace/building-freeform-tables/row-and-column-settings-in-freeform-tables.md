@@ -7,9 +7,9 @@ kt: 6225
 role: User
 level: Beginner
 exl-id: 976119f0-16b7-4d36-8d0e-0a552c83a614
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 0%
 Leer meer over de instellingen in Freeform-tabellen in Analysis Workspace en hoe deze van invloed zijn op de gegevens die in deze tabellen worden ingevoerd.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40382/?quality=12&learn=on)
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus: [Freeform Tables, de Stichting van Analyse](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), gratis beschikbaar op Experience League!

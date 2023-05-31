@@ -7,9 +7,9 @@ kt: 1699
 role: User
 level: Beginner
 exl-id: 17423156-1e0c-4698-9af2-b59f0753176f
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,3 @@ In Analysis Workspace bieden we nu meer filterbeheer met 11 filtercriteria en EN
 Ga voor meer informatie over de beschikbare filters naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html#cja-workspace?lang=en).
 
 **Opmerking:** Geavanceerde speciale tekens zijn niet beschikbaar in Analysis Workspace.
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus: [Freeform Tables, de Stichting van Analyse](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), gratis beschikbaar op Experience League!

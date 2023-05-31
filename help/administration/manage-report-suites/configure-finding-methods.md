@@ -9,9 +9,9 @@ doc-type: feature video
 thumbnail: 333042.jpg
 kt: 7708
 exl-id: 2cee782a-1d21-47e6-ab47-911b7610c7f2
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,3 @@ In deze video leert u hoe u de instellingen kunt configureren die bepalen hoe zo
 >[!VIDEO](https://video.tv.adobe.com/v/333042/?quality=12&learn=on)
 
 Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html).
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus [Configuratie en beheer van rapportsuite in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), gratis beschikbaar op Experience League!

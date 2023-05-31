@@ -6,10 +6,10 @@ kt: 3589
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 57bc5a02-6b78-48e2-9b67-85b97fe52d6a
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 3%
+source-wordcount: '97'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,3 @@ ht-degree: 3%
 Wanneer u Adobe Analytics op uw site implementeert, raadt Adobe u aan te controleren wat u onderweg doet. De [!DNL Experience Cloud debugger] Hiermee kunt u dit bereiken. In deze video wordt getoond hoe u het laden van uw algemene pagina kunt valideren [!UICONTROL rule] met de [!DNL debugger].
 
 >[!VIDEO](https://video.tv.adobe.com/v/28776/?quality=12&learn=on)
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus [Implementatie met instructies-analyse](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), gratis beschikbaar op Experience League!

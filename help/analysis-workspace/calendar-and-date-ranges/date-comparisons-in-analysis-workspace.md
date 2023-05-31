@@ -7,9 +7,9 @@ kt: 2011
 role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -23,12 +23,3 @@ In deze video laten we u zien hoe u twee vergelijkingsfuncties voor datums kunt 
 Datumvergelijkingen zijn een gemakkelijke manier om diepte toe te voegen aan uw huidige Analysis Workspace-tabellen en helpen u om uw huidige gegevens eenvoudig in perspectief te plaatsen op historische prestaties.
 
 Voor meer informatie over deze functie raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison.html?lang=en).
-
->[!INFO]
->
-> Deze video maakt deel uit van twee cursussen:
->
-> * [Freeform Tables, de Stichting van Analyse](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
-> * [Gegevens filteren met aangepaste segmentatie en datums](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)
->
-> Beide zijn gratis beschikbaar op Experience League!

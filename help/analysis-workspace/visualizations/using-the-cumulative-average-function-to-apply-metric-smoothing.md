@@ -7,9 +7,9 @@ kt: 2854
 role: User
 level: Beginner
 exl-id: c5d6ec8d-3d45-45bc-b690-97185d74bd18
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 0%
 Hoe langer de periode waarin [!UICONTROL metric] is trendmatig, des te moeilijker is het om richtingtrends voor de [!UICONTROL metric]. Om dit op te lossen, [!UICONTROL Cumulative Average] [!UICONTROL function] in [!UICONTROL Calculated Metrics] kan worden gebruikt om vloeiend maken toe te passen op [!UICONTROL metrics] in Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27068/?quality=12&learn=on)
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus: [Visualisaties gebruiken om uw gegevensartikelen te vertellen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations), gratis beschikbaar op Experience League!

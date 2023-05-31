@@ -7,9 +7,9 @@ kt: 2918
 role: User
 level: Beginner
 exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,3 @@ De nieuwe [!UICONTROL Distinct Count] in de [!UICONTROL Segment builder] toestaa
 Kan deze functie koeler zijn? :)
 
 Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=en).
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus [Gegevens filteren met aangepaste segmentatie en datums](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), gratis beschikbaar op Experience League!

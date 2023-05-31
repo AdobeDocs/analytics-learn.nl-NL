@@ -10,10 +10,10 @@ kt: 3587
 role: Developer, Data Engineer
 level: Beginner
 exl-id: ee3a808a-f972-46e4-9213-2bc5bba6e0fd
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 4%
+source-wordcount: '69'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,3 @@ ht-degree: 4%
 In deze video wordt getoond hoe u kunt maken [!UICONTROL data elements] voor uw [!DNL Analytics] uitvoering in [!DNL Experience Platform Launch], op basis van de in een [!DNL Solution Design Reference] (SDR) document.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12&learn=on)
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus [Implementatie met instructies-analyse](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), gratis beschikbaar op Experience League!

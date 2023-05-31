@@ -10,9 +10,9 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '286'
 ht-degree: 3%
 
 ---
@@ -38,7 +38,3 @@ Er zijn vele manieren u uw attributiemethodologie aan het volgende niveau met Ad
 * 4:30 - de montages van de kolom kunnen nu bulksgewijs worden bijgewerkt, in plaats van 1-bij-1. Meer informatie vindt u op 8:45 van de video: [Rij- en kolominstellingen in vrije-vormtabellen](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
 Ga voor meer informatie over dit onderwerp naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html).
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus [Waarde toewijzen aan Digital Touch-punten op de reis van de klant](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), gratis beschikbaar op Experience League!

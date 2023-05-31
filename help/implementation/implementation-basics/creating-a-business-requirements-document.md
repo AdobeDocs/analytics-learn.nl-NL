@@ -7,10 +7,10 @@ level: Beginner
 kt: 3580
 thumbnail: 28758.jpg
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 2%
+source-wordcount: '115'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,3 @@ Leer hoe belangrijk het is om gedragsgegevens te definiëren die u wilt vastlegg
 [Downloaden](assets/aa-implementation-playbook.xlsx) een sjabloon van voorbeeldExcel aan documentvereisten en het ontwerp van de gegevensinzameling voor uw digitale eigenschappen.
 
 [Downloaden](assets/geometrixx-clothiers-brd-sdr.xlsx) het Excel-document dat in deze video wordt gepresenteerd en/of de bijbehorende [referentievideo ontwerp oplossing](creating-and-maintaining-an-sdr.md).
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus [Implementatie met instructies-analyse](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), gratis beschikbaar op Experience League!

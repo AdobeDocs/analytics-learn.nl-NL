@@ -7,9 +7,9 @@ kt: 6176
 role: User
 level: Beginner
 exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42db
-source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,3 @@ Onderwerpen die in de video worden behandeld, inclusief tijden:
 * Dimension als filters (8:30)
 * Uitsplitsingen (9:48)
 * Gerangschikt, in tijd, en Getrafte Rapporten (13:11)
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus: [Freeform Tables, de Stichting van Analyse](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), gratis beschikbaar op Experience League!

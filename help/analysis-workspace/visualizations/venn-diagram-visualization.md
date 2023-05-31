@@ -7,9 +7,9 @@ role: User
 level: Beginner
 thumbnail: 335798.jpg
 exl-id: 655034a6-42b9-4437-961b-02ad3da57d83
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,3 @@ U kunt overlappingen en doorsnede van segmenten in Analysis Workspace visueel we
 >[!VIDEO](https://video.tv.adobe.com/v/335798/?quality=12&learn=on)
 
 Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=en).
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus: [Visualisaties gebruiken om uw gegevensartikelen te vertellen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations), gratis beschikbaar op Experience League!

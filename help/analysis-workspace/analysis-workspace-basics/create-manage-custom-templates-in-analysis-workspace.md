@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 23231.jpg
 kt: 1695
 exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,3 @@ Analysis Workspace wordt geleverd met verschillende vooraf gedefinieerde sjablon
 
 Ga voor meer informatie over standaard- en aangepaste sjablonen naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html).
 
->[!INFO]
->
-> Deze video maakt deel uit van een cursus [Adobe Analytics-gegevens exporteren en democratiseren](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), gratis beschikbaar op Experience League!

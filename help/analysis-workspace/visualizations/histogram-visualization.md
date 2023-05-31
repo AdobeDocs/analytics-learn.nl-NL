@@ -7,9 +7,9 @@ kt: 1909
 role: User
 level: Beginner
 exl-id: a24a9c3d-9bb2-4d72-8b36-d33fda777e4d
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,3 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12&learn=on)
 
 Ga voor meer informatie over deze functie naar [de documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=en).
-
->[!INFO]
->
-> Deze video maakt deel uit van een cursus: [Visualisaties gebruiken om uw gegevensartikelen te vertellen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations), gratis beschikbaar op Experience League!
