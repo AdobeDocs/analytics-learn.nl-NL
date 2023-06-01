@@ -3,9 +3,9 @@ user-guide-title: Tutorials voor Adobe Analytics
 user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
-source-git-commit: db4cbbb061f4d0d4d1bc75463e7018ee55a8655e
+source-git-commit: 4d4e29d3dbc3cedf1847b7fa9cb79ea85fc36296
 workflow-type: tm+mt
-source-wordcount: '2435'
+source-wordcount: '2444'
 ht-degree: 7%
 
 ---
@@ -115,6 +115,7 @@ ht-degree: 7%
       + [Visualisatietypen](analysis-workspace/visualizations/visualization-types.md)
       + [Gebruiksgevallen voor visualisatie](analysis-workspace/visualizations/visualization-use-cases.md)
       + [Te visualiseren gegevens selecteren](analysis-workspace/visualizations/selecting-data-to-visualize.md)
+      + [Afspeelboek voor gegevensvisualisatie](analysis-workspace/visualizations/data-visualization-playbook.md)
       + [Gegevens ophalen in visualisaties](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Onderdeeldropdowns in Workspace gebruiken](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Gebied en gebied gestapelde visualisaties](analysis-workspace/visualizations/area-and-area-stacked.md)
@@ -181,6 +182,7 @@ ht-degree: 7%
       + [Opslaan, delen en samenwerken aan projecten in Analysis Workspace](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Curation and Sharing in Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Directe koppeling naar een project](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
+      + [Delen met iedereen in Analysis Workspace](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
       + [50.000 items downloaden als CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [Exporteren naar CSV en PDF vanuit Analysis Workspace](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [Ingesloten componenten delen](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
