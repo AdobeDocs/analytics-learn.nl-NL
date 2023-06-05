@@ -3,9 +3,9 @@ user-guide-title: Tutorials voor Adobe Analytics
 user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
-source-git-commit: 4d4e29d3dbc3cedf1847b7fa9cb79ea85fc36296
+source-git-commit: 2fc695b576b9334aff52fe7a8eb4e88ab38a4b71
 workflow-type: tm+mt
-source-wordcount: '2444'
+source-wordcount: '2443'
 ht-degree: 7%
 
 ---
@@ -87,7 +87,6 @@ ht-degree: 7%
       + [Tabellen, visualisaties en deelvensters gebruiken in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Deelvenster Quick Insights in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Het deelvenster Attribution IQ gebruiken](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html)
-      + [Deelvenster Kenmerken van Adobe Analytics en Windows opzoeken](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
       + [Deelvenster Mediagelijktijdige viewers in Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [Deelvenster Tijd van afspelen van media](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
       + [Vervolgkeuzefilters gebruiken](analysis-workspace/using-panels/using-drop-down-filters.md)
@@ -236,6 +235,7 @@ ht-degree: 7%
       + [Een interne Adobe Analytics-site maken](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [Een algemene rapportsuite gebruiken](administration/admin-tips/use-a-global-report-suite.md)
       + [Een nieuws- en aankondigingsproject maken](administration/admin-tips/create-a-news-and-announcements-project.md)
+      + [Snel succes met uitgebreide overzichtsdashboards](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + Bedrijfsinstellingen {#company-settings}
       + [E-maildomeinbeperkingen afdwingen](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Beschikbare functies van uw account weergeven](administration/company-settings/view-your-accounts-available-features.md)
