@@ -3,9 +3,9 @@ title: Eenvoudige stapels voor meer efficiëntie en zelfbediening - deel twee
 description: Leer de belangrijkste uitdagingen waar Analytics-teams vandaag de dag voor staan, en onze aanbevelingen om deze te overwinnen met behulp van strategieën in gereedschappen.
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '705'
 ht-degree: 2%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 2%
 **Deel 2: Strategieën in gereedschappen**
 
 In dit artikel worden de belangrijkste uitdagingen beschreven waarmee analytische teams vandaag worden geconfronteerd, en onze aanbevelingen om deze te overwinnen met behulp van strategieën in gereedschappen. Ga [hier](/help/strategy/analytics-simple-hacks-for-efficiency-part-one.md) deel 1.
-
-Voor meer informatie over effectieve oplossingen buiten het Adobe Analytics-platform klikt u op [hier](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)
 
 ## Toetsen voor efficiëntie: Strategieën in gereedschappen
 
@@ -93,7 +91,5 @@ Gebruik annotaties om documentatieverwijzingen voor oplossingen in producten te 
 ## API voor Adobe 2.0-rapportage
 
 Gebruik de API voor rapportage om standaardrapporten te verplaatsen van [!UICONTROL Workspace] naar geplande rapporten en dashboards. Profiteer bovendien van [!UICONTROL Analysis Workspace] om API-aanvragen te maken.
-
-We hopen dat u dit artikel over strategieën in gereedschappen waardevol hebt gevonden. Voor meer informatie over effectieve oplossingen voor meer efficiëntie buiten het Adobe Analytics-platform klikt u op [hier](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
 
 Meer informatie over strategie en leiderschap bij de [Klant geslaagd](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) hub.

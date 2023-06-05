@@ -7,9 +7,9 @@ level: Beginner
 kt: 1852
 thumbnail: 25899.jpg
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Een gegevenslaag gebruiken voor [!DNL Analytics] en andere Experience Cloud oplo
 
 A _gegevenslaag_ is een framework van JavaScript-objecten dat ontwikkelaars toevoegen aan digitale webpagina&#39;s. De oplossingen van de analyse gebruiken uiteindelijk de gegevenslaag om rapporten te bevolken. Tagbeheersystemen, waaronder [!DNL Experience Platform Tags]) zijn de tussenpersonen die de gegevenslaag lezen, de waarden aan variabelen in kaart brengen, en die gegevens naar digitale ervaringsoplossingen verzenden.
 
-Aanvullende informatie over gegevenslagen in het dialoogvenster [Experience Cloud-documentatie](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=en) en de blog [Gegevenslagen: Van Buzzword naar aanbevolen procedures](https://blog.adobe.com/en/2014/03/13/data-layers-buzzword-best-practice).
+Aanvullende informatie over gegevenslagen in het dialoogvenster [Experience Cloud-documentatie](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=en).
 
 ## gegevenslagen, [!DNL Experience Platform Tags], en Adobe Analytics{#data-layers-launch-and-adobe-analytics}
 
