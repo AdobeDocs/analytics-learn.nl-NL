@@ -3,9 +3,9 @@ user-guide-title: Tutorials voor Adobe Analytics
 user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
-source-git-commit: 0e99202f5861310370cba2753339e8a9a45d6804
+source-git-commit: e4975a7fad9eb42ab4d2bbad99efb73cabea564e
 workflow-type: tm+mt
-source-wordcount: '2438'
+source-wordcount: '2445'
 ht-degree: 7%
 
 ---
@@ -65,11 +65,13 @@ ht-degree: 7%
       + [Componentbeheer in Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [Een rapportsuite selecteren in Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [Prestatiegegevens van Analysis Workspace weergeven](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
+      + [Beide rapporten maken](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
    + Tips en trucs {#tips-and-tricks}
       + [7 tips en trucs voor Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [Klikken met rechtermuisknop op tips en trucs voor efficiëntere workflows](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [Tips om de productiviteit in Analysis Workspace te verhogen](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [Klanttips voor het vervolgen van uw Adobe Analytics Learning-reis](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
+      + [Dynamische vervolgkeuzefilters maken](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
    + Navigeren door werkruimteprojecten {#navigating-workspace-projects}
       + [Gegevenswoordenboek in Analysis Workspace](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
       + [Projecten maken met behulp van sjablonen](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
