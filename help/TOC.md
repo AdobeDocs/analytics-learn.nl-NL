@@ -3,9 +3,9 @@ user-guide-title: Tutorials voor Adobe Analytics
 user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
-source-git-commit: 2fc695b576b9334aff52fe7a8eb4e88ab38a4b71
+source-git-commit: 0e99202f5861310370cba2753339e8a9a45d6804
 workflow-type: tm+mt
-source-wordcount: '2443'
+source-wordcount: '2438'
 ht-degree: 7%
 
 ---
@@ -37,7 +37,6 @@ ht-degree: 7%
       + [De analysecyclus begrijpen](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [Hoe analysegegevens worden verzameld](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Aanmelden bij Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
-      + [Introductie tot de gebruikersinterface voor analyse](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
       + [Het begrijpen van en het Creëren van de Reeksen van het Rapport](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
       + [Basisstatistieken van bezoekers](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
       + [Inleiding aan de Variabelen van het Verkeer (Keuringen)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
