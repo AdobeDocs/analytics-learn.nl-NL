@@ -3,9 +3,9 @@ user-guide-title: Tutorials voor Adobe Analytics
 user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
-source-git-commit: e4975a7fad9eb42ab4d2bbad99efb73cabea564e
+source-git-commit: f5027defc8853b3d66d8383bccba5928c8ea25aa
 workflow-type: tm+mt
-source-wordcount: '2445'
+source-wordcount: '2451'
 ht-degree: 7%
 
 ---
@@ -95,6 +95,7 @@ ht-degree: 7%
       + [Segmenten kiezen voor een deelvenster](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
       + [Meerdere rapportsuites in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [Deelvensters en rapporten in de werkruimte Volgende/Vorige en Paginaoverzicht](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
+      + [Deelvenster Kenmerken en terugzoekvensters](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
    + Freeform-tabellen maken {#building-freeform-tables}
       + [Gegevens begrijpen—vrije tabellen](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [De linkerspoorstaaf gebruiken om vrije-vormlijsten te bouwen](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
@@ -303,7 +304,7 @@ ht-degree: 7%
       + [Bibliotheken van Experience Platforms Launch publiceren naar werkgebied en productie](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
    + JavaScript gebruiken {#using-javascript}
       + [Aangepaste koppeling bijhouden zonder tagbeheer](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
-      + [AppMeasurement bijwerken als Experience Platform Launch niet wordt gebruikt](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
+      + [AppMeasurement bijwerken wanneer Experience Platform Launch niet wordt gebruikt](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
    + Valideren en problemen oplossen {#validating-and-troubleshooting}
       + [Implementaties controleren met de Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
    + SPA pagina&#39;s {#spa-pages}
