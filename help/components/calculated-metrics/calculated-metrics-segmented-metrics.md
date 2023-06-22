@@ -1,24 +1,22 @@
 ---
 title: Berekende cijfers - Gesegmenteerde cijfers
-description: Meer informatie over het maken van gesegmenteerde metriek in Adobe Analytics
+description: Leer hoe u berekende metriek creeert die op segmenten wordt gebaseerd, zodat u de bezoekers, bezoeken, en paginameningen effectiever kunt analyseren die tot het behoren.
 feature: Calculated Metrics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 2319
 role: User
 level: Beginner
 exl-id: c02b968d-aa0e-4a93-acd4-d8797533b182
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 18d3c3105c2c536a1f4e40b663bfcdf25934acaa
 workflow-type: tm+mt
-source-wordcount: '24'
-ht-degree: 0%
+source-wordcount: '73'
+ht-degree: 2%
 
 ---
 
 # [!UICONTROL Calculated metrics]: Gesegmenteerde cijfers {#calculated-metrics-segmented-metrics}
 
-Meer informatie over het maken van gesegmenteerde metriek in Adobe Analytics
+Leer hoe u berekende metriek creeert die op segmenten wordt gebaseerd, zodat u de bezoekers, bezoeken, en paginameningen effectiever kunt analyseren die tot het behoren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25409/?quality=12&learn=on)
+
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/metrics-with-segments.html).
