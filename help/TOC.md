@@ -3,9 +3,9 @@ user-guide-title: Tutorials voor Adobe Analytics
 user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
-source-git-commit: f5027defc8853b3d66d8383bccba5928c8ea25aa
+source-git-commit: f9ef44adb364df5373c64cda4cead5f0a4da5eb9
 workflow-type: tm+mt
-source-wordcount: '2451'
+source-wordcount: '2446'
 ht-degree: 7%
 
 ---
@@ -84,6 +84,8 @@ ht-degree: 7%
       + [Annotaties](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [Weergavedichtheid](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [Filters gebruiken](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+   + Realtimerapporten {#real-time-reports}
+      + [Real-time rapportage](analysis-workspace/real-time-reports/realtime-reporting.md)
    + Deelvensters gebruiken {#using-panels}
       + [Tabellen, visualisaties en deelvensters gebruiken in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Deelvenster Quick Insights in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
@@ -217,8 +219,6 @@ ht-degree: 7%
       + [Het verminderen van de Tarieven van de Fout en het verbeteren van SuccesTarieven in Uw Stem App](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
       + [Werking van gebruikers begrijpen voor spraakassistenten](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
       + [Werken met de Voice-reis van de gebruiker](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
-+ Reports and Analytics {#reports-and-analytics}
-   + [Real-time rapportage in Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Beheer {#administration}
    + Sleutelbeheervaardigheden {#key-admin-skills}
       + [Een machtige gemeenschap creëren](administration/key-admin-skills/empowered-community.md)
@@ -304,7 +304,7 @@ ht-degree: 7%
       + [Bibliotheken van Experience Platforms Launch publiceren naar werkgebied en productie](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
    + JavaScript gebruiken {#using-javascript}
       + [Aangepaste koppeling bijhouden zonder tagbeheer](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
-      + [AppMeasurement bijwerken wanneer Experience Platform Launch niet wordt gebruikt](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
+      + [AppMeasurement bijwerken als Experience Platform Launch niet wordt gebruikt](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
    + Valideren en problemen oplossen {#validating-and-troubleshooting}
       + [Implementaties controleren met de Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
    + SPA pagina&#39;s {#spa-pages}
