@@ -1,26 +1,22 @@
 ---
-title: De functie Aantal bij benadering onderscheiden in berekende metriek
-description: Er is een functie Afzonderlijke telling benaderen toegevoegd aan de functie Berekende metrische bouwer. Het is een lang verwachte functie die de benaderende verschillende telling van afmetingspunten voor een geselecteerde afmeting zal terugkeren.
+title: De functie Afzonderlijk aantal bij benadering in berekende meetwaarden
+description: Leer hoe te om berekende metrisch tot stand te brengen gebruikend de Approximate functie van de Telling Distinct, die de benaderende verschillende telling van afmetingspunten voor een geselecteerde afmeting terugkeert.
 feature: Calculated Metrics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 1910
 role: User
 level: Beginner
 exl-id: d3594ed7-b90e-4f97-89c7-3e6c75534136
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: f9e39eb73cb73ef4993a12270137d2405cf4a978
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Approximate Count Distinct] [!UICONTROL Function] in [!UICONTROL Calculated Metrics]{#approximate-count-distinct-function-in-calculated-metrics}
+# De functie Afzonderlijk aantal bij benadering in berekende meetwaarden {#approximate-count-distinct-function-in-calculated-metrics}
 
-An [!UICONTROL Approximate Count Distinct] [!UICONTROL function] is toegevoegd aan de [!UICONTROL Calculated Metric Builder]. Er wordt lang gewacht [!UICONTROL function] dat de [!UICONTROL approximate distinct count] van [!UICONTROL dimension] items voor een geselecteerde [!UICONTROL dimension].
+Leer hoe te om berekende metrisch tot stand te brengen gebruikend de Approximate functie van de Telling Distinct, die de benaderende verschillende telling van afmetingspunten voor een geselecteerde afmeting terugkeert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12&learn=on)
 
-U kunt de [!UICONTROL metric] in elk rapport om inzicht te krijgen in de telling van één [!UICONTROL dimension] tegen waarden van andere. Bijvoorbeeld, het aantal unieke klanten door het Kanaal van de Marketing.
+U kunt metrisch gebruiken die in deze video in om het even welk rapport wordt getoond om de telling van één afmeting tegen waarden van andere te begrijpen. Een zeer algemeen gebruiksgeval zou zijn deze functie te gebruiken om metrische identiteitskaart van de Klant te creëren, die u in om het even welk rapport kon dan gebruiken om te zien hoeveel klanten op de verschillende afmetingswaarden van toepassing zijn.
