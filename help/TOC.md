@@ -3,7 +3,7 @@ user-guide-title: Tutorials voor Adobe Analytics
 user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
-source-git-commit: f9e39eb73cb73ef4993a12270137d2405cf4a978
+source-git-commit: 5f49401fd82602a7d6c046a33623698c4eb45397
 workflow-type: tm+mt
 source-wordcount: '2446'
 ht-degree: 7%
@@ -333,8 +333,8 @@ ht-degree: 7%
       + [Berekende waarden - functies](components/calculated-metrics/calculated-metrics-functions.md)
       + [Berekende cijfers - geen cijfers voor implementatie](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
       + [Berekende cijfers - Gesegmenteerde cijfers](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
-      + [Berekende cijfers - metrische kiezer](components/calculated-metrics/calculated-metrics-metric-selector.md)
       + [Snel berekende cijfers in Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
+      + [Uw berekende metriek beheren](components/calculated-metrics/manage-your-calculated-metrics.md)
       + [De functie Aantal bij benadering onderscheiden in berekende metriek](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Attribution IQ in berekende cijfers](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
       + [Dimension gebruiken in berekende cijfers](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
