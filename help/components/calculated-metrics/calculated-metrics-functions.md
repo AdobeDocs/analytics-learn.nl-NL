@@ -1,24 +1,22 @@
 ---
-title: Berekende waarden - functies
-description: Leer hoe u functies kunt gebruiken in berekende metriek in Adobe Analytics
+title: Berekende meetwaarden - Functies
+description: Leer hoe u functies kunt gebruiken bij het maken van berekende metriek in Analysis Workspace.
 feature: Calculated Metrics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 2321
 role: User
 level: Beginner
 exl-id: aace1da6-2958-47a6-957c-5d63a5104b5f
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 87bd18f19597e910195db6b23ba2d6ab0fe4bdcc
 workflow-type: tm+mt
-source-wordcount: '22'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Calculated Metrics]: [!UICONTROL Functions] {#calculated-metrics-functions}
+# Berekende meetwaarden - Functies {#calculated-metrics-functions}
 
-Leren gebruiken [!UICONTROL functions] in [!UICONTROL calculated metrics] in Adobe Analytics
+Leer hoe u functies kunt gebruiken bij het maken van berekende metriek in Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25408/?quality=12&learn=on)
+
+Raadpleeg de documentatie voor meer informatie over het gebruik van [basis](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html) en [geavanceerd](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html) functies bij het maken van berekende metriek.
