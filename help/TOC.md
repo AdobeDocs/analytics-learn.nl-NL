@@ -3,9 +3,9 @@ user-guide-title: Tutorials voor Adobe Analytics
 user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
-source-git-commit: 87bd18f19597e910195db6b23ba2d6ab0fe4bdcc
+source-git-commit: fa1b982c09cfeb427fa7ad8fdbdc4b9c995aa400
 workflow-type: tm+mt
-source-wordcount: '2446'
+source-wordcount: '2451'
 ht-degree: 7%
 
 ---
@@ -162,6 +162,7 @@ ht-degree: 7%
       + [Segmenten gebruiken om gegevens in Analysis Workspace te beperken](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Snelle segmenten in Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
       + [Reissegmenten voor klanten samenstellen](analysis-workspace/applying-segments/building-customer-journey-segments.md)
+      + [Reissegmenten voor klanten samenstellen - Deel 2](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
    + Cijfers {#metrics}
       + [Basisstatistieken van bezoekers](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Dimension en metriek toevoegen aan uw project in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
