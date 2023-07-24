@@ -1,9 +1,12 @@
 ---
 title: Klantintelligentie beheren met Virtual Analyst en Segment IQ
 description: Leer het belang van het gebruik van kunstmatige intelligentie en het leren van machines (AI/ML). Bekijk de voordelen en leer van succesverhalen uit de praktijk van globale klanten die Virtuele Analyst en Segment IQ gebruiken om anomalieën te ontdekken, outliers te vermijden, en ROI te maximaliseren.
+feature: AI Tools
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '1100'
 ht-degree: 0%
