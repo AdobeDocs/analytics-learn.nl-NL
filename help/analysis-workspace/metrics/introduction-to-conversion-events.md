@@ -1,12 +1,13 @@
 ---
 title: Inleiding tot conversiegebeurtenissen
-description: In deze video krijgt u een inleiding tot conversie-"gebeurtenissen" of de variabele die u helpt bij het bijhouden van conversies op uw site (bijvoorbeeld bestellingen, aanmelden, registraties, formulieraanvullen, enz.)
+description: Leer de basisbeginselen van conversiegebeurtenissen, die ook wel succesgebeurtenissen worden genoemd, in Adobe Analytics. Zij meten omzettingen op uw digitale eigenschappen, en worden gebruikt als metriek in rapporten.
 feature: Metrics
 kt: 3578
 role: User
 level: Beginner
+thumbnail: 28764.jpg
 exl-id: 3f2876fe-d7da-47d3-a23d-0d8f790f7f5b
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 28e6e043ac050c0c3b51be1f47e3088915d63075
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -15,6 +16,6 @@ ht-degree: 0%
 
 # Inleiding tot conversiegebeurtenissen
 
-In deze video krijgt u een inleiding tot conversie-&quot;gebeurtenissen&quot; of de variabele die u helpt bij het bijhouden van conversies op uw site (bijvoorbeeld bestellingen, aanmelden, registraties, formulieraanvullen, enz.)
+Leer meer over de basisbeginselen van conversiegebeurtenissen, vaak succesgebeurtenissen genoemd, in [!DNL Adobe Analytics]. Zij meten omzettingen op uw digitale eigenschappen, en worden gebruikt als metriek in rapporten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28764/?quality=12&learn=on)

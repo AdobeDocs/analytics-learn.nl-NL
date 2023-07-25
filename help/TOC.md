@@ -3,9 +3,9 @@ user-guide-title: Tutorials voor Adobe Analytics
 user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
-source-git-commit: fa1b982c09cfeb427fa7ad8fdbdc4b9c995aa400
+source-git-commit: 69e3927128d643c58932c0c21a376e52d76a0880
 workflow-type: tm+mt
-source-wordcount: '2451'
+source-wordcount: '2448'
 ht-degree: 7%
 
 ---
@@ -164,11 +164,11 @@ ht-degree: 7%
       + [Reissegmenten voor klanten samenstellen](analysis-workspace/applying-segments/building-customer-journey-segments.md)
       + [Reissegmenten voor klanten samenstellen - Deel 2](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
    + Cijfers {#metrics}
-      + [Basisstatistieken van bezoekers](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [Dimension en metriek toevoegen aan uw project in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
+      + [Basisgegevens van bezoekers](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
+      + [Afmetingen en metriek toevoegen aan uw project](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
       + [Inleiding tot conversiegebeurtenissen](analysis-workspace/metrics/introduction-to-conversion-events.md)
-      + [Werken met metriek in een tabel voor vrije vorm](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html)
-      + [Deelnemings-statistieken gebruiken in Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
+      + [Werken met metriek in een vrije-vormtabel](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html)
+      + [Deelnamemetriek gebruiken in Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Afscheid Excel, hello berekende metriek](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + Dimensies {#dimensions}
       + [Dimension en metriek toevoegen aan uw project in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
