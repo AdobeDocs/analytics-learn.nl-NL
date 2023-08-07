@@ -3,7 +3,7 @@ user-guide-title: Tutorials voor Adobe Analytics
 user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
-source-git-commit: 69e3927128d643c58932c0c21a376e52d76a0880
+source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
 workflow-type: tm+mt
 source-wordcount: '2448'
 ht-degree: 7%
@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Analytics-tutorials {#tutorials}
 
-+ [Zelfstudies voor analyse](overview.md)
++ [Zelfstudies voor analysemogelijkheden](overview.md)
 + Inleiding tot Analytics {#intro-to-analytics}
    + [Wat is analyses?](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
    + Wat kan Adobe Analytics voor mij doen? {#what-can-aa-do-for-me}
@@ -29,7 +29,7 @@ ht-degree: 7%
    + Strategie en leiderschap{#strategy}
       + [Deel 1 - Eenvoudige stapels voor meer efficiëntie](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
       + [Deel 2 - Eenvoudige stapels voor meer efficiëntie](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
-      + [Klantenintelligentie beheren met Virtual Analyst en Segment IQ in Adobe Analytics](strategy/customer-intelligence-with-virtual-analyst.md)
+      + [De klantgegevens beheren met Virtual Analyst en Segment IQ in Adobe Analytics](strategy/customer-intelligence-with-virtual-analyst.md)
    + Overgangen van andere platforms {#transitioning-from-other-platforms}
       + [Overgangen van Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Basisbeginselen van analysemogelijkheden {#analytics-basics}
@@ -141,7 +141,7 @@ ht-degree: 7%
       + [Flexibele indelingen](analysis-workspace/visualizations/flexible-layouts.md)
       + [De schaal/as wijzigen bij visualisatie](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
       + [Live Dimension-link met grafiek](analysis-workspace/visualizations/dimension-graph-live-linking.md)
-      + [Korreligheid in-/uitschakelen](analysis-workspace/visualizations/granularity-toggle.md)
+      + [Korreligheid schakelen](analysis-workspace/visualizations/granularity-toggle.md)
       + [Intra-linking in Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [Visualisaties opnieuw rangschikken en het formaat ervan wijzigen](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [De legenda voor visualisatie aanpassen](analysis-workspace/visualizations/customize-visualization-legends.md)
@@ -171,7 +171,7 @@ ht-degree: 7%
       + [Deelnamemetriek gebruiken in Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Afscheid Excel, hello berekende metriek](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + Dimensies {#dimensions}
-      + [Dimension en metriek toevoegen aan uw project in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
+      + [Dimension en statistieken toevoegen aan uw project in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Inleiding aan de Variabelen van het Verkeer (Keuringen)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [Inleiding tot conversievariabelen (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
       + [Werken met Dimension in een tabel voor vrije vorm](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html)
@@ -198,7 +198,7 @@ ht-degree: 7%
       + [Het gebruiken van de Analyse van het Kruis van het lusje om Basismarketing Attributen te ontdekken](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [Naast elkaar vergelijkingen van modellen van Attribution IQ toevoegen](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
       + [Attribution IQ in berekende cijfers](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
-      + [Attribution IQ gebruiken in tabellen voor vrije vorm](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
+      + [Attribution IQ gebruiken in Vrije-vormtabellen](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
       + [Het deelvenster Attribution IQ gebruiken](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
       + [Verschillende Attribution IQ-modellen gebruiken voor segmenten](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
       + [Algoritmisch model in Attribution IQ](analysis-workspace/attribution-iq/algorithmic-model-in-attribution-iq.md)
@@ -255,7 +255,7 @@ ht-degree: 7%
       + [Verwerkingsregels voor marketingkanalen maken](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
       + [Menu&#39;s aanpassen in rapporten en analyses](administration/manage-report-suites/customize-menus.md)
       + [Inkomende gegevens manipuleren met verwerkingsregels](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
-      + [Het vormen de Variabelen van het Verkeer (steunen)](administration/manage-report-suites/configuring-traffic-variables-props.md)
+      + [Verkeersvariabelen configureren (profielen)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Verkeersclassificaties configureren](administration/manage-report-suites/configure-traffic-classifications.md)
       + [Hiërarchievariabelen configureren](administration/manage-report-suites/configure-hierarchy-variables.md)
       + [Variabelen configureren in de Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
@@ -305,11 +305,11 @@ ht-degree: 7%
       + [Bibliotheken van Experience Platforms Launch publiceren naar werkgebied en productie](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
    + JavaScript gebruiken {#using-javascript}
       + [Aangepaste koppeling bijhouden zonder tagbeheer](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
-      + [AppMeasurement bijwerken als Experience Platform Launch niet wordt gebruikt](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
+      + [AppMeasurement bijwerken wanneer Experience Platform Launch niet wordt gebruikt](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
    + Valideren en problemen oplossen {#validating-and-troubleshooting}
       + [Implementaties controleren met de Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
    + SPA pagina&#39;s {#spa-pages}
-      + [Beste werkwijzen gebruiken bij het bijhouden van SPA](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
+      + [Beste werkwijzen gebruiken bij SPA bijhouden](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + Onderdelen {#components}
    + Segmentatie {#segmentation}
       + [Overzicht van Segment Builder](components/segmentation/segment-builder-overview.md)
@@ -331,15 +331,15 @@ ht-degree: 7%
       + [Wacht nu gewoon een segment... met segmentatie om nieuwe inzichten te ontdekken](components/segmentation/segmentation-to-discover-new-insights.md)
    + Berekende statistieken {#calculated-metrics}
       + [Overzicht van de berekende metrische builder](components/calculated-metrics/calculated-metrics-metric-builder.md)
-      + [Berekende cijfers - geen cijfers voor implementatie](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
-      + [Berekende cijfers - Gesegmenteerde cijfers](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
-      + [Berekende waarden - functies](components/calculated-metrics/calculated-metrics-functions.md)
-      + [De functie Aantal bij benadering onderscheiden in berekende metriek](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
-      + [Snel berekende cijfers in Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
+      + [Berekende meetwaarden - geen implementatiegegevens](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
+      + [Berekende cijfers - gesegmenteerde meetgegevens](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
+      + [Berekende meetwaarden - functies](components/calculated-metrics/calculated-metrics-functions.md)
+      + [Verschillende functie voor geschatte telling in berekende meetwaarden](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
+      + [Snelle berekende cijfers in Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [Uw berekende metriek beheren](components/calculated-metrics/manage-your-calculated-metrics.md)
-      + [Attribution IQ in berekende cijfers](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
-      + [Dimension gebruiken in berekende cijfers](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
-      + [Breng uw gegevensanalyse naar het volgende niveau met Berekende Metriek](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
+      + [Attribution IQ in berekende metriek](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
+      + [Afmetingen gebruiken in berekende metriek](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
+      + [Breng uw gegevensanalyse naar het volgende niveau met berekende metriek](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + Classificaties {#classifications}
       + [Overzicht van classificaties](components/classifications/overview-of-classifications.md)
       + [De opbouwfunctie voor classificatieregels gebruiken](components/classifications/using-the-classification-rule-builder.md)
@@ -350,7 +350,7 @@ ht-degree: 7%
       + [Een nieuw bezoek starten voor elke gebeurtenis in virtuele rapportsets](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map {#activity-map}
       + [Overzicht van Activity Map](components/activity-map/activity-map-overview.md)
-      + [De Adobe Analytics-Activity Map inschakelen, fouten opsporen en aanpassen](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
+      + [De Adobe Analytics-Activity Map in- en uitschakelen, fouten opsporen en aanpassen](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + Extra gereedschappen {#additional-tools}
    + [Adobe Labs (voorvertoningen van technologie)](additional-tools/adobe-labs-technology-previews.md)
    + Analysedashboards {#analytics-dashboards}
@@ -368,7 +368,7 @@ ht-degree: 7%
       + [Aanvraag Data Warehouse verzenden via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
       + [Verzend de rapporten van de Data Warehouse in het Uittreksel van Gegevens Tableau](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + Gegevensfeeds {#data-feeds}
-      + [Gebruikersinterface gegevensfeeds-beheer](exporting/data-feeds/data-feeds-management-ui.md)
+      + [Gebruikersinterface voor gegevensfeeds-beheer](exporting/data-feeds/data-feeds-management-ui.md)
       + [De verificatietoets van de gegevensfeed downloaden](exporting/data-feeds/download-the-data-feed-authentication-key.md)
       + [ID gegevensfeed zoeken](exporting/data-feeds/find-your-data-feed-id.md)
       + [Een gegevensfeed-taak opnieuw uitvoeren](exporting/data-feeds/rerun-a-data-feed-job.md)
@@ -420,7 +420,7 @@ ht-degree: 7%
       + [Topconferentie 2019 Super Session - Reizen en Ziekenhuizen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html)
    + Detailhandel {#retail}
       + [Introductie tot handelsvariabelen en -gebeurtenissen](vertical-specific/retail/intro-to-retail-variables-and-events.md)
-      + [Basisvariabelen en -gebeurtenissen voor de detailhandel toevoegen aan opstartregel](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
+      + [Basisvariabelen en -gebeurtenissen voor de detailhandel toevoegen aan opstartrelregels](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
       + [Een opstartregel toevoegen voor de koopgebeurtenis](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
       + [Top 2019 Super Session - Retail](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html)
 + Media Analytics {#media-analytics}
@@ -436,7 +436,7 @@ ht-degree: 7%
       + [Implementeren in iOS Swift-apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
       + [Implementeren in iOS-toepassingen voor doelstelling-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
       + [Implementeren in Android-apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html)
-   + Mobiele analysemogelijkheden meten {#measuring-mobile-analytics}
+   + Mobiele analyse meten {#measuring-mobile-analytics}
       + [Aan de slag met Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [Impact van aanraakpunten op mobiele reizen](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [Werking van gebruiker via kanalen analyseren](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
@@ -454,6 +454,6 @@ ht-degree: 7%
       + [Interne rapporten voor sitezoekopdrachten configureren](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [ZIP-codeanalyse voor in de handel gebrachte producten instellen](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Studieprogramma Analytics University](analytics-university/curriculum.md)
-+ [Experience League LIVE](exl-live/exl-live-overview.md)
++ [EXPERIENCE LEAGUE LIVE](exl-live/exl-live-overview.md)
 + [De Grondbeginselen van de Analyse voor BedrijfsGebruikers is gepensioneerd](retired-courses/retire-fundamentals-for-business-users-course.md)
 
