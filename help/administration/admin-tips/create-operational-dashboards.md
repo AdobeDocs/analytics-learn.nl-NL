@@ -9,7 +9,7 @@ doc-type: Article
 last-substantial-update: 2023-08-18T00:00:00Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
-source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+source-git-commit: 4ee8c50c4dc8c7e1e0901e97eb768093b3e2b19b
 workflow-type: tm+mt
 source-wordcount: '1150'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Laat me jullie door de drie operationele dashboards laten lopen die ik voor mijn
 1. Buggen, functies en hoofdreleaselogbestand
 
 
-## 1 - Veelgestelde-dashboard*
+## 1 - Veelgestelde-dashboard
 
 Geloofd van de eindeloze herhaling van antwoorden? Stop! Bespaar tijd door een FAQ-dashboard te maken. Gebruikers kunnen deze vragen of er snel een koppeling naar maken in hun reacties.
 
