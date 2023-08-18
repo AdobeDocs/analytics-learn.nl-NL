@@ -3,9 +3,9 @@ user-guide-title: Tutorials voor Adobe Analytics
 user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
-source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
+source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
 workflow-type: tm+mt
-source-wordcount: '2448'
+source-wordcount: '2458'
 ht-degree: 7%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 7%
       + [Deel 2 - Eenvoudige stapels voor meer efficiëntie](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
       + [De klantgegevens beheren met Virtual Analyst en Segment IQ in Adobe Analytics](strategy/customer-intelligence-with-virtual-analyst.md)
    + Overgangen van andere platforms {#transitioning-from-other-platforms}
-      + [Overgangen van Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
+      + [Overgangen van Googles Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Basisbeginselen van analysemogelijkheden {#analytics-basics}
       + [Try in Workspace Button in Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [De analysecyclus begrijpen](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
@@ -126,6 +126,7 @@ ht-degree: 7%
       + [Opsommingsgrafiek](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [Donut visualisatie](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Histogramvisualisatie](analysis-workspace/visualizations/histogram-visualization.md)
+      + [Inzichten met histogrammen ontgrendelen](analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
       + [Lijnvisualisatie](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Combografieken](analysis-workspace/visualizations/combo-charts.md)
       + [Tendellijnen toevoegen aan lijnvisualisaties](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
@@ -137,11 +138,11 @@ ht-degree: 7%
       + [Spreiding visualisatie](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Treemap visualisatie](analysis-workspace/visualizations/treemap-visualization.md)
       + [Visualisatie vendiagram](analysis-workspace/visualizations/venn-diagram-visualization.md)
-      + [De cumulatieve gemiddelde functie gebruiken om het vloeiend maken van metrische elementen toe te passen](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
+      + [Gebruik de cumulatieve gemiddelde functie om metrisch gladmaken toe te passen](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [Flexibele indelingen](analysis-workspace/visualizations/flexible-layouts.md)
       + [De schaal/as wijzigen bij visualisatie](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
-      + [Live Dimension-link met grafiek](analysis-workspace/visualizations/dimension-graph-live-linking.md)
-      + [Korreligheid schakelen](analysis-workspace/visualizations/granularity-toggle.md)
+      + [Live link met Dimension-grafiek](analysis-workspace/visualizations/dimension-graph-live-linking.md)
+      + [De granulariteit voor visualisaties instellen](analysis-workspace/visualizations/granularity-toggle.md)
       + [Intra-linking in Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [Visualisaties opnieuw rangschikken en het formaat ervan wijzigen](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [De legenda voor visualisatie aanpassen](analysis-workspace/visualizations/customize-visualization-legends.md)
@@ -158,7 +159,7 @@ ht-degree: 7%
       + [Ad-hocsegmenten toepassen](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
       + [Verschillende Attribution IQ-modellen gebruiken voor segmenten](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html)
       + [Segmenten kiezen voor een deelvenster](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
-      + [Segmenten gebruiken als Dimension in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
+      + [Segmenten gebruiken als Dimensionen in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Segmenten gebruiken om gegevens in Analysis Workspace te beperken](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Snelle segmenten in Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
       + [Reissegmenten voor klanten samenstellen](analysis-workspace/applying-segments/building-customer-journey-segments.md)
@@ -171,10 +172,10 @@ ht-degree: 7%
       + [Deelnamemetriek gebruiken in Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Afscheid Excel, hello berekende metriek](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + Dimensies {#dimensions}
-      + [Dimension en statistieken toevoegen aan uw project in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
+      + [Dimensionen en statistieken toevoegen aan uw project in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Inleiding aan de Variabelen van het Verkeer (Keuringen)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [Inleiding tot conversievariabelen (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
-      + [Werken met Dimension in een tabel voor vrije vorm](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html)
+      + [Werken met Dimensionen in een tabel voor vrije vorm](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html)
    + Kalender- en datumbereik {#calendar-and-date-ranges}
       + [Datums gebruiken in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [Herbruikbare datumbereiken toepassen in uw project](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
@@ -209,7 +210,7 @@ ht-degree: 7%
       + [Overzicht van Cohort Tables](analysis-workspace/cohort-analysis/overview-of-cohort-tables-in-analysis-workspace.md)
       + [Tabelinstellingen coderen](analysis-workspace/cohort-analysis/cohort-table-settings.md)
       + [Churn-analyse met kleurentabellen](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
-      + [Cohortanalyse met elke Dimension](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
+      + [Cohortanalyse met elk Dimension](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
       + [Latentieanalyse met cohorttabellen](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
       + [Rolretentie berekenen in kleurentabellen](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
       + [Cohortanalyse gebruiken om het gedrag van de klant te begrijpen](analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.md)
@@ -239,6 +240,7 @@ ht-degree: 7%
       + [Een algemene rapportsuite gebruiken](administration/admin-tips/use-a-global-report-suite.md)
       + [Een nieuws- en aankondigingsproject maken](administration/admin-tips/create-a-news-and-announcements-project.md)
       + [Snel succes met uitgebreide overzichtsdashboards](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
+      + [Operationele dashboards maken](administration/admin-tips/create-operational-dashboards.md)
    + Bedrijfsinstellingen {#company-settings}
       + [E-maildomeinbeperkingen afdwingen](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Beschikbare functies van uw account weergeven](administration/company-settings/view-your-accounts-available-features.md)
@@ -284,7 +286,7 @@ ht-degree: 7%
       + [Een SDR maken en onderhouden.](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
       + [Een gegevenslaag op uw site gebruiken](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
    + Via Experience Platform Launch {#via-adobe-launch}
-      + [De Experience Cloud op websites implementeren met Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
+      + [Het Experience Cloud implementeren in websites met Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
       + [Basisconfiguratie van de extensie Analytics Launch](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [Bibliotheekbeheer configureren voor analyse](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [Algemene instellingen configureren in de extensie Analytics starten](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
@@ -319,12 +321,12 @@ ht-degree: 7%
       + [Segmentcontainers](components/segmentation/segment-containers.md)
       + [Segmentbeheer en delen](components/segmentation/segment-management-and-sharing.md)
       + [Segmenten gebruiken in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html)
-      + [Segmenten gebruiken als Dimension in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html)
+      + [Segmenten gebruiken als Dimensionen in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html)
       + [Segmenten gebruiken om gegevens in Analysis Workspace te beperken](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html)
       + [Verschillen tussen de gesegmenteerde bouwer en snelle segmenten](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
       + [Opvolgende segmentatie](components/segmentation/sequential-segmentation.md)
       + [Voor/Na-reeksen in opeenvolgende segmentatie](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
-      + [Segmentering op onderscheiden Dimension Tellingen](components/segmentation/segmentation-on-distinct-dimension-counts.md)
+      + [Segmentering op onderscheiden aantal Dimensionen](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [Dimension Modellen in segmentatie](components/segmentation/dimension-models-in-segmentation.md)
       + [Gelijk aan om het even welke exploitant in segmentatie](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Analyses Insider-webinar - Segmentatiestrategieën van klanten](components/segmentation/customer-segmentation-strategies.md)
@@ -379,7 +381,7 @@ ht-degree: 7%
       + [Report Builder gebruiken om de Adobe Analytics API te leren](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
       + [Aan de slag met Report Builder](exporting/report-builder/get-started-with-report-builder.md)
       + [Een Report Builder-aanvraag plannen](exporting/report-builder/schedule-a-report-builder-request.md)
-      + [Geavanceerde Report Builder-leveringsopties gebruiken voor Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
+      + [Geavanceerde leveringsopties voor Report Builder gebruiken voor Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + Integraties {#integrations}
    + Experience Cloud {#experience-cloud}
       + [Verbeterde Experience Cloud Audience Publishing](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
