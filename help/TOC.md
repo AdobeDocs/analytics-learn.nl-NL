@@ -3,9 +3,9 @@ user-guide-title: Tutorials voor Adobe Analytics
 user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
-source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+source-git-commit: a59a2e6f6a08e9dab5c519488e84d916d289c869
 workflow-type: tm+mt
-source-wordcount: '2458'
+source-wordcount: '2465'
 ht-degree: 7%
 
 ---
@@ -144,6 +144,7 @@ ht-degree: 7%
       + [Live link met Dimension-grafiek](analysis-workspace/visualizations/dimension-graph-live-linking.md)
       + [De granulariteit voor visualisaties instellen](analysis-workspace/visualizations/granularity-toggle.md)
       + [Intra-linking in Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
+      + [Koppeling binnen of buiten uw project](analysis-workspace/visualizations/linking-inside-or-outside-of-your-project.md)
       + [Visualisaties opnieuw rangschikken en het formaat ervan wijzigen](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [De legenda voor visualisatie aanpassen](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [100% gestapelde visualisaties](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
