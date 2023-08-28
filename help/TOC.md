@@ -3,9 +3,9 @@ user-guide-title: Tutorials voor Adobe Analytics
 user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
-source-git-commit: b9f08a980d1adfb8fb08fb6348e83394228582ea
+source-git-commit: 215c0c84936c2fc415180b5bdaf6b70633203cca
 workflow-type: tm+mt
-source-wordcount: '2457'
+source-wordcount: '2450'
 ht-degree: 7%
 
 ---
@@ -114,13 +114,11 @@ ht-degree: 7%
       + [Freeform-tabelfilters](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [Tijduitsplitsende dimensies](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
    + Visualisaties {#visualizations}
-      + [Gegevensvisualisatie in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
-      + [Visualisatietypen](analysis-workspace/visualizations/visualization-types.md)
+      + [Visualisatietypen en overzicht](analysis-workspace/visualizations/visualization-types.md)
       + [Gebruiksgevallen voor visualisatie](analysis-workspace/visualizations/visualization-use-cases.md)
-      + [Te visualiseren gegevens selecteren](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Afspeelboek voor gegevensvisualisatie](analysis-workspace/visualizations/data-visualization-playbook.md)
       + [Gegevens ophalen in visualisaties](analysis-workspace/visualizations/getting-data-into-visualizations.md)
-      + [Onderdeeldropdowns in Workspace gebruiken](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
+      + [Onderdeeldrop-down gebruiken in Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Gebied en gebied gestapelde visualisaties](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [Gestapelde visualisaties voor balken en balken](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [Opsommingsgrafiek](analysis-workspace/visualizations/bullet-graph-visualization.md)
