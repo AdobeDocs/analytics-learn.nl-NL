@@ -3,9 +3,9 @@ user-guide-title: Tutorials voor Adobe Analytics
 user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u optimaal kunt profiteren van uw gegevens.
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
-source-git-commit: 215c0c84936c2fc415180b5bdaf6b70633203cca
+source-git-commit: 09f89bcfed09ad63803c899f6995e25e5d8980b4
 workflow-type: tm+mt
-source-wordcount: '2450'
+source-wordcount: '2441'
 ht-degree: 7%
 
 ---
@@ -275,13 +275,11 @@ ht-degree: 7%
       + [Overzicht van logbestanden voor analysebeheer](administration/logs/overview-of-analytics-admin-logs.md)
 + Implementatie {#implementation}
    + Grondbeginselen van implementatie {#implementation-basics}
-      + [Eerste implementatie](implementation/implementation-basics/first-time-implementation.md)
       + [Het begrijpen van en het Creëren van de Reeksen van het Rapport](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html)
       + [De Variabelen van contextData van de kaart in Props en Gebeurtenissen met de Regels van de Verwerking](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [Uw Analytics Tracking Server en Report Suites identificeren](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Een document met zakelijke vereisten maken](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Een SDR maken en onderhouden.](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-      + [Een gegevenslaag op uw site gebruiken](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
    + Via Experience Platform Launch {#via-adobe-launch}
       + [Het Experience Cloud implementeren in websites met Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
       + [Basisconfiguratie van de extensie Analytics Launch](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
