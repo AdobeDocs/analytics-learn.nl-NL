@@ -4,9 +4,9 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: bb057df9b6c1b06ebe834a4235bfb010e9060ac7
+source-git-commit: 00d89f74344be15eb4e8583cfd9c91e921b797a5
 workflow-type: tm+mt
-source-wordcount: '2441'
+source-wordcount: '2435'
 ht-degree: 7%
 
 ---
@@ -310,21 +310,21 @@ ht-degree: 7%
       + [Beste werkwijzen gebruiken bij SPA bijhouden](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + Onderdelen {#components}
    + Segmentatie {#segmentation}
-      + [Overzicht van Segment Builder](components/segmentation/segment-builder-overview.md)
+      + [Overzicht van de builder van segmenten](components/segmentation/segment-builder-overview.md)
       + [Segmenten zoeken en maken](components/segmentation/finding-and-creating-segments.md)
-      + [Roldatumbereiken in segmenten](components/segmentation/rolling-date-ranges-in-segments.md)
+      + [Schuivende datumbereiken in segmenten](components/segmentation/rolling-date-ranges-in-segments.md)
       + [Segmentvergelijking in Analysis Workspace](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [Segmentcontainers](components/segmentation/segment-containers.md)
       + [Segmentbeheer en delen](components/segmentation/segment-management-and-sharing.md)
-      + [Segmenten gebruiken in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html)
-      + [Segmenten gebruiken als Dimensionen in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html)
-      + [Segmenten gebruiken om gegevens in Analysis Workspace te beperken](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html)
+      + [Segmenten toepassen in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html)
+      + [Segmenten gebruiken als afmetingen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html)
+      + [Segmenten gebruiken om gegevens te beperken](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html)
       + [Verschillen tussen de gesegmenteerde bouwer en snelle segmenten](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
-      + [Opvolgende segmentatie](components/segmentation/sequential-segmentation.md)
-      + [Voor/Na-reeksen in opeenvolgende segmentatie](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
-      + [Segmentering op onderscheiden aantal Dimensionen](components/segmentation/segmentation-on-distinct-dimension-counts.md)
-      + [Dimension Modellen in segmentatie](components/segmentation/dimension-models-in-segmentation.md)
-      + [Gelijk aan om het even welke exploitant in segmentatie](components/segmentation/equals-any-of-operator-in-segmentation.md)
+      + [Opeenvolgende segmentatie](components/segmentation/sequential-segmentation.md)
+      + [Voor/Na-reeksen in sequentiële segmentatie](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
+      + [Segmentering op verschillende dimensies](components/segmentation/segmentation-on-distinct-dimension-counts.md)
+      + [gesegmenteerde modellen Dimension](components/segmentation/dimension-models-in-segmentation.md)
+      + [Gelijk aan om het even welke exploitant van&quot;in segmentatie](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Analyses Insider-webinar - Segmentatiestrategieën van klanten](components/segmentation/customer-segmentation-strategies.md)
       + [Wacht nu gewoon een segment... met segmentatie om nieuwe inzichten te ontdekken](components/segmentation/segmentation-to-discover-new-insights.md)
    + Berekende statistieken {#calculated-metrics}
