@@ -4,7 +4,7 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 00d89f74344be15eb4e8583cfd9c91e921b797a5
+source-git-commit: d6b91c8e32304e0a141da35d37163fbe8dd59327
 workflow-type: tm+mt
 source-wordcount: '2435'
 ht-degree: 7%
@@ -324,7 +324,7 @@ ht-degree: 7%
       + [Voor/Na-reeksen in sequentiële segmentatie](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [Segmentering op verschillende dimensies](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [gesegmenteerde modellen Dimension](components/segmentation/dimension-models-in-segmentation.md)
-      + [Gelijk aan om het even welke exploitant van&quot;in segmentatie](components/segmentation/equals-any-of-operator-in-segmentation.md)
+      + [&#39;is gelijk aan een van&#39; gebruiken in segmentatie](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Analyses Insider-webinar - Segmentatiestrategieën van klanten](components/segmentation/customer-segmentation-strategies.md)
       + [Wacht nu gewoon een segment... met segmentatie om nieuwe inzichten te ontdekken](components/segmentation/segmentation-to-discover-new-insights.md)
    + Berekende statistieken {#calculated-metrics}
