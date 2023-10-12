@@ -4,9 +4,9 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: d6b91c8e32304e0a141da35d37163fbe8dd59327
+source-git-commit: 42bf16df9585d1f41206b81bf509a72c10f1d7f2
 workflow-type: tm+mt
-source-wordcount: '2435'
+source-wordcount: '2436'
 ht-degree: 7%
 
 ---
@@ -276,11 +276,11 @@ ht-degree: 7%
       + [Overzicht van logbestanden voor analysebeheer](administration/logs/overview-of-analytics-admin-logs.md)
 + Implementatie {#implementation}
    + Grondbeginselen van implementatie {#implementation-basics}
-      + [Het begrijpen van en het Creëren van de Reeksen van het Rapport](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html)
-      + [De Variabelen van contextData van de kaart in Props en Gebeurtenissen met de Regels van de Verwerking](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
-      + [Uw Analytics Tracking Server en Report Suites identificeren](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
+      + [Werken met en maken van rapportsuites](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html)
+      + [ContextData-variabelen toewijzen aan props en eVars met verwerkingsregels](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
+      + [Uw analytische traceringsserver en rapportsuite-id identificeren](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Een document met zakelijke vereisten maken](implementation/implementation-basics/creating-a-business-requirements-document.md)
-      + [Een SDR maken en onderhouden.](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
+      + [SDR maken en onderhouden.](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Via Experience Platform Launch {#via-adobe-launch}
       + [Het Experience Cloud implementeren in websites met Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
       + [Basisconfiguratie van de extensie Analytics Launch](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
