@@ -1,26 +1,20 @@
 ---
-title: Een nieuw bezoek starten voor elke gebeurtenis in virtuele rapportsets
-description: In deze video wordt getoond hoe u gebeurtenissen kunt gebruiken om het begin van een nieuw bezoek in Adobe Analytics te starten met behulp van de instellingen voor het bezoek van de Virtual Report Suite.
+title: Een nieuw bezoek starten voor elke gebeurtenis in virtuele-rapportsuites
+description: In deze video ziet u hoe u gebeurtenissen kunt gebruiken om het begin van een nieuw bezoek in Adobe Analytics te starten met de instellingen van een virtuele rapportsuite.
 feature: VRS
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 1663
 role: User
 level: Intermediate
 exl-id: ca1d8ca8-a854-4d02-8017-4e3e3587ab9e
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
-# Een nieuw bezoek starten bij een willekeurige gebeurtenis in [!UICONTROL Virtual Report Suites] {#start-a-new-visit-on-any-event-in-virtual-report-suites}
+# Een nieuw bezoek starten voor elke gebeurtenis in virtuele-rapportsuites
 
-In deze video wordt getoond hoe u gebeurtenissen kunt gebruiken om het begin van een nieuw bezoek in Adobe Analytics te starten met een [!UICONTROL Virtual Report Suite]Bezoek-instellingen.
+In deze video ziet u hoe u gebeurtenissen kunt gebruiken om het begin van een nieuw bezoek in Adobe Analytics te starten met de instellingen van een virtuele rapportsuite.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12&learn=on)
-
-U kunt de context van een bezoek in Adobe Analytics opnieuw definiëren door aangepaste time-outinstellingen te gebruiken, achtergrondillustraties te negeren of een nieuw bezoek te starten wanneer u de app start. Met deze functie breiden we deze functionaliteit uit zodat u een nieuw bezoek kunt starten voor elke combinatie van gebeurtenissen, in plaats van alleen via het starten van een app.

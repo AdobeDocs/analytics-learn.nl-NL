@@ -4,9 +4,9 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 42bf16df9585d1f41206b81bf509a72c10f1d7f2
+source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
 workflow-type: tm+mt
-source-wordcount: '2436'
+source-wordcount: '2429'
 ht-degree: 7%
 
 ---
@@ -342,10 +342,10 @@ ht-degree: 7%
       + [Overzicht van classificaties](components/classifications/overview-of-classifications.md)
       + [De opbouwfunctie voor classificatieregels gebruiken](components/classifications/using-the-classification-rule-builder.md)
    + Virtuele rapportsuites {#virtual-report-suites}
-      + [Virtuele rapportsuites](components/virtual-report-suites/virtual-report-suites.md)
-      + [Component Curation in Virtual Report Suites](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
-      + [Contextbewuste sessies in virtuele rapportsuite](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
-      + [Een nieuw bezoek starten voor elke gebeurtenis in virtuele rapportsets](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
+      + [Overzicht van virtuele rapportsuites](components/virtual-report-suites/virtual-report-suites.md)
+      + [Component curation](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
+      + [Bezoeken aanpassen in virtuele-rapportsuites](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
+      + [Een nieuw bezoek aan een willekeurige gebeurtenis starten](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map {#activity-map}
       + [Overzicht van Activity Map](components/activity-map/activity-map-overview.md)
       + [De Adobe Analytics-Activity Map in- en uitschakelen, fouten opsporen en aanpassen](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
