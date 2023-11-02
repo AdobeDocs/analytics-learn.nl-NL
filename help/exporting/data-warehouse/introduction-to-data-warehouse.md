@@ -1,22 +1,21 @@
 ---
-title: Inleiding tot het gegevensentrepot
-description: Het hulpmiddel van het de verzoekverzoek van het gegevenspakhuis in Adobe Analytics geeft u toegang om de ruwe gegevens te vragen. Het entrepot van gegevens kan een onbeperkt aantal rijen in één enkel verzoek voor individuele geplande en gedownloade rapporten verwerken. Deze video is een inleiding aan het hulpmiddel, met inbegrip van een analyse van het creëren van een rapport van de Data Warehouse.
+title: Inleiding tot de uitvoer van gegevensopslagruimten
+description: Leer hoe u ten volle kunt profiteren van de Data Warehouse Reporting UI en de exportaccounts en -locaties. Deze video behandelt de basisworkflow voor het verzenden van rapporten naar zowel Amazon S3 als e-mail.
 feature: Data Warehouse
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 27306.jpg
 kt: 2916
 exl-id: 917fa84a-256f-4feb-9ab4-10a5905e2456
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 1%
+source-wordcount: '93'
+ht-degree: 0%
 
 ---
 
-# Inleiding tot [!UICONTROL data warehouse] {#introduction-to-data-warehouse}
+# Inleiding tot de uitvoer van gegevensopslagruimten
 
-De [!UICONTROL data warehouse] Met het aanvraaggereedschap in Adobe Analytics hebt u toegang tot query&#39;s voor de onbewerkte gegevens. [!UICONTROL Data warehouse] U kunt een onbeperkt aantal rijen verwerken in één aanvraag voor afzonderlijke geplande en gedownloade rapporten. Deze video is een inleiding op het hulpmiddel, met inbegrip van een analyse van het creëren van [!UICONTROL data warehouse] verslag.
+Leer hoe u ten volle kunt profiteren van de Data Warehouse Reporting UI en de exportaccounts en -locaties. Deze video behandelt de basisworkflow voor het verzenden van rapporten naar zowel Amazon S3 als e-mail. Zie voor gedetailleerde documentatie [Overzicht van Data Warehouse](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse.html) en omringende documenten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12&learn=on)

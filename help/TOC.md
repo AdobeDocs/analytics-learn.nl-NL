@@ -4,9 +4,9 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
+source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
 workflow-type: tm+mt
-source-wordcount: '2429'
+source-wordcount: '2428'
 ht-degree: 7%
 
 ---
@@ -362,9 +362,9 @@ ht-degree: 7%
    + Vanuit de gebruikersinterface {#from-the-ui}
       + [Exporteren naar CSV vanuit Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
-      + [Inleiding tot Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
-      + [Aanvraag Data Warehouse verzenden via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
-      + [Verzend de rapporten van de Data Warehouse in het Uittreksel van Gegevens Tableau](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
+      + [Uitvoer gegevenspakhuis](exporting/data-warehouse/introduction-to-data-warehouse.md)
+      + [Gegevens-entrepot aanvragen via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
+      + [Gegevensopslagrapporten verzenden in Tableau-gegevensextract](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + Gegevensfeeds {#data-feeds}
       + [Gebruikersinterface voor gegevensfeeds-beheer](exporting/data-feeds/data-feeds-management-ui.md)
       + [De verificatietoets van de gegevensfeed downloaden](exporting/data-feeds/download-the-data-feed-authentication-key.md)
