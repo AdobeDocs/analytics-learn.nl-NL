@@ -1,22 +1,22 @@
 ---
-title: Deelnemings-statistieken gebruiken in Analysis Workspace
-description: Gebruik deze eenvoudige truc om op elk gewenst moment metrische deelname in Analysis Workspace te krijgen.
+title: Deelnamemetriek maken
+description: Leer hoe u participatiemetriek maakt en deze gebruikt in [!DNL Analysis Workspace].
 feature: Metrics
 thumbnail: 41266.jpg
-kt: 6355
 role: User
 level: Beginner
+kt: 6355
 exl-id: 336853ad-c273-4627-919b-3c86f97b60e3
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 967f28c033267520d041b3fb5c9b432a3d6afdb7
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '41'
 ht-degree: 0%
 
 ---
 
-# Deelnemings-statistieken gebruiken in Analysis Workspace
+# Deelnamemetriek maken
 
-Gebruik deze eenvoudige truc om op elk gewenst moment metrische deelname in Analysis Workspace te krijgen.
+Leer hoe u participatiemetriek maakt en deze gebruikt in [!DNL Analysis Workspace].
 
 >[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
 
