@@ -4,9 +4,9 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
+source-git-commit: 572efe8df10b7ba82ca7717f232dfc0fbf134561
 workflow-type: tm+mt
-source-wordcount: '2428'
+source-wordcount: '2425'
 ht-degree: 7%
 
 ---
@@ -170,10 +170,10 @@ ht-degree: 7%
       + [Deelnamemetriek gebruiken in Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Afscheid Excel, hello berekende metriek](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + Dimensies {#dimensions}
-      + [Dimensionen en statistieken toevoegen aan uw project in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
-      + [Inleiding aan de Variabelen van het Verkeer (Keuringen)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
+      + [Afmetingen en metriek toevoegen aan uw project](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
+      + [Inleiding tot verkeersvariabelen (profielen)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [Inleiding tot conversievariabelen (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
-      + [Werken met Dimensionen in een tabel voor vrije vorm](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html)
+      + [Werken met afmetingen in een tabel voor vrije vorm](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html)
    + Kalender- en datumbereik {#calendar-and-date-ranges}
       + [Datums gebruiken in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [Herbruikbare datumbereiken toepassen in uw project](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
