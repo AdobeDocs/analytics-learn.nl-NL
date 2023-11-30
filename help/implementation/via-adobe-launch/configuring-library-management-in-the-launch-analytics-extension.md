@@ -1,32 +1,20 @@
 ---
-title: Bibliotheekbeheer configureren voor analyse
-description: Als u enkel met Experience Platform Launch uitbreiding voor Adobe Analytics begint, kan deze video u met het bibliotheekbeheersgedeelte van de configuratie helpen, met inbegrip van het selecteren van rapportreeksen waarin u gegevens wilt verzenden.
+title: Bibliotheekbeheer configureren voor de extensie Analytics
+description: Meer informatie over de configuratieopties voor bibliotheekbeheer voor de extensie Analytics in Adobe Tags. Deze video behandelt ook het selecteren van rapportsuites voor gegevensinzameling.
 feature: Launch Implementation
-topics: null
-activity: implement
-doc-type: technical video
-team: Technical Marketing
 kt: 2836
 role: Developer, Data Engineer
 level: Beginner
 exl-id: be28db8a-0de6-4f9f-ae2e-2337e86740a1
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 3b4e7f9d13c40a08656cfa9e8949ecc7be9c28a8
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 2%
+source-wordcount: '62'
+ht-degree: 0%
 
 ---
 
-# Configureren [!UICONTROL Library Management] for [!DNL Analytics] {#configuring-library-management-in-the-launch-analytics-extension}
+# Bibliotheekbeheer configureren voor de extensie Analytics {#configuring-library-management-in-the-launch-analytics-extension}
 
-Als u net aan de slag gaat met Experience Platform Launch en de Adobe Analytics [!UICONTROL Extension]kunt u met deze video [!UICONTROL Library Management], met inbegrip van [!UICONTROL report suites] waarin gegevens moeten worden verzonden.
+Meer informatie over de configuratieopties voor bibliotheekbeheer voor de extensie Analytics in Adobe Tags. Deze video behandelt ook het selecteren van rapportsuites voor gegevensinzameling.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12&learn=on)
-
-Raadpleeg de volgende documentatieonderwerpen voor aanvullende informatie over de aspecten van dit gebruiksgeval:
-
-[Postcodes](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en)
-
-[Classificaties](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
-
-[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html)

@@ -4,9 +4,9 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 572efe8df10b7ba82ca7717f232dfc0fbf134561
+source-git-commit: e493003e4beec22a377115a3619bd1bfc838ccfe
 workflow-type: tm+mt
-source-wordcount: '2425'
+source-wordcount: '2427'
 ht-degree: 7%
 
 ---
@@ -281,10 +281,10 @@ ht-degree: 7%
       + [Uw analytische traceringsserver en rapportsuite-id identificeren](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Een document met zakelijke vereisten maken](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [SDR maken en onderhouden.](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-   + Via Experience Platform Launch {#via-adobe-launch}
+   + Experience Platform-tags gebruiken {#via-adobe-launch}
       + [Het Experience Cloud implementeren in websites met Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
       + [Basisconfiguratie van de extensie Analytics Launch](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
-      + [Bibliotheekbeheer configureren voor analyse](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
+      + [Bibliotheekbeheer configureren voor de extensie Analytics](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [Algemene instellingen configureren in de extensie Analytics starten](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
       + [Globale variabelen configureren in de extensie Analytics starten](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Cookie-instellingen configureren in de extensie Analytics starten](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
