@@ -4,10 +4,10 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: e493003e4beec22a377115a3619bd1bfc838ccfe
+source-git-commit: 63f2bfa9eb45495eb609122164f3a4617575aa8d
 workflow-type: tm+mt
-source-wordcount: '2427'
-ht-degree: 7%
+source-wordcount: '2260'
+ht-degree: 2%
 
 ---
 
@@ -89,14 +89,14 @@ ht-degree: 7%
       + [Real-time rapportage](analysis-workspace/real-time-reports/realtime-reporting.md)
    + Deelvensters gebruiken {#using-panels}
       + [Tabellen, visualisaties en deelvensters gebruiken in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
-      + [Deelvenster Quick Insights in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
+      + [Deelvenster Snelle inzichten in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Het deelvenster Attribution IQ gebruiken](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html)
       + [Deelvenster Mediagelijktijdige viewers in Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [Deelvenster Tijd van afspelen van media](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
       + [Vervolgkeuzefilters gebruiken](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [Deelvensters gebruiken om uw Analysis Workspace-projecten te organiseren](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Segmenten kiezen voor een deelvenster](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
-      + [Meerdere rapportsuites in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
+      + [Meerdere rapportsets in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [Deelvensters en rapporten in de werkruimte Volgende/Vorige en Paginaoverzicht](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
       + [Deelvenster Kenmerken en terugzoekvensters](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
    + Freeform-tabellen maken {#building-freeform-tables}
@@ -113,7 +113,7 @@ ht-degree: 7%
       + [Attribution IQ gebruiken in vrije-vormtabellen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html)
       + [Cross-sell-analyse](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
       + [Freeform-tabelfilters](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
-      + [Tijduitsplitsende dimensies](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
+      + [Afmetingen van tijd tot tijd](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
    + Visualisaties {#visualizations}
       + [Visualisatietypen en overzicht](analysis-workspace/visualizations/visualization-types.md)
       + [Gebruiksgevallen voor visualisatie](analysis-workspace/visualizations/visualization-use-cases.md)
@@ -190,7 +190,7 @@ ht-degree: 7%
       + [Exporteren naar CSV en PDF vanuit Analysis Workspace](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [Ingesloten componenten delen](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [Projecten plannen en downloaden](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
-      + [Projecten delen in Analysis Workspace](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
+      + [Delen van projecten in Analysis Workspace](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
       + [Alleen-weergeven projecten in Analysis Workspace](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
       + [De kracht van alleen-weergeven delen ontgrendelen](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
@@ -200,8 +200,8 @@ ht-degree: 7%
       + [Attribution IQ gebruiken in Vrije-vormtabellen](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
       + [Het deelvenster Attribution IQ gebruiken](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
       + [Verschillende Attribution IQ-modellen gebruiken voor segmenten](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
-      + [Algoritmisch model in Attribution IQ](analysis-workspace/attribution-iq/algorithmic-model-in-attribution-iq.md)
-      + [Aangepaste terugblikvensters in Attribution IQ](analysis-workspace/attribution-iq/custom-lookback-windows-in-attribution-iq.md)
+      + [Algorithmic Model in Attribution IQ](analysis-workspace/attribution-iq/algorithmic-model-in-attribution-iq.md)
+      + [Aangepaste opzoekvensters in Attribution IQ](analysis-workspace/attribution-iq/custom-lookback-windows-in-attribution-iq.md)
    + Cohortanalyse {#cohort-analysis}
       + [Cohortanalyse in Analysis Workspace](analysis-workspace/cohort-analysis/cohort-analysis-workspace.md)
       + [Gegevens begrijpen—Codetabellen](analysis-workspace/cohort-analysis/understand-your-data-cohort-tables.md)
@@ -219,7 +219,7 @@ ht-degree: 7%
       + [Het verminderen van de Tarieven van de Fout en het verbeteren van SuccesTarieven in Uw Stem App](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
       + [Werking van gebruikers begrijpen voor spraakassistenten](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
       + [Werken met de Voice-reis van de gebruiker](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
-+ Beheer {#administration}
++ Administratie {#administration}
    + Sleutelbeheervaardigheden {#key-admin-skills}
       + [Een machtige gemeenschap creëren](administration/key-admin-skills/empowered-community.md)
       + [Vereenvoudig en besteed minder tijd aan trainingsgebruikers](administration/key-admin-skills/simplify-training-users.md)
@@ -244,7 +244,7 @@ ht-degree: 7%
       + [Beschikbare functies van uw account weergeven](administration/company-settings/view-your-accounts-available-features.md)
    + Gebruikersbeheer {#user-management}
       + [Beheerders toevoegen aan Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
-      + [Toegang tot rapportsuite beperken in Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
+      + [Toegang tot rapportsuite beperken in de Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [Gebruikerselementen naar een andere gebruiker overbrengen](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [Controleer de gekoppelde IMS-id om aanmeldingsproblemen te voorkomen](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + Rapportsets beheren {#manage-report-suites}
@@ -269,7 +269,7 @@ ht-degree: 7%
    + Data Governance en GDPR {#data-governance-and-gdpr}
       + [Data Governance en GDPR in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
    + Traffic-beheer {#traffic-management}
-      + [Gebruik van server calls](administration/traffic-management/server-call-usage.md)
+      + [Gebruik van serveroproep](administration/traffic-management/server-call-usage.md)
       + [Een aanstaande verkeersstroom beheren](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
    + Logboeken{#logs}
       + [Gebruikslogbestanden bijhouden voor Analysis Workspace](administration/logs/usage-log-tracking-for-analysis-workspace.md)
@@ -283,9 +283,9 @@ ht-degree: 7%
       + [SDR maken en onderhouden.](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Experience Platform-tags gebruiken {#via-adobe-launch}
       + [Het Experience Cloud implementeren in websites met Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
-      + [Basisconfiguratie van de extensie Analytics Launch](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
+      + [Basisconfiguratie van de extensie Analytics](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [Bibliotheekbeheer configureren voor de extensie Analytics](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
-      + [Algemene instellingen configureren in de extensie Analytics starten](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
+      + [Algemene instellingen configureren voor de extensie Analytics](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
       + [Globale variabelen configureren in de extensie Analytics starten](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Cookie-instellingen configureren in de extensie Analytics starten](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [Aangepaste code gebruiken tijdens het configureren van de extensie Analytics starten](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
@@ -342,7 +342,7 @@ ht-degree: 7%
       + [Overzicht van classificaties](components/classifications/overview-of-classifications.md)
       + [De opbouwfunctie voor classificatieregels gebruiken](components/classifications/using-the-classification-rule-builder.md)
    + Virtuele rapportsuites {#virtual-report-suites}
-      + [Overzicht van virtuele rapportsuites](components/virtual-report-suites/virtual-report-suites.md)
+      + [Overzicht van virtuele-rapportsuites](components/virtual-report-suites/virtual-report-suites.md)
       + [Component curation](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
       + [Bezoeken aanpassen in virtuele-rapportsuites](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
       + [Een nieuw bezoek aan een willekeurige gebeurtenis starten](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
@@ -352,7 +352,7 @@ ht-degree: 7%
 + Extra gereedschappen {#additional-tools}
    + [Adobe Labs (voorvertoningen van technologie)](additional-tools/adobe-labs-technology-previews.md)
    + Analysedashboards {#analytics-dashboards}
-      + [Scorecard Builder voor Adobe Analytics-dashboards](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
+      + [Adobe Analytics-dashboards Scorecard Builder](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
       + [Visualisaties voor mobiele scoreborden](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [Aangepaste datumbereiken toepassen](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [In-app ervaring met analytische dashboards](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
@@ -380,12 +380,12 @@ ht-degree: 7%
       + [Geavanceerde leveringsopties voor Report Builder gebruiken voor Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + Integraties {#integrations}
    + Experience Cloud {#experience-cloud}
-      + [Verbeterde Experience Cloud Audience Publishing](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
+      + [Verbeterde publicatie van publiek Experience Cloud](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
    + Audience Manager {#audience-manager}
       + [Server Side Forwarding inschakelen in Experience Platform Launch](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
       + [Audience Analytics - AAM in Analytics integreren](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
-   + Target {#target}
-      + [Deelvenster Analytics for Target (A4T) in Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
+   + Doel {#target}
+      + [Analyses voor doeldeelvenster (A4T) in Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
       + [Een automatisch doelactiviteit analyseren met het A4T-deelvenster](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
    + Ad Cloud {#ad-cloud}
       + [Advertising Analytics configureren](integrations/ad-cloud/configuring-advertising-analytics.md)
@@ -393,10 +393,10 @@ ht-degree: 7%
       + [Inleiding tot de Analytics for Advertising Cloud DSP Integration](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
       + [Een Campagneanalyse vóór de introductie maken](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
       + [Rapporteren met Advertising Cloud Marketing Channel](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
-      + [Analytics-sitetrajectprofielen maken](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
-      + [Analytics-segmenten maken voor activering en rapportage](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
+      + [Analytische sitereisprofielen maken](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
+      + [Analysesegmenten maken voor activering en rapportage](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
       + [Advertising Cloud-waarschuwingen maken met Adobe Analytics](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
-      + [Aangepaste metrics voor Analytics maken met Advertising Cloud-gegevens](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
+      + [Aangepaste metingen voor analyse maken met Advertising Cloud-gegevens](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
       + [Rapporten Advertising Cloud-site-item maken](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
       + [Advertising Cloud-dashboards maken](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
    + Ad hoc-analyse {#ad-hoc-analytics}
@@ -409,7 +409,7 @@ ht-degree: 7%
    + [Adobe Analytics-computers leren en AI gebruiken voor de momenten die er toe doen](data-science/using-machine-learning-and-ai-for-the-moments-that-matter.md)
    + [Anomaly Detection in Analysis Workspace](data-science/anomaly-detection-in-analysis-workspace.md)
    + [Bijdrage-analyse in Analysis Workspace](data-science/contribution-analysis-workspace.md)
-   + [Slimme meldingen](data-science/intelligent-alerts.md)
+   + [Intelligente waarschuwingen](data-science/intelligent-alerts.md)
    + [Adobe Analytics en Adobe Sensei - Democratie in de gegevenswetenschap voor ALL](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
 + Verticaal specifiek {#vertical-specific}
    + Hoge technologie {#high-tech}
