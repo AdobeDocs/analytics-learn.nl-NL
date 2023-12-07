@@ -4,9 +4,9 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 63f2bfa9eb45495eb609122164f3a4617575aa8d
+source-git-commit: 3dd6fd5f97f2fac3651891e35113e72e89e2261f
 workflow-type: tm+mt
-source-wordcount: '2260'
+source-wordcount: '2264'
 ht-degree: 2%
 
 ---
@@ -231,6 +231,7 @@ ht-degree: 2%
       + [Stel je de juiste vragen?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + Tips en trucs voor beheerders {#admin-tips}
       + [De afspeelboek van de implementatie downloaden](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + [Het gegevenswoordenboek controleren](administration/admin-tips/audit-your-data-dictionary.md)
       + [Standaardnaamconventies maken](administration/admin-tips/create-standardized-naming-conventions.md)
       + [Standaardcodesjablonen maken](administration/admin-tips/create-standardized-code-templates.md)
       + [Basisvideo&#39;s en -training maken](administration/admin-tips/create-basic-videos-and-training.md)
