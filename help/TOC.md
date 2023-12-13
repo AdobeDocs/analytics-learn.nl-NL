@@ -4,7 +4,7 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 3dd6fd5f97f2fac3651891e35113e72e89e2261f
+source-git-commit: a3eaa0feedb826c176e233e8d243ae617b816cab
 workflow-type: tm+mt
 source-wordcount: '2264'
 ht-degree: 2%
@@ -287,7 +287,7 @@ ht-degree: 2%
       + [Basisconfiguratie van de extensie Analytics](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [Bibliotheekbeheer configureren voor de extensie Analytics](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [Algemene instellingen configureren voor de extensie Analytics](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
-      + [Globale variabelen configureren in de extensie Analytics starten](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
+      + [Algemene variabeleninstellingen configureren voor de extensie Analytics](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Cookie-instellingen configureren in de extensie Analytics starten](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [Aangepaste code gebruiken tijdens het configureren van de extensie Analytics starten](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
       + [Een gegevenslaag gebruiken om paginanaam en andere variabelen in te stellen via Starten](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
