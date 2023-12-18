@@ -4,9 +4,9 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: a3eaa0feedb826c176e233e8d243ae617b816cab
+source-git-commit: a280621d6b9656a1dc6c33dfec7bf8226bfb5be5
 workflow-type: tm+mt
-source-wordcount: '2264'
+source-wordcount: '2249'
 ht-degree: 2%
 
 ---
@@ -34,19 +34,17 @@ ht-degree: 2%
    + Overgangen van andere platforms {#transitioning-from-other-platforms}
       + [Overgangen van Googles Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Basisbeginselen van analysemogelijkheden {#analytics-basics}
-      + [Try in Workspace Button in Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
-      + [De analysecyclus begrijpen](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
+      + [De analysecyclus](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [Hoe analysegegevens worden verzameld](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Aanmelden bij Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
-      + [Het begrijpen van en het Creëren van de Reeksen van het Rapport](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [Basisstatistieken van bezoekers](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
-      + [Inleiding aan de Variabelen van het Verkeer (Keuringen)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
+      + [Werken en rapportsuites maken](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
+      + [Basisgegevens van bezoekers begrijpen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
+      + [Inleiding tot verkeersvariabelen (profielen)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
       + [Inleiding tot conversievariabelen (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
       + [Inleiding tot conversiegebeurtenissen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
    + De gebruikersinterface aanpassen {#customizing-the-ui}
       + [Analysis Workspace-gebruikersvoorkeuren aanpassen](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [Dimensie en metrische beschrijvingen toevoegen](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
-      + [Het menu in Reports and Analytics aanpassen](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
       + [Beveiliging verbeteren](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [Een Analysis Workspace-project instellen als bestemmingspagina](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + Help opvragen {#getting-help}
