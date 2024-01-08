@@ -4,9 +4,9 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: a280621d6b9656a1dc6c33dfec7bf8226bfb5be5
+source-git-commit: 8f5adbc0627b30256529c9de36ae43f18ddcad84
 workflow-type: tm+mt
-source-wordcount: '2249'
+source-wordcount: '2227'
 ht-degree: 2%
 
 ---
@@ -180,16 +180,14 @@ ht-degree: 2%
       + [Datumvergelijkingen in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Vergelijkingen van voorafgaande maanden en jaar toevoegen aan trends](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
    + Projecten krullen en delen {#curate-and-share-projects}
-      + [Opslaan, delen en samenwerken aan projecten in Analysis Workspace](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
-      + [Curation and Sharing in Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
+      + [Opslaan, delen en samenwerken aan projecten](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
+      + [Projecten stroomlijnen en delen](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Directe koppeling naar een project](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
-      + [Delen met iedereen in Analysis Workspace](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
+      + [Delen met iedereen](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
       + [50.000 items downloaden als CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-      + [Exporteren naar CSV en PDF vanuit Analysis Workspace](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
+      + [Exporteren naar CSV en PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [Ingesloten componenten delen](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
-      + [Projecten plannen en downloaden](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
-      + [Delen van projecten in Analysis Workspace](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
-      + [Alleen-weergeven projecten in Analysis Workspace](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
+      + [Alleen-weergeven projecten maken](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
       + [De kracht van alleen-weergeven delen ontgrendelen](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [Het gebruiken van de Analyse van het Kruis van het lusje om Basismarketing Attributen te ontdekken](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
