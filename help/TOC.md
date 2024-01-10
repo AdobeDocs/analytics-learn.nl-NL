@@ -4,7 +4,7 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 8f5adbc0627b30256529c9de36ae43f18ddcad84
+source-git-commit: b80d4af99da80f76efe3a37b5112d8c49cd0aabd
 workflow-type: tm+mt
 source-wordcount: '2227'
 ht-degree: 2%
@@ -187,7 +187,7 @@ ht-degree: 2%
       + [50.000 items downloaden als CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [Exporteren naar CSV en PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [Ingesloten componenten delen](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
-      + [Alleen-weergeven projecten maken](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
+      + [Alleen-lezen projecten delen](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
       + [De kracht van alleen-weergeven delen ontgrendelen](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [Het gebruiken van de Analyse van het Kruis van het lusje om Basismarketing Attributen te ontdekken](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
