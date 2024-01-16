@@ -4,9 +4,9 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: b80d4af99da80f76efe3a37b5112d8c49cd0aabd
+source-git-commit: e53d68389ae1b9ccd38dc368812c5edbd9ba1550
 workflow-type: tm+mt
-source-wordcount: '2227'
+source-wordcount: '2192'
 ht-degree: 2%
 
 ---
@@ -278,26 +278,26 @@ ht-degree: 2%
       + [Uw analytische traceringsserver en rapportsuite-id identificeren](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Een document met zakelijke vereisten maken](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [SDR maken en onderhouden.](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-   + Experience Platform-tags gebruiken {#via-adobe-launch}
-      + [Het Experience Cloud implementeren in websites met Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
+   + Experience Platform-tags {#experience-platform-tags}
+      + [Experience Cloud-oplossingen implementeren in websites met tags](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
       + [Basisconfiguratie van de extensie Analytics](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
-      + [Bibliotheekbeheer configureren voor de extensie Analytics](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
-      + [Algemene instellingen configureren voor de extensie Analytics](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
-      + [Algemene variabeleninstellingen configureren voor de extensie Analytics](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
-      + [Cookie-instellingen configureren in de extensie Analytics starten](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
-      + [Aangepaste code gebruiken tijdens het configureren van de extensie Analytics starten](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
-      + [Een gegevenslaag gebruiken om paginanaam en andere variabelen in te stellen via Starten](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
-      + [Plug-ins voor implementatie toevoegen in Starten](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
-      + [do-plug-ins gebruiken in de Adobe Analytics-extensie](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
-      + [Het vormen Gemakkelijke het Volgen van de Verbinding van de Download](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
-      + [Het vormen Gemakkelijke Verbinding van de Uitgang het Volgen](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
-      + [Experience Platform Launch voorbereiden voor de implementatie van Analytics](implementation/via-adobe-launch/preparing-adobe-launch-for-your-analytics-implementation.md)
-      + [Gegevenselementen maken in Experience Platform Launch voor de analysetransplementatie](implementation/via-adobe-launch/creating-data-elements-in-launch-for-the-analytics-implementation.md)
-      + [Een algemene paginalijn maken in Experience Platform Launch](implementation/via-adobe-launch/creating-a-global-page-rule-in-launch.md)
-      + [De algemene regel voor het laden van pagina&#39;s in het Experience Platform Launch valideren](implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.md)
-      + [Experience Platforms Launch voor speciale pagina&#39;s maken](implementation/via-adobe-launch/creating-launch-rules-for-special-pages.md)
-      + [Het creëren van de Regels van het Experience Platform Launch voor Succesgebeurtenissen](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
-      + [Bibliotheken van Experience Platforms Launch publiceren naar werkgebied en productie](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
+      + [Bibliotheekbeheer configureren in de extensie Analytics](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
+      + [Algemene instellingen configureren in de extensie Analytics](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
+      + [Algemene variabeleninstellingen configureren in de extensie Analytics](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
+      + [Cookie-instellingen configureren in de extensie Analytics](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
+      + [Aangepaste code gebruiken in de extensie Analytics](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
+      + [Een gegevenslaag gebruiken om variabelen in te stellen](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
+      + [Plug-ins voor implementatie toevoegen](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
+      + [DoPlugins gebruiken in de Adobe Analytics-extensie](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
+      + [Koppeling met downloadkoppelingen eenvoudig beheren](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
+      + [Eenvoudig koppelingen bijhouden configureren](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
+      + [Tags voorbereiden voor de implementatie van Analytics](implementation/via-adobe-launch/preparing-adobe-launch-for-your-analytics-implementation.md)
+      + [Gegevenselementen maken voor de analytische implementatie](implementation/via-adobe-launch/creating-data-elements-in-launch-for-the-analytics-implementation.md)
+      + [Een algemene regel voor het laden van pagina&#39;s maken](implementation/via-adobe-launch/creating-a-global-page-rule-in-launch.md)
+      + [De algemene regel voor het laden van pagina&#39;s valideren](implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.md)
+      + [Regels maken voor speciale pagina&#39;s](implementation/via-adobe-launch/creating-launch-rules-for-special-pages.md)
+      + [Regels maken voor succesgebeurtenissen](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
+      + [Tagbibliotheken publiceren naar werkgebied en productie](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
    + JavaScript gebruiken {#using-javascript}
       + [Aangepaste koppeling bijhouden zonder tagbeheer](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [AppMeasurement bijwerken wanneer Experience Platform Launch niet wordt gebruikt](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)

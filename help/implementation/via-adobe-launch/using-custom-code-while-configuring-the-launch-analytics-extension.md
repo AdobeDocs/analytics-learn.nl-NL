@@ -1,24 +1,25 @@
 ---
-title: Aangepaste code gebruiken tijdens het configureren van de extensie Analytics starten
-description: Als u nog maar net aan de slag gaat met Launch, by Adobe en de Adobe Analytics-extensie, kunt u met deze video inzicht krijgen in de opties voor aangepaste codevensters, de timing van de code-uitvoering, enzovoort.
-feature: Launch Implementation
-topics: null
-activity: implement
+title: Aangepaste code gebruiken in de Adobe Analytics-extensie in [!DNL Tags]
+description: Leer over gebruiksgevallen en technische overwegingen voor het gebruiken van de redacteur van de douanecode wanneer het vormen van de uitbreiding van Adobe Analytics in [!DNL Tags].
+feature: Tags
+topics: Development
 doc-type: technical video
 team: Technical Marketing
 kt: 2914
 role: Developer, Data Engineer
 level: Beginner
 exl-id: f44bc723-0a05-4f88-8f49-04ca00dd1057
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
+source-git-commit: e53d68389ae1b9ccd38dc368812c5edbd9ba1550
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# Het gebruiken van de Code van de Douane terwijl het Vormen van [!DNL Analytics] [!DNL Launch] Extensie {#using-custom-code-while-configuring-the-launch-analytics-extension}
+# Aangepaste code gebruiken in de Adobe Analytics-extensie in [!DNL Tags]
 
-Als je net aan de slag gaat met Adobe Experience Platform Launch en de Adobe Analytics [!UICONTROL Extension]Deze video kan u helpen de opties van het venster van de douanecode, timing van code uitvoering, etc. te begrijpen.
+Leer over gebruiksgevallen en technische overwegingen voor het gebruiken van de redacteur van de douanecode wanneer het vormen van de uitbreiding van Adobe Analytics in [!DNL Tags].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)
+
+Controleer de [documentatie](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html) voor meer informatie over de <i>doPlugins, functie</i> waarnaar wordt verwezen in deze video.
