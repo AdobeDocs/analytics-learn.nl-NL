@@ -4,7 +4,7 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: e53d68389ae1b9ccd38dc368812c5edbd9ba1550
+source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
 workflow-type: tm+mt
 source-wordcount: '2192'
 ht-degree: 2%
@@ -280,24 +280,24 @@ ht-degree: 2%
       + [SDR maken en onderhouden.](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Experience Platform-tags {#experience-platform-tags}
       + [Experience Cloud-oplossingen implementeren in websites met tags](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
-      + [Basisconfiguratie van de extensie Analytics](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
-      + [Bibliotheekbeheer configureren in de extensie Analytics](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
-      + [Algemene instellingen configureren in de extensie Analytics](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
-      + [Algemene variabeleninstellingen configureren in de extensie Analytics](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
-      + [Cookie-instellingen configureren in de extensie Analytics](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
-      + [Aangepaste code gebruiken in de extensie Analytics](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
-      + [Een gegevenslaag gebruiken om variabelen in te stellen](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
-      + [Plug-ins voor implementatie toevoegen](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
-      + [DoPlugins gebruiken in de Adobe Analytics-extensie](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
-      + [Koppeling met downloadkoppelingen eenvoudig beheren](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
-      + [Eenvoudig koppelingen bijhouden configureren](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
-      + [Tags voorbereiden voor de implementatie van Analytics](implementation/via-adobe-launch/preparing-adobe-launch-for-your-analytics-implementation.md)
-      + [Gegevenselementen maken voor de analytische implementatie](implementation/via-adobe-launch/creating-data-elements-in-launch-for-the-analytics-implementation.md)
-      + [Een algemene regel voor het laden van pagina&#39;s maken](implementation/via-adobe-launch/creating-a-global-page-rule-in-launch.md)
-      + [De algemene regel voor het laden van pagina&#39;s valideren](implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.md)
-      + [Regels maken voor speciale pagina&#39;s](implementation/via-adobe-launch/creating-launch-rules-for-special-pages.md)
-      + [Regels maken voor succesgebeurtenissen](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
-      + [Tagbibliotheken publiceren naar werkgebied en productie](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
+      + [Basisconfiguratie van de extensie Analytics](implementation/experience-platform-tags/basic-configuration-of-the-analytics-tags-extension.md)
+      + [Bibliotheekbeheer configureren in de extensie Analytics](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
+      + [Algemene instellingen configureren in de extensie Analytics](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
+      + [Algemene variabeleninstellingen configureren in de extensie Analytics](implementation/experience-platform-tags/configuring-global-variables-in-the-tags-analytics-extension.md)
+      + [Cookie-instellingen configureren in de extensie Analytics](implementation/experience-platform-tags/configuring-cookie-settings-in-the-tags-analytics-extension.md)
+      + [Aangepaste code gebruiken in de extensie Analytics](implementation/experience-platform-tags/using-custom-code-while-configuring-the-tags-analytics-extension.md)
+      + [Een gegevenslaag gebruiken om variabelen in te stellen](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
+      + [Plug-ins voor implementatie toevoegen](implementation/experience-platform-tags/adding-implementation-plug-ins-in-tags.md)
+      + [DoPlugins gebruiken in de Adobe Analytics-extensie](implementation/experience-platform-tags/use-doplugins-in-the-adobe-analytics-extension.md)
+      + [Koppeling met downloadkoppelingen eenvoudig beheren](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
+      + [Eenvoudig koppelingen bijhouden configureren](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
+      + [Tags voorbereiden voor de implementatie van Analytics](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
+      + [Gegevenselementen maken voor de analytische implementatie](implementation/experience-platform-tags/creating-data-elements-in-tags-for-the-analytics-implementation.md)
+      + [Een algemene regel voor het laden van pagina&#39;s maken](implementation/experience-platform-tags/creating-a-global-page-rule-in-tags.md)
+      + [De algemene regel voor het laden van pagina&#39;s valideren](implementation/experience-platform-tags/validating-your-global-page-load-rule-in-tags.md)
+      + [Regels maken voor speciale pagina&#39;s](implementation/experience-platform-tags/creating-tags-rules-for-special-pages.md)
+      + [Regels maken voor succesgebeurtenissen](implementation/experience-platform-tags/creating-tags-rules-for-success-events.md)
+      + [Tagbibliotheken publiceren naar werkgebied en productie](implementation/experience-platform-tags/publishing-tags-libraries-to-stage-and-production.md)
    + JavaScript gebruiken {#using-javascript}
       + [Aangepaste koppeling bijhouden zonder tagbeheer](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [AppMeasurement bijwerken wanneer Experience Platform Launch niet wordt gebruikt](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
