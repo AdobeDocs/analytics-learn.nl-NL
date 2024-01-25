@@ -4,7 +4,7 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
 workflow-type: tm+mt
 source-wordcount: '2192'
 ht-degree: 2%
@@ -290,7 +290,7 @@ ht-degree: 2%
       + [Plug-ins voor implementatie toevoegen](implementation/experience-platform-tags/adding-implementation-plug-ins-in-tags.md)
       + [DoPlugins gebruiken in de Adobe Analytics-extensie](implementation/experience-platform-tags/use-doplugins-in-the-adobe-analytics-extension.md)
       + [Koppeling met downloadkoppelingen eenvoudig beheren](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
-      + [Eenvoudig koppelingen bijhouden configureren](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
+      + [Eenvoudige tracering van afsluitkoppelingen configureren](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
       + [Tags voorbereiden voor de implementatie van Analytics](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
       + [Gegevenselementen maken voor de analytische implementatie](implementation/experience-platform-tags/creating-data-elements-in-tags-for-the-analytics-implementation.md)
       + [Een algemene regel voor het laden van pagina&#39;s maken](implementation/experience-platform-tags/creating-a-global-page-rule-in-tags.md)

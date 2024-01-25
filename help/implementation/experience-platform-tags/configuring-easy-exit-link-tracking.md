@@ -1,6 +1,6 @@
 ---
-title: Eenvoudige tracering van afsluitingen in Experience Platform configureren [!DNL tags]
-description: U kunt de afsluitkoppelingen op uw site (koppelingen die naar een andere site gaan) slechts na een paar klikken volgen in de Adobe Analytics-extensie in Experience Platform [!DNL tags]. In deze video ziet u hoe u deze instelt.
+title: Koppelingen eenvoudig bijhouden via Experience Platforms configureren
+description: U kunt afsluitkoppelingen op uw site (koppelingen die naar een andere site gaan) slechts na een paar klikken volgen in de Adobe Analytics-extensie in Experience Platform-tags. In deze video ziet u hoe u deze instelt.
 feature: Tags
 topics: Development
 activity: implement
@@ -10,9 +10,9 @@ kt: 2273
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 80a6a83e-9315-4339-bdfe-2b1f11129403
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -20,10 +20,6 @@ ht-degree: 0%
 # Eenvoudige tracering van afsluitingen in Experience Platform configureren [!DNL tags]
 
 U kunt de afsluitkoppelingen op uw site (koppelingen die naar een andere site gaan) slechts na een paar klikken volgen in de Adobe Analytics-extensie in Experience Platform [!DNL tags]. In deze video ziet u hoe u deze instelt.
-
->[!NOTE]
->
-> Starten is nu **[!DNL tags]**
 
 >[!VIDEO](https://video.tv.adobe.com/v/25763/?quality=12&learn=on)
 
