@@ -4,9 +4,9 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
+source-git-commit: 2d758e03110f8a9f4fdccfd2174af1fd256bbdb4
 workflow-type: tm+mt
-source-wordcount: '2192'
+source-wordcount: '2187'
 ht-degree: 2%
 
 ---
@@ -287,8 +287,7 @@ ht-degree: 2%
       + [Cookie-instellingen configureren in de extensie Analytics](implementation/experience-platform-tags/configuring-cookie-settings-in-the-tags-analytics-extension.md)
       + [Aangepaste code gebruiken in de extensie Analytics](implementation/experience-platform-tags/using-custom-code-while-configuring-the-tags-analytics-extension.md)
       + [Een gegevenslaag gebruiken om variabelen in te stellen](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
-      + [Plug-ins voor implementatie toevoegen](implementation/experience-platform-tags/adding-implementation-plug-ins-in-tags.md)
-      + [DoPlugins gebruiken in de Adobe Analytics-extensie](implementation/experience-platform-tags/use-doplugins-in-the-adobe-analytics-extension.md)
+      + [Insteekmodules doPlugins en implementatieplug-ins gebruiken](implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.md)
       + [Koppeling met downloadkoppelingen eenvoudig beheren](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
       + [Eenvoudige tracering van afsluitkoppelingen configureren](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
       + [Tags voorbereiden voor de implementatie van Analytics](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
