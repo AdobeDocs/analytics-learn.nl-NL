@@ -8,13 +8,13 @@ doc-type: Article
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+exl-id: 1da9334b-0edb-4237-b7ca-57640865208c
+source-git-commit: f1bb981a83eb698f4185a22c367346a9ddd0c755
 workflow-type: tm+mt
-source-wordcount: '1681'
+source-wordcount: '1664'
 ht-degree: 0%
 
 ---
-
 
 # Deelvenster Adobe Analytics-toewijzing en terugzoekvensters
 
@@ -39,7 +39,7 @@ Nu we allemaal enthousiast zijn over tijdreizen, laten we een diepe adem nemen, 
 
 ![Attributie](assets/attribution.png)
 
-*Afbeelding 1 - Getallen die inline met de onderstaande tekst worden weergegeven*
+*Afbeelding 1 - Getallen worden inline weergegeven met de onderstaande tekst*
 
 In **toewijzing** Overweeg eenvoudig hoe gebeurtenissen/acties kunnen worden veroorzaakt door een individu, meerdere personen of een van de verschillende gebeurtenissen in de loop van de tijd.
 
@@ -48,7 +48,7 @@ Volgens [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using
 
 >[!WARNING]
 >
->Een korte opmerking om aan te geven dat **toewijzingsmodellen** worden zo vaak geassocieerd met **afzetkanalen** dat ik doelbewust *doorgehaald* ❷ KANAAL in de bovenstaande afbeelding om aan te tonen dat het mogelijk is om **toewijzing** analyse tegen de meeste andere ***dimensie***.
+>**Attributiemodellen** worden zo vaak geassocieerd met **afzetkanalen** dat ik doelbewust *doorgehaald* ❷ KANAAL in de bovenstaande afbeelding om aan te tonen dat het mogelijk is om **toewijzing** analyse tegen de meeste andere ***dimensie***.
 
 
 In feite, is zelden om het even welke bepaalde klantenreis echt lineair en zelfs minder vaak voorspelbaar.  Meer zo, zal elke klant bij hun eigen tempo te werk gaan; vaak, zouden zij terug kunnen verdubbelen, kunnen stagneren, wegvallen, of andere niet-lineair gedrag aangaan. Deze biologische acties maken het moeilijk of praktisch onmogelijk om de impact van marketinginspanningen op de hele reis van de klant te kennen. Ook wordt het hierdoor lastig om meerdere datakanalen aan elkaar te koppelen.
