@@ -1,6 +1,6 @@
 ---
 title: Koppelingen eenvoudig bijhouden via Experience Platforms configureren
-description: U kunt afsluitkoppelingen op uw site (koppelingen die naar een andere site gaan) slechts na een paar klikken volgen in de Adobe Analytics-extensie in Experience Platform-tags. In deze video ziet u hoe u deze instelt.
+description: Leer hoe u afsluitkoppelingen op uw site (koppelingen die naar een andere site gaan) kunt bijhouden door slechts een paar klikken in de Adobe Analytics-extensie in Experience Platform-tags.
 feature: Tags
 topics: Development
 activity: implement
@@ -10,9 +10,9 @@ kt: 2273
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 80a6a83e-9315-4339-bdfe-2b1f11129403
-source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
+source-git-commit: 6dd1575364f3bb3cf81c3f5ffb642f3c1043eb8b
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
