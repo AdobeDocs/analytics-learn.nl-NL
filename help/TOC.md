@@ -4,9 +4,9 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 2d758e03110f8a9f4fdccfd2174af1fd256bbdb4
+source-git-commit: 5539caf525f83074f0862eabe5775a1da2d7b5cd
 workflow-type: tm+mt
-source-wordcount: '2187'
+source-wordcount: '2180'
 ht-degree: 2%
 
 ---
@@ -284,7 +284,6 @@ ht-degree: 2%
       + [Bibliotheekbeheer configureren in de extensie Analytics](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
       + [Algemene instellingen configureren in de extensie Analytics](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
       + [Algemene variabeleninstellingen configureren in de extensie Analytics](implementation/experience-platform-tags/configuring-global-variables-in-the-tags-analytics-extension.md)
-      + [Cookie-instellingen configureren in de extensie Analytics](implementation/experience-platform-tags/configuring-cookie-settings-in-the-tags-analytics-extension.md)
       + [Aangepaste code gebruiken in de extensie Analytics](implementation/experience-platform-tags/using-custom-code-while-configuring-the-tags-analytics-extension.md)
       + [Een gegevenslaag gebruiken om variabelen in te stellen](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
       + [Insteekmodules doPlugins en implementatieplug-ins gebruiken](implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.md)
