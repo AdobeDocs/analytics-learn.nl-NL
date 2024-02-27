@@ -8,39 +8,28 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: d05f59507a766881250090547b177ffdd0fdf5e0
+source-git-commit: d4d87789018acdd5c587b5f78e3249e0fd694bfb
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 8%
+source-wordcount: '244'
+ht-degree: 1%
 
 ---
 
 
 
-# Zelfstudies voor analyse
+# Zelfstudies voor analysemogelijkheden
 
 Haal het meeste uit [!DNL Adobe Analytics]. Gebruik deze zelfstudies om de functies van Analytics te leren en de voordelen voor uw bedrijf te benutten. Deze inhoud is geschikt voor beheerders, gegevensanalisten, marketers, ontwikkelaars en architecten.
 
 Aan de slag,
 
 * Zie de **&quot;Nieuwe functies&quot;** hieronder voor de nieuwste updates en functies
-* **Personeelspictogrammen** benadrukt een aantal van onze favoriete inhoud
-* Verken de inhoud per onderwerp en subonderwerp in de **linkernavigatie**
+* **Personeelspikkels** benadrukt een aantal van onze favoriete inhoud
+* Verken de inhoud per onderwerp en subonderwerp in het dialoogvenster **linkernavigatie**
 * Gebruik de **zoeken** veld boven aan de pagina als u weet wat u wilt leren
 
 De gekromde leerervaringen door rol en vaardigheidsniveau worden ook aangeboden in de cursussectie. Meld u aan met uw Adobe ID en navigeer naar **Leren > Aanbevolen cursussen** in de bovenste navigatie.
 
-<div id="whats-new-section">
-
-## Nieuwe functies
-
-* **[Adobe Analytics Mobile scorecard-app](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
-   *Leer hoe u de mobiele scorecardtoepassing downloadt en mobiele scorecards bekijkt die zijn gemaakt in [!DNL Analysis Workspace].*
-
-* **[Annotaties in werkruimte (video)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *Aantekeningen in [!DNL Analysis Workspace] stelt u in staat om contextuele gegevensnuances en inzichten effectief aan uw gebruikers over uw organisatie mee te delen. Annoteer een datum- of datumbereik met bekende gegevensproblemen, feestdagen, het starten van campagnes enzovoort. Dit informeert gebruikers waarom zij onregelmatigheden in lijngrafieken, lijsten en meer zien.*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -57,11 +46,11 @@ De gekromde leerervaringen door rol en vaardigheidsniveau worden ook aangeboden 
 <tr>
   <td>
     <a href="analysis-workspace/attribution-iq/algorithmic-model-in-attribution-iq.md">
-      <img alt="Algoritmisch model in Attribution IQ" src="assets/36205.jpg" />
+      <img alt="Algorithmic Model in Attribution IQ" src="assets/36205.jpg" />
     </a>
     <div>
       <a href="analysis-workspace/attribution-iq/algorithmic-model-in-attribution-iq.md">
-    <strong>Algoritmisch model in Attribution IQ</strong>
+    <strong>Algorithmic Model in Attribution IQ</strong>
     </a>
     </div>
     <p>
@@ -70,11 +59,11 @@ De gekromde leerervaringen door rol en vaardigheidsniveau worden ook aangeboden 
   </td>
    <td>
     <a href="analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md">
-      <img alt="Trainingstutorialsjabloon in Analysis Workspace" src="assets/33773.jpg" />
+      <img alt="Sjabloon voor zelfstudie training in Analysis Workspace" src="assets/33773.jpg" />
     </a>
     <div>
       <a href="analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md">
-    <strong>Trainingstutorialsjabloon in Analysis Workspace</strong>
+    <strong>Sjabloon voor zelfstudie training in Analysis Workspace</strong>
     </a>
     </div>
     <p>
@@ -83,7 +72,7 @@ De gekromde leerervaringen door rol en vaardigheidsniveau worden ook aangeboden 
   </td>
   <td>
     <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
-      <img alt="miniatuurafbeelding voor de video 'Analysis Workspace Overview'" src="assets/thumb_analysis-workspace-overview.png" />
+      <img alt="miniatuurafbeelding voor de video &apos;Analysis Workspace Overview&apos;" src="assets/thumb_analysis-workspace-overview.png" />
     </a>
     <div>
       <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
