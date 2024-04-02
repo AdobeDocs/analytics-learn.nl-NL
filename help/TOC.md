@@ -4,9 +4,9 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 5539caf525f83074f0862eabe5775a1da2d7b5cd
+source-git-commit: 5860c0948e61fde32bf6d814f701410df330a9e4
 workflow-type: tm+mt
-source-wordcount: '2180'
+source-wordcount: '2176'
 ht-degree: 2%
 
 ---
@@ -48,8 +48,7 @@ ht-degree: 2%
       + [Beveiliging verbeteren](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [Een Analysis Workspace-project instellen als bestemmingspagina](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + Help opvragen {#getting-help}
-      + [Tips voor Analysis Workspace-producten](intro-to-analytics/getting-help/in-product-tips.md)
-      + [Toelevering voor Ticket voor ondersteuning van producten](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
+      + [Verzending van tickets voor ondersteuning tijdens het product](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
       + [Hulp krijgen in Adobe Analytics](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
    + Analysis Workspace Basics {#analysis-workspace-basics}

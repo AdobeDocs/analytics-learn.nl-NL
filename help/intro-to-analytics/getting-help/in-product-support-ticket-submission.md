@@ -1,24 +1,20 @@
 ---
-title: Toelevering voor Ticket voor ondersteuning van producten
-description: U kunt nu rechtstreeks in de gebruikersinterface een ondersteuningsticket voor de klantenservice verzenden waarmee het proces wordt gestroomlijnd in de richting van een oplossing.
+title: Verzending van tickets voor ondersteuning tijdens het product
+description: Leer hoe u een ondersteuningsticket naar de klantenservice kunt verzenden vanaf direct in het product en het proces stroomlijnt in de richting van een oplossing.
 feature: Analytics Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 1664
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User
 level: Beginner
 exl-id: af75cd36-75ff-4892-b8ec-dd5704dabfe3
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 5860c0948e61fde32bf6d814f701410df330a9e4
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
 # Toelevering voor Ticket voor ondersteuning van producten {#in-product-support-ticket-submission}
 
-U kunt nu een [!DNL Customer Care] steun direct in UI, die het proces in de richting van resolutie stroomlijnt.
+Leer hoe u een ondersteuningsticket kunt indienen bij [!DNL Customer Care] bij Adobe van rechtstreeks in het product, stroomlijnt het proces in de richting van resolutie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12&learn=on)
