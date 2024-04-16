@@ -4,7 +4,7 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: d8f5a896b89273eb073d12ddc8c39db186e43794
+source-git-commit: 03db9b1a91ff127020a5a0bc0542f04942a64770
 workflow-type: tm+mt
 source-wordcount: '2176'
 ht-degree: 2%
@@ -72,7 +72,7 @@ ht-degree: 2%
       + [Dynamische vervolgkeuzefilters maken](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
    + Navigeren door werkruimteprojecten {#navigating-workspace-projects}
       + [Gegevenswoordenboek in Analysis Workspace](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
-      + [Projecten maken met behulp van sjablonen](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
+      + [Uw eerste project starten](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Sjabloon voor trainingszelfstudie](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Mappen in Analysis Workspace gebruiken](analysis-workspace/navigating-workspace-projects/use-folders-in-analysis-workspace.md)
       + [Deelvensters en visualisaties kopiëren en invoegen](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
@@ -448,4 +448,3 @@ ht-degree: 2%
 + [Studieprogramma Analytics University](analytics-university/curriculum.md)
 + [EXPERIENCE LEAGUE LIVE](exl-live/exl-live-overview.md)
 + [De Grondbeginselen van de Analyse voor BedrijfsGebruikers is gepensioneerd](retired-courses/retire-fundamentals-for-business-users-course.md)
-
