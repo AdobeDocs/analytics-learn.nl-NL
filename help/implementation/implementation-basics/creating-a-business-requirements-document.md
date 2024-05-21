@@ -7,9 +7,9 @@ level: Beginner
 kt: 3580
 thumbnail: 28758.jpg
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 245a31092b4a9c253eadd843c7b919c4f701d449
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ Leer hoe belangrijk het is om gedragsgegevens te definiëren die u wilt vastlegg
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12&learn=on)
 
-[Downloaden](assets/aa-implementation-playbook.xlsx) een sjabloon van voorbeeldExcel aan documentvereisten en het ontwerp van de gegevensinzameling voor uw digitale eigenschappen.
+[Downloaden](assets/aa_en_BRD_SDR_template.xlsx) een sjabloon van voorbeeldExcel aan documentvereisten, variabelengebruik en toewijzing, segmenten, en het ontwerp van de gegevensinzameling voor uw digitale eigenschappen.
 
-[Downloaden](assets/geometrixx-clothiers-brd-sdr.xlsx) het Excel-document dat in deze video wordt gepresenteerd en/of de bijbehorende [referentievideo ontwerp oplossing](creating-and-maintaining-an-sdr.md).
+Bekijk de verwante video om te leren hoe u een [referentiedocument ontwerp oplossing](creating-and-maintaining-an-sdr.md).

@@ -1,15 +1,15 @@
 ---
 title: Creeer en handhaaf een document van de Verwijzing van het Ontwerp van de Oplossing (SDR)
-description: Het document van de Verwijzing van het Ontwerp van de Oplossing (SDR) is de blauwdruk voor bedrijfsvereisten en het ontwerp van de gegevensinzameling voor Analytics op uw digitale eigenschappen. Leer hoe u dit document maakt en onderhoudt als bron van waarheid voor uw analyseoplossing.
+description: Het document van de Verwijzing van het Ontwerp van de Oplossing (SDR) is de blauwdruk voor bedrijfsvereisten, veranderlijke taken, segmentdefinities, en het ontwerp van de gegevensinzameling voor Analytics op uw digitale eigenschappen.
 feature: Implementation Basics
 role: Developer, Data Engineer
 level: Beginner
 kt: 3581
 thumbnail: 28754.jpg
 exl-id: c942e819-0763-4907-adcc-747ec753c407
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 245a31092b4a9c253eadd843c7b919c4f701d449
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ Het document van de Verwijzing van het Ontwerp van de Oplossing (SDR) is de blau
 
 >[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12&learn=on)
 
-[Downloaden](assets/aa-implementation-playbook.xlsx) een sjabloon van voorbeeldExcel aan documentvereisten en het ontwerp van de gegevensinzameling voor uw digitale eigenschappen.
+[Downloaden](assets/aa_en_BRD_SDR_template.xlsx) een sjabloon van voorbeeldExcel aan documentvereisten, variabelengebruik en toewijzing, segmenten, en het ontwerp van de gegevensinzameling voor uw digitale eigenschappen.
 
-[Downloaden](assets/geometrixx-clothiers-brd-sdr.xlsx) het Excel-document dat in deze video wordt gepresenteerd en/of de bijbehorende [documentvideo over zakelijke vereisten](creating-a-business-requirements-document.md)).
+Bekijk de verwante video om te leren hoe u een [documentvideo over zakelijke vereisten](creating-a-business-requirements-document.md).
