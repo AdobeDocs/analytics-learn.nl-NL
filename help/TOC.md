@@ -4,9 +4,9 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 9d90cc880dc13d55cc44f915b40c43450db48197
+source-git-commit: fa8562f400c93b70d7b83613b90eca21b49dc115
 workflow-type: tm+mt
-source-wordcount: '2179'
+source-wordcount: '2160'
 ht-degree: 2%
 
 ---
@@ -299,10 +299,6 @@ ht-degree: 2%
    + JavaScript gebruiken {#using-javascript}
       + [Aangepaste koppeling bijhouden zonder tagbeheer](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [AppMeasurement bijwerken wanneer Experience Platform Launch niet wordt gebruikt](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
-   + Valideren en problemen oplossen {#validating-and-troubleshooting}
-      + [Implementaties controleren met de Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
-   + SPA pagina&#39;s {#spa-pages}
-      + [Beste werkwijzen gebruiken bij SPA bijhouden](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + Onderdelen {#components}
    + Segmentatie {#segmentation}
       + [Overzicht van de builder van segmenten](components/segmentation/segment-builder-overview.md)
