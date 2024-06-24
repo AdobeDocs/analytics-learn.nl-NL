@@ -4,9 +4,9 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 2b7d260a10a73f017f65146e1e7e64822983f5b6
+source-git-commit: 7817c73a3a11297212eeaf83478b2b803e6f7d8d
 workflow-type: tm+mt
-source-wordcount: '2157'
+source-wordcount: '2166'
 ht-degree: 2%
 
 ---
@@ -65,6 +65,7 @@ ht-degree: 2%
       + [Prestatiegegevens van Analysis Workspace weergeven](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
       + [Beide rapporten maken](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
    + Tips en trucs {#tips-and-tricks}
+      + [Hyperlinks maken in vrije-vormtabellen](analysis-workspace/tips-and-tricks/create-hyperlinks-in-freeform-tables.md)
       + [7 tips en trucs voor Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [Klikken met rechtermuisknop op tips en trucs voor efficiëntere workflows](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [Tips om de productiviteit in Analysis Workspace te verhogen](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
@@ -82,6 +83,7 @@ ht-degree: 2%
       + [Annotaties](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [Weergavedichtheid](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [Filters gebruiken](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+      + [Meerdere vervolgkeuzefilters gebruiken](analysis-workspace/navigating-workspace-projects/use-multi-select-drop-down-filters.md)
    + Realtimerapporten {#real-time-reports}
       + [Real-time rapportage](analysis-workspace/real-time-reports/realtime-reporting.md)
    + Deelvensters gebruiken {#using-panels}
