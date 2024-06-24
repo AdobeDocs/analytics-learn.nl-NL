@@ -1,6 +1,6 @@
 ---
 title: Analysis Workspace gebruiken om Adobe Analytics API 2.0-verzoeken te maken
-description: In deze video tonen we u hoe u Analysis Workspace kunt gebruiken om automatisch API 2.0-aanvragen te maken. Door foutopsporing in de gebruikersinterface kunt u JSON-aanvragen rechtstreeks naar elke API-client kopiëren en plakken om analysegegevens te retourneren.
+description: In deze video tonen we u hoe u Analysis Workspace kunt gebruiken om automatisch API 2.0-aanvragen te maken. Door foutopsporing in de gebruikersinterface kunt u JSON-aanvragen rechtstreeks naar elke API-client kopiëren en plakken en analysegegevens terugsturen.
 feature: API
 topics: null
 activity: use
@@ -10,10 +10,10 @@ kt: 2386
 role: Developer, Data Engineer
 level: Experienced
 exl-id: c2bf15d7-4614-4bda-83de-1a45b5f98c7b
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 833a34549d48478afa1883ccfc0cf3ab631ed33c
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 9%
+source-wordcount: '113'
+ht-degree: 0%
 
 ---
 
@@ -23,4 +23,4 @@ In deze video tonen we u hoe u Analysis Workspace kunt gebruiken om automatisch 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.md).
+Ga voor meer informatie naar de [documentatie](https://developer.adobe.com/analytics-apis/docs/2.0/#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.html).
