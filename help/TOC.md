@@ -4,9 +4,9 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 234be3d7c4357baec59233039cb6f87170f85880
+source-git-commit: 1687ffc8267fac3ab4a842d9004667486ff52fb7
 workflow-type: tm+mt
-source-wordcount: '2161'
+source-wordcount: '2160'
 ht-degree: 2%
 
 ---
@@ -379,18 +379,18 @@ ht-degree: 2%
    + Doel {#target}
       + [Analyses voor doeldeelvenster (A4T) in Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
       + [Een automatisch doelactiviteit analyseren met het A4T-deelvenster](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
-   + Ad Cloud {#ad-cloud}
+   + Adobe Advertising DSP {#adobe-advertising-dsp}
       + [Advertising Analytics configureren](integrations/ad-cloud/configuring-advertising-analytics.md)
-      + [Trackingsjablonen implementeren in zoekmachines](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
-      + [Inleiding tot de Analytics for Advertising Cloud DSP Integration](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
-      + [Een Campagneanalyse vóór de introductie maken](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
-      + [Rapporteren met Advertising Cloud Marketing Channel](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
-      + [Analytische sitereisprofielen maken](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
+      + [Trackingsjablonen implementeren in zoekprogramma&#39;s](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
+      + [Inleiding tot de integratie van Adobe Advertising DSP](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
+      + [Een analyse van de campagne vóór de introductie maken](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
+      + [Verslag over de afzetkanalen van Advertising DSP](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
+      + [Profielen voor de analytische site maken](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
       + [Analysesegmenten maken voor activering en rapportage](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
-      + [Advertising Cloud-waarschuwingen maken met Adobe Analytics](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
-      + [Aangepaste metingen voor analyse maken met Advertising Cloud-gegevens](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
-      + [Rapporten Advertising Cloud-site-item maken](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
-      + [Advertising Cloud-dashboards maken](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
+      + [Advertising DSP-waarschuwingen maken met Adobe Analytics](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
+      + [Aangepaste metingen voor Analyse maken met Advertising DSP-gegevens](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
+      + [Rapporten Advertising DSP-site-item maken](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
+      + [Advertising DSP-dashboards maken](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
    + Ad hoc-analysemogelijkheden {#ad-hoc-analytics}
       + [Projectconverter gebruiken om projecten van Ad Hoc Analysis naar Analytics Workspace te verplaatsen](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
    + Power BI {#power-bi}
