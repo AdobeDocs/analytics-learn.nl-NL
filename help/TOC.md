@@ -4,9 +4,9 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 1687ffc8267fac3ab4a842d9004667486ff52fb7
+source-git-commit: c6e015f257fd27f27e60a4ce2a30c5369611d123
 workflow-type: tm+mt
-source-wordcount: '2160'
+source-wordcount: '2164'
 ht-degree: 2%
 
 ---
@@ -363,6 +363,7 @@ ht-degree: 2%
       + [ID gegevensfeed zoeken](exporting/data-feeds/find-your-data-feed-id.md)
       + [Een gegevensfeed-taak opnieuw uitvoeren](exporting/data-feeds/rerun-a-data-feed-job.md)
    + Report Builder {#report-builder}
+      + [Workbooks upgraden en opnieuw plannen](exporting/report-builder/upgrade-and-reschedule-workbooks.md)
       + [Segmenten aan Meerdere verzoeken tegelijk toevoegen in Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
       + [Anomaly Detection in Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [Metriek bewerken in verschillende verzoeken](exporting/report-builder/edit-metrics-across-requests.md)
