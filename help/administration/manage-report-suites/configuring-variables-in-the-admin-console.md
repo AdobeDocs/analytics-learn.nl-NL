@@ -1,6 +1,6 @@
 ---
 title: Variabelen configureren in de Admin Console
-description: Nadat u de variabelen en de gebeurtenissen bepaalt die u in uw implementatie van Analytics gaat gebruiken, zult u binnen moeten gaan en hen in Admin Console vormen, zodat de rapporten/afmetingen/metriek allen de juiste namen en het gedrag hebben. In deze video ziet u waar en hoe u dat moet doen.
+description: Leer om variabelen en gebeurtenissen in de Manager van de Reeks van het Rapport te vormen, ervoor zorgend dat de rapporten, de afmetingen, en de metriek de juiste namen en het gedrag hebben.
 feature: Report Suite Settings
 thumbnail: 28755.jpg
 kt: 3582
@@ -8,9 +8,9 @@ topic: Administration
 role: Admin, Architect
 level: Beginner
 exl-id: 6bbca02c-e788-431b-bcdc-57cda794a76e
-source-git-commit: c9b9032be39665f2bc6d5592770f90ae7273f8e6
+source-git-commit: 988fe05130035099008c58528f37512ad80c881e
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
