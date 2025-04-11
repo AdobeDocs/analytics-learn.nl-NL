@@ -4,9 +4,9 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: abfda19fcda0b4469c27886ef4b80e2fe9bf25a6
+source-git-commit: 14bbe0be3c5bc45e58ff54c82c4a9024374de848
 workflow-type: tm+mt
-source-wordcount: '2164'
+source-wordcount: '2160'
 ht-degree: 2%
 
 ---
@@ -245,32 +245,32 @@ ht-degree: 2%
       + [Productprofielen maken](administration/user-management/create-product-profiles.md)
       + [Toegang tot rapportsuite beperken in de Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [Gebruikerselementen naar een andere gebruiker overbrengen](administration/user-management/transfer-user-assets-to-a-different-user.md)
-      + [Controleer de gekoppelde IMS-id om aanmeldingsproblemen te voorkomen](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
+      + [Controleer gekoppelde IMS-id om aanmeldingsproblemen te voorkomen](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + Rapportsets beheren {#manage-report-suites}
       + [Algemene accountinstellingen configureren](administration/manage-report-suites/configuring-general-account-settings.md)
-      + [Kalenderinstellingen aanpassen](administration/manage-report-suites/customize-calendar-settings.md)
-      + [Detectie van betaalde zoekopdracht configureren](administration/manage-report-suites/configure-paid-search-detection.md)
+      + [Kalender-instellingen aanpassen](administration/manage-report-suites/customize-calendar-settings.md)
+      + [Betaalde zoekdetectie configureren](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Marketingkanalen instellen](administration/manage-report-suites/set-up-marketing-channels.md)
       + [Verwerkingsregels voor marketingkanalen maken](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
-      + [Inkomende gegevens manipuleren met verwerkingsregels](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
+      + [Binnenkomende gegevens bewerken met verwerkingsregels](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Verkeersvariabelen configureren (profielen)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Verkeersclassificaties configureren](administration/manage-report-suites/configure-traffic-classifications.md)
       + [Hiërarchievariabelen configureren](administration/manage-report-suites/configure-hierarchy-variables.md)
-      + [Variabelen configureren in de Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [Gebeurtenissen en variabelen configureren](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [Conversieclassificaties configureren](administration/manage-report-suites/configure-conversion-classifications.md)
       + [Lijstvariabelen configureren](administration/manage-report-suites/configuring-list-variables.md)
-      + [Zoekmethoden configureren](administration/manage-report-suites/configure-finding-methods.md)
+      + [Methoden voor zoeken configureren](administration/manage-report-suites/configure-finding-methods.md)
       + [Interne URL-filters instellen](administration/manage-report-suites/set-internal-url-filters.md)
-      + [Instellingen voor postcode en postcode configureren](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
-      + [De optionele instelling voor Tijdstempel inschakelen](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
+      + [Instellingen voor postcodes en postcodes configureren](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
+      + [Optionele instelling voor tijdstempel inschakelen](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Beide regels configureren in Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Gegevensbeheer en GDPR {#data-governance-and-gdpr}
       + [Data Governance en GDPR in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
    + Traffic-beheer {#traffic-management}
-      + [Gebruik van serveroproep](administration/traffic-management/server-call-usage.md)
+      + [Gebruik van serveroproepen](administration/traffic-management/server-call-usage.md)
       + [Een aanstaande verkeersstroom beheren](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
    + Logs{#logs}
-      + [Gebruikslogbestanden bijhouden voor Analysis Workspace](administration/logs/usage-log-tracking-for-analysis-workspace.md)
+      + [Logboekregistratie voor Analysis Workspace gebruiken](administration/logs/usage-log-tracking-for-analysis-workspace.md)
       + [Overzicht van logbestanden voor analysebeheer](administration/logs/overview-of-analytics-admin-logs.md)
 + Implementatie {#implementation}
    + Grondbeginselen van implementatie {#implementation-basics}
