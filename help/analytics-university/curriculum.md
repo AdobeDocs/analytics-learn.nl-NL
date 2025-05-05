@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Adobe Analytics-studieprogramma
 
->[!VIDEO](https://video.tv.adobe.com/v/334350/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443863/?quality=12&learn=on&captions=dut)
 
 ## Inhoud van analytische cursus
 

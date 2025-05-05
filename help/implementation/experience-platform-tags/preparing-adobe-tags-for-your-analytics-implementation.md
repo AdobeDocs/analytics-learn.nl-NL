@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Voordat u Analyses implementeert in [!DNL tags], hebt u enkele ondersteunende documenten nodig en u moet een aantal dingen instellen in zowel Analytics als [!DNL tags]. Deze video behandelt deze dingen.
 
->[!VIDEO](https://video.tv.adobe.com/v/28752/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429967/?quality=12&learn=on&captions=dut)

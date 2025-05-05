@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer meer over de optie voor het selecteren van velden in vervolgkeuzefilters in Analysis Workspace, zodat gebruikers gegevens uit een van de geselecteerde velden kunnen weergeven. Voor gedetailleerde documentatie gaat u naar [Overzicht van deelvensters](https://experienceleague.adobe.com/nl/docs/analytics/analyze/analysis-workspace/panels/panels#static-drop-down-segments).
 
->[!VIDEO](https://video.tv.adobe.com/v/3430412/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439938/?learn=on&captions=dut)

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Leer hoe u de weergave van tabellen voor behoud of herhaling kunt aanpassen met de instellingen voor de kleurentabel.
 
->[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430095/?quality=12&learn=on&captions=dut)
 
 Aanpassingen voor de [!UICONTROL Cohort Table] de mogelijkheid om
 

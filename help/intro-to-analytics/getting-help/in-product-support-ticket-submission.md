@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Leer hoe u een ondersteuningsticket kunt indienen bij [!DNL Customer Care] bij Adobe van rechtstreeks in het product, stroomlijnt het proces in de richting van resolutie.
 
->[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430055/?quality=12&learn=on&captions=dut)

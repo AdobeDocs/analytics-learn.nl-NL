@@ -22,4 +22,4 @@ Meer informatie over de algemene configuratieopties voor de extensie Analytics i
 >
 > Starten is nu **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429917/?quality=12&learn=on&captions=dut)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Het is mogelijk om de definitie van een bezoek in Adobe Analytics op een niet-destructieve manier te wijzigen met behulp van een virtuele rapportsuite. In deze video ziet u dat en de verschillende beschikbare opties. Voor gedetailleerde documentatie gaat u naar [Contextbewuste sessies](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-mobile-visit-processing.html?lang=nl-NL){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/23545/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428477/?quality=12&learn=on&captions=dut)

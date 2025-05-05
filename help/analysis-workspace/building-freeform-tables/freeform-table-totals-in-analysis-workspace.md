@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Leer wat de totalen in vrije vormlijsten beïnvloedt, evenals om hen toe te laten en onbruikbaar te maken.
 
->[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3437405/?quality=12&learn=on&captions=dut)

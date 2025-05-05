@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer hoe u beide gegevens rapporteert in Analysis Workspace. Beide gegevens zijn beschikbaar als samenvattingsgegevens en kunnen worden geanalyseerd in beide rapportenreeksen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420314/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447643/?learn=on&captions=dut)
 
 Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html?lang=nl-NL).

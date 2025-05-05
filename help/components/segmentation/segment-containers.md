@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Wanneer het bouwen van segmenten, controleren de aanraking, het bezoek, en bezoekerscontainers hoeveel gegevens uw segment zal bevatten. In deze video leert u hoe u de containers kunt gebruiken en hoort u enkele voorbeelden van beide.
 
->[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429104/?quality=12&learn=on&captions=dut)
 
 Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=nl-NL).

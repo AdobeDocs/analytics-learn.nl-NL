@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Begrijp de types van verkeersvariabelen en hoe zij in Adobe Analytics, met inbegrip van verkeer, inhoud, en debietanalyse worden gebruikt.
 
->[!VIDEO](https://video.tv.adobe.com/v/28767/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429907/?quality=12&learn=on&captions=dut)
 
 Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html?lang=nl-NL).

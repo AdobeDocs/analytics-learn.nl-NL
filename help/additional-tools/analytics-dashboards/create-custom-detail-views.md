@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer gedetailleerde weergaven aan te passen, inclusief tekst voor Adobe Analytics-dashboards, om het verhaal dat u aan uw belanghebbenden wilt vertellen, te verfijnen via mobiele scorecardprojecten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410002/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428929/?quality=12&learn=on&captions=dut)

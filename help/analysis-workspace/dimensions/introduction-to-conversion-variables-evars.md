@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Meer informatie over conversievariabelen, ook wel bekend als [!DNL eVars], worden gebruikt in Adobe Analytics, inclusief hoe ze betrekking hebben op conversiegebeurtenissen en verschillen van verkeersvariabelen.
 
->[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429024/?quality=12&learn=on&captions=dut)
 
 Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=nl-NL).

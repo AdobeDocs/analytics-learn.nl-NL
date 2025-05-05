@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Leer hoe u een algemene paginalijn instelt voor gegevenspunten die u op elke pagina naar Adobe Analytics wilt verzenden met behulp van Experience Platform [!DNL tags].
 
->[!VIDEO](https://video.tv.adobe.com/v/28769/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443018/?quality=12&learn=on&captions=dut)

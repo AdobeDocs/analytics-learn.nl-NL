@@ -18,4 +18,4 @@ ht-degree: 0%
 
 In deze video wordt getoond hoe u regels kunt gebruiken in [!DNL tags] om conversiegebeurtenissen (succesgebeurtenissen) op uw site bij te houden.
 
->[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429959/?quality=12&learn=on&captions=dut)

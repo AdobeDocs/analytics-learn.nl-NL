@@ -18,4 +18,4 @@ ht-degree: 0%
 
 In deze video ziet u een snelle configuratie van de extensie Analytics in Experience Platform [!DNL tags] voor een basissite. Zie voor gedetailleerde documentatie [Overzicht Adobe Analytics-extensie](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=nl-NL){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/28751/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428549/?quality=12&learn=on&captions=dut)

@@ -21,6 +21,6 @@ ht-degree: 0%
 
 De aangepaste [!UICONTROL Cohort] [!UICONTROL Dimension] kunt u analyseren [!UICONTROL cohorts] gebruiken [!UICONTROL dimensions] andere dan tijd. Vergelijken [!UICONTROL cohorts] door Marketing Channel, campagnegebied, productpagina, enz. om beter te begrijpen hoe [!UICONTROL retention] (of [!UICONTROL churn]) wijzigt met [!UICONTROL dimension] item.
 
->[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430180/?quality=12&learn=on&captions=dut)
 
 Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=nl-NL).

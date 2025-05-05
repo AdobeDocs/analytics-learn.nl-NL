@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u uw berekende metriek beheert, zoals het zoeken naar deze gegevens, het bekijken van een lijst, het hernoemen, het verwijderen, het delen, enz.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421406/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432462/?learn=on&captions=dut)

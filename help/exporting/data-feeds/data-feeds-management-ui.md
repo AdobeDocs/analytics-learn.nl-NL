@@ -19,6 +19,6 @@ ht-degree: 0%
 
 De Adobe Analytics [!UICONTROL Data feed] Hiermee kunt u onbewerkte klikstreamgegevens exporteren om deze te importeren en samen te voegen met andere gegevensbronnen in een EDW- of gegevenseer. U kunt uw eigen bestanden maken en beheren [!UICONTROL Data Feeds] in Adobe Analytics. In deze video ziet u hoe.
 
->[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428566/?quality=12&learn=on&captions=dut)
 
 Voor meer informatie over deze functie raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=nl-NL#).

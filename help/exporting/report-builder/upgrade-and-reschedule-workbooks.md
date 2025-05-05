@@ -17,6 +17,6 @@ ht-degree: 0%
 
 Leer hoe u oudere [!DNL Report Builder] -werkboeken kunt upgraden en opnieuw kunt plannen naar de nieuwste versie van de Adobe Analytics-Report Builder.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434957/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446188/?quality=12&learn=on&captions=dut)
 
 Voor meer informatie over deze eigenschap, bezoek de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics/analyze/report-builder/home).

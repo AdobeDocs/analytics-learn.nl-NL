@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Leer hoe u de algemene variabeleninstellingen in Analytics configureert [!DNL tags] extensie. Zie voor gedetailleerde documentatie [Overzicht Adobe Analytics-extensie](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=nl-NL){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/27181/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427927/?quality=12&learn=on&captions=dut)

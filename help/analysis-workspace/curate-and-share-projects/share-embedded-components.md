@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Soms wilt u een Analysis Workspace-project delen, maar vergeet u ook de segmenten en metriek te delen die u bij uw collega&#39;s hebt opgenomen. In deze video wordt getoond hoe u nu segmenten en metriek kunt delen tijdens het delen van uw projecten, zodat collega&#39;s elke keer zien wat u bedoelde.
 
->[!VIDEO](https://video.tv.adobe.com/v/341273/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3438791/?quality=12&learn=on&captions=dut)
 
 Voor meer informatie over deze functie raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=nl-NL).

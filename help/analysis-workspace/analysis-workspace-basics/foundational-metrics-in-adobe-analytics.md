@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Deze video helpt u een conceptuele beschrijving te geven van de maatstaven voor basisbezoekers in Adobe Analytics en van hun onderlinge relatie. U zult ook door verscheidene voorbeelden lopen gebruiksgevallen voor wanneer om de Mening van de Pagina, Bebezoeken, en Unieke Bezoekers in het melden te gebruiken.
 
->[!VIDEO](https://video.tv.adobe.com/v/336483/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3437871/?quality=12&learn=on&captions=dut)
 
 Zie voor meer informatie in de documentatie [Paginaweergaven](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=nl-NL), [Bezoeken](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=nl-NL), en [Unieke bezoekers](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=nl-NL).

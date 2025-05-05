@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Leer hoe te om volledige projecten of individuele lijsten naar CSV voor Analyse in Excel en andere hulpmiddelen van BI uit te voeren.
 
->[!VIDEO](https://video.tv.adobe.com/v/24712/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429883/?quality=12&learn=on&captions=dut)

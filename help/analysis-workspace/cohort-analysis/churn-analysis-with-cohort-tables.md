@@ -21,6 +21,6 @@ ht-degree: 0%
 
 [!UICONTROL Cohort Tables] twee analysetypen bieden - [!UICONTROL Retention] en [!UICONTROL Churn]. while [!UICONTROL Retention] geeft aan hoeveel gebruikers in de loop der tijd behouden blijven, de [!UICONTROL Churn] geeft aan hoeveel gebruikers zijn verloren gegaan (1 - Behoud).
 
->[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430162/?quality=12&learn=on&captions=dut)
 
 Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=nl-NL).

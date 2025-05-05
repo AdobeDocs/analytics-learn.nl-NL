@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Virtuele rapportsuites kunnen worden samengevoegd en uitgesloten [!UICONTROL dimensions], [!UICONTROL metrics], en [!UICONTROL segments] in Analysis Workspace, wat zeer nuttig is als u het met andere teams deelt die slechts een specifiek segment van de gegevens nodig hebben of een verschillende gegevensnomenclatuur gebruiken. Voor gedetailleerde documentatie gaat u naar [Samengestelde cursus virtuele rapportsuite](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-components.html?lang=nl-NL){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425524/?quality=12&learn=on&captions=dut)

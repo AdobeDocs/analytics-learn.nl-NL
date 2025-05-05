@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Wanneer u analyses weergeeft op uw mobiele apparaat, is het gebruik van de juiste visualisaties belangrijker dan ooit. In deze video leert u hoe u visualisaties kunt toevoegen aan mobiele scorecard-projecten.
 
->[!VIDEO](https://video.tv.adobe.com/v/337570/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445772/?quality=12&learn=on&captions=dut)

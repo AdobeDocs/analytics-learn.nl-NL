@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer hoe u vervolgkeuzefilters maakt op basis van een hele dimensie. Dimension-items worden dynamisch bijgewerkt op basis van het datumbereik dat wordt gebruikt in het rapportvenster en de waarden die zijn geselecteerd in andere vervolgkeuzefilters in hetzelfde deelvenster.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446822/?learn=on&captions=dut)
 
 Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=nl-NL#dynamic-drop-down-filters).

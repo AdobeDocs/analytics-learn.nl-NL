@@ -22,6 +22,6 @@ ht-degree: 0%
 
 De [!UICONTROL Rolling Calculation] instellen binnen [!UICONTROL Cohort Tables] kan worden gebruikt om [!UICONTROL cohorts] punt-over-periode, om te begrijpen hoe dezelfde gebruikers worden behouden (of [!UICONTROL churn]) in de loop van de tijd.
 
->[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430086/?quality=12&learn=on&captions=dut)
 
 Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=nl-NL).

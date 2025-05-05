@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Leer hoe u gebruikersvoorkeuren kunt wijzigen en aanpassen in [!DNL Analysis Workspace]. Hieronder vallen algemene standaardinstellingen, weergave- en gegevensvoorkeuren en het schakelen tussen het thema van de gebruikersinterface.
 
->[!VIDEO](https://video.tv.adobe.com/v/332600/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429990/?quality=12&learn=on&captions=dut)

@@ -68,7 +68,7 @@ U kunt de tijdweergave eenvoudig wijzigen wanneer u werkt met trendvisualisaties
 
 Adobe Analytics verzamelt enorme hoeveelheden gegevens. Component curation in [!DNL Virtual Report Suites] staat beheerders toe om een gegevensreeks voor elke bedrijfseenheid in een organisatie te amberen. Dat betekent dat analisten die in Analysis Workspace werken, niet door gegevens hoeven te bladeren om te zien wat het belangrijkst voor hen is. Schakel gewoon het selectievakje met de naam &quot;[!UICONTROL Enable Customization of Virtual Report Suite Components]&quot; in de [!UICONTROL Virtual Report Suites] builder onder [!UICONTROL “Components],&quot; en selecteert u vervolgens de [!UICONTROL components] die overeenkomen met wat een specifiek team meet.
 
->[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425524/?quality=12&learn=on&captions=dut)
 
 >[!TIP]
 >
@@ -88,7 +88,7 @@ Maak koppelingen die overal in Analysis Workspace het publiek bereiken. Klik met
 
 U kunt elk project nu gemakkelijk omzetten in een aangepaste sjabloon. Eenvoudig selecteren &quot;[!UICONTROL Save As Template]&quot; van de &quot;[!UICONTROL Project]&quot;, voegt u tags toe die de sjabloon gemakkelijk kunnen vinden en klikt u op &quot;[!UICONTROL Save Project As Template].&quot; De sjabloon is nu beschikbaar voor alle Analysis Workspace-gebruikers onder &quot;[!UICONTROL Custom Templates]&quot; tab. Hierdoor kunnen analisten hun projecten starten met zinvolle gegevenspunten in plaats van te beginnen met vierkante.
 
->[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428577/?quality=12&learn=on&captions=dut)
 
 >[!TIP]
 >

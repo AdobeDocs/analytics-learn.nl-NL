@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u interne of externe koppelingen maakt in uw Analysis Workspace-project.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423014/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449606/?learn=on&captions=dut)

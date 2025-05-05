@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Hier vindt u enkele tips voor het selecteren van een rapportsuite in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/23967/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428554/?quality=12&learn=on&captions=dut)
