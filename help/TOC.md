@@ -310,7 +310,7 @@ ht-degree: 2%
       + [Segmentbeheer en delen](components/segmentation/segment-management-and-sharing.md)
       + [ Toepassend segmenten in Analysis Workspace ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html)
       + [ Gebruikend segmenten als afmetingen ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html)
-      + [ Gebruikend segmenten om gegevens ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html) te beperken
+      + [ Gebruikend segmenten om gegevens  te beperken](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html)
       + [Verschillen tussen de gesegmenteerde bouwer en snelle segmenten](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
       + [Opeenvolgende segmentatie](components/segmentation/sequential-segmentation.md)
       + [Voor/Na-reeksen in sequentiële segmentatie](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
@@ -434,7 +434,7 @@ ht-degree: 2%
       + [Betrokkenheid en behoudsrente verhogen](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + API&#39;s {#apis}
    + [Analysis Workspace gebruiken om API 2.0-verzoeken te maken](apis/using-analysis-workspace-to-build-api-2-requests.md)
-   + [ Gebruikend Report Builder om Adobe Analytics API ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html) te leren
+   + [ Gebruikend Report Builder om Adobe Analytics API  te leren](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html)
    + [Postman gebruiken om Adobe Analytics 2.0 API-verzoeken te maken](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Gebruiksscenario&#39;s analyse {#analysis-use-cases}
    + Zoeken op interne site {#internal-site-search}

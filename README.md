@@ -9,4 +9,4 @@ ht-degree: 0%
 
 Samenwerken aan zelfstudies en actiemateriaal voor Analytics
 
-[foo](bar)
+[foo] (bar)

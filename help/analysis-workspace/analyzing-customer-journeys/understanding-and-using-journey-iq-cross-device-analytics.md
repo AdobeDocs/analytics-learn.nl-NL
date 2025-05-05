@@ -63,7 +63,7 @@ CDA wordt aangeboden door middel van een speciaal soort cross-device [[!UICONTRO
 
 Kies in stap een van de VRS-ontwikkelaars de optie [!UICONTROL report suite] die door Adobe als CDA-Toegelaten is gevormd:
 
-*Kies een basis voor CDA (bron)[!UICONTROL report suite]*
+*Kies een basis voor CDA (bron) [!UICONTROL report suite]*
 ![[!UICONTROL Virtual Report Suite] Stap één](assets/cda-vrs-step-one.png)
 
 Vervolgens inschakelen [!UICONTROL Report Time Processing] en [!UICONTROL cross-device stitching]:
