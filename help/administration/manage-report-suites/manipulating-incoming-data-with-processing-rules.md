@@ -21,4 +21,4 @@ Het kan zeer nuttig zijn om de gegevens te kunnen manipuleren die in uw rapportr
 
 >[!VIDEO](https://video.tv.adobe.com/v/339440/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=en).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=nl-NL).

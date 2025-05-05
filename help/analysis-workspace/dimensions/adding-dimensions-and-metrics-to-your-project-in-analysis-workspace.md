@@ -19,4 +19,4 @@ In deze video leert u meer over [!UICONTROL dimensions] en [!UICONTROL metrics],
 
 >[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=nl-NL).

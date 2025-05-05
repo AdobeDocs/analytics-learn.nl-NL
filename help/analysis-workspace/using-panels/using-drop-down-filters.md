@@ -24,4 +24,4 @@ De dropzone van het deelvenster heeft nu vervolgkeuzemogelijkheden voor filteren
 
 Vervolgkeuzelijsten zijn een handige manier om projecten en deelvensters te consolideren. Bijvoorbeeld, als u verscheidene versies van een project hebt dat land-specifieke rapportering verstrekt, kunt u die projecten in één enkel project nu doen ineenstorten, en in een landdrop-down toevoegen die de gebruikers tussen kunnen schakelen.
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=en).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=nl-NL).

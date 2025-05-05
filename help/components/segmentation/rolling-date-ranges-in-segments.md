@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # Schuivende datumbereiken in segmenten {#rolling-date-ranges-in-segments}
 
-In deze video leert u hoe u roldatumbereiken in segmenten kunt gebruiken, zodat u segmenten kunt maken zoals &quot;mensen die de afgelopen week hebben aangeschaft&quot; of &quot;personen die mijn site in de afgelopen 60 dagen hebben bezocht&quot;. Voor gedetailleerde documentatie die tonen hoe te om het rollen datumwaaiers tot stand te brengen die u in uw segmenten kunt gebruiken, bezoek [Aangepaste datumbereiken maken](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html).
+In deze video leert u hoe u roldatumbereiken in segmenten kunt gebruiken, zodat u segmenten kunt maken zoals &quot;mensen die de afgelopen week hebben aangeschaft&quot; of &quot;personen die mijn site in de afgelopen 60 dagen hebben bezocht&quot;. Voor gedetailleerde documentatie die tonen hoe te om het rollen datumwaaiers tot stand te brengen die u in uw segmenten kunt gebruiken, bezoek [Aangepaste datumbereiken maken](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=nl-NL).
 
 >[!VIDEO](https://video.tv.adobe.com/v/25403/?quality=12&learn=on)

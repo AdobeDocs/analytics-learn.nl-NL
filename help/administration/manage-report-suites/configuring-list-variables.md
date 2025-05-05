@@ -21,4 +21,4 @@ Wanneer u meer dan één waarde in een eVar (een omzettingsvariabele) moet tegel
 
 >[!VIDEO](https://video.tv.adobe.com/v/339450/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/list-var-admin.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/list-var-admin.html?lang=nl-NL).

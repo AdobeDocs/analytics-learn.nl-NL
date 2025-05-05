@@ -23,5 +23,5 @@ Leer hoe u offline sjablonen kunt gebruiken en aangepaste sjablonen kunt maken i
 
 Analysis Workspace wordt geleverd met verschillende vooraf gedefinieerde sjablonen die u kunnen helpen uw analyse te starten. Maar soms wil je ook gewoon je eigen sjabloon. Leer hoe u een project kunt maken in uw eigen aangepaste sjabloon. U kunt nieuwe gebruikers helpen snel aan de slag te gaan, uw favoriete dashboards/projecten te vinden, of uw dashboard over teams te delen.
 
-Ga voor meer informatie over standaard- en aangepaste sjablonen naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html).
+Ga voor meer informatie over standaard- en aangepaste sjablonen naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html?lang=nl-NL).
 

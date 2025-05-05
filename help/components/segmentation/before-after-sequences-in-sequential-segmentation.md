@@ -20,4 +20,4 @@ In deze video wordt uitgelegd hoe u [!UICONTROL segment] in Adobe Analytics, zod
 
 >[!VIDEO](https://video.tv.adobe.com/v/25400/?quality=12&learn=on)
 
-Ga voor meer informatie over dit onderwerp naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=en).
+Ga voor meer informatie over dit onderwerp naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=nl-NL).

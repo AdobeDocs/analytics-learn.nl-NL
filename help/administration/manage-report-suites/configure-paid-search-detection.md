@@ -22,4 +22,4 @@ Leer hoe te door de configuratie van de Betaalde sectie van de Detectie van het 
 
 >[!VIDEO](https://video.tv.adobe.com/v/339302/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/paid-search-detection.html?lang=en#section_0C2CFA0AF77B47098BE37CB024665D0D).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/paid-search-detection.html?lang=nl-NL#section_0C2CFA0AF77B47098BE37CB024665D0D).

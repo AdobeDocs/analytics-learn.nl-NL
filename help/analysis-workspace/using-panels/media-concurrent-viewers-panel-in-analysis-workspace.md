@@ -24,4 +24,4 @@ Voor klanten van Media Analytics, laat het Medium Gelijktijdige Kijkers u toe om
 
 >[!VIDEO](https://video.tv.adobe.com/v/330177/?quality=12&learn=on)
 
-Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html?lang=en#analysis-workspace).
+Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html?lang=nl-NL#analysis-workspace).

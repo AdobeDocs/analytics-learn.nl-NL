@@ -19,4 +19,4 @@ Leer hoe u berekende metriek creeert die op segmenten wordt gebaseerd, zodat u d
 
 >[!VIDEO](https://video.tv.adobe.com/v/25409/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/metrics-with-segments.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/metrics-with-segments.html?lang=nl-NL).

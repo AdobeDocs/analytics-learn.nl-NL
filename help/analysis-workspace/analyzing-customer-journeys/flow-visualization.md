@@ -21,4 +21,4 @@ Stroomvisualisaties worden gebruikt om de exacte reizen te verkennen die klanten
 
 >[!VIDEO](https://video.tv.adobe.com/v/346063/?quality=12&learn=on)
 
-Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=en).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=nl-NL).

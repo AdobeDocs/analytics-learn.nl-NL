@@ -21,4 +21,4 @@ De Adobe Analytics [!UICONTROL Data feed] Hiermee kunt u onbewerkte klikstreamge
 
 >[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12&learn=on)
 
-Voor meer informatie over deze functie raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=en#).
+Voor meer informatie over deze functie raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=nl-NL#).

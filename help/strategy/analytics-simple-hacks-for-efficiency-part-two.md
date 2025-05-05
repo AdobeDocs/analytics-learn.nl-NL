@@ -65,7 +65,7 @@ De [!UICONTROL Analysis Workspace] de trainingsleerprogramma begeleidt gebruiker
 
 ## [!UICONTROL Quick insights] deelvenster
 
-[[!UICONTROL Quick insights]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=en) biedt richtlijnen voor niet-analisten en nieuwe gebruikers van Analysis Workspace hoe ze zakelijke vragen snel en eenvoudig kunnen beantwoorden. Het is ook een geweldig hulpmiddel voor geavanceerde gebruikers die snel en gemakkelijk een eenvoudige vraag willen beantwoorden zonder zelf een tabel te hoeven maken.
+[[!UICONTROL Quick insights]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=nl-NL) biedt richtlijnen voor niet-analisten en nieuwe gebruikers van Analysis Workspace hoe ze zakelijke vragen snel en eenvoudig kunnen beantwoorden. Het is ook een geweldig hulpmiddel voor geavanceerde gebruikers die snel en gemakkelijk een eenvoudige vraag willen beantwoorden zonder zelf een tabel te hoeven maken.
 
 ## Hefboomwerking [!UICONTROL Descriptions] op uw variabelen
 
@@ -95,4 +95,4 @@ Gebruik annotaties om documentatieverwijzingen voor oplossingen in producten te 
 
 Gebruik de API voor rapportage om standaardrapporten te verplaatsen van [!UICONTROL Workspace] naar geplande rapporten en dashboards. Profiteer bovendien van [!UICONTROL Analysis Workspace] om API-aanvragen te maken.
 
-Meer informatie over strategie en leiderschap bij de [Klant geslaagd](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) hub.
+Meer informatie over strategie en leiderschap bij de [Klant geslaagd](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=nl-NL) hub.

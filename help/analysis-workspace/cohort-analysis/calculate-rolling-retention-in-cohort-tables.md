@@ -23,4 +23,4 @@ De instelling Rollberekeningen binnen [!UICONTROL Cohort Tables] kan worden gebr
 
 >[!VIDEO](https://video.tv.adobe.com/v/25962/?quality=12&learn=on)
 
-Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
+Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=nl-NL).

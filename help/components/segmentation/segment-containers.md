@@ -20,4 +20,4 @@ Wanneer het bouwen van segmenten, controleren de aanraking, het bezoek, en bezoe
 
 >[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=en).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=nl-NL).

@@ -59,7 +59,7 @@ Lees meer over:
 
 ### De [!DNL Cross-Device Virtual Report Suite]
 
-CDA wordt aangeboden door middel van een speciaal soort cross-device [[!UICONTROL Virtual Report Suite]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html). Dit staat u toe om de originele op apparaat-gebaseerde rapportreeks te blijven gebruiken aangezien u dwars-apparatenanalyses in uw organisatie introduceert. Het instellen van een CDA VRS is eenvoudig.
+CDA wordt aangeboden door middel van een speciaal soort cross-device [[!UICONTROL Virtual Report Suite]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=nl-NL). Dit staat u toe om de originele op apparaat-gebaseerde rapportreeks te blijven gebruiken aangezien u dwars-apparatenanalyses in uw organisatie introduceert. Het instellen van een CDA VRS is eenvoudig.
 
 Kies in stap een van de VRS-ontwikkelaars de optie [!UICONTROL report suite] die door Adobe als CDA-Toegelaten is gevormd:
 
@@ -96,10 +96,10 @@ Het is mogelijk dat Isabelle zich pas heeft aangemeld voordat hij de aankoop maa
 
 ## Vereisten voor [!UICONTROL Cross-Device Analytics]
 
-CDA is inbegrepen bij [[!DNL Analytics Ultimate]](https://helpx.adobe.com/legal/product-descriptions/adobe-analytics.html). Vanaf september 2019, [!DNL Analytics Ultimate] klanten die aan de onderstaande voorwaarden voldoen, komen in aanmerking om gebruik te maken van CDA. De voorwaarden voor CDA zijn als volgt:
+CDA is inbegrepen bij [[!DNL Analytics Ultimate]](https://helpx.adobe.com/nl/legal/product-descriptions/adobe-analytics.html). Vanaf september 2019, [!DNL Analytics Ultimate] klanten die aan de onderstaande voorwaarden voldoen, komen in aanmerking om gebruik te maken van CDA. De voorwaarden voor CDA zijn als volgt:
 
 * Uw bedrijf moet de [!DNL Adobe Experience Platform Identity Service Device Graph].
-* U moet alles implementeren wat vereist is voor de [!DNL Device Graph] inclusief [Experience Cloud-ID (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html) en ID synchroniseren met de grafiek.
+* U moet alles implementeren wat vereist is voor de [!DNL Device Graph] inclusief [Experience Cloud-ID (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=nl-NL) en ID synchroniseren met de grafiek.
 * Het is momenteel niet mogelijk twee IMS-organen met één IMS-instantie te gebruiken [!DNL Device Graph], dus moet u standaardiseren op één IMS-org.
 * De [!DNL Device Graph]en bepaalde componenten van CDA worden gehost in [!DNL Microsoft Azure]. Dit betekent [!DNL Analytics] gegevens worden heen en weer gekopieerd tussen Adobe verwerkingscentrum en Adobe in [!DNL Microsoft Azure]. Sommige [!DNL Analytics] gegevens worden opgeslagen in [!DNL Azure]. Uw bedrijf moet met deze regeling instemmen.
 * CDA vereist een &quot;cross-device&quot; [!UICONTROL report suite]. Dat wil zeggen: [!UICONTROL report suite] Als u CDA gebruikt, moet u gegevens van meerdere verschillende apparaattypen of &quot;oppervlakken&quot; opnemen, zoals het bureaublad, het mobiele web en de mobiele app. Vanaf september 2019, het volume van de servervraag voor dit [!UICONTROL report suite] moet 100MM servervraag/dag of minder zijn. (De grenzen van het het vraagvolume van de Server zullen in de komende maanden stijgen.)
@@ -113,7 +113,7 @@ Binnen de CDA [!UICONTROL Virtual Report Suite], zult u een paar veranderingen z
 *Personen en unieke apparaten*
 ![CDA [!UICONTROL People Metric]](assets/cda-people-metric.png)
 
-In de [[!UICONTROL Segment Builder]](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html)de [!UICONTROL Visitor] segmentcontainer is vervangen door een [!UICONTROL Person] segmentcontainer. Met een CDA VRS kunt u apparaatsegmenten maken, zoals:
+In de [[!UICONTROL Segment Builder]](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=nl-NL)de [!UICONTROL Visitor] segmentcontainer is vervangen door een [!UICONTROL Person] segmentcontainer. Met een CDA VRS kunt u apparaatsegmenten maken, zoals:
 
 * Personen die meer dan één apparaat gebruiken
 * Personen die hun reis op een mobiel apparaat beginnen en later op een desktopapparaat kopen
@@ -135,21 +135,21 @@ zal nu automatisch van één apparaat aan een andere blijven tot de gebeurtenis 
 
 ### Persoonlijke analyse van het publiek
 
-Heb je je ooit afgevraagd hoeveel mensen met je merk communiceren? Wilt u weten hoeveel en welk type apparaten ze gebruiken? Hoe overlapt hun gebruik? Met een CDA VRS kunt u een apparaatoverschrijdend systeem maken [Venn-diagrammen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html) en apparaten per persoon [histogrammen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html).
+Heb je je ooit afgevraagd hoeveel mensen met je merk communiceren? Wilt u weten hoeveel en welk type apparaten ze gebruiken? Hoe overlapt hun gebruik? Met een CDA VRS kunt u een apparaatoverschrijdend systeem maken [Venn-diagrammen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=nl-NL) en apparaten per persoon [histogrammen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=nl-NL).
 
 *Persoonlijke publieksanalyse*
 ![Venn en histogram](assets/cda-venn-and-histogram.png)
 
 ### Cross-device [!DNL Flow]
 
-Met CDA en Analysis Workspace kunt u visualiseren hoe mensen in de loop der tijd van het ene apparaat naar het andere bewegen [[!DNL Flow visualization]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html). Je kunt zien waar ze op hun reis wegvallen, en waar ze verdergaan.
+Met CDA en Analysis Workspace kunt u visualiseren hoe mensen in de loop der tijd van het ene apparaat naar het andere bewegen [[!DNL Flow visualization]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=nl-NL). Je kunt zien waar ze op hun reis wegvallen, en waar ze verdergaan.
 
 *[!DNL Flow]met CDA*
 ![[!DNL Flow Visualization]](assets/cda-flow-viz.png)
 
 ### Cross-device [!DNL Fallout]
 
-U kunt waarschijnlijk verschillende [[!DNL Fallout visualizations]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html) om te analyseren hoe goed de gebruikers het door een bepaalde reeks stappen maken alvorens succes te bereiken. Wist u uw mening over deze [!DNL Fallout visualizations] is beperkt wanneer gebruik wordt gemaakt van traditionele apparaatgebaseerde analysemogelijkheden? De volgende stap kan alleen worden uitgevoerd in dezelfde browser of app als de vorige stap als de volgende stap is geslaagd. In op apparaten gebaseerde analyses bent u blind voor mensen die de volgende stap met succes op een ander apparaat voltooien.
+U kunt waarschijnlijk verschillende [[!DNL Fallout visualizations]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=nl-NL) om te analyseren hoe goed de gebruikers het door een bepaalde reeks stappen maken alvorens succes te bereiken. Wist u uw mening over deze [!DNL Fallout visualizations] is beperkt wanneer gebruik wordt gemaakt van traditionele apparaatgebaseerde analysemogelijkheden? De volgende stap kan alleen worden uitgevoerd in dezelfde browser of app als de vorige stap als de volgende stap is geslaagd. In op apparaten gebaseerde analyses bent u blind voor mensen die de volgende stap met succes op een ander apparaat voltooien.
 
 Geen zorgen, CDA heeft u bedekt. CDA maakt de apparaatweergave die [!DNL Fallout visualizations] veel, veel nuttiger. Het gaat er immers om of de persoon uiteindelijk ergens in zijn taak is geslaagd.
 
@@ -158,11 +158,11 @@ Geen zorgen, CDA heeft u bedekt. CDA maakt de apparaatweergave die [!DNL Fallout
 
 ### [!DNL Cross-Device Attribution IQ]
 
-Omdat CDA een laag van dwars-apparatengegevens onder Analysis Workspace creeert, zal al uw analyse met een dwars-apparatenperspectief worden gearomatiseerd. Eén krachtig voorbeeld is [[!DNL Attribution IQ]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/attribution/attribution.html). [!DNL Attribution IQ] in Analysis Workspace kunt u meerdere attributiemodellen naast elkaar vergelijken. Met behulp van deze mogelijkheid kunt u nu vergelijken hoe verschillende apparaten tot succes bijdragen.
+Omdat CDA een laag van dwars-apparatengegevens onder Analysis Workspace creeert, zal al uw analyse met een dwars-apparatenperspectief worden gearomatiseerd. Eén krachtig voorbeeld is [[!DNL Attribution IQ]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/attribution/attribution.html?lang=nl-NL). [!DNL Attribution IQ] in Analysis Workspace kunt u meerdere attributiemodellen naast elkaar vergelijken. Met behulp van deze mogelijkheid kunt u nu vergelijken hoe verschillende apparaten tot succes bijdragen.
 
 Stel dat u wilt begrijpen hoe vaak een mobiele telefoon het eerste apparaat is dat wordt gebruikt in een interactie die uiteindelijk tot succes leidt. Dit staat voor de &#39;aanschafsnelheid&#39; van de mobiele telefoon. CDA + [!DNL Attribution IQ] Hiermee kunt u deze analyse uitvoeren:
 
 *[!DNL Attribution IQ]met CDA*
 ![[!DNL Attribution IQ]](assets/cda-attribution-iq.png)
 
-Zie voor meer informatie de [[!DNL Cross-Device Analytics] Help-documentatie](https://experienceleague.adobe.com/docs/analytics/components/cda/cda-home.html).
+Zie voor meer informatie de [[!DNL Cross-Device Analytics] Help-documentatie](https://experienceleague.adobe.com/docs/analytics/components/cda/cda-home.html?lang=nl-NL).

@@ -22,4 +22,4 @@ Maak productprofielen voor Analytics in de Admin Console van het Experience Clou
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428986/?learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/permissions/product-profile).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/nl/docs/analytics/admin/admin-console/permissions/product-profile).

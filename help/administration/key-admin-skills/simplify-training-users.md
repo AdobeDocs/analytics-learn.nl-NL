@@ -51,7 +51,7 @@ Natuurlijk, zal één standaardbasisopleidingszitting niet elke vraag en elke ge
 * Zorg ervoor dat u deze sessies opneemt en maak deze een voor een beschikbaar wanneer u de nieuwe inhoud maakt.
 * Af en toe, aangezien uw implementatie groeit en evolueert, kunt u uw opleidingszittingen moeten bijwerken om de inhoud huidig te houden.
 * Afhankelijk van hoe uw implementatie en uw organisatie gestructureerd zijn, zou het relevant kunnen zijn om opleidingszittingen te creëren die een specifieke afdeling of een groep richten: Dit wil zeggen een training geven aan een IT-afdeling over het gebruik van de browser en het besturingssysteem, waarbij waarschuwingen over de beschikbaarheid van de site worden getoond in plaats van training te bieden aan een marketingafdeling rond verwijzingen, marketingkanalen en de meeste bezochte inhoudspagina&#39;s.
-* U hoeft niet zelf alle inhoud te maken. Adobe heeft uitstekende gratis leerpaden en aanvullende trainingsinhoud die u binnen [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics.html?lang=en).
+* U hoeft niet zelf alle inhoud te maken. Adobe heeft uitstekende gratis leerpaden en aanvullende trainingsinhoud die u binnen [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics.html?lang=nl-NL).
 
 
 

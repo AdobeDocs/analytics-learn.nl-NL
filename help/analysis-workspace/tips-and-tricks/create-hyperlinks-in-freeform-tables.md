@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Hyperlinks maken in vrije-vormtabellen
 
-Leer hoe u hyperlinks maakt voor een of meer dimensie-items, zodat u erop kunt klikken in een vrije-vormtabel in Analysis Workspace. U kunt hyperlinks maken voor dimensie-items die URL-waarden hebben, aangepaste URL&#39;s voor dimensie-items die geen URL-waarden hebben of voor dynamische aangepaste URL&#39;s voor meerdere dimensie-items door variabelen te gebruiken. Voor gedetailleerde documentatie gaat u naar [Hyperlinks maken voor afmetingen in een vrije-vormtabel](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/freeform-table/freeform-table-hyperlinks).
+Leer hoe u hyperlinks maakt voor een of meer dimensie-items, zodat u erop kunt klikken in een vrije-vormtabel in Analysis Workspace. U kunt hyperlinks maken voor dimensie-items die URL-waarden hebben, aangepaste URL&#39;s voor dimensie-items die geen URL-waarden hebben of voor dynamische aangepaste URL&#39;s voor meerdere dimensie-items door variabelen te gebruiken. Voor gedetailleerde documentatie gaat u naar [Hyperlinks maken voor afmetingen in een vrije-vormtabel](https://experienceleague.adobe.com/nl/docs/analytics/analyze/analysis-workspace/visualizations/freeform-table/freeform-table-hyperlinks).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430411/?learn=on)

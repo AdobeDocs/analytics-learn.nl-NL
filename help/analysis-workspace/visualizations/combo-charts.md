@@ -20,4 +20,4 @@ Leer meer over de Combo Chart visualization in Analysis Workspace. Met de Combo-
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409159/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/combo-charts.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/combo-charts.html?lang=nl-NL).

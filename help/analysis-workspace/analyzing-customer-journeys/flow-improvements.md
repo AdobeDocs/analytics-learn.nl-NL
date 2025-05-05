@@ -20,4 +20,4 @@ Leer over enkele grote verbeteringen aan de stroomvisualisatie. De verbeteringen
 
 >[!VIDEO](https://video.tv.adobe.com/v/344222/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/create-flow.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/create-flow.html?lang=nl-NL).

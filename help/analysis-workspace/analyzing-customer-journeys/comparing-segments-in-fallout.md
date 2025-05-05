@@ -24,4 +24,4 @@ In deze video ziet u hoe u de belangrijkste workflows voor verschillende segment
 
 >[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12&learn=on)
 
-Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=en).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=nl-NL).

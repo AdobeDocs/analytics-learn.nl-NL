@@ -25,4 +25,4 @@ In deze video wordt getoond hoe u labelafbreking kunt in- en uitschakelen in uw 
 
 >[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12&learn=on)
 
-Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=nl-NL).

@@ -26,4 +26,4 @@ Berekende metriek ondersteunt nu een van de tien op regels gebaseerde attributie
 
 ## Aanvullende resources {#additional-resources}
 
-Meer informatie over [!DNL Attribution IQ], zie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/overview.html).
+Meer informatie over [!DNL Attribution IQ], zie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/overview.html?lang=nl-NL).

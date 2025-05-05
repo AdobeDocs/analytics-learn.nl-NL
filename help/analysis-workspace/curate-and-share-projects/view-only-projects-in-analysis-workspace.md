@@ -24,4 +24,4 @@ Leer hoe te om read-only projecten van de Analyse van de Werkruimte aan gebruike
 
 >[!VIDEO](https://video.tv.adobe.com/v/36206/?quality=12&learn=on)
 
-Zie de klasse [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html)
+Zie de klasse [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html?lang=nl-NL)

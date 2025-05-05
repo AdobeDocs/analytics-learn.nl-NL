@@ -20,4 +20,4 @@ In deze video ziet u hoe u de kaartvisualisatie in Analysis Workspace kunt gebru
 
 >[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12&learn=on)
 
-Ga voor meer informatie over deze visualisatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=en).
+Ga voor meer informatie over deze visualisatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=nl-NL).

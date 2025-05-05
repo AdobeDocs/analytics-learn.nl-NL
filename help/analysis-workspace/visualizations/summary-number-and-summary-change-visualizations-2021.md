@@ -20,4 +20,4 @@ Deze video loopt door hoe te om het Summiere aantal en Summiere veranderingsvisu
 
 >[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/summary-number-change.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/summary-number-change.html?lang=nl-NL).

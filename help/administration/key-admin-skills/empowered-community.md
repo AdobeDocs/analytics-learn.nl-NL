@@ -33,11 +33,11 @@ U kunt binnen uw organisatie een gemachtigde gemeenschap creëren. Hieronder wor
 
 * Voer behoorlijk gebruikersbeheer en toegang uit:
 
-   De toegang van de gebruiker tot rapportsuites, metriek, dimensies, hulpmiddelen, rapporten, en componenten wordt gevormd aan Adobe Analytics en een zeer belangrijk deel van [beheerproces voor gebruikersgroepen](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=en). Dankzij de juiste toegang tot hulpprogramma&#39;s kunnen gebruikers zichzelf in Analysis Workspace en Rapporten &amp; Analytics bedienen.
+   De toegang van de gebruiker tot rapportsuites, metriek, dimensies, hulpmiddelen, rapporten, en componenten wordt gevormd aan Adobe Analytics en een zeer belangrijk deel van [beheerproces voor gebruikersgroepen](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=nl-NL). Dankzij de juiste toegang tot hulpprogramma&#39;s kunnen gebruikers zichzelf in Analysis Workspace en Rapporten &amp; Analytics bedienen.
 
 * Begrijp de implementatie:
 
-   Als beste praktijken, moeten de gebruikers een basiskennis van de bedrijfsvereisten hebben die door hun implementatie worden gesteund, die typisch via a worden gevangen [document met zakelijke vereisten](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=en) (BRD) en [referentiedocument ontwerp oplossing](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=en) (SDR). Deze vereisten zouden moeten omvatten wat is uitgevoerd en de bedrijfsvereisten, rapporten, eVars, gebeurtenissen, etc., door categorie bepalen.
+   Als beste praktijken, moeten de gebruikers een basiskennis van de bedrijfsvereisten hebben die door hun implementatie worden gesteund, die typisch via a worden gevangen [document met zakelijke vereisten](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=nl-NL) (BRD) en [referentiedocument ontwerp oplossing](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=nl-NL) (SDR). Deze vereisten zouden moeten omvatten wat is uitgevoerd en de bedrijfsvereisten, rapporten, eVars, gebeurtenissen, etc., door categorie bepalen.
 
 * Gebruik rapportsjablonen:
 
@@ -105,7 +105,7 @@ U kunt binnen uw organisatie een gemachtigde gemeenschap creëren. Hieronder wor
 
 Het oprichten en onderhouden van een machtige gemeenschap is een hoop werk. Het is belangrijk om terug te gaan en de voordelen te realiseren die uw organisatie door dit kan genieten. Hier zijn een aantal van de voordelen die ik persoonlijk heb gezien:
 
-* Gegevensgestuurde besluitvorming - Een machtige gemeenschap kan [uw bedrijf wijzigen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=en)Omdat Adobe Analytics gegevensverhaling mogelijk maakt, de resultaten voorspelt en resultaten voorschrijft op een manier die binnen de organisatie toegankelijk is ter ondersteuning van klantintelligentie en gegevensgestuurde besluitvorming.
+* Gegevensgestuurde besluitvorming - Een machtige gemeenschap kan [uw bedrijf wijzigen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=nl-NL)Omdat Adobe Analytics gegevensverhaling mogelijk maakt, de resultaten voorspelt en resultaten voorschrijft op een manier die binnen de organisatie toegankelijk is ter ondersteuning van klantintelligentie en gegevensgestuurde besluitvorming.
 
 * Meer expertise en efficiëntie - Er kunnen rechtstreekse correlaties worden gelegd tussen het inschakelen van betrokkenheid en het rendement van marketinginvesteringen! Een machtige gemeenschap vergroot de deskundigheid van iedereen, vergemakkelijkt het delen van inzichten, beste praktijken, projecten, en productupdates, bevorderend samenwerking. Dit gebeurt terwijl ze zelfvoorziening en optimalisatie via Adobe Analytics mogelijk maakt. Dit steunt marketing kanaal, pagina, geolocatie, publiek, etc. Het steunt ook ervaringsoptimalisering, die voor teams toestaat om zich op te concentreren waar zij de grootste invloed kunnen drijven.
 

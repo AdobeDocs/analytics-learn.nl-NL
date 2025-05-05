@@ -94,7 +94,7 @@ U kunt elk project nu gemakkelijk omzetten in een aangepaste sjabloon. Eenvoudig
 >
 >**Hoogst gevraagde Mogelijkheid:** Diverse klanten vroegen ons om besparingsprojecten als douanesjablonen mogelijk te maken. Dit vermogen is een van hun favorieten geworden.
 
-[Klik hier voor meer tips en trucs op het Experience League](https://experienceleague.adobe.com/?search=tips&amp;tag=Analysis+Workspace#recommended/solutions/analytics)
+[Klik hier voor meer tips en trucs op het Experience League](https://experienceleague.adobe.com/nl?search=tips&amp;tag=Analysis+Workspace#recommended/solutions/analytics)
 
 | Over de auteur |  |
 |------------|------------|

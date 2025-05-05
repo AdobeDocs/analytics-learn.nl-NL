@@ -21,4 +21,4 @@ Leer over de belangrijkste metrische summiere visualisatie in Analysis Workspace
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410003/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/key-metric.html?lang=en)
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/key-metric.html?lang=nl-NL)

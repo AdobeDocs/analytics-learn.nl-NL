@@ -22,4 +22,4 @@ Leer hoe u projecten van Workspace Analysis exporteert naar CSV en PDF voor meer
 
 >[!VIDEO](https://video.tv.adobe.com/v/341276/?quality=12&learn=on)
 
-Voor meer informatie over deze functie raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=en).
+Voor meer informatie over deze functie raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=nl-NL).

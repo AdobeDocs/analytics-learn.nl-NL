@@ -22,4 +22,4 @@ In deze video laten we u zien hoe u twee vergelijkingsfuncties voor datums kunt 
 
 Datumvergelijkingen zijn een gemakkelijke manier om diepte toe te voegen aan uw huidige Analysis Workspace-tabellen en helpen u om uw huidige gegevens eenvoudig in perspectief te plaatsen op historische prestaties.
 
-Voor meer informatie over deze functie raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison.html?lang=en).
+Voor meer informatie over deze functie raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison.html?lang=nl-NL).

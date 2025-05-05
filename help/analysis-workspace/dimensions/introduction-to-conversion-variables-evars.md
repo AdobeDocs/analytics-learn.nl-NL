@@ -20,4 +20,4 @@ Meer informatie over conversievariabelen, ook wel bekend als [!DNL eVars], worde
 
 >[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=nl-NL).

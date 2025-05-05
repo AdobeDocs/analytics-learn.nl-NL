@@ -20,4 +20,4 @@ In deze video leert u hoe u de gegevens in uw tabellen en visualisaties kunt bep
 
 >[!VIDEO](https://video.tv.adobe.com/v/30994/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html?lang=nl-NL).

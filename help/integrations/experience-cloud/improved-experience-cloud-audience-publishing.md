@@ -27,6 +27,6 @@ Er zijn verbeteringen doorgevoerd in Experience Cloud Audience Publishing. U kun
 >[!VIDEO](https://video.tv.adobe.com/v/32842/?quality=12&learn=on)
 
 Bovendien, het aantal van [!UICONTROL segments] die in één keer kunnen worden gepubliceerd, is verhoogd van 20 naar 75 per [!UICONTROL report suite].
-Zie voor meer informatie [Segmenten publiceren naar de Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html) in de Help bij Analytics.
+Zie voor meer informatie [Segmenten publiceren naar de Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html?lang=nl-NL) in de Help bij Analytics.
 
-Lees ook over [Soorten publiek](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html) in Experience Cloud help voor informatie over de [!UICONTROL Audience Library].
+Lees ook over [Soorten publiek](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html?lang=nl-NL) in Experience Cloud help voor informatie over de [!UICONTROL Audience Library].

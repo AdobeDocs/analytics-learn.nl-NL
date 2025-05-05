@@ -20,4 +20,4 @@ Leer hoe u participatiemetriek maakt en deze gebruikt in [!DNL Analysis Workspac
 
 >[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
 
-Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html).
+Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html?lang=nl-NL).

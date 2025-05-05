@@ -22,4 +22,4 @@ In deze video leert u hoe u de instellingen kunt configureren die bepalen hoe zo
 
 >[!VIDEO](https://video.tv.adobe.com/v/333042/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html?lang=nl-NL).

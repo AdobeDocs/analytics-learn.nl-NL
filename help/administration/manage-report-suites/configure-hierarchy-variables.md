@@ -22,4 +22,4 @@ Leer wanneer en hoe te opstelling en hiërarchische variabelen voor uw plaats te
 
 >[!VIDEO](https://video.tv.adobe.com/v/340680/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/hier.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/hier.html?lang=nl-NL).

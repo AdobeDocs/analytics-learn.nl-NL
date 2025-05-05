@@ -19,4 +19,4 @@ Leer hoe u functies kunt gebruiken bij het maken van berekende metriek in Analys
 
 >[!VIDEO](https://video.tv.adobe.com/v/25408/?quality=12&learn=on)
 
-Raadpleeg de documentatie voor meer informatie over het gebruik van [basis](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html) en [geavanceerd](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html) functies bij het maken van berekende metriek.
+Raadpleeg de documentatie voor meer informatie over het gebruik van [basis](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html?lang=nl-NL) en [geavanceerd](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html?lang=nl-NL) functies bij het maken van berekende metriek.

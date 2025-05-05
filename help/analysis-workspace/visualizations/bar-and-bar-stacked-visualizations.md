@@ -20,4 +20,4 @@ In deze video bespreken we het toevoegen en configureren van de staaf, gestapeld
 
 >[!VIDEO](https://video.tv.adobe.com/v/334308/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bar.html?lang=en).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bar.html?lang=nl-NL).

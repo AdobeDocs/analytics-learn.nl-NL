@@ -27,4 +27,4 @@ In deze video leert u hoe u kunt configureren [!UICONTROL zip] en postcode-inste
 
 >[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12&learn=on)
 
-Meer informatie over [!UICONTROL zip code] instellingen, zie de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en).
+Meer informatie over [!UICONTROL zip code] instellingen, zie de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=nl-NL).

@@ -21,4 +21,4 @@ Dimension zijn beschikbaar in de berekende metrische bouwer, en kunnen aan om he
 
 Met deze functie stroomlijnt u de workflow voor het maken en gebruiken van segmenten binnen berekende metriek.
 
-Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=en).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=nl-NL).

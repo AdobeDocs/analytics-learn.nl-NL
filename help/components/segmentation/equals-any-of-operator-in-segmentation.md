@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # De operator &#39;equals (gelijk aan) gebruiken in segmentatie
 
-De operatoren &#39;equals any of&#39; en &#39;does not equal any of&#39; van segmenten kunnen worden gebruikt om te filteren op een lijst met specifieke items, in plaats van meerdere OR-instructies te gebruiken of &#39;contains any of&#39;. Als u deze operatoren gebruikt in plaats van &#39;contains any of&#39;, wordt de querysnelheid ook verbeterd. Voor gedetailleerde documentatie gaat u naar [Vergelijkingsoperatoren voor segmenten](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html){target="_blank"}.
+De operatoren &#39;equals any of&#39; en &#39;does not equal any of&#39; van segmenten kunnen worden gebruikt om te filteren op een lijst met specifieke items, in plaats van meerdere OR-instructies te gebruiken of &#39;contains any of&#39;. Als u deze operatoren gebruikt in plaats van &#39;contains any of&#39;, wordt de querysnelheid ook verbeterd. Voor gedetailleerde documentatie gaat u naar [Vergelijkingsoperatoren voor segmenten](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=nl-NL){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12&learn=on)

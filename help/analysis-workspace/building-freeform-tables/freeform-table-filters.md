@@ -22,6 +22,6 @@ Filters bieden meer controle over de rijen met gegevens die worden gedeeld in ee
 
 In Analysis Workspace bieden we nu meer filterbeheer met 11 filtercriteria en EN/OF-operatoren.
 
-Ga voor meer informatie over de beschikbare filters naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html#cja-workspace?lang=en).
+Ga voor meer informatie over de beschikbare filters naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html#cja-workspace?lang=nl-NL).
 
 **Opmerking:** Geavanceerde speciale tekens zijn niet beschikbaar in Analysis Workspace.

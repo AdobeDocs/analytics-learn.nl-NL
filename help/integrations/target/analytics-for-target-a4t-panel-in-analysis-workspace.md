@@ -25,4 +25,4 @@ De [!DNL Analytics for Target] (A4T) kunt u uw Adobe Target-activiteiten en -erv
 
 >[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
-Meer informatie in het dialoogvenster [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html).
+Meer informatie in het dialoogvenster [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html?lang=nl-NL).

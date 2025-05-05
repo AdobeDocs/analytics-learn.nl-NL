@@ -24,6 +24,6 @@ In deze video, tonen wij hoe te om de rapporten van de marketing kanalen in uw h
 
 >[!NOTE]
 >
->Om de doeltreffendheid van de Marketing Kanalen voor Attribution IQ en Customer Journey Analytics te maximaliseren, publiceerden wij sommige [herziene beste praktijken](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=en).
+>Om de doeltreffendheid van de Marketing Kanalen voor Attribution IQ en Customer Journey Analytics te maximaliseren, publiceerden wij sommige [herziene beste praktijken](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=nl-NL).
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-getting-started-mchannel.html?lang=en).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-getting-started-mchannel.html?lang=nl-NL).

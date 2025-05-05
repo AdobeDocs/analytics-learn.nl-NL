@@ -21,4 +21,4 @@ Leer hoe onze plak- en trechter-gereedschappen samenwerken om inzichten van gebr
 
 >[!VIDEO](https://video.tv.adobe.com/v/334095/?quality=12&learn=on)
 
-Voor meer informatie raadpleegt u de documentatie voor [Fallout](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en) en [Stroom](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=en) visualisaties.
+Voor meer informatie raadpleegt u de documentatie voor [Fallout](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=nl-NL) en [Stroom](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=nl-NL) visualisaties.

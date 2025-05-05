@@ -22,4 +22,4 @@ Leer hoe u uw projecten indeelt in mappen en submappen in Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413167/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/workspace-folders/about-folders.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/workspace-folders/about-folders.html?lang=nl-NL).

@@ -20,4 +20,4 @@ In deze video ziet u hoe u Gebied en Gebied gestapelde visualisaties aan uw proj
 
 >[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/area.html?lang=en#)
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/area.html?lang=nl-NL#)

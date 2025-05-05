@@ -22,4 +22,4 @@ Meer informatie [!DNL Data Warehouse] U kunt rapporten in het de dossierformaat 
 
 >[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
 
-Voor meer informatie over deze functie raadpleegt u de [documentatie](https://experienceleague.adobe.com/en/docs/analytics/export/data-warehouse/t-tableau).
+Voor meer informatie over deze functie raadpleegt u de [documentatie](https://experienceleague.adobe.com/nl/docs/analytics/export/data-warehouse/t-tableau).

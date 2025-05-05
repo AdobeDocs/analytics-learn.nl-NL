@@ -20,4 +20,4 @@ In deze video ziet u hoe u een segment maakt in Analysis Workspace op basis van 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25405/?quality=12&learn=on)
 
-Ga voor meer informatie over dit onderwerp naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=en).
+Ga voor meer informatie over dit onderwerp naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=nl-NL).

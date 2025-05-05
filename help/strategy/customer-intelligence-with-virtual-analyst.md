@@ -59,7 +59,7 @@ Wanneer het op een succesvolle strategie van de klantenintelligentie komt, moete
 
 ### Gebruik uw virtuele analist
 
-Denk aan het [Virtuele analyse](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/overview.html?lang=en) als de rock star - analist die :
+Denk aan het [Virtuele analyse](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/overview.html?lang=nl-NL) als de rock star - analist die :
 
 * Verlaat nooit het kantoor en hoeft niet
 * Vertelt de Who, wat, wanneer, waar, waarom en zo wat van uw zaken
@@ -84,28 +84,28 @@ De virtuele analist heeft de volgende scenario&#39;s voor echte Adobe-klanten aa
 
 ## Adobe Analytics-mogelijkheden
 
-[Anomaliedetectie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en):
+[Anomaliedetectie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=nl-NL):
 
 * Gebruik ingebouwde voorspellende algoritmen om te helpen spikes en dips in uw gegevens identificeren waarvan u niet wist dat ze bestonden.
 * Er worden 28 unieke algoritmen gebruikt om anomalieën vast te stellen, zoals seizoensgebondenheid, groei en cyclische modellen, en om vakantie-uitlijning.
 * Verminder de afhankelijkheid van gegevenswetenschapper en ontgrendel de mogelijkheden van burgergegevenswetenschappers.
 
-[Contributieanalyse](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=en):
+[Contributieanalyse](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=nl-NL):
 
 * Identificeer snel bijdragende factoren die significante veranderingen in uw gegevens veroorzaakten.
 * Bespaar ontelbare uren die u zoekt naar uitleg over wijzigingen in metriek.
 * Maak gebruik van krachtig machinaal leren, ontworpen om de analist en de marketer om te zetten in een data wetenschapper.
 
-[Slimme meldingen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=en):
+[Slimme meldingen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=nl-NL):
 
 Blijf altijd op de hoogte van anomalieën in uw gegevens - of u nu op kantoor bent of onderweg
 
 * Berichten rechtstreeks vanuit Analysis Workspace maken
 * Basisregels voor anomalieën (90%, 95%, 99%), mutaties in % en boven/onder
 * Gebruiken [!UICONTROL Alert Preview] om te zien hoe vaak een alarm zou teweeggebracht hebben
-* Gebruik SMS- en e-mailondersteuning met koppelingen naar automatisch gegenereerde [Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=en) projecten
+* Gebruik SMS- en e-mailondersteuning met koppelingen naar automatisch gegenereerde [Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=nl-NL) projecten
 
-[Segment-IQ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/segment-iq.html?lang=en):
+[Segment-IQ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/segment-iq.html?lang=nl-NL):
 
 * Ontdek de verschillen en overlappingen tussen uw segmenten om uw segmentatiestrategie te informeren
 * Ontdek zeer belangrijke kenmerken van de publiekssegmenten die uw KPIs drijven
@@ -126,4 +126,4 @@ Blijf altijd op de hoogte van anomalieën in uw gegevens - of u nu op kantoor be
 
 Kijk voor meer informatie naar onze [webinar](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/).
 
-Meer informatie over strategie en leiderschap bij de [Klant geslaagd](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) hub.
+Meer informatie over strategie en leiderschap bij de [Klant geslaagd](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=nl-NL) hub.

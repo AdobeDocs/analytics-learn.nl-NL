@@ -22,4 +22,4 @@ Leer hoe u beide gegevens rapporteert in Analysis Workspace. Beide gegevens zijn
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420314/?learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html?lang=nl-NL).

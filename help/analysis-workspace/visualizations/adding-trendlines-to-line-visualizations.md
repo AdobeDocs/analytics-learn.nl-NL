@@ -20,6 +20,6 @@ Onder [!UICONTROL Visualization Settings], kunt u een regressie of bewegende gem
 
 >[!VIDEO](https://video.tv.adobe.com/v/330176/?quality=12&learn=on)
 
-Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=en#analysis-workspace).
+Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=nl-NL#analysis-workspace).
 
-Als u bewegende gemiddelden wilt exporteren of als u meerdere gemiddelden tegelijk aan een tabel wilt toevoegen, kunt u in plaats daarvan berekende metriek maken. Meer informatie in [deze video](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.html#analysis-workspace).
+Als u bewegende gemiddelden wilt exporteren of als u meerdere gemiddelden tegelijk aan een tabel wilt toevoegen, kunt u in plaats daarvan berekende metriek maken. Meer informatie in [deze video](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.html?lang=nl-NL#analysis-workspace).

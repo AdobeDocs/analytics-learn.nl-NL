@@ -20,4 +20,4 @@ Begrijp de types van verkeersvariabelen en hoe zij in Adobe Analytics, met inbeg
 
 >[!VIDEO](https://video.tv.adobe.com/v/28767/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html?lang=nl-NL).

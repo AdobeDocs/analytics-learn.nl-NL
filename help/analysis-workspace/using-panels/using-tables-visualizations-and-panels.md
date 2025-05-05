@@ -23,4 +23,4 @@ In deze video leert u hoe u de bouwstenen van uw Analysis Workspace-project kunt
 
 >[!VIDEO](https://video.tv.adobe.com/v/30369/?quality=12&learn=on)
 
-Voor meer informatie raadpleegt u de documentatie bij [deelvensters](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html) en [visualisatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html).
+Voor meer informatie raadpleegt u de documentatie bij [deelvensters](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=nl-NL) en [visualisatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=nl-NL).

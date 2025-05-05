@@ -20,4 +20,4 @@ In deze video leert u hoe u projecten voor uzelf kunt opslaan en exporteren, pro
 
 >[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html?lang=nl-NL).

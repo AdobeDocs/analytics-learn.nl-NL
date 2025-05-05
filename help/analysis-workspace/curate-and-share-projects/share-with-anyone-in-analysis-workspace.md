@@ -22,4 +22,4 @@ Meer informatie over de functie Delen met iedereen in Workspace. U kunt deze fun
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420093/?learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=en#share-public-link).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=nl-NL#share-public-link).

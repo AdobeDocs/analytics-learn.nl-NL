@@ -22,4 +22,4 @@ Leren inschakelen, fouten opsporen en de manier aanpassen waarop [!UICONTROL Act
 
 >[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
 
-Voor meer informatie over hoe te opstellen [!UICONTROL Activity Map], bezoek de [documentatie](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).
+Voor meer informatie over hoe te opstellen [!UICONTROL Activity Map], bezoek de [documentatie](https://experienceleague.adobe.com/nl/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).

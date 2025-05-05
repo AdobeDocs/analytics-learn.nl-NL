@@ -28,11 +28,11 @@ Om al deze redenen samen hebben we besloten dat het u, onze fantastische klanten
 
 Als u in een BedrijfsGebruiker, een Praktijk, of een andere gelijkaardige rol bent, adviseren wij dat u de volgende cursussen neemt om de grondbeginselen te krijgen die u in het gebruiken van Analysis Workspace zullen helpen uitblinken:
 
-1. [Aan de slag met Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)
-1. [Freeform Tables, de Stichting van Analyse](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
-1. [Visualisaties gebruiken om uw gegevensartikelen te vertellen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)
-1. [Waarde toewijzen aan Digital Touch-punten op de reis van de klant](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)
+1. [Aan de slag met Analysis Workspace](https://experienceleague.adobe.com/?lang=nl&recommended=Analytics-U-1-2020.1.workspace)
+1. [Freeform Tables, de Stichting van Analyse](https://experienceleague.adobe.com/?lang=nl&recommended=Analytics-U-1-2020.3)
+1. [Visualisaties gebruiken om uw gegevensartikelen te vertellen](https://experienceleague.adobe.com/?lang=nl&recommended=Analytics-U-1-2021.1.visualizations)
+1. [Waarde toewijzen aan Digital Touch-punten op de reis van de klant](https://experienceleague.adobe.com/?lang=nl&recommended=Analytics-U-1-2020.2)
 
-Er zijn aanvullende cursussen met betrekking tot [Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) beschikbaar op Experience League.
+Er zijn aanvullende cursussen met betrekking tot [Adobe Analytics](https://experienceleague.adobe.com/?lang=nl&recommended=Analytics-U-1-2020.1.workspace) beschikbaar op Experience League.
 
 Bedankt!

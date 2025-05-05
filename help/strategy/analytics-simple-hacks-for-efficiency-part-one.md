@@ -89,4 +89,4 @@ Andere belangrijke uitdagingen waarmee analisten worden geconfronteerd:
    * Bouw hun aanwezigheid door versies en wins te socialiseren
    * Gebruik regelmatig kantooruren om de trainers te helpen trainen en af te snijden op ad-hoctaken
 
-Meer informatie over strategie en leiderschap bij de [Klant geslaagd](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) hub.
+Meer informatie over strategie en leiderschap bij de [Klant geslaagd](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=nl-NL) hub.

@@ -20,4 +20,4 @@ U kunt grote segmenten maken, maar waarom houdt u ze bij uzelf? In deze video le
 
 >[!VIDEO](https://video.tv.adobe.com/v/25402/?quality=12&learn=on)
 
-Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-manage.html?lang=en).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-manage.html?lang=nl-NL).

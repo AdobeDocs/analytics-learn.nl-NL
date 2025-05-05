@@ -20,4 +20,4 @@ Wanneer u uw project configureert en aanpast in Analysis Workspace, moet u mogel
 
 >[!VIDEO](https://video.tv.adobe.com/v/23975/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=en).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=nl-NL).

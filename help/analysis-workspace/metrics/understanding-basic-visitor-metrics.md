@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Basisstatistieken van bezoekers
 
-Meer informatie over [[!UICONTROL Page Views]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en), [[!UICONTROL Visits]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=en), en [[!UICONTROL Visitors]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=en) in Adobe Analytics.
+Meer informatie over [[!UICONTROL Page Views]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=nl-NL), [[!UICONTROL Visits]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=nl-NL), en [[!UICONTROL Visitors]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=nl-NL) in Adobe Analytics.
 
 * Krijg definities van deze basisgegevens van het bezoek en leer over hun gelijkenissen en verschillen.
 

@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # [!UICONTROL Dimension] Modellen in segmentatie
 
-Dimensionen zijn via het vistuig beschikbaar voor elke segmentatiedimensie. Deze modellen zijn vooral nuttig voor opeenvolgende segmentatie, en staan u toe om voor voortgezette waarden van een afmeting (gebrek), instanties, of niet-herhalende instanties van een afmeting te segmenteren. Voor gedetailleerde documentatie gaat u naar [Segment Builder](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html){target="_blank"}.
+Dimensionen zijn via het vistuig beschikbaar voor elke segmentatiedimensie. Deze modellen zijn vooral nuttig voor opeenvolgende segmentatie, en staan u toe om voor voortgezette waarden van een afmeting (gebrek), instanties, of niet-herhalende instanties van een afmeting te segmenteren. Voor gedetailleerde documentatie gaat u naar [Segment Builder](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=nl-NL){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32958/?quality=12&learn=on)

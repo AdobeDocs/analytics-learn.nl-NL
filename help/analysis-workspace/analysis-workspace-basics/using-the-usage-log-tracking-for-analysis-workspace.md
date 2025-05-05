@@ -38,7 +38,7 @@ De mening van het project zal de beste aanwijzing zijn of uw gebruikers al dan n
 
 ## Aanvullende bronnen {#additional-resources}
 
-* [Meer informatie over logbestanden](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)
+* [Meer informatie over logbestanden](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=nl-NL)
 * [Demo-dashboard downloaden](https://adobe.ly/2ygP5ws)
 
 VOLGENDE: We werken eraan deze informatie te presenteren in een vriendelijke gebruikersinterface (en met meer details) binnen [!DNL Analytics] binnenkort.

@@ -20,4 +20,4 @@ De lijnvisualisatie toont metriek over een trendperiode. Met de instellingen voo
 
 >[!VIDEO](https://video.tv.adobe.com/v/40384/?quality=12&learn=on)
 
-Meer informatie in het dialoogvenster [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html).
+Meer informatie in het dialoogvenster [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=nl-NL).

@@ -22,4 +22,4 @@ ht-degree: 7%
 
 Wanneer u een [!DNL Labs] prototype, kunt u de eigenschap binnen de context van uw eigen zaken en gegevens evalueren.
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html?lang=nl-NL).

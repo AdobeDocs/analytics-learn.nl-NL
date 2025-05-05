@@ -20,4 +20,4 @@ Met deze visualisatie, kunt u het verband zien tussen veelvoudige metriek voor u
 
 >[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/scatterplot.html?lang=en).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/scatterplot.html?lang=nl-NL).

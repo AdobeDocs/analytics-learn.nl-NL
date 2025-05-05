@@ -22,4 +22,4 @@ In deze video ziet u hoe u de verschillende opties voor datumbereiken kunt beher
 
 >[!VIDEO](https://video.tv.adobe.com/v/332454/?quality=12&learn=on)
 
-Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html).
+Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html?lang=nl-NL).

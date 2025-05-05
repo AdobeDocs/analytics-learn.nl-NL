@@ -21,4 +21,4 @@ Leer in deze video hoe u een basisschema voor een [!DNL Report Builder] werkboek
 
 >[!VIDEO](https://video.tv.adobe.com/v/342376/?quality=12&learn=on)
 
-Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/t-schedule-a-data-request.html?lang=en).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/t-schedule-a-data-request.html?lang=nl-NL).

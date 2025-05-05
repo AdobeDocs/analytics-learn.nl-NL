@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Uw eerste project starten in Analysis Workspace
 
-Leer hoe u nieuwe Analysis Workspace-projecten kunt maken, helemaal zelf of met behulp van sjablonen. De malplaatjes kunnen u een hoofdbegin aan uw analyse geven, en zijn beschikbaar out-of-the-box en via bedrijf-gecreeerde projecten. Zie voor gedetailleerde documentatie [Projecten maken in Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/build-workspace-project/create-projects).
+Leer hoe u nieuwe Analysis Workspace-projecten kunt maken, helemaal zelf of met behulp van sjablonen. De malplaatjes kunnen u een hoofdbegin aan uw analyse geven, en zijn beschikbaar out-of-the-box en via bedrijf-gecreeerde projecten. Zie voor gedetailleerde documentatie [Projecten maken in Analysis Workspace](https://experienceleague.adobe.com/nl/docs/analytics/analyze/analysis-workspace/build-workspace-project/create-projects).
 
 >[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12&learn=on)

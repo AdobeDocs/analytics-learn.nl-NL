@@ -21,4 +21,4 @@ Met het deelvenster Tijd voor afspelen van media kunnen mediagebruikers hun view
 
 >[!VIDEO](https://video.tv.adobe.com/v/338699/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-playback-time-spent.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-playback-time-spent.html?lang=nl-NL).

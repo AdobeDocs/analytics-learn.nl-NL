@@ -21,4 +21,4 @@ Leer meer over Activity Map, een hulpmiddel om u te helpen gebruikersactiviteite
 
 >[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
 
-Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/activity-map).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/nl/docs/analytics/analyze/activity-map/activity-map).

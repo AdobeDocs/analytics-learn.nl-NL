@@ -31,4 +31,4 @@ Aanpassingen voor de [!UICONTROL Cohort Table] de mogelijkheid om
 
 De gemiddelde rijen zijn ideaal voor weergave [!UICONTROL retention] of [!UICONTROL churn] over het geheel genomen, in plaats van per individu [!UICONTROL cohort] rijen.
 
-Voor meer informatie over [!UICONTROL cohort] analyse, bezoek de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=en).
+Voor meer informatie over [!UICONTROL cohort] analyse, bezoek de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=nl-NL).

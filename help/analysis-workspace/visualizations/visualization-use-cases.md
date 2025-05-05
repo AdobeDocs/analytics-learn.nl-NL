@@ -20,4 +20,4 @@ Wil je weten welke producten het beste verkopen? Leer enkele voorbeelden van pri
 
 >[!VIDEO](https://video.tv.adobe.com/v/334096/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/data-workbench/using/dashboard/visualizations/visualization-types/c-visualization-types.html?lang=en).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/data-workbench/using/dashboard/visualizations/visualization-types/c-visualization-types.html?lang=nl-NL).

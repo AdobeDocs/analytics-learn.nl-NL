@@ -22,4 +22,4 @@ In deze video, lopen wij door de configuratie van classificaties voor verkeersva
 
 >[!VIDEO](https://video.tv.adobe.com/v/340024/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-classifications.html?lang=en).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-classifications.html?lang=nl-NL).

@@ -25,4 +25,4 @@ Meer informatie over toevoegen [!UICONTROL anomaly detection] [!UICONTROL metric
 
 In [!UICONTROL Report Builder], kunt u terugkeren [!UICONTROL metric] actuals, samen met verwachte waarden en boven- en ondergrenzen, om meer diepte toe te voegen aan de gegevens die u analyseert en deelt.
 
-Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/statistics-anomaly-detection.html?lang=en).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/statistics-anomaly-detection.html?lang=nl-NL).

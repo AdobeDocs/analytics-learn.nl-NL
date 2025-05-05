@@ -22,4 +22,4 @@ Als u eenmaal een project in Analysis Workspace hebt gemaakt, kunt u [!UICONTROL
 
 >[!VIDEO](https://video.tv.adobe.com/v/341021/?quality=12&learn=on)
 
-Voor meer informatie over deze functie raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=en).
+Voor meer informatie over deze functie raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=nl-NL).

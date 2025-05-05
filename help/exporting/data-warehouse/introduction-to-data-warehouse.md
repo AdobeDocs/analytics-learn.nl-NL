@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Inleiding tot de uitvoer van gegevensopslagruimten
 
-Leer hoe u ten volle kunt profiteren van de Data Warehouse Reporting UI en de exportaccounts en -locaties. Deze video behandelt de basisworkflow voor het verzenden van rapporten naar zowel Amazon S3 als e-mail. Zie voor gedetailleerde documentatie [Overzicht van Data Warehouse](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse.html) en omringende documenten.
+Leer hoe u ten volle kunt profiteren van de Data Warehouse Reporting UI en de exportaccounts en -locaties. Deze video behandelt de basisworkflow voor het verzenden van rapporten naar zowel Amazon S3 als e-mail. Zie voor gedetailleerde documentatie [Overzicht van Data Warehouse](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse.html?lang=nl-NL) en omringende documenten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12&learn=on)

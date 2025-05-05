@@ -22,4 +22,4 @@ Deze video laat zien hoe u analyses beter kunt democratiseren door verkorte link
 
 >[!VIDEO](https://video.tv.adobe.com/v/341027/?quality=12&learn=on)
 
-Voor meer informatie over deze functie raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/shareable-links.html?lang=en).
+Voor meer informatie over deze functie raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/shareable-links.html?lang=nl-NL).

@@ -24,4 +24,4 @@ In deze video worden updates van de [!DNL Fallout Visualization] op verzoek van 
 
 >[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12&learn=on)
 
-Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=nl-NL).

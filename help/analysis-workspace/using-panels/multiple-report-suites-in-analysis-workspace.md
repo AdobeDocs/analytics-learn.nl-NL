@@ -29,4 +29,4 @@ Meerdere [!UICONTROL report suites] kan in één enkele [!DNL Workspace] project
 
 Gegevens van meerdere [!UICONTROL report suites] kan niet in tabellen worden gecombineerd, [!UICONTROL segments] of [!UICONTROL calculated metrics] (opgeteld, verdeeld, enz.). De beste praktijken voor een holistische gegevensbenadering blijven alle klappen naar een &quot;globale reeks&quot;sturen.
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html?lang=nl-NL).

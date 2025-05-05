@@ -267,7 +267,7 @@ Ik wil echter benadrukken dat ik het gebruik van zowel Adobe Analytics als Googl
 
 Naast deze handleiding beschikt u over veel bronnen die u kunnen helpen uw strategie te verbeteren:
 
-* [Adobe Experience League](https://experienceleague.adobe.com/#home) - Bevat zelfstudies, video&#39;s, documentatie en communityforums
+* [Adobe Experience League](https://experienceleague.adobe.com/nl#home) - Bevat zelfstudies, video&#39;s, documentatie en communityforums
 * [Adobe-gebruikersgroepen](https://analytics-augs.adobe.com/) - Een hub van op gemeenschap-in werking gestelde gebeurtenissen om gebruikers te helpen met elkaar verbinden en hun implementaties verbeteren.
 * [Adobe Analytics-gebruikersgroepen YouTube-kanaal](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Kan geen gebruikersgroepsessie voor Adobe Analytics maken? Bekijk vorige gebruikersgroepssessies over de hele wereld opnieuw voor meer informatie over hoe uw collega&#39;s het gereedschap gebruiken.
 * [Chat-Slack-kanaal meten](https://www.measure.chat/) - Maak verbinding met Adobe Analytics-gebruikers over de hele wereld en deel ervaringen uit de branche, stel vragen aan uw collega&#39;s en sluit zich aan bij belangengroepen die zich bij de meting richten.

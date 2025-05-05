@@ -24,5 +24,5 @@ In deze video ziet u de verschillende opties voor klikken met de rechtermuisknop
 
 >[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12&learn=on)
 
-Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=en#analysis-workspace).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=nl-NL#analysis-workspace).
 

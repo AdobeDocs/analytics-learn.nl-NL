@@ -23,4 +23,4 @@ Krijg een overzicht op hoog niveau van hoe te om uw te vormen [!UICONTROL report
 
 ## Aanvullende resources {#additional-resources}
 
-Zie voor meer informatie de [functiedocumentatie](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/overview.html)
+Zie voor meer informatie de [functiedocumentatie](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/overview.html?lang=nl-NL)

@@ -22,4 +22,4 @@ Leer hoe u vervolgkeuzefilters maakt op basis van een hele dimensie. Dimension-i
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html#dynamic-drop-down-filters).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=nl-NL#dynamic-drop-down-filters).

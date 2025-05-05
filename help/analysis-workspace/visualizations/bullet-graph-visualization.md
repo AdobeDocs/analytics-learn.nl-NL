@@ -20,4 +20,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=en).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=nl-NL).

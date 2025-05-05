@@ -93,4 +93,4 @@ Heb je een aflevering van Experience League LIVE gemist? We vergeven je. Bekijk 
 
 >[!TIP]
 >
->Ontdek gratis onze gratis leermethoden [cursussen](https://experienceleague.adobe.com/#dashboard/learning) en individuele [zelfstudies](https://experienceleague.adobe.com/docs/home-tutorials.html).
+>Ontdek gratis onze gratis leermethoden [cursussen](https://experienceleague.adobe.com/nl#dashboard/learning) en individuele [zelfstudies](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=nl-NL).

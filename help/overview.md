@@ -90,4 +90,4 @@ De gekromde leerervaringen door rol en vaardigheidsniveau worden ook aangeboden 
 
 ## Aanvullende bronnen
 
-[Adobe Analytics-documentatie](https://experienceleague.adobe.com/docs/analytics.html)
+[Adobe Analytics-documentatie](https://experienceleague.adobe.com/docs/analytics.html?lang=nl-NL)

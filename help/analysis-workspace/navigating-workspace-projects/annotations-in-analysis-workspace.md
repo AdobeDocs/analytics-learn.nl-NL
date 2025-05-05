@@ -21,4 +21,4 @@ Met annotaties in Workspace kunt u op effectieve wijze contextuele gegevensnuanc
 
 >[!VIDEO](https://video.tv.adobe.com/v/341266/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/annotations/overview.html?lang=en).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/annotations/overview.html?lang=nl-NL).

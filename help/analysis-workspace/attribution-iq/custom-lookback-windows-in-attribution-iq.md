@@ -24,4 +24,4 @@ Aangepaste terugblikvensters geven u de mogelijkheid om het attributievenster ui
 
 >[!VIDEO](https://video.tv.adobe.com/v/36204/?quality=12&learn=on)
 
-Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html#lookback-windows)
+Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=nl-NL#lookback-windows)

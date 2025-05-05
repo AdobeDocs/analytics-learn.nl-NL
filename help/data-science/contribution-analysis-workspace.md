@@ -25,4 +25,4 @@ Deze video doorloopt [!UICONTROL Contribution Analysis] en het vermogen om machi
 
 [!UICONTROL Contribution Analysis] is beschikbaar in Analysis Workspace voor klanten van Adobe Analytics Premium.
 
-Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=nl-NL).

@@ -23,4 +23,4 @@ De aangepaste [!UICONTROL Cohort] [!UICONTROL Dimension] kunt u analyseren [!UIC
 
 >[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12&learn=on)
 
-Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
+Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=nl-NL).

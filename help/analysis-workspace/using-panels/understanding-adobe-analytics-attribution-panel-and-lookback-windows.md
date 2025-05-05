@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Deelvenster Adobe Analytics-toewijzing en terugzoekvensters
 
-Wanneer ik voor het eerst nadacht over de [deelvenster voor kenmerken](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) en **lookback-venster** Ik werd onmiddellijk herinnerd aan het begrip &quot;*tijdreis&quot;* En toen, natuurlijk, werd ik ook herinnerd aan onze typische reactie op vele nieuwe hulpmiddelen zoals deze is om eenvoudig het proberen uit te stellen om het te gebruiken, omdat zij zo ingewikkeld lijken.
+Wanneer ik voor het eerst nadacht over de [deelvenster voor kenmerken](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=nl-NL) en **lookback-venster** Ik werd onmiddellijk herinnerd aan het begrip &quot;*tijdreis&quot;* En toen, natuurlijk, werd ik ook herinnerd aan onze typische reactie op vele nieuwe hulpmiddelen zoals deze is om eenvoudig het proberen uit te stellen om het te gebruiken, omdat zij zo ingewikkeld lijken.
 
 Ik bedoel eerlijk gezegd, kijk gewoon naar al die opties, switches, deelvensters, lezingen en knoppen.  En serieus, laten we het hebben over die gecompliceerde knipperende lichten, slangen, kooien... WACHT!  Dit is niet het moment om afleiding te krijgen in het praten over tijdmachines, we hebben gewoon geen tijd... of doen we dat?
 
@@ -43,7 +43,7 @@ Nu we allemaal enthousiast zijn over tijdreizen, laten we een diepe adem nemen, 
 
 In **toewijzing** Overweeg eenvoudig hoe gebeurtenissen/acties kunnen worden veroorzaakt door een individu, meerdere personen of een van de verschillende gebeurtenissen in de loop van de tijd.
 
-Volgens [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en), *toewijzing* biedt analisten de mogelijkheid om aan te passen *Dimension* objecten ontvangen creditering voor *succesgebeurtenissen*.
+Volgens [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=nl-NL), *toewijzing* biedt analisten de mogelijkheid om aan te passen *Dimension* objecten ontvangen creditering voor *succesgebeurtenissen*.
 
 
 >[!WARNING]
@@ -85,7 +85,7 @@ Met dit in gedachten zijn er een paar voorbeelden van hoe de ❸ **toewijzingsmo
 
 - **Aangepast**: Je kiest en kiest wie er geld krijgt.  Het is jouw campagne!
 
-Voor aanvullende informatie over deze en andere attributiemodellen: [klik hier](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
+Voor aanvullende informatie over deze en andere attributiemodellen: [klik hier](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=nl-NL)
 
 Om dit nog interessanter te maken, praten we over het terugdraaien van de klok!
 

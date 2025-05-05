@@ -24,4 +24,4 @@ Het Algorithmic Attribution model in Analysis Workspace gebruikt statistische te
 
 >[!VIDEO](https://video.tv.adobe.com/v/36205/?quality=12&learn=on)
 
-Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/algorithmic.html)
+Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/algorithmic.html?lang=nl-NL)

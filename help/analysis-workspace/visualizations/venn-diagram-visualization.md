@@ -20,4 +20,4 @@ U kunt overlappingen en doorsnede van segmenten in Analysis Workspace visueel we
 
 >[!VIDEO](https://video.tv.adobe.com/v/335798/?quality=12&learn=on)
 
-Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=en).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=nl-NL).

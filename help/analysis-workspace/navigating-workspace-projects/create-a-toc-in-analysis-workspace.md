@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Een inhoudsopgave maken in Analysis Workspace {#create-a-table-of-contents-in-analysis-workspace}
 
-Leer over de Inhoudsopgave in Analysis Workspace, die verbindingen verstrekt die gebruikers toelaten om snel naar panelen en visualisaties binnen het project te springen. Voor gedetailleerde documentatie gaat u naar [Inhoudsopgave van project](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents).
+Leer over de Inhoudsopgave in Analysis Workspace, die verbindingen verstrekt die gebruikers toelaten om snel naar panelen en visualisaties binnen het project te springen. Voor gedetailleerde documentatie gaat u naar [Inhoudsopgave van project](https://experienceleague.adobe.com/nl/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents).
 
 >[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12&learn=on)

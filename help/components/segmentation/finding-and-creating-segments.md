@@ -20,4 +20,4 @@ Leer hoe u in uw analyse segmenten maakt en zoekt in de verschillende tools in A
 
 >[!VIDEO](https://video.tv.adobe.com/v/334092/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-workflow.html?lang=en).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-workflow.html?lang=nl-NL).

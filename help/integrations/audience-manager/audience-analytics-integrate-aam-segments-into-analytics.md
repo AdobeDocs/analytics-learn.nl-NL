@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Voorbeeld [!UICONTROL segment] De gegevens die kunnen worden gedeeld omvatten: demografische gegevens van derdegegevensleveranciers, campagnegegevens van advertentieservers (zoals offsite-impressies), en onbeheerde gegevens van CRM. Dit is de eerste productievere integratie tussen een DMP en een analytische motor op de markt.
 
-Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=nl-NL).

@@ -21,4 +21,4 @@ In deze video leert u hoe u datums kunt gebruiken. [!UICONTROL date ranges]en da
 
 >[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=nl-NL).

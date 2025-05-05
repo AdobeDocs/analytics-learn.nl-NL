@@ -28,8 +28,8 @@ In dit geval zullen we het systeem zodanig configureren dat er postcodes worden 
 
 Raadpleeg de volgende documentatieonderwerpen voor aanvullende informatie over de aspecten van dit gebruiksgeval:
 
-[Postcodes](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en)
+[Postcodes](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=nl-NL)
 
-[[!UICONTROL Classifications]](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=en)
+[[!UICONTROL Classifications]](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=nl-NL)
 
-[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=en)
+[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=nl-NL)

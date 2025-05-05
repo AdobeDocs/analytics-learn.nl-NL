@@ -19,4 +19,4 @@ Leer over het rapport In real time in Adobe Analytics, met inbegrip van hoe te o
 
 >[!VIDEO](https://video.tv.adobe.com/v/25454/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/real-time-reporting/realtime.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/real-time-reporting/realtime.html?lang=nl-NL).

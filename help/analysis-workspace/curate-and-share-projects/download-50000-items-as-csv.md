@@ -24,4 +24,4 @@ Met de optie Items downloaden als CSV kunt u maximaal 50.000 items downloaden vo
 
 >[!VIDEO](https://video.tv.adobe.com/v/40385/?quality=12&learn=on)
 
-Meer informatie in het dialoogvenster [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
+Meer informatie in het dialoogvenster [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=nl-NL)

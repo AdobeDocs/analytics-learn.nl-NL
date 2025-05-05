@@ -22,4 +22,4 @@ In deze video doorlopen we de configuratie van classificaties voor conversievari
 
 >[!VIDEO](https://video.tv.adobe.com/v/340078/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/conversion-classifications.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/conversion-classifications.html?lang=nl-NL).

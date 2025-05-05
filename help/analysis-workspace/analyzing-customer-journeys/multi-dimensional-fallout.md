@@ -26,4 +26,4 @@ ht-degree: 0%
 
 Dit krachtige vermogen staat u meer flexibiliteit toe in het bepalen van de gebruikersstappen u wilt onderzoeken.
 
-Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/configuring-interdimensional-fallout.html?lang=en).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/configuring-interdimensional-fallout.html?lang=nl-NL).

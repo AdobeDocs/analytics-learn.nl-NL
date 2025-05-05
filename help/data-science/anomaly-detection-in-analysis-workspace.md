@@ -23,4 +23,4 @@ Analysis Workspace detecteert automatisch anomalieën in uw gegevens voor elke t
 
 >[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12&learn=on)
 
-Ga voor meer informatie over deze functie naar [de documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en).
+Ga voor meer informatie over deze functie naar [de documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=nl-NL).

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Interne URL-filters instellen
 
-In deze video leert u meer over de instellingen met betrekking tot referenties en stelt u deze in als interne referentie (om de tekenrapporten aan te sturen) of als externe referentie (om de referentie-/verwijzingsdomeinrapporten aan te sturen). Voor gedetailleerde documentatie gaat u naar [Interne URL-filters](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/internal-url-filter-admin.html){target="_blank"}.
+In deze video leert u meer over de instellingen met betrekking tot referenties en stelt u deze in als interne referentie (om de tekenrapporten aan te sturen) of als externe referentie (om de referentie-/verwijzingsdomeinrapporten aan te sturen). Voor gedetailleerde documentatie gaat u naar [Interne URL-filters](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/internal-url-filter-admin.html?lang=nl-NL){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333043/?quality=12&learn=on)
 

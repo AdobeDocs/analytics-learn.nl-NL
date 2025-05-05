@@ -24,4 +24,4 @@ Leer hoe u rapportage voor mobiele apps instelt in Adobe Analytics, inclusief [!
 
 >[!VIDEO](https://video.tv.adobe.com/v/25961/?quality=12&learn=on)
 
-Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/gs.html?lang=en).
+Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/gs.html?lang=nl-NL).

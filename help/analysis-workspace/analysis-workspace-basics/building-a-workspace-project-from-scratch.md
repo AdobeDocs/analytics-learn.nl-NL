@@ -21,4 +21,4 @@ Klaar om uw eigen projecten te bouwen? Leer hoe u een project voor een analytisc
 
 >[!VIDEO](https://video.tv.adobe.com/v/334076/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=en).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=nl-NL).

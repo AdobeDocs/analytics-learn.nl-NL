@@ -22,4 +22,4 @@ Leer over gebruiksgevallen en technische overwegingen voor het gebruiken van de 
 
 >[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)
 
-Controleer de [documentatie](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html) voor meer informatie over de <i>doPlugins, functie</i> waarnaar wordt verwezen in deze video.
+Controleer de [documentatie](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html?lang=nl-NL) voor meer informatie over de <i>doPlugins, functie</i> waarnaar wordt verwezen in deze video.

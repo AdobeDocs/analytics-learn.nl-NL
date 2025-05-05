@@ -19,4 +19,4 @@ Overzicht van de metrische builder in Analysis Workspace
 
 >[!VIDEO](https://video.tv.adobe.com/v/25411/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html)
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=nl-NL)

@@ -23,6 +23,6 @@ Leer hoe te om analysevariabelen van het Web SDK tot Adobe Analytics in kaart te
 
 ## Aanvullende informatie
 
-Voor een lijst van automatisch in kaart gebrachte variabelen van het Web SDK aan Adobe Analytics, gelieve te zien dit [documentatie](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/adobe-analytics/automatically-mapped-vars.html)
+Voor een lijst van automatisch in kaart gebrachte variabelen van het Web SDK aan Adobe Analytics, gelieve te zien dit [documentatie](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/adobe-analytics/automatically-mapped-vars.html?lang=nl-NL)
 
 **OPMERKING:** Bij het instellen van Verwerkingsregels kan het zijn dat de &#39;&#39;a.x.[uw schema]&quot;variable is not automatically in the drop-down window. Als het er niet is, maak dan geen paniek. Typ het volgens de indeling en voeg het toe als een contextData-variabele. Nadat u een of twee items hebt toegevoegd, is het mogelijk dat andere items worden uitgelijnd.

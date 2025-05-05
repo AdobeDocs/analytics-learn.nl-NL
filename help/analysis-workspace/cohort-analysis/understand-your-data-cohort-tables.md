@@ -21,4 +21,4 @@ Leer hoe u een cohortingtabel analyseert om beter inzicht te krijgen in het bewa
 
 >[!VIDEO](https://video.tv.adobe.com/v/334094/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=nl-NL).

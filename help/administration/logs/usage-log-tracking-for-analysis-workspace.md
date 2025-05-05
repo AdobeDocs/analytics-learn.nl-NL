@@ -24,4 +24,4 @@ Onder [!UICONTROL Admin] - [!UICONTROL Logs] - [!UICONTROL Usage & Access], je k
 
 >[!VIDEO](https://video.tv.adobe.com/v/29768/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=nl-NL).

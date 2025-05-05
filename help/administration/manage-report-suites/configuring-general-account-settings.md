@@ -22,4 +22,4 @@ Als u Adobe Analytics instelt, kan het configureren van de instellingen van invl
 
 >[!VIDEO](https://video.tv.adobe.com/v/332330/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/general-acct-settings-admin.html?lang=en#admin-tools).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/general-acct-settings-admin.html?lang=nl-NL#admin-tools).

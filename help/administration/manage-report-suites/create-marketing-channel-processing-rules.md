@@ -24,6 +24,6 @@ In deze video, lopen wij door hoe te om verwerkingsregels voor marketing kanalen
 
 >[!NOTE]
 >
->Om de doeltreffendheid van de Kanalen van de Marketing voor Attribution IQ en Customer Journey Analytics te maximaliseren, publiceerden wij sommige [herziene beste praktijken](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=en).
+>Om de doeltreffendheid van de Kanalen van de Marketing voor Attribution IQ en Customer Journey Analytics te maximaliseren, publiceerden wij sommige [herziene beste praktijken](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=nl-NL).
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html?lang=en).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html?lang=nl-NL).

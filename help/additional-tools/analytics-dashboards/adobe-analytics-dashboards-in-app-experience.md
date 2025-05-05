@@ -21,4 +21,4 @@ In deze video leert u hoe u Adobe Analytics-dashboards (mobiele app) kunt gebrui
 
 >[!VIDEO](https://video.tv.adobe.com/v/34545/?quality=12&learn=on)
 
-Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=en).
+Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=nl-NL).

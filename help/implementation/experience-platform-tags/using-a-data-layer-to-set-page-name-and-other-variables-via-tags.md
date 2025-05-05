@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Leer hoe u waarden uit de gegevenslaag kunt trekken en deze in het Experience Platform kunt gebruiken [!DNL tags] om variabelen te vullen in Adobe Analytics. Een gegevenslaag gebruiken voor [!DNL Analytics] en andere oplossingen voor Experiencen Cloud zijn een goede praktijk .
 
-Aanvullende informatie over gegevenslagen in het dialoogvenster [Analyse](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html) en [Experience Platform-tags](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/client-data-layer/overview.html) documentatie.
+Aanvullende informatie over gegevenslagen in het dialoogvenster [Analyse](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=nl-NL) en [Experience Platform-tags](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/client-data-layer/overview.html?lang=nl-NL) documentatie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12&learn=on)
 

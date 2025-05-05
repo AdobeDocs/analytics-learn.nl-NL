@@ -20,4 +20,4 @@ In deze video leert u hoe u de Donut-visualisatie kunt toevoegen en configureren
 
 >[!VIDEO](https://video.tv.adobe.com/v/334309/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/donut.html?lang=en).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/donut.html?lang=nl-NL).

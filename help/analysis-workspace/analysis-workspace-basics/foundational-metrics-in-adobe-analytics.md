@@ -21,4 +21,4 @@ Deze video helpt u een conceptuele beschrijving te geven van de maatstaven voor 
 
 >[!VIDEO](https://video.tv.adobe.com/v/336483/?quality=12&learn=on)
 
-Zie voor meer informatie in de documentatie [Paginaweergaven](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html), [Bezoeken](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html), en [Unieke bezoekers](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html).
+Zie voor meer informatie in de documentatie [Paginaweergaven](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=nl-NL), [Bezoeken](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=nl-NL), en [Unieke bezoekers](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=nl-NL).

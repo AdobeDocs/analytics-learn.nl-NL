@@ -20,5 +20,5 @@ In deze video ziet u hoe u de gegevensstroom van uw pagina naar de tabellen en v
 
 >[!VIDEO](https://video.tv.adobe.com/v/31072/?quality=12&learn=on)
 
-Ga voor meer informatie over de Adobe Experience Platform Debugger naar de [documentatie](https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html).
+Ga voor meer informatie over de Adobe Experience Platform Debugger naar de [documentatie](https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html?lang=nl-NL).
 

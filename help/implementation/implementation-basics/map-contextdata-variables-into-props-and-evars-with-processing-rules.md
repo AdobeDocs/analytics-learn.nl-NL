@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # ContextData-variabelen toewijzen aan props en eVars met verwerkingsregels {#map-contextdata-variables-into-props-and-evars-with-processing-rules}
 
-Wanneer u [!DNL contextData] variabelen in uw Adobe Analytics-implementatie, als u uw gegevens wilt weergeven in werkelijke rapporten, moet u de [!DNL contextData] variabelen voor [!DNL props/eVars] in de [!UICONTROL Processing Rules] interface. In deze video ziet u hoe u dit kunt doen. Zie voor gedetailleerde documentatie [Overzicht van verwerkingsregels](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/processing-rules.html).
+Wanneer u [!DNL contextData] variabelen in uw Adobe Analytics-implementatie, als u uw gegevens wilt weergeven in werkelijke rapporten, moet u de [!DNL contextData] variabelen voor [!DNL props/eVars] in de [!UICONTROL Processing Rules] interface. In deze video ziet u hoe u dit kunt doen. Zie voor gedetailleerde documentatie [Overzicht van verwerkingsregels](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/processing-rules.html?lang=nl-NL).
 
 >[!IMPORTANT]
 >

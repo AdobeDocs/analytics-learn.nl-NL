@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Segmentering op onderscheiden aantal Dimensionen {#segmentation-on-distinct-dimension-counts}
 
-De verschillende tellerexploitanten in de segmentbouwer staan u toe om te segmenteren die op het aantal unieke punten binnen om het even welke afmeting wordt gebaseerd. Filter voor bezoeken waarbij meer dan 5 pagina&#39;s werden weergegeven of bezoekers waarbij meerdere producten in één bestelling werden aangeschaft, enz. Voor gedetailleerde documentatie gaat u naar [Vergelijkingsoperatoren voor segmenten](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html).
+De verschillende tellerexploitanten in de segmentbouwer staan u toe om te segmenteren die op het aantal unieke punten binnen om het even welke afmeting wordt gebaseerd. Filter voor bezoeken waarbij meer dan 5 pagina&#39;s werden weergegeven of bezoekers waarbij meerdere producten in één bestelling werden aangeschaft, enz. Voor gedetailleerde documentatie gaat u naar [Vergelijkingsoperatoren voor segmenten](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=nl-NL).
 
 >[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=12&learn=on)

@@ -20,4 +20,4 @@ Ontdek snel hoe Analysis Workspace datacenters en experts ondersteunt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28165/?quality=12&learn=on)
 
-Volg deze video door de video Analysis Workspace Overview weer te geven of door een [gratis cursus](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) hier op Experience League!
+Volg deze video door de video Analysis Workspace Overview weer te geven of door een [gratis cursus](https://experienceleague.adobe.com/?lang=nl&recommended=Analytics-U-1-2020.1.workspace) hier op Experience League!

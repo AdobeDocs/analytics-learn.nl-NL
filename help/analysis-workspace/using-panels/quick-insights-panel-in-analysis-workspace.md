@@ -20,4 +20,4 @@ ht-degree: 72%
 
 >[!VIDEO](https://video.tv.adobe.com/v/37248/?quality=12&learn=on)
 
-Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html).
+Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=nl-NL).

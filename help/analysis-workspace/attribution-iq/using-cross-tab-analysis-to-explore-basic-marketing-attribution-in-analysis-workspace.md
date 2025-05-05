@@ -37,4 +37,4 @@ Er zijn vele manieren u uw attributiemethodologie aan het volgende niveau met Ad
 * 3:20 - De afmetingen van de verschillende tabbladen zijn automatisch dynamisch wanneer ze worden neergezet. Dit betekent dat hun waarden na verloop van tijd kunnen veranderen. Voor deze analyse, is het best om statische kolommen in plaats daarvan over te brengen. Meer informatie over dynamische kolommen vindt u op 6:33 van de video: [Rij- en kolominstellingen in vrije-vormtabellen](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 * 4:30 - de montages van de kolom kunnen nu bulksgewijs worden bijgewerkt, in plaats van 1-bij-1. Meer informatie vindt u op 8:45 van de video: [Rij- en kolominstellingen in vrije-vormtabellen](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
-Ga voor meer informatie over dit onderwerp naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html).
+Ga voor meer informatie over dit onderwerp naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=nl-NL).
