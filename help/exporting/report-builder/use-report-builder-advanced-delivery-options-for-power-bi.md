@@ -21,4 +21,4 @@ In deze video, leer hoe te opstelling een geavanceerd programma om een werkboek 
 
 >[!VIDEO](https://video.tv.adobe.com/v/342377/?quality=12&learn=on)
 
-Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/publish-powerbi/power-bi.html?lang=en).
+Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/publish-powerbi/power-bi.html?lang=nl-NL).
