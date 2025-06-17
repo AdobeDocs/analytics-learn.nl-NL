@@ -21,4 +21,4 @@ Deze video doorloopt de configuratie van verkeersvariabelen, vaak genoemd &quot;
 
 >[!VIDEO](https://video.tv.adobe.com/v/339441/?quality=12&learn=on)
 
-Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-var.html?lang=en) te bezoeken.
+Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-var.html?lang=nl-NL) te bezoeken.

@@ -23,4 +23,4 @@ Bekijk op hoog niveau hoe u [!UICONTROL report suites] zo configureert dat deze 
 
 ## Aanvullende resources {#additional-resources}
 
-Voor meer informatie, zie de [ eigenschapdocumentatie ](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/overview.html)
+Voor meer informatie, zie de [ eigenschapdocumentatie ](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/overview.html?lang=nl-NL)

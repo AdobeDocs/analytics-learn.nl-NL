@@ -21,4 +21,4 @@ Het gebruik van aangepaste datums en datumbereiken in uw product kan u helpen bi
 
 >[!VIDEO](https://video.tv.adobe.com/v/338293/?quality=12&learn=on)
 
-Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar) te bezoeken.
+Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar) te bezoeken.
