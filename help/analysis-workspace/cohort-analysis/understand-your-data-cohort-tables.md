@@ -1,16 +1,16 @@
 ---
 title: Gegevens begrijpen—Codetabellen
 description: Leer hoe u een cohortingtabel analyseert om beter inzicht te krijgen in het bewaren van gebruikers in de loop van de tijd.
-feature: Cohort Analysis
+feature: Visualizations
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334094.jpg
 kt: 8060
 exl-id: 55c47805-578e-46a9-8d8c-90a9a109630e
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ Leer hoe u een cohortingtabel analyseert om beter inzicht te krijgen in het bewa
 
 >[!VIDEO](https://video.tv.adobe.com/v/334094/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=nl-NL).
+Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en) te bezoeken.

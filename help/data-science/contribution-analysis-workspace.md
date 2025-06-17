@@ -1,7 +1,7 @@
 ---
 title: Bijdrage-analyse in Analysis Workspace
 description: Deze video doorloopt de Analyse van de Bijdrage en zijn capaciteit om machine het leren te gebruiken om de factoren snel en gemakkelijk te verklaren die tot een trend in uw gegevens hebben bijgedragen.
-feature: Data Science
+feature: Anomaly Detection
 topics: null
 activity: use
 doc-type: feature video
@@ -10,19 +10,19 @@ kt: 2337
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: fd939c04-f28c-4b84-9768-2e9644945afb
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL Contribution Analysis] in Analysis Workspace {#contribution-analysis-in-analysis-workspace}
 
-Deze video doorloopt [!UICONTROL Contribution Analysis] en het vermogen om machine het leren te gebruiken om de factoren snel en gemakkelijk te verklaren die tot een trend in uw gegevens hebben bijgedragen.
+Deze video doorloopt [!UICONTROL Contribution Analysis] en laat zien dat het gebruik van leren via de computer mogelijk is om snel en gemakkelijk de factoren uit te leggen die hebben bijgedragen tot een trend in uw gegevens.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25443/?quality=12&learn=on)
 
 [!UICONTROL Contribution Analysis] is beschikbaar in Analysis Workspace voor klanten van Adobe Analytics Premium.
 
-Ga voor meer informatie over deze functie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=nl-NL).
+Voor meer informatie over deze eigenschap, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en).
