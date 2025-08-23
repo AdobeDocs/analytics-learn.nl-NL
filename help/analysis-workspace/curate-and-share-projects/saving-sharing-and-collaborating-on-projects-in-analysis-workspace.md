@@ -18,6 +18,6 @@ ht-degree: 0%
 
 In deze video leert u hoe u projecten voor uzelf kunt opslaan en exporteren, projecten naar andere ontvangers kunt verzenden en anderen kunt uitnodigen om samen te werken aan uw project.
 
->[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470873/?quality=12&learn=on&captions=dut)
 
 Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html?lang=nl-NL).
