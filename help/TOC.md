@@ -4,9 +4,9 @@ user-guide-description: Bekijk videotutorials voor Adobe Analytics en leer hoe u
 breadcrumb-title: Analytics-tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 14bbe0be3c5bc45e58ff54c82c4a9024374de848
+source-git-commit: ff729de74f29a07316140459a52f589dac7db198
 workflow-type: tm+mt
-source-wordcount: '2160'
+source-wordcount: '2167'
 ht-degree: 2%
 
 ---
@@ -27,21 +27,21 @@ ht-degree: 2%
       + [Topconferentie 2019 Super Session - Reizen en Ziekenhuizen](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Top 2019 Super Session - Retail](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Top 2019 Super Session - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
-   + Strategie en leiderschap bij gedachte {#strategy}
+   + Strategie en leiderschap{#strategy}
       + [Deel 1 - Eenvoudige stapels voor meer efficiëntie](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
       + [Deel 2 - Eenvoudige stapels voor meer efficiëntie](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
       + [De klantgegevens beheren met Virtual Analyst en Segment IQ in Adobe Analytics](strategy/customer-intelligence-with-virtual-analyst.md)
-   + Overstappen van andere platforms {#transitioning-from-other-platforms}
+   + Overgangen van andere platforms {#transitioning-from-other-platforms}
       + [Overgang vanuit Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Basisbeginselen van analysemogelijkheden {#analytics-basics}
       + [De analysecyclus](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [Hoe analysegegevens worden verzameld](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Aanmelden bij Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Werken en rapportsuites maken](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [ begrijpt basisbezoekersmetriek ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=nl-NL)
-      + [ Inleiding aan verkeersvariabelen (steunen) ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=nl-NL)
-      + [ Inleiding aan omzettingsvariabelen (eVars) ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=nl-NL)
-      + [ Inleiding aan omzettingsgebeurtenissen ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=nl-NL)
+      + [ begrijpt basisbezoekersmetriek ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
+      + [ Inleiding aan verkeersvariabelen (steunen) ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
+      + [ Inleiding aan omzettingsvariabelen (eVars) ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
+      + [ Inleiding aan omzettingsgebeurtenissen ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
    + De gebruikersinterface aanpassen {#customizing-the-ui}
       + [Analysis Workspace-gebruikersvoorkeuren aanpassen](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [Dimensie en metrische beschrijvingen toevoegen](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
@@ -84,21 +84,21 @@ ht-degree: 2%
       + [Weergavedichtheid](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [Filters gebruiken](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
       + [Meerdere vervolgkeuzefilters gebruiken](analysis-workspace/navigating-workspace-projects/use-multi-select-drop-down-filters.md)
-   + Realtimerapporten {#real-time-reports}
+   + Real-time rapporten {#real-time-reports}
       + [Real-time rapportage](analysis-workspace/real-time-reports/realtime-reporting.md)
    + Deelvensters gebruiken {#using-panels}
       + [Tabellen, visualisaties en deelvensters gebruiken in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Deelvenster Snelle inzichten in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
-      + [ Gebruikend het Comité van Attribution IQ ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=nl-NL)
+      + [ Gebruikend het Comité van Attribution IQ ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html)
       + [Deelvenster Mediagelijktijdige viewers in Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
-      + [ het Spent Comité van de Tijd van de Playback van Media van de Media ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=nl-NL)
+      + [ het Spent Comité van de Tijd van de Playback van Media van de Media ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
       + [Vervolgkeuzefilters gebruiken](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [Deelvensters gebruiken om uw Analysis Workspace-projecten te organiseren](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Segmenten kiezen voor een deelvenster](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
       + [Meerdere rapportsets in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [Workspace-deelvensters en -rapporten voor volgende/vorige en paginaoverzicht](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
       + [Deelvenster Kenmerken en terugzoekvensters](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
-   + Freeform-tabellen samenstellen {#building-freeform-tables}
+   + Freeform-tabellen maken {#building-freeform-tables}
       + [Gegevens begrijpen—vrije tabellen](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [De linkerspoorstaaf gebruiken om vrije-vormlijsten te bouwen](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [Eenvoudig slepen en neerzetten op lege projecten](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
@@ -107,9 +107,9 @@ ht-degree: 2%
       + [Rij- en kolominstellingen in vrije-vormtabellen](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [Tabeltotalen voor vrije vorm](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
       + [De samensteller van de vrije-vormtabel gebruiken](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
-      + [ klik voor werkruimteefficiency met de rechtermuisknop aan ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html?lang=nl-NL)
+      + [ klik voor werkruimteefficiency met de rechtermuisknop aan ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
       + [Statische rijen opnieuw ordenen](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
-      + [ Gebruik Attribution IQ in vrije vormlijsten ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=nl-NL)
+      + [ Gebruik Attribution IQ in vrije vormlijsten ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html)
       + [Cross-sell-analyse](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
       + [Freeform-tabelfilters](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [Afmetingen van tijd tot tijd](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
@@ -154,25 +154,25 @@ ht-degree: 2%
    + Segmenten toepassen {#applying-segments}
       + [Segmenten toepassen op uw Analysis Workspace-project](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Ad-hocsegmenten toepassen](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
-      + [ Gebruik verschillende modellen van Attribution IQ met segmenten ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=nl-NL)
-      + [ kies segmenten voor een paneel ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html?lang=nl-NL)
+      + [ Gebruik verschillende modellen van Attribution IQ met segmenten ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html)
+      + [ kies segmenten voor een paneel ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
       + [Segmenten als afmetingen gebruiken in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Segmenten gebruiken om gegevens in Analysis Workspace te beperken](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Snelle segmenten in Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
       + [Reissegmenten voor klanten samenstellen](analysis-workspace/applying-segments/building-customer-journey-segments.md)
       + [Reissegmenten voor klanten samenstellen - Deel 2](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
-   + Cijfers {#metrics}
+   + Metrics {#metrics}
       + [Basisgegevens van bezoekers](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [ Toevoegend dimensies en metriek aan uw project ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=nl-NL)
+      + [ Toevoegend dimensies en metriek aan uw project ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
       + [Inleiding tot conversiegebeurtenissen](analysis-workspace/metrics/introduction-to-conversion-events.md)
-      + [ Werkend met metriek in een vrije vormlijst ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=nl-NL)
+      + [ Werkend met metriek in een vrije vormlijst ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html)
       + [Deelnamemetriek gebruiken in Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Afscheid Excel, hello berekende metriek](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + Dimensies {#dimensions}
       + [Afmetingen en metriek toevoegen aan uw project](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Inleiding tot verkeersvariabelen (profielen)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [Inleiding tot conversievariabelen (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
-      + [ Werkend met afmetingen in een Vrije Lijst van de Vorm ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=nl-NL)
+      + [ Werkend met afmetingen in een Vrije Lijst van de Vorm ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html)
    + Kalender- en datumbereik {#calendar-and-date-ranges}
       + [Datums gebruiken in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [Herbruikbare datumbereiken toepassen in uw project](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
@@ -217,7 +217,7 @@ ht-degree: 2%
       + [Werking van gebruikers begrijpen voor spraakassistenten](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
       + [Werken met de Voice-reis van de gebruiker](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
 + Beheer {#administration}
-   + Belangrijke beheervaardigheden {#key-admin-skills}
+   + Sleutelbeheervaardigheden {#key-admin-skills}
       + [Een machtige gemeenschap creëren](administration/key-admin-skills/empowered-community.md)
       + [Vereenvoudig en besteed minder tijd aan trainingsgebruikers](administration/key-admin-skills/simplify-training-users.md)
       + [De juiste personen op uw Analyseteam krijgen](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
@@ -264,23 +264,23 @@ ht-degree: 2%
       + [Instellingen voor postcodes en postcodes configureren](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Optionele instelling voor tijdstempel inschakelen](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Beide regels configureren in Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
-   + Gegevensbeheer en GDPR {#data-governance-and-gdpr}
+   + Data Governance en GDPR {#data-governance-and-gdpr}
       + [Data Governance en GDPR in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
-   + Traffic-beheer {#traffic-management}
+   + Verkeersbeheer {#traffic-management}
       + [Gebruik van serveroproepen](administration/traffic-management/server-call-usage.md)
       + [Een aanstaande verkeersstroom beheren](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
-   + Logs{#logs}
+   + Logboeken{#logs}
       + [Logboekregistratie voor Analysis Workspace gebruiken](administration/logs/usage-log-tracking-for-analysis-workspace.md)
       + [Overzicht van logbestanden voor analysebeheer](administration/logs/overview-of-analytics-admin-logs.md)
 + Implementatie {#implementation}
    + Grondbeginselen van implementatie {#implementation-basics}
-      + [ Begrijpend en creërend rapportsuites ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=nl-NL)
+      + [ Begrijpend en creërend rapportsuites ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html)
       + [ContextData-variabelen toewijzen aan props en eVars met verwerkingsregels](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [Uw analytische traceringsserver en rapportsuite-id identificeren](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Een document met zakelijke vereisten maken](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [SDR maken en onderhouden.](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Experience Platform-tags {#experience-platform-tags}
-      + [ voert de oplossingen van Experience Cloud in websites uit gebruikend Markeringen ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=nl-NL)
+      + [ voert de oplossingen van Experience Cloud in websites uit gebruikend Markeringen ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
       + [Basisconfiguratie van de extensie Analytics](implementation/experience-platform-tags/basic-configuration-of-the-analytics-tags-extension.md)
       + [Bibliotheekbeheer configureren in de extensie Analytics](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
       + [Algemene instellingen configureren in de extensie Analytics](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
@@ -308,9 +308,9 @@ ht-degree: 2%
       + [Segmentvergelijking in Analysis Workspace](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [Segmentcontainers](components/segmentation/segment-containers.md)
       + [Segmentbeheer en delen](components/segmentation/segment-management-and-sharing.md)
-      + [ Toepassend segmenten in Analysis Workspace ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html?lang=nl-NL)
-      + [ Gebruikend segmenten als afmetingen ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=nl-NL)
-      + [ Gebruikend segmenten om gegevens  te beperken](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=nl-NL)
+      + [ Toepassend segmenten in Analysis Workspace ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html)
+      + [ Gebruikend segmenten als afmetingen ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html)
+      + [ Gebruikend segmenten om gegevens ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html) te beperken
       + [Verschillen tussen de gesegmenteerde bouwer en snelle segmenten](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
       + [Opeenvolgende segmentatie](components/segmentation/sequential-segmentation.md)
       + [Voor/Na-reeksen in sequentiële segmentatie](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
@@ -319,7 +319,7 @@ ht-degree: 2%
       + [&#39;is gelijk aan een van&#39; gebruiken in segmentatie](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Analyses Insider-webinar - Segmentatiestrategieën van klanten](components/segmentation/customer-segmentation-strategies.md)
       + [Wacht nu gewoon een segment... met segmentatie om nieuwe inzichten te ontdekken](components/segmentation/segmentation-to-discover-new-insights.md)
-   + Berekende statistieken {#calculated-metrics}
+   + Berekende standaarden {#calculated-metrics}
       + [Overzicht van de berekende metrische builder](components/calculated-metrics/calculated-metrics-metric-builder.md)
       + [Berekende meetwaarden - geen implementatiegegevens](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
       + [Berekende cijfers - gesegmenteerde meetgegevens](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
@@ -327,13 +327,15 @@ ht-degree: 2%
       + [Verschillende functie voor geschatte telling in berekende meetwaarden](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Snelle berekende cijfers in Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [Uw berekende metriek beheren](components/calculated-metrics/manage-your-calculated-metrics.md)
-      + [ Attribution IQ in berekende metriek ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=nl-NL)
+      + [ Attribution IQ in berekende metriek ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
       + [Afmetingen gebruiken in berekende metriek](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
       + [Breng uw gegevensanalyse naar het volgende niveau met berekende metriek](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + Classificaties {#classifications}
       + [Overzicht van classificaties](components/classifications/overview-of-classifications.md)
       + [De opbouwfunctie voor classificatieregels gebruiken](components/classifications/using-the-classification-rule-builder.md)
-   + Virtuele rapportsuites {#virtual-report-suites}
+      + [Inleiding tot classificatiesets](components/classifications/introduction-to-classification-sets.md)
+      + [Classificatiesets gebruiken](components/classifications/use-classification-sets.md)
+   + Virtuele rapportsets {#virtual-report-suites}
       + [Overzicht van virtuele-rapportsuites](components/virtual-report-suites/virtual-report-suites.md)
       + [Component curation](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
       + [Bezoeken aanpassen in virtuele-rapportsuites](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
@@ -343,7 +345,7 @@ ht-degree: 2%
       + [Activity Map inschakelen, fouten opsporen en aanpassen](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + Extra gereedschappen {#additional-tools}
    + [Adobe Labs (voorvertoningen van technologie)](additional-tools/adobe-labs-technology-previews.md)
-   + Analytische dashboards {#analytics-dashboards}
+   + Analysedashboards {#analytics-dashboards}
       + [Adobe Analytics-dashboards Scorecard Builder](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
       + [Visualisaties voor mobiele scoreborden](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [Aangepaste datumbereiken toepassen](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
@@ -377,7 +379,7 @@ ht-degree: 2%
    + Audience Manager {#audience-manager}
       + [Server Side Forwarding inschakelen in Experience Platform Launch](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
       + [Audience Analytics - AAM-segmenten integreren in analysemogelijkheden](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
-   + Doel {#target}
+   + Target {#target}
       + [Analyses voor doeldeelvenster (A4T) in Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
       + [Een automatisch doelactiviteit analyseren met het A4T-deelvenster](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
    + Adobe Advertising DSP {#adobe-advertising-dsp}
@@ -392,7 +394,7 @@ ht-degree: 2%
       + [Aangepaste metingen voor Analyse maken met Advertising DSP-gegevens](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
       + [Rapporten Advertising DSP-site-item maken](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
       + [Advertising DSP-dashboards maken](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
-   + Ad hoc-analysemogelijkheden {#ad-hoc-analytics}
+   + Ad hoc-analyse {#ad-hoc-analytics}
       + [Het gebruiken van de Convertor van het Project om projecten van ad hoc Analyse aan Analytics Workspace te bewegen](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
    + Power BI {#power-bi}
       + [Adobe Analytics Connector in Power BI](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
@@ -404,37 +406,37 @@ ht-degree: 2%
    + [Bijdrage-analyse in Analysis Workspace](data-science/contribution-analysis-workspace.md)
    + [Intelligente waarschuwingen](data-science/intelligent-alerts.md)
    + [Adobe Analytics en Adobe Sensei - Democratie in de gegevenswetenschap voor ALL](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
-+ Verticaal-specifiek {#vertical-specific}
++ Verticaal specifiek {#vertical-specific}
    + Hoge technologie {#high-tech}
-      + [ Top 2019 Super Zitting - Hoog Tech ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html?lang=nl-NL)
-   + Reis en ziekenhuisopname {#travel-and-hospitality}
-      + [ Topconferentie 2019 Super Zitting - Reizen en Ziekenhuis ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html?lang=nl-NL)
+      + [ Top 2019 Super Zitting - Hoog Tech ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html)
+   + Reizen en verblijf {#travel-and-hospitality}
+      + [ Topconferentie 2019 Super Zitting - Reizen en Ziekenhuis ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html)
    + Detailhandel {#retail}
       + [Introductie tot handelsvariabelen en -gebeurtenissen](vertical-specific/retail/intro-to-retail-variables-and-events.md)
       + [Basisvariabelen en -gebeurtenissen voor de detailhandel toevoegen aan opstartrelregels](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
       + [Een opstartregel toevoegen voor de koopgebeurtenis](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
-      + [ Top 2019 Super Zitting - Detailhandel ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html?lang=nl-NL)
+      + [ Top 2019 Super Zitting - Detailhandel ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html)
 + Media Analytics {#media-analytics}
-   + Media-analyse meten {#measuring-media-analytics}
+   + Meetmedia-analyse {#measuring-media-analytics}
       + [Deelvenster Tijd van afspelen van media](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
       + [De audioverbruikssjabloon in Analysis Workspace gebruiken](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
-+ Analytics voor mobiele apps {#mobile-app-analytics}
++ Mobiele App Analytics {#mobile-app-analytics}
    + Implementatie {#implementation}
       + [Beheerinstellingen voor mobiele apps](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
       + [Levenscyclusstatistieken initialiseren en weergeven met de Experience Platform SDK](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
       + [Handelingen bijhouden (aangepaste AKA-koppelingen)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [Volgstatus (AKA-pagina&#39;s of Screens)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
-      + [ voer in de Verweven Apps van iOS uit ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=nl-NL)
-      + [ voer in iOS doelstelling-C Apps uit ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=nl-NL)
-      + [ voert in de Apps van Android uit ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=nl-NL)
-   + Mobiele analysemogelijkheden meten {#measuring-mobile-analytics}
+      + [ voer in de Verweven Apps van iOS uit ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
+      + [ voer in iOS doelstelling-C Apps uit ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
+      + [ voert in de Apps van Android uit ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html)
+   + Mobiele analyse meten {#measuring-mobile-analytics}
       + [Aan de slag met Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [Impact van aanraakpunten op mobiele reizen](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [Werking van gebruiker via kanalen analyseren](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
       + [Betrokkenheid en behoudsrente verhogen](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + API&#39;s {#apis}
    + [Analysis Workspace gebruiken om API 2.0-verzoeken te maken](apis/using-analysis-workspace-to-build-api-2-requests.md)
-   + [ Gebruikend Report Builder om Adobe Analytics API  te leren](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html?lang=nl-NL)
+   + [ Gebruikend Report Builder om Adobe Analytics API ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html) te leren
    + [Postman gebruiken om Adobe Analytics 2.0 API-verzoeken te maken](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Gebruiksscenario&#39;s analyse {#analysis-use-cases}
    + Zoeken op interne site {#internal-site-search}
