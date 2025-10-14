@@ -22,4 +22,4 @@ In deze video, zult u leren hoe te hefboomwerking twee eigenschappen van de datu
 
 Datumvergelijkingen zijn een gemakkelijke manier om diepte toe te voegen aan uw huidige Analysis Workspace-tabellen en helpen u om uw huidige gegevens eenvoudig in perspectief te plaatsen op historische prestaties.
 
-Voor meer informatie over deze eigenschap, te zien gelieve de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison).
+Voor meer informatie over deze eigenschap, te zien gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison).

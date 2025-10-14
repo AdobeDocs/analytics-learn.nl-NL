@@ -21,4 +21,4 @@ In deze video leert u hoe u datums, [!UICONTROL date ranges] en datumvergelijkin
 
 >[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12&learn=on)
 
-Voor meer informatie, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=nl-NL).
+Voor meer informatie, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=nl-NL).

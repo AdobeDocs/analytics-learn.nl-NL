@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25446/?quality=12&learn=on)
 
-Voor meer informatie over deze eigenschap, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=nl-NL).
+Voor meer informatie over deze eigenschap, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=nl-NL).

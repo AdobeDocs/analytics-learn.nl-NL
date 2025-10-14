@@ -34,7 +34,7 @@ Huidige digitale prestaties
 1. Voor beide, 11,6% versus 11,4%, zetten de eerste bezoeken een iets hogere conversie uit dan terugkeerbezoeken.
 1. Vergeleken met 2021 daalden de omrekeningskoersen voor beide segmenten.
 
-![ lijst van Bezoeken ](assets/cohort1.png)
+![&#x200B; lijst van Bezoeken &#x200B;](assets/cohort1.png)
 
 ## Deel 2: Cohortanalyse - Bezoek Eetbare Regelingen Wereldwijd Product
 
@@ -71,14 +71,14 @@ Procedure voor het instellen van de cohortabel
 1) Maanden met de meeste volumes zijn februari en mei
 1) Er zijn ongeveer 1.000 bezoekers die elke maand naar de site terugkeren
 
-![ 2022 bewaarlijst ](assets/cohort2.png)
+![&#x200B; 2022 bewaarlijst &#x200B;](assets/cohort2.png)
 
 **in 2021:**
 
 1) Maanden met de hoogste aanhoudingspercentages +1 maand omvatten april, januari en maart
 1) Maanden met de meeste volumes zijn februari en mei
 
-![ 2021 lijst van het Behoud ](assets/cohort3.png)
+![&#x200B; 2021 lijst van het Behoud &#x200B;](assets/cohort3.png)
 
 **punten van de Actie:**
 
@@ -130,7 +130,7 @@ Wat zou het effect zijn als wij meer gebruikers aan login konden krijgen? Is dat
 
 Bekijk de gebruikerservaring van de site om gebruikers te vragen een account te maken tijdens de afhandeling
 
-![ Lijst 4 van de Cohort ](assets/cohort4.png)
+![&#x200B; Lijst 4 van de Cohort &#x200B;](assets/cohort4.png)
 
 ## Deel 4: Aangepaste Dimension-cohort
 
@@ -158,7 +158,7 @@ In de aangepaste Dimension Cohort-tabel worden producten gemarkeerd die een hoge
 1) Product 2
 1) Product 3 — levert vaak hogere retentie op dan gemiddeld retentie.
 
-![ Lijst van de Cohort 5 ](assets/cohort5.png)
+![&#x200B; Lijst van de Cohort 5 &#x200B;](assets/cohort5.png)
 
 ## Conclusie
 
@@ -168,7 +168,7 @@ Cohortanalyse en Custom Dimension Cohort zijn krachtige tools voor een beter beg
 
 Dit document is geschreven door:
 
-![ Jennifer Yacenda ](assets/jennifer-yacenda.png)
+![&#x200B; Jennifer Yacenda &#x200B;](assets/jennifer-yacenda.png)
 
 **Jennifer Yacenda**, Hogere Directeur bij Marriott
 

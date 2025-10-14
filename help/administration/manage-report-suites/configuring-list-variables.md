@@ -21,4 +21,4 @@ Wanneer u meerdere waarden tegelijk in een eVar (een conversievariabele) moet pl
 
 >[!VIDEO](https://video.tv.adobe.com/v/339450/?quality=12&learn=on)
 
-Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/list-var-admin.html?lang=nl-NL) te bezoeken.
+Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/list-var-admin.html?lang=nl-NL) te bezoeken.

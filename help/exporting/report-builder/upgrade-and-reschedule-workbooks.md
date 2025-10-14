@@ -19,4 +19,4 @@ Leer hoe u oudere [!DNL Report Builder] -werkboeken kunt upgraden en opnieuw kun
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446188/?quality=12&learn=on&captions=dut)
 
-Voor meer informatie over deze eigenschap, bezoek de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics/analyze/report-builder/home).
+Voor meer informatie over deze eigenschap, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics/analyze/report-builder/home).
