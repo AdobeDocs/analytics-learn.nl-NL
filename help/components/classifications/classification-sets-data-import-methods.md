@@ -22,4 +22,4 @@ Leer verschillende methoden voor het importeren van classificatiegegevens met cl
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475826/?learn=on&enablevpops)
 
-Voor meer informatie, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/en/docs/analytics/components/classifications/sets/overview){target="_blank"}.
+Voor meer informatie, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics/components/classifications/sets/overview){target="_blank"}.
