@@ -20,4 +20,4 @@ Meer informatie over de typen analyses die beschikbaar zijn in [!DNL Analysis Wo
 
 >[!VIDEO](https://video.tv.adobe.com/v/31501/?quality=12&learn=on)
 
-[Meer informatie over Adobe Analysis Workspace](https://business.adobe.com/products/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&mv=search)
+[Meer informatie over Adobe Analysis Workspace](https://business.adobe.com/nl/products/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&mv=search)
