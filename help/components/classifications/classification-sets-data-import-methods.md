@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer verschillende methoden voor het importeren van classificatiegegevens met classificatiesets en sommige bijbehorende gebruiksgevallen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475826/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475834/?captions=dut&learn=on&enablevpops)
 
 Voor meer informatie, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics/components/classifications/sets/overview){target="_blank"}.

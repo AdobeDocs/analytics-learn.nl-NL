@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Leer hoe u in Analysis Workspace met de linkerrail items items kunt zoeken, maken en toevoegen aan vrije-vormtabellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/40089/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475914/?captions=dut&quality=12&learn=on)
