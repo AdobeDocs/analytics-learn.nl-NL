@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Virtuele rapportsuites in Adobe Analytics {#virtual-report-suites-in-adobe-analytics}
 
-Met Adobe Analytics kunt u &quot;virtuele rapportsuites&quot; voor uw gebruikers maken, die uw gegevens segmenteren en gebruikers/groepen beperken tot alleen de toegestane segmenten van gegevens. In deze video ziet u hoe u virtuele rapportsuites kunt maken en gebruiken. Voor gedetailleerde documentatie, gelieve te bezoeken [&#x200B; Virtueel overzicht van rapportreeksen &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html){target="_blank"}.
+Met Adobe Analytics kunt u &quot;virtuele rapportsuites&quot; voor uw gebruikers maken, die uw gegevens segmenteren en gebruikers/groepen beperken tot alleen de toegestane segmenten van gegevens. In deze video ziet u hoe u virtuele rapportsuites kunt maken en gebruiken. Voor gedetailleerde documentatie, gelieve te bezoeken [&#x200B; Virtueel overzicht van rapportreeksen &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=nl-NL){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25412/?quality=12&learn=on)
 
