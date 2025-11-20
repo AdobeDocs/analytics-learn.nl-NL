@@ -16,6 +16,6 @@ ht-degree: 54%
 
 # Werken met en maken van rapportsuites
 
-Deze video helpt u te begrijpen [!UICONTROL report suites] zijn, en toont u hoe te om hen in de interface tot stand te brengen, zodat u het verkeer kunt volgen en optimaliseren dat aan uw plaats komt.
+Deze video helpt u begrijpen wat [!UICONTROL report suites] is en laat u zien hoe u deze maakt in de interface, zodat u het verkeer dat naar uw site komt kunt bijhouden en optimaliseren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28773/?quality=12&learn=on)
