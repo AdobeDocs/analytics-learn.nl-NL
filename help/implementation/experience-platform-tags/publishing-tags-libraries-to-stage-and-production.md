@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Leer hoe u de analytische code van uw site publiceert, van ontwikkeling tot stadium en productie in Experience Platform [!DNL tags] , en hoe u de rapportsuite instelt voor het correct ontvangen van de juiste gegevens.
 
->[!VIDEO](https://video.tv.adobe.com/v/28777/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429983/?captions=dut&quality=12&learn=on)

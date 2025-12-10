@@ -19,5 +19,5 @@ ht-degree: 0%
 
 Leer om variabelen en gebeurtenissen in de Manager van de Reeks van het Rapport te vormen, ervoor zorgend dat de rapporten, de afmetingen, en de metriek de juiste namen en het gedrag hebben.
 
->[!VIDEO](https://video.tv.adobe.com/v/28755/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456977/?captions=dut&quality=12&learn=on)
 

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Leer over de voordelen om de doPlugins functie te gebruiken, en voeg stop-ins van de implementatie van Analytics toe om gegevensinzameling te verrijken. In deze video wordt uitgelegd waar u de code kunt vinden en waar u deze wilt toevoegen in Experience Platforms [!DNL tags] . Herzie de documentatie voor [&#x200B; doPlugins &#x200B;](https://experienceleague.adobe.com/docs/analytics/implementation/vars/functions/doplugins.html?lang=nl-NL) en [&#x200B; stop-ins van de implementatie van Analytics &#x200B;](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html?lang=nl-NL) voor meer details.
 
->[!VIDEO](https://video.tv.adobe.com/v/28772/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428851/?captions=dut&quality=12&learn=on)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Meer informatie over de configuratieopties voor bibliotheekbeheer voor de extensie Analytics in Experience Platform [!DNL tags] . Deze video behandelt ook het selecteren van rapportsuites voor gegevensinzameling.  Voor gedetailleerde documentatie, zie [&#x200B; de uitbreidingsoverzicht van Adobe Analytics &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=nl-NL){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429833/?captions=dut&quality=12&learn=on)

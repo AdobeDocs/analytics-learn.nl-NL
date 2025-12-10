@@ -21,6 +21,6 @@ ht-degree: 0%
 
 U kunt downloadkoppelingen op uw site (koppelingen waarmee niet-browserbestanden naar uw computer worden gedownload) slechts na een paar klikken volgen in de Adobe Analytics-extensie in Experience Platform [!DNL tags] .
 
->[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429926/?captions=dut&quality=12&learn=on)
 
 Of het nu whitepapers, handleidingen, audio- of videobestanden zijn of een groot aantal andere mogelijkheden, u hebt mogelijk koppelingen op uw site om bestanden te downloaden die niet in een browser zijn geopend. Voor deze bestanden kunt u geen [!DNL Analytics] code op de pagina plaatsen om te volgen. Met de configuratie die in de video wordt beschreven, kunt u de koppeling naar het downloadbestand bijhouden.

@@ -68,7 +68,7 @@ U kunt de tijdweergave eenvoudig wijzigen wanneer u werkt met trendvisualisaties
 
 Adobe Analytics verzamelt enorme hoeveelheden gegevens. Met componentcuratie in [!DNL Virtual Report Suites] kunnen beheerders een gegevensset maken voor elke bedrijfseenheid in een organisatie. Dat betekent dat analisten die in Analysis Workspace werken, niet door gegevens hoeven te bladeren om te zien wat het belangrijkst voor hen is. Controleer gewoon het vakje &quot;[!UICONTROL Enable Customization of Virtual Report Suite Components]&quot; in de [!UICONTROL Virtual Report Suites] builder onder [!UICONTROL “Components]&quot; en selecteer vervolgens de [!UICONTROL components] die overeenkomen met wat een bepaald team meet.
 
->[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425524/?captions=dut&quality=12&learn=on)
 
 >[!TIP]
 >
@@ -88,7 +88,7 @@ Maak koppelingen die overal in Analysis Workspace het publiek bereiken. Enkel kl
 
 U kunt elk project nu gemakkelijk omzetten in een aangepaste sjabloon. Selecteer eenvoudig &quot;[!UICONTROL Save As Template]&quot;van &quot;[!UICONTROL Project]&quot;dropdown menu, voeg markeringen toe die het malplaatje gemakkelijk maken te vinden, en klik &quot;[!UICONTROL Save Project As Template]&quot;. Nu, zal het malplaatje aan alle gebruikers van Analysis Workspace onder &quot;[!UICONTROL Custom Templates]&quot;tabel beschikbaar zijn. Hierdoor kunnen analisten hun projecten starten met zinvolle gegevenspunten in plaats van te beginnen met vierkante.
 
->[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428577/?captions=dut&quality=12&learn=on)
 
 >[!TIP]
 >
