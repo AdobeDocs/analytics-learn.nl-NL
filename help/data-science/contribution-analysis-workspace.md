@@ -25,4 +25,4 @@ Deze video doorloopt [!UICONTROL Contribution Analysis] en laat zien dat het geb
 
 [!UICONTROL Contribution Analysis] is beschikbaar in Analysis Workspace voor klanten van Adobe Analytics Premium.
 
-Voor meer informatie over deze eigenschap, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en).
+Voor meer informatie over deze eigenschap, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en).

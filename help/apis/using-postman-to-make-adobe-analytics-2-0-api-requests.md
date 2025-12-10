@@ -23,4 +23,4 @@ In deze video wordt uitgelegd hoe u [!DNL Postman] , een API-client, kunt instel
 
 >[!VIDEO](https://video.tv.adobe.com/v/25889/?quality=12&learn=on)
 
-Voor meer informatie, bezoek de [ documentatie ](https://developer.adobe.com/analytics-apis/docs/2.0/guides/use-cases/postman/).
+Voor meer informatie, bezoek de [&#x200B; documentatie &#x200B;](https://developer.adobe.com/analytics-apis/docs/2.0/guides/use-cases/postman/).

@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Basisconfiguratie van de extensie Analytics in Experience Platform [!DNL tags]
 
-In deze video ziet u een snelle configuratie van de extensie Analytics in Experience Platform [!DNL tags] voor een standaardsite. Voor gedetailleerde documentatie, zie [ de uitbreidingsoverzicht van Adobe Analytics ](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html){target="_blank"}.
+In deze video ziet u een snelle configuratie van de extensie Analytics in Experience Platform [!DNL tags] voor een standaardsite. Voor gedetailleerde documentatie, zie [&#x200B; de uitbreidingsoverzicht van Adobe Analytics &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28751/?quality=12&learn=on)

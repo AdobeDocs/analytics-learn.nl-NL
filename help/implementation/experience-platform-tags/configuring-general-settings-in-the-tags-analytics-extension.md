@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Algemene instellingen configureren voor de extensie Analytics in Experience Platform [!DNL tags]
 
-Meer informatie over de algemene configuratieopties voor de extensie Analytics in [!DNL tags] , waaronder het instellen van de trackingserver. Voor gedetailleerde documentatie, zie [ de uitbreidingsoverzicht van Adobe Analytics ](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html){target="_blank"}.
+Meer informatie over de algemene configuratieopties voor de extensie Analytics in [!DNL tags] , waaronder het instellen van de trackingserver. Voor gedetailleerde documentatie, zie [&#x200B; de uitbreidingsoverzicht van Adobe Analytics &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html){target="_blank"}.
 
 >[!NOTE]
 >

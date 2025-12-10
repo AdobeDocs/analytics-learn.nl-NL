@@ -20,6 +20,6 @@ Het document van de Verwijzing van het Ontwerp van de Oplossing (SDR) is de blau
 
 >[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12&learn=on)
 
-[ Download ](assets/aa_en_BRD_SDR_template.xlsx) een malplaatje van steekproefExcel aan documentvereisten, variabelengebruik en taak, segmenten, en het ontwerp van de gegevensinzameling voor uw digitale eigenschappen.
+[&#x200B; Download &#x200B;](assets/aa_en_BRD_SDR_template.xlsx) een malplaatje van steekproefExcel aan documentvereisten, variabelengebruik en taak, segmenten, en het ontwerp van de gegevensinzameling voor uw digitale eigenschappen.
 
-Bekijk de verwante video leren hoe te om het document van het a [ bedrijfsvereisten te creëren video ](creating-a-business-requirements-document.md).
+Bekijk de verwante video leren hoe te om het document van het a [&#x200B; bedrijfsvereisten te creëren video &#x200B;](creating-a-business-requirements-document.md).

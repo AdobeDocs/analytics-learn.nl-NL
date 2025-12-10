@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Algemene variabelemontages configureren in de extensie Analytics [!DNL tags]
 
-Leer hoe u de algemene variabeleninstellingen configureert in de extensie Analytics [!DNL tags] . Voor gedetailleerde documentatie, zie [ de uitbreidingsoverzicht van Adobe Analytics ](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html){target="_blank"}.
+Leer hoe u de algemene variabeleninstellingen configureert in de extensie Analytics [!DNL tags] . Voor gedetailleerde documentatie, zie [&#x200B; de uitbreidingsoverzicht van Adobe Analytics &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27181/?quality=12&learn=on)

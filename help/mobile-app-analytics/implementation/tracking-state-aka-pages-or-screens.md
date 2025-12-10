@@ -24,4 +24,4 @@ Frames vertegenwoordigen schermen of weergaven in uw app. Telkens wanneer een ni
 
 >[!VIDEO](https://video.tv.adobe.com/v/26260/?quality=12&learn=on)
 
-Voor meer informatie over trackState, gelieve te zien de [ documentatie ](https://developer.adobe.com/client-sdks/documentation/getting-started/track-events/#track-app-states-and-screens-for-adobe-analytics).
+Voor meer informatie over trackState, gelieve te zien de [&#x200B; documentatie &#x200B;](https://developer.adobe.com/client-sdks/documentation/getting-started/track-events/#track-app-states-and-screens-for-adobe-analytics).

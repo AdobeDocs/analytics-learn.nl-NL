@@ -25,4 +25,4 @@ In deze video doorlopen we de Adobe Analytics-connector door een aanvraag te mak
 
 ## Aanvullende resources {#additional-resources}
 
-* [ Documentatie van de Eigenschap ](https://docs.microsoft.com/en-us/power-bi/desktop-connect-adobe-analytics)
+* [&#x200B; Documentatie van de Eigenschap &#x200B;](https://docs.microsoft.com/en-us/power-bi/desktop-connect-adobe-analytics)

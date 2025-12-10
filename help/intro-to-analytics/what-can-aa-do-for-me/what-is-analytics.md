@@ -32,13 +32,13 @@ Er zijn vier soorten bedrijfsanalyses:
 * **Voorspelend**: Dit gebruikt historische gegevens om waarschijnlijke resultaten of gebeurtenissen te bepalen. Machinaal leren (ML) en kunstmatige intelligentie (AI) worden vaak gebruikt voor nauwkeurigere voorspellingen. Klantenvertrouwen is een voorbeeld van een real-world toepassing van voorspellende analyse. Deze analyse vindt correlaties om de kenmerken te identificeren van klanten die waarschijnlijk zullen klappen zodat u iets kunt doen om het te verhinderen.
 * **Voorschrijvend**: Dit is een geavanceerde vorm van vooruitlopende analyse die de beste mogelijke weg aan een gewenst resultaat probeert te ontdekken. Bij dit type analyse worden ook ML- en AI-technologieën gebruikt. Detailhandelaars gebruiken een voorgeschreven analyse om de marges te verbeteren door wijzigingen in hun activiteiten aan te brengen.
 
-![ gegeven-analytics-types ](../what-can-aa-do-for-me/assets/data_analytics_types.png)
+![&#x200B; gegeven-analytics-types &#x200B;](../what-can-aa-do-for-me/assets/data_analytics_types.png)
 
 ## De rol van gegevensanalyses
 
 Gegevensanalyse gebruikt veel van dezelfde technologieën die in bedrijfsanalyses worden gebruikt, maar het heeft een breder bereik en is technisch van aard. Grote gegevensanalyse is bijvoorbeeld afhankelijk van de kwaliteit en de organisatie van de gegevens. Hoe effectief worden de gegevens gesorteerd, opgeslagen, en gereinigd? Gegevenswetenschappers werken op het gebied van gegevensanalyse. Zij transformeren enorme gegevensreeksen die de bedrijfsanalisten dan gebruiken om informatie aan de organisatie mee te delen om processen en metriek te optimaliseren. De wetenschappers van gegevens nemen diepere duiken in de gegevens, bepalend tendensen en verbindingen.
 
-![ gegeven-analytics ](../what-can-aa-do-for-me/assets/data_analytics.png)
+![&#x200B; gegeven-analytics &#x200B;](../what-can-aa-do-for-me/assets/data_analytics.png)
 
 ## Waar past Adobe Analytics?
 
@@ -51,11 +51,11 @@ De bedrijfsvereisten, gegevensontwerp, en gegevensinzameling zijn zeer belangrij
 * &quot;Welke producten, diensten of inhoud moet ik aan bekende en onbekende bezoekers tonen?&quot;
 * &quot;Hoe presteren digitale marketingkanalen?&quot;
 
-![ analyse-zaken-vereisten ](../what-can-aa-do-for-me/assets/analytics_business_requirements.png)
+![&#x200B; analyse-zaken-vereisten &#x200B;](../what-can-aa-do-for-me/assets/analytics_business_requirements.png)
 
 Zodra de gegevensbasis in Adobe Analytics wordt verzameld, gebruiken marketers en bedrijfsanalisten verschillende rapporten en data visualization tools beschikbaar in het product om analyses uit te voeren en betekenisvolle verhalen over de gegevens te vertellen. Bovendien biedt Adobe Analytics verschillende uitvoervormen. Het zou een segment of publiek kunnen zijn dat naar een optimalisatiehulpmiddel, zoals Adobe Target, wordt verzonden om A/B tests in werking te stellen. Het zou een voorspellende score kunnen zijn om op de waarschijnlijkheid van een actie door een persoon te wijzen die door een ander systeem voor modellering wordt gebruikt.
 
-![ analyse-werkruimte-project ](../what-can-aa-do-for-me/assets/analytics_workspace_project.png)
+![&#x200B; analyse-werkruimte-project &#x200B;](../what-can-aa-do-for-me/assets/analytics_workspace_project.png)
 
 In tijd, verrijken de klanten traditionele Web en mobiele gegevens met andere kanaalbronnen, met inbegrip van CRM, callcenter, steen en mortier, stemmedewerkers, en meer. Adobe Analytics biedt meerdere manieren om gegevens van vrijwel elke kanaalbron vast te leggen om een robuuste basis voor analysegegevens te bouwen.
 

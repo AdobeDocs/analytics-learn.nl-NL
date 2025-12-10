@@ -23,4 +23,4 @@ In deze video tonen we u hoe u Analysis Workspace kunt gebruiken om automatisch 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12&learn=on)
 
-Voor meer informatie, bezoek de [ documentatie ](https://developer.adobe.com/analytics-apis/docs/2.0/#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.html).
+Voor meer informatie, bezoek de [&#x200B; documentatie &#x200B;](https://developer.adobe.com/analytics-apis/docs/2.0/#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.html).

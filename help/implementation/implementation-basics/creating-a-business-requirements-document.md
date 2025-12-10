@@ -20,6 +20,6 @@ Leer hoe belangrijk het is om gedragsgegevens te definiëren die u wilt vastlegg
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12&learn=on)
 
-[ Download ](assets/aa_en_BRD_SDR_template.xlsx) een malplaatje van steekproefExcel aan documentvereisten, variabelengebruik en taak, segmenten, en het ontwerp van de gegevensinzameling voor uw digitale eigenschappen.
+[&#x200B; Download &#x200B;](assets/aa_en_BRD_SDR_template.xlsx) een malplaatje van steekproefExcel aan documentvereisten, variabelengebruik en taak, segmenten, en het ontwerp van de gegevensinzameling voor uw digitale eigenschappen.
 
-Bekijk de verwante video leren hoe te om het document van het a [ oplossingsontwerp ](creating-and-maintaining-an-sdr.md) tot stand te brengen.
+Bekijk de verwante video leren hoe te om het document van het a [&#x200B; oplossingsontwerp &#x200B;](creating-and-maintaining-an-sdr.md) tot stand te brengen.

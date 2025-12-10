@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/31500/?quality=12&learn=on)
 
-Leer meer over [!DNL Adobe Sensei] [ HIER ](https://www.adobe.com/sensei.html).
+Leer meer over [!DNL Adobe Sensei] [&#x200B; HIER &#x200B;](https://www.adobe.com/sensei.html).

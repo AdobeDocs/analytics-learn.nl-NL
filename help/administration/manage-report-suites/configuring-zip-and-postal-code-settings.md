@@ -27,4 +27,4 @@ In deze video leert u hoe u [!UICONTROL zip] en postcode-instellingen kunt confi
 
 >[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12&learn=on)
 
-Voor meer informatie over [!UICONTROL zip code] montages, zie de [ documentatie ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en).
+Voor meer informatie over [!UICONTROL zip code] montages, zie de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en).

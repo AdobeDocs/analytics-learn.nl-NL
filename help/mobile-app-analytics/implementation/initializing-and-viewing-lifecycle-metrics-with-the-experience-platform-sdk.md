@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/26258/?quality=12&learn=on)
 
-Voor meer informatie over [!UICONTROL Lifecycle] [!UICONTROL metrics], gelieve te zien de [ documentatie ](https://developer.adobe.com/client-sdks/documentation/mobile-core/lifecycle/).
+Voor meer informatie over [!UICONTROL Lifecycle] [!UICONTROL metrics], gelieve te zien de [&#x200B; documentatie &#x200B;](https://developer.adobe.com/client-sdks/documentation/mobile-core/lifecycle/).

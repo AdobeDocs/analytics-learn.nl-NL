@@ -20,4 +20,4 @@ In deze video wordt u door Data Governance geleid en wordt uitgelegd hoe het lab
 
 >[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12&learn=on)
 
-Voor meer informatie, gelieve te zien de [ documentatie ](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/an-gdpr-overview.html?lang=en).
+Voor meer informatie, gelieve te zien de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/an-gdpr-overview.html?lang=en).

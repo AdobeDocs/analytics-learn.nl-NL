@@ -29,7 +29,7 @@ Wanneer vestiging Adobe Analytics, of wanneer van verwijzingen voorzien in ander
 
 Nadat u Analytics op een site hebt geïmplementeerd, vindt u de [!DNL tracking server] en de [!DNL report suite ID] rechts in het trackingbaken. [!DNL tracking server] is hostname in het baken, zodat is gemakkelijk te vinden. De id&#39;s van [!UICONTROL report suite] zijn een door komma&#39;s gescheiden lijst rechts na &quot;/b/ss/&quot; in de padnaam van het baken.
 
-Om het baken, evenals alle andere informatie te zien die aan Analytics en andere oplossingen van Experience Cloud komt, installeer de [ &quot;Ervaar de Uitbreiding van de Debugger van de Wolk&quot;Chrome ](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj?hl=nl).
+Om het baken, evenals alle andere informatie te zien die aan Analytics en andere oplossingen van Experience Cloud komt, installeer de [&#x200B; &quot;Ervaar de Uitbreiding van de Debugger van de Wolk&quot;Chrome &#x200B;](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj?hl=nl).
 
 ## Voor implementatie {#before-implementation}
 

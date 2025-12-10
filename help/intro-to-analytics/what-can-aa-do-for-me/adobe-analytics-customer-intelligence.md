@@ -23,4 +23,4 @@ Om een ervaringsbedrijf te worden, is de gegeven-gedreven marketing essentieel. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/31502/?quality=12&learn=on)
 
-Leer hoe Adobe u kan helpen uw klant van elke hoek kennen: [ https://adobe.ly/2CabND4](https://adobe.ly/2CabND4)
+Leer hoe Adobe u kan helpen uw klant van elke hoek kennen: [&#x200B; https://adobe.ly/2CabND4](https://adobe.ly/2CabND4)

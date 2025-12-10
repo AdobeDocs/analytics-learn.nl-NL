@@ -28,4 +28,4 @@ Dit is de API die u moet gebruiken om alle handelingen te volgen die niet op het
 
 Deze gegevens worden weergegeven als `contextData` . Dit betekent ook dat u [!UICONTROL Processing Rules] moet gebruiken om de mobiele gegevens van deze `contextData` -variabelen over te nemen en toe te wijzen aan [!DNL eVars] , [!DNL Props] , Gebeurtenissen, enzovoort. in Adobe Analytics.
 
-Voor meer informatie over trackAction, te zien gelieve de [ documentatie ](https://developer.adobe.com/client-sdks/documentation/getting-started/track-events/#track-user-actions-for-adobe-analytics).
+Voor meer informatie over trackAction, te zien gelieve de [&#x200B; documentatie &#x200B;](https://developer.adobe.com/client-sdks/documentation/getting-started/track-events/#track-user-actions-for-adobe-analytics).
