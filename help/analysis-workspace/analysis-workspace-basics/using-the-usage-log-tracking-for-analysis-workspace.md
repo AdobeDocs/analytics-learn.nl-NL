@@ -36,7 +36,7 @@ De projectweergaven geven het beste aan of uw gebruikers [!DNL Workspace] gebrui
 
 ## Aanvullende bronnen {#additional-resources}
 
-* [&#x200B; Meer informatie over logboeken &#x200B;](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)
+* [&#x200B; Meer informatie over logboeken &#x200B;](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=nl-NL)
 * [&#x200B; download demo dashboard &#x200B;](https://adobe.ly/2ygP5ws)
 
 WAT IS VOLGENDE: We zijn bezig om deze informatie binnenkort te presenteren in een vriendelijke gebruikersinterface (en met meer details) binnen [!DNL Analytics] .
