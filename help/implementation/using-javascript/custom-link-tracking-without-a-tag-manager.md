@@ -7,10 +7,10 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
-role: Developer, Data Engineer
+role: Developer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Aangepaste koppeling bijhouden zonder tagbeheer {#custom-link-tracking-without-a-tag-manager}
 
-Voor veel acties op de pagina, zou het volgen niet als een paginamening moeten worden behandeld. In deze video leert u hoe u een link tracking-baken codeert naar Analytics als u geen tag-manager gebruikt (zoals Adobe [!DNL Experience Platform Launch]). Zie de code en leer een belangrijke tip.
+Voor veel acties op de pagina, zou het volgen niet als een paginamening moeten worden behandeld. In deze video leert u hoe u een koppelingsmarkering codeert naar Analytics als u geen tagbeheer gebruikt (zoals Adobe [!DNL Experience Platform Launch] ). Zie de code en leer een belangrijke tip.
 
 ## Een s.tl()-baken verzenden {#sending-an-s-tl-beacon}
 
@@ -30,7 +30,7 @@ Er zijn twee functies die gegevens naar Adobe Analytics verzenden:
 
 >[!NOTE]
 >
->In deze video tonen we u hoe u een aangepaste aanraakactie codeert wanneer u GEEN tagmanager gebruikt, zoals Adobe [!DNL Experience Platform Launch]. We raden u aan [!DNL Experience Platform Launch], onze aanbevelingen voor beste praktijken voor de uitvoering. Nochtans, als u in een `s.tl()`, hier is hoe u dit kunt doen.
+>In deze video tonen we u hoe u een aangepaste aanraakactie codeert wanneer u GEEN tagbeheer gebruikt, zoals Adobe [!DNL Experience Platform Launch] . We raden u aan [!DNL Experience Platform Launch] te gebruiken, onze aanbevolen werkwijze voor implementatie. Als u echter code wilt opnemen in een `s.tl()` , gaat u als volgt te werk:
 
 >[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12&learn=on)
 

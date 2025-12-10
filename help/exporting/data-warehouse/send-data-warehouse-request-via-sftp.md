@@ -1,24 +1,24 @@
 ---
 title: Data Warehouse-rapporten verzenden via SFTP
-description: Leer hoe u een aanvraag voor een Data Warehouse maakt in Adobe Analytics en deze instelt voor levering via SFTP.
+description: Leer hoe u een Data Warehouse-aanvraag maakt in Adobe Analytics en deze instelt voor levering via SFTP.
 feature: Data Warehouse
 topic: Administration
-role: User, Architect
+role: User, Developer
 level: Beginner
 doc-type: feature video
 thumbnail: 335751.jpg
 kt: KT-8467
 last-substantial-update: 2024-05-13T00:00:00Z
 exl-id: 76ae8c9f-def3-4da5-ad39-49bd74e5bd8a
-source-git-commit: c56deab9a0496c1152e971f98a832a9f57135d64
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-# Verzenden [!DNL Data Warehouse] rapporten via SFTP
+# [!DNL Data Warehouse] rapporten verzenden via SFTP
 
-Leer hoe u een [!DNL Data Warehouse] in Adobe Analytics aanvragen en instellen voor SFTP-levering. Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/nl/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-dw).
+Leer hoe u een [!DNL Data Warehouse] -aanvraag maakt in Adobe Analytics en deze instelt voor levering via SFTP. Voor meer informatie, bezoek de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-dw).
 
 >[!VIDEO](https://video.tv.adobe.com/v/335751/?quality=12&learn=on)

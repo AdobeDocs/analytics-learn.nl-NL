@@ -1,14 +1,14 @@
 ---
-title: Een gegevenslaag gebruiken om analytische variabelen in te stellen in Experience Platform [!DNL tags]
-description: Leer hoe u een gegevenslaag gebruikt voor het aanschaffen van analysegegevens en andere oplossingen voor Experiencen Cloud.
+title: Gebruik een gegevenslaag om de variabelen van de Analyse in Experience Platform te plaatsen  [!DNL tags]
+description: Leer hoe u een gegevenslaag gebruikt voor het aanschaffen van analysegegevens en andere Experience Cloud-oplossingen.
 feature: Tags
 topics: Development
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 kt: 1852
 thumbnail: 25899.jpg
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: 7c9c1da81fac391f030c6a39a81d039a5b084f63
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 # Een gegevenslaag gebruiken om analytische variabelen in te stellen in Experience Platform [!DNL tags]
 
-Leer hoe u waarden uit de gegevenslaag kunt trekken en deze in het Experience Platform kunt gebruiken [!DNL tags] om variabelen te vullen in Adobe Analytics. Een gegevenslaag gebruiken voor [!DNL Analytics] en andere oplossingen voor Experiencen Cloud zijn een goede praktijk .
+Leer hoe u waarden uit de gegevenslaag kunt trekken en deze in Experience Platform [!DNL tags] kunt gebruiken om variabelen in Adobe Analytics te vullen. Het gebruik van een gegevenslaag voor [!DNL Analytics] en andere Experience Cloud-oplossingen is de beste manier.
 
-Aanvullende informatie over gegevenslagen in het dialoogvenster [Analyse](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=nl-NL) en [Experience Platform-tags](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/client-data-layer/overview.html?lang=nl-NL) documentatie.
+Herzie extra informatie over gegevenslagen in de [ Analytics ](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html) en [ de markeringen van Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/client-data-layer/overview.html) documentatie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12&learn=on)
 

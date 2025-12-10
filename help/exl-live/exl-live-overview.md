@@ -1,54 +1,54 @@
 ---
-title: LIVE-gebeurtenissen Experience League
+title: Experience League LIVE-gebeurtenissen
 description: Een verzameling koppelingen naar vorige Experience League LIVE-gebeurtenissen
 type: Event
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 3c8c6737-3c42-4c87-8850-996798ccfda6
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 4%
+source-wordcount: '190'
+ht-degree: 3%
 
 ---
 
-# Experience League LIVE
+# EXPERIENCE LEAGUE LIVE
 
 ## Doe mee voor de volgende episode!
 
-<a href="https://www.youtube.com/watch?v=rogVKsTFbWk"><img alt="Als u klikt, gaat u naar de YouTube-lobby voor Experience League Live" src="assets/1440x492.png" /></a>
+<a href="https://www.youtube.com/watch?v=rogVKsTFbWk"><img alt="als u klikt, gaat u naar de YouTube-lobby voor Experience League Live" src="assets/1440x492.png" /></a>
 
-Experience League LIVE is een live streaming show die wordt gemaakt door het team van Experiencen League.  Het is een kans om met de productdeskundigen van Adobe te verbinden en actionable uiteinden, trucs, en strategieën te leren u met de toepassingen van Adobe Experience Cloud kunt toepassen.
+Experience League LIVE is een live streaming show die wordt gemaakt door het Experience League-team.  Het is een kans om verbinding te maken met Adobe-productexperts en actiepunten, trucs en strategieën te leren die u kunt toepassen met de Adobe Experience Cloud-toepassingen.
 
 
-## Actuele Experience League LIVE-gebeurtenissen!
+## Aanstaande Experience League LIVE-gebeurtenissen!
 
 <table>
 <tr>
   <td>
       <img alt="Inhoudsservices" src="./assets/journeys.png" />
      <div>
-          <strong>Klantreizen</strong>
+          <strong> de Reizen van de Klant </strong>
      </div>
      <div>
           <em>September 2021</em>
      </div>
     <p>
-    <em>Leer van productdeskundigen over het opbouwen van ervaringen die in real-time aan klanten worden aangepast</em>
+    <em> leer van productdeskundigen over het bouwen van ervaringen die aan klanten in echt aanpassen </em>
     <p>
   </td>
   <td>
       <img alt="Inhoudsservices" src="./assets/content.png" />
      <div>
-          <strong>Content en commerce</strong>
+          <strong> Inhoud en Commerce </strong>
      <div>
           <em>Oktober 2021</em>
      </div>
      </div>
     <p>
-    <em>Leer om inhoud op schaal te creëren en te beheren en gepersonaliseerde handelservaringen te bouwen</em>
+    <em> Leer hoe te om inhoud tot stand te brengen en te beheren bij schaal en gepersonaliseerde handelservaringen te bouwen </em>
     <p>
   </td>
   <td>
@@ -57,10 +57,10 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
           <strong>Experience Platform</strong>
      </div>
      <div>
-          <em>december 2021</em>
+          <em> December 2021 </em>
      </div>    
     <p>
-    <em>Leer van productdeskundigen over het opbouwen van ervaringen die in real-time aan klanten worden aangepast</em>
+    <em> leer van productdeskundigen over het bouwen van ervaringen die aan klanten in echt aanpassen </em>
     <p>
   </td>
 </tr>
@@ -76,13 +76,13 @@ Heb je een aflevering van Experience League LIVE gemist? We vergeven je. Bekijk 
 
 <td>
     <a href="https://www.youtube.com/watch?v=lxOvLCzEGBI">
-      <img height="225" width="400" alt="Experience League LIVE" src="assets/exl-live-after2.jpg" />
+      <img height="225" width="400" alt="EXPERIENCE LEAGUE LIVE" src="assets/exl-live-after2.jpg" />
     </a>
      <div>
-          <strong>Gasten</strong> : <i>Eric Matisoff en Dasha Fitzpatrick</i>
+          <strong> Gasten </strong> : <i> Eric Matisoff en Dasha Fitzpatrick </i>
      </div>
      <div>
-          <em>29 juli 2021</em>
+          <em> 29 juli, 2021 </em>
      </div>    
     <p>
     <em></em>
@@ -93,4 +93,4 @@ Heb je een aflevering van Experience League LIVE gemist? We vergeven je. Bekijk 
 
 >[!TIP]
 >
->Ontdek gratis onze gratis leermethoden [cursussen](https://experienceleague.adobe.com/nl#dashboard/learning) en individuele [zelfstudies](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=nl-NL).
+>Voor extra methodes om te leren, controleer onze vrije [ cursussen ](https://experienceleague.adobe.com/#dashboard/learning) evenals individuele [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/home-tutorials.html).

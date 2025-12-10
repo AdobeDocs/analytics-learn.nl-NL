@@ -2,12 +2,12 @@
 title: Creeer en handhaaf een document van de Verwijzing van het Ontwerp van de Oplossing (SDR)
 description: Het document van de Verwijzing van het Ontwerp van de Oplossing (SDR) is de blauwdruk voor bedrijfsvereisten, veranderlijke taken, segmentdefinities, en het ontwerp van de gegevensinzameling voor Analytics op uw digitale eigenschappen.
 feature: Implementation Basics
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 kt: 3581
 thumbnail: 28754.jpg
 exl-id: c942e819-0763-4907-adcc-747ec753c407
-source-git-commit: 245a31092b4a9c253eadd843c7b919c4f701d449
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -20,6 +20,6 @@ Het document van de Verwijzing van het Ontwerp van de Oplossing (SDR) is de blau
 
 >[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12&learn=on)
 
-[Downloaden](assets/aa_en_BRD_SDR_template.xlsx) een sjabloon van voorbeeldExcel aan documentvereisten, variabelengebruik en toewijzing, segmenten, en het ontwerp van de gegevensinzameling voor uw digitale eigenschappen.
+[ Download ](assets/aa_en_BRD_SDR_template.xlsx) een malplaatje van steekproefExcel aan documentvereisten, variabelengebruik en taak, segmenten, en het ontwerp van de gegevensinzameling voor uw digitale eigenschappen.
 
-Bekijk de verwante video om te leren hoe u een [documentvideo over zakelijke vereisten](creating-a-business-requirements-document.md).
+Bekijk de verwante video leren hoe te om het document van het a [ bedrijfsvereisten te creëren video ](creating-a-business-requirements-document.md).

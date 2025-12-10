@@ -3,10 +3,10 @@ title: Valideer de globale regel van de paginading in Experience Platform  [!DNL
 description: Wanneer u Adobe Analytics op uw site implementeert, moet u de code onderweg valideren. Leer hoe u de algemene laadregel voor pagina's valideert met Experience Platform Debugger.
 feature: Tags
 kt: 3589
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: 57bc5a02-6b78-48e2-9b67-85b97fe52d6a
-source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
