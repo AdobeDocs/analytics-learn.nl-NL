@@ -137,7 +137,7 @@ Een andere krachtige eigenschap van werkruimten is de capaciteit om interactieve
 
 >[!IMPORTANT]
 >
->Meer lezen over het gebruiken van drop-down en vrije formuitsplitsingen zie <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
+>Meer lezen over het gebruiken van drop-down en vrije formuitsplitsingen zie <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=nl>
 
 ##### 2.1.2.2. Google Analytics: Dashboards, Aangepaste rapporten en Opgeslagen rapporten
 

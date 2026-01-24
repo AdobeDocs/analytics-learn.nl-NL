@@ -113,4 +113,4 @@ Het oprichten en onderhouden van een machtige gemeenschap is een hoop werk. Het 
 
 * Loopbaanontwikkeling - Een machtige gemeenschap verplaatst de focus van veel analistenteams van reactief en tactisch zijn naar normatief en strategisch zijn. Dit opent loopbaanontwikkelingskansen voor het team van het administratieve project van uw gemeenschap.
 
-Als je een interne Adobe Analytics-gebruikersgroep of een meer formele &#39;community&#39; hebt, of als je aan het werk bent om er een te vormen, dan horen we graag je verhaal in de [Adobe Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions)!
+Als je een interne Adobe Analytics-gebruikersgroep of een meer formele &#39;community&#39; hebt, of als je aan het werk bent om er een te vormen, dan horen we graag je verhaal in de [Adobe Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions?profile.language=nl)!
