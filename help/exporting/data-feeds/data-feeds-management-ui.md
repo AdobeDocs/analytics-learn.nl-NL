@@ -22,4 +22,4 @@ Met Adobe Analytics [!UICONTROL Data feed] kunt u onbewerkte klikstreamgegevens 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12&learn=on)
 
-Voor meer informatie over deze eigenschap, te zien gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=en#).
+Voor meer informatie over deze eigenschap, te zien gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=en#).
