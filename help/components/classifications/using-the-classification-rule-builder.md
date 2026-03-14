@@ -1,24 +1,26 @@
 ---
-title: De Classification Rule Builder in Adobe Analytics gebruiken
-description: Leer om de Bouwer van de Regel van de Classificatie te gebruiken om regel-gebaseerde classificaties in Adobe Analytics automatisch toe te passen.
+title: Using the Classification Rule Builder in Adobe Analytics
+description: Learn to use the Classification Rule Builder to automatically apply rule-based classifications in Adobe Analytics.
 feature: Classifications
 topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 1936
 role: User
 level: Beginner
+last-substantial-update: 2026-03-13T00:00:00Z
 exl-id: 066d0ebf-1921-48be-8531-bdd766330825
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: ef2db82030e0853badc174825fdafa5c261c8f5d
 workflow-type: tm+mt
-source-wordcount: '39'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
-# Met de [!UICONTROL Classification Rule Builder] in Adobe Analytics {#using-the-classification-rule-builder-in-adobe-analytics}
+# Using the [!UICONTROL Classification Rule Builder] in Adobe Analytics {#using-the-classification-rule-builder-in-adobe-analytics}
 
-Leer de [!UICONTROL Classification Rule Builder] om regel-based automatisch toe te passen [!UICONTROL classifications] in Adobe Analytics.
+>[!WARNING]
+>
+>This classification rule builder will be deprecated and no longer be accessible after February 28, 2027. Please switch to the Classification Sets rule builder functionality to ensure continued functionality.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434383?quality=12&learn=on&captions=dut)
+Learn to use the [!UICONTROL Classification Rule Builder] to automatically apply rule-based [!UICONTROL classifications] in Adobe Analytics.
+
+>[!VIDEO](https://video.tv.adobe.com/v/25884?quality=12&learn=on)
