@@ -25,4 +25,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/16853/?quality=12&learn=on)
 
-Voor meer informatie over deze eigenschap, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=en).
+Voor meer informatie over deze eigenschap, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=nl-NL).
